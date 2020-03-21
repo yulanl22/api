@@ -34,7 +34,7 @@ fetch(url, settings)
         return true;
       }
 
-      let rawdata = fs.readFileSync('data_raw.json') ;
+      let rawdata = fs.readFileSync('state_wise_raw.json') ;
 
       if (flag == 1 && IsValidJSONString(rawdata)) {
         // rewriting invalid data
