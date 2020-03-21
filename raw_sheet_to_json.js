@@ -51,6 +51,6 @@ fetch(url, settings)
       }
 
       latest =JSON.stringify(json,null,"\t");
-      fs.writeFileSync('data.json', latest);
+      fs.writeFileSync('state_wise_raw.json', latest);
       console.log("completed the op!");
     });
