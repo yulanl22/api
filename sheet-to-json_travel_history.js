@@ -10,7 +10,7 @@ const dir='./'
 const filename = '/travel_history.json'
 
 const tabs = {
-  travel_history: SHEET_STATEWISE_TAB,
+  travel_history: SHEET_TRAVEL_HISTORY,
 };
 
 async function fetchData() {
