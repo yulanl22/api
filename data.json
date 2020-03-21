@@ -471,7 +471,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "71",
+			"confirmeddelta": "73",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "March 21, 2020 at 9:15 pm",
 			"recovereddelta": "0",
@@ -480,8 +480,8 @@
 	],
 	"statewise": [
 		{
-			"active": "302",
-			"confirmed": "329",
+			"active": "304",
+			"confirmed": "331",
 			"deaths": "4",
 			"lastupdatedtime": "March 21, 2020 at 9:15 pm",
 			"recovered": "23",
@@ -616,8 +616,8 @@
 			"state": "Uttarakhand"
 		},
 		{
-			"active": "3",
-			"confirmed": "3",
+			"active": "5",
+			"confirmed": "5",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "0",
