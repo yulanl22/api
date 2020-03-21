@@ -7,7 +7,7 @@ const SHEET_STATEWISE_TAB = "ovd0hzm"
 const SHEET_CASES_TIME_SERIES_TAB = "o6emnqt"
 const SHEET_KEY_VALUES_TAB = "owlnkho"
 
-const dir='./docs'
+const dir='./'
 const filename = '/data.json'
 
 const tabs = {
