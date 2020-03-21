@@ -1,7 +1,7 @@
 {
 	"cases_time_series": [
 		{
-			"confirmeddeltayesterday": "39",
+			"confirmeddeltayesterday": "40",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -627,21 +627,21 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "39",
+			"confirmeddelta": "40",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 21, 2020 at 1:00 pm",
+			"lastupdatedtime": "March 21, 2020 at 2:06 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "270",
-			"confirmed": "297",
-			"confirmeddeltayesterday": "39",
+			"active": "271",
+			"confirmed": "298",
+			"confirmeddeltayesterday": "40",
 			"deaths": "4",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 21, 2020 at 1:00 pm",
+			"lastupdatedtime": "March 21, 2020 at 2:06 pm",
 			"recovered": "23",
 			"recovereddelta": "0",
 			"state": "Total",
@@ -684,8 +684,8 @@
 			"statesdelta": ""
 		},
 		{
-			"active": "16",
-			"confirmed": "25",
+			"active": "17",
+			"confirmed": "26",
 			"confirmeddeltayesterday": "",
 			"deaths": "0",
 			"deceaseddelta": "",
