@@ -37,6 +37,18 @@
 			"statesdelta": ""
 		},
 		{
+			"state": "Delhi",
+			"confirmed": "26",
+			"recovered": "5",
+			"deaths": "1",
+			"active": "20",
+			"lastupdatedtime": "",
+			"confirmeddeltayesterday": "",
+			"deceaseddelta": "",
+			"recovereddelta": "",
+			"statesdelta": ""
+		},
+		{
 			"state": "Uttar Pradesh",
 			"confirmed": "25",
 			"recovered": "9",
@@ -61,10 +73,10 @@
 			"statesdelta": ""
 		},
 		{
-			"state": "Delhi",
-			"confirmed": "26",
-			"recovered": "5",
-			"deaths": "1",
+			"state": "Haryana",
+			"confirmed": "20",
+			"recovered": "0",
+			"deaths": "0",
 			"active": "20",
 			"lastupdatedtime": "",
 			"confirmeddeltayesterday": "",
@@ -78,18 +90,6 @@
 			"recovered": "1",
 			"deaths": "0",
 			"active": "18",
-			"lastupdatedtime": "",
-			"confirmeddeltayesterday": "",
-			"deceaseddelta": "",
-			"recovereddelta": "",
-			"statesdelta": ""
-		},
-		{
-			"state": "Haryana",
-			"confirmed": "20",
-			"recovered": "0",
-			"deaths": "0",
-			"active": "20",
 			"lastupdatedtime": "",
 			"confirmeddeltayesterday": "",
 			"deceaseddelta": "",
