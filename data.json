@@ -471,19 +471,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "70",
+			"confirmeddelta": "71",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 21, 2020 at 8:15 pm",
+			"lastupdatedtime": "March 21, 2020 at 9:15 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "301",
-			"confirmed": "328",
+			"active": "302",
+			"confirmed": "329",
 			"deaths": "4",
-			"lastupdatedtime": "March 21, 2020 at 8:15 pm",
+			"lastupdatedtime": "March 21, 2020 at 9:15 pm",
 			"recovered": "23",
 			"state": "Total"
 		},
@@ -560,8 +560,8 @@
 			"state": "Ladakh"
 		},
 		{
-			"active": "13",
-			"confirmed": "13",
+			"active": "14",
+			"confirmed": "14",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "0",
