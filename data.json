@@ -471,19 +471,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "68",
+			"confirmeddelta": "70",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 21, 2020 at 7:37 pm",
+			"lastupdatedtime": "March 21, 2020 at 8:15 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "299",
-			"confirmed": "326",
+			"active": "301",
+			"confirmed": "328",
 			"deaths": "4",
-			"lastupdatedtime": "March 21, 2020 at 7:37 pm",
+			"lastupdatedtime": "March 21, 2020 at 8:15 pm",
 			"recovered": "23",
 			"state": "Total"
 		},
@@ -520,8 +520,8 @@
 			"state": "Uttar Pradesh"
 		},
 		{
-			"active": "20",
-			"confirmed": "23",
+			"active": "21",
+			"confirmed": "24",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "3",
@@ -624,8 +624,8 @@
 			"state": "Andhra Pradesh"
 		},
 		{
-			"active": "3",
-			"confirmed": "3",
+			"active": "4",
+			"confirmed": "4",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "0",
