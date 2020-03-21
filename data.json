@@ -1,625 +1,469 @@
 {
 	"cases_time_series": [
 		{
-			"confirmeddelta": "51",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "30 January ",
-			"deceaseddelta": "0",
-			"recovereddelta": "0",
 			"totalconfirmed": "1",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "31 January ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "1",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "01 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "1",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "02 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "2",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "03 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "04 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "05 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "06 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "07 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "08 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "09 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "10 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "11 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "12 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
 			"date": "13 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "1"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "14 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "1"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "15 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "1"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
 			"date": "16 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "2"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "17 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "2"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "18 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "2"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "19 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "2"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
 			"date": "20 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "21 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "22 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "23 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "24 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "25 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "26 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "27 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "28 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "29 February ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "01 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "2",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "02 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "5",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "03 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "6",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "22",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "04 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "28",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "2",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "05 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "30",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "06 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "31",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "3",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "07 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "34",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "5",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "08 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "39",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "9",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "09 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "48",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "15",
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
 			"date": "10 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "63",
 			"totaldeceased": "0",
 			"totalrecovered": "4"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "7",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "11 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "70",
 			"totaldeceased": "0",
 			"totalrecovered": "4"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "12",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "12 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "82",
 			"totaldeceased": "1",
 			"totalrecovered": "4"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "9",
 			"dailydeceased": "0",
 			"dailyrecovered": "6",
 			"date": "13 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "91",
 			"totaldeceased": "1",
 			"totalrecovered": "10"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "16",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "14 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "107",
 			"totaldeceased": "2",
 			"totalrecovered": "10"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "6",
 			"dailydeceased": "0",
 			"dailyrecovered": "3",
 			"date": "15 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "113",
 			"totaldeceased": "2",
 			"totalrecovered": "13"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "14",
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
 			"date": "16 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "127",
 			"totaldeceased": "2",
 			"totalrecovered": "14"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "19",
 			"dailydeceased": "1",
 			"dailyrecovered": "1",
 			"date": "17 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "146",
 			"totaldeceased": "3",
 			"totalrecovered": "15"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "25",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "18 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "171",
 			"totaldeceased": "3",
 			"totalrecovered": "15"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "28",
 			"dailydeceased": "1",
 			"dailyrecovered": "5",
 			"date": "19 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "199",
 			"totaldeceased": "4",
 			"totalrecovered": "20"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "59",
 			"dailydeceased": "0",
 			"dailyrecovered": "3",
 			"date": "20 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "258",
 			"totaldeceased": "4",
 			"totalrecovered": "23"
 		},
 		{
-			"confirmeddelta": "",
 			"dailyconfirmed": "",
 			"dailydeceased": "",
 			"dailyrecovered": "",
 			"date": "21 March ",
-			"deceaseddelta": "",
-			"recovereddelta": "",
 			"totalconfirmed": "",
 			"totaldeceased": "",
 			"totalrecovered": ""
@@ -627,469 +471,317 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "51",
+			"confirmeddelta": "52",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 21, 2020 at 5:27 pm",
+			"lastupdatedtime": "March 21, 2020 at 5:48 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "282",
-			"confirmed": "309",
-			"confirmeddelta": "51",
+			"active": "283",
+			"confirmed": "310",
 			"deaths": "4",
-			"deceaseddelta": "0",
-			"lastupdatedtime": "March 21, 2020 at 5:27 pm",
+			"lastupdatedtime": "March 21, 2020 at 5:48 pm",
 			"recovered": "23",
-			"recovereddelta": "0",
-			"state": "Total",
-			"statesdelta": "0"
+			"state": "Total"
 		},
 		{
-			"active": "62",
-			"confirmed": "63",
-			"confirmeddelta": "",
+			"active": "63",
+			"confirmed": "64",
 			"deaths": "1",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Maharashtra",
-			"statesdelta": ""
+			"state": "Maharashtra"
 		},
 		{
 			"active": "37",
 			"confirmed": "40",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "3",
-			"recovereddelta": "",
-			"state": "Kerala",
-			"statesdelta": ""
+			"state": "Kerala"
 		},
 		{
 			"active": "20",
 			"confirmed": "26",
-			"confirmeddelta": "",
 			"deaths": "1",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "5",
-			"recovereddelta": "",
-			"state": "Delhi",
-			"statesdelta": ""
+			"state": "Delhi"
 		},
 		{
 			"active": "17",
 			"confirmed": "26",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "9",
-			"recovereddelta": "",
-			"state": "Uttar Pradesh",
-			"statesdelta": ""
+			"state": "Uttar Pradesh"
 		},
 		{
 			"active": "20",
 			"confirmed": "23",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "3",
-			"recovereddelta": "",
-			"state": "Rajasthan",
-			"statesdelta": ""
+			"state": "Rajasthan"
 		},
 		{
 			"active": "20",
 			"confirmed": "20",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Haryana",
-			"statesdelta": ""
+			"state": "Haryana"
 		},
 		{
 			"active": "20",
 			"confirmed": "21",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "1",
-			"recovereddelta": "",
-			"state": "Telangana",
-			"statesdelta": ""
+			"state": "Telangana"
 		},
 		{
 			"active": "16",
 			"confirmed": "18",
-			"confirmeddelta": "",
 			"deaths": "1",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "1",
-			"recovereddelta": "",
-			"state": "Karnataka",
-			"statesdelta": ""
+			"state": "Karnataka"
 		},
 		{
 			"active": "13",
 			"confirmed": "13",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Ladakh",
-			"statesdelta": ""
+			"state": "Ladakh"
 		},
 		{
 			"active": "13",
 			"confirmed": "13",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Gujarat",
-			"statesdelta": ""
+			"state": "Gujarat"
 		},
 		{
 			"active": "11",
 			"confirmed": "12",
-			"confirmeddelta": "",
 			"deaths": "1",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Punjab",
-			"statesdelta": ""
+			"state": "Punjab"
 		},
 		{
 			"active": "5",
 			"confirmed": "5",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Chandigarh",
-			"statesdelta": ""
+			"state": "Chandigarh"
 		},
 		{
 			"active": "4",
 			"confirmed": "4",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Jammu and Kashmir",
-			"statesdelta": ""
+			"state": "Jammu and Kashmir"
 		},
 		{
 			"active": "4",
 			"confirmed": "4",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Madhya Pradesh",
-			"statesdelta": ""
+			"state": "Madhya Pradesh"
 		},
 		{
 			"active": "5",
 			"confirmed": "6",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "1",
-			"recovereddelta": "",
-			"state": "Tamil Nadu",
-			"statesdelta": ""
+			"state": "Tamil Nadu"
 		},
 		{
 			"active": "3",
 			"confirmed": "3",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Uttarakhand",
-			"statesdelta": ""
+			"state": "Uttarakhand"
 		},
 		{
 			"active": "3",
 			"confirmed": "3",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Andhra Pradesh",
-			"statesdelta": ""
+			"state": "Andhra Pradesh"
 		},
 		{
 			"active": "3",
 			"confirmed": "3",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "West Bengal",
-			"statesdelta": ""
+			"state": "West Bengal"
 		},
 		{
 			"active": "2",
 			"confirmed": "2",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Odisha",
-			"statesdelta": ""
+			"state": "Odisha"
 		},
 		{
 			"active": "2",
 			"confirmed": "2",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Himachal Pradesh",
-			"statesdelta": ""
+			"state": "Himachal Pradesh"
 		},
 		{
 			"active": "1",
 			"confirmed": "1",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Puducherry",
-			"statesdelta": ""
+			"state": "Puducherry"
 		},
 		{
 			"active": "1",
 			"confirmed": "1",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Chhattisgarh",
-			"statesdelta": ""
+			"state": "Chhattisgarh"
 		},
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Andaman and Nicobar Islands",
-			"statesdelta": ""
+			"state": "Andaman and Nicobar Islands"
 		},
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Assam",
-			"statesdelta": ""
+			"state": "Assam"
 		},
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Bihar",
-			"statesdelta": ""
+			"state": "Bihar"
 		},
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Meghalaya",
-			"statesdelta": ""
+			"state": "Meghalaya"
 		},
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Tripura",
-			"statesdelta": ""
+			"state": "Tripura"
 		},
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Goa",
-			"statesdelta": ""
+			"state": "Goa"
 		},
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Arunachal Pradesh",
-			"statesdelta": ""
+			"state": "Arunachal Pradesh"
 		},
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Jharkhand",
-			"statesdelta": ""
+			"state": "Jharkhand"
 		},
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Manipur",
-			"statesdelta": ""
+			"state": "Manipur"
 		},
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Mizoram",
-			"statesdelta": ""
+			"state": "Mizoram"
 		},
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Nagaland",
-			"statesdelta": ""
+			"state": "Nagaland"
 		},
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Sikkim",
-			"statesdelta": ""
+			"state": "Sikkim"
 		},
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Dadra and Nagar Haveli",
-			"statesdelta": ""
+			"state": "Dadra and Nagar Haveli"
 		},
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Daman and Diu",
-			"statesdelta": ""
+			"state": "Daman and Diu"
 		},
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddelta": "",
 			"deaths": "0",
-			"deceaseddelta": "",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"recovereddelta": "",
-			"state": "Lakshadweep",
-			"statesdelta": ""
+			"state": "Lakshadweep"
 		}
 	]
 }
