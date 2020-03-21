@@ -19,7 +19,7 @@ npm install drive-db
 npm install node-fetch
 
 node sheet-to-json.js
-node raw_sheet_to_json.js
+# node raw_sheet_to_json.js
 
 git add state_wise_raw.json data.json
 set +e  # Grep succeeds with nonzero exit codes to show results.
