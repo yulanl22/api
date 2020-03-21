@@ -629,7 +629,7 @@
 		{
 			"confirmeddelta": "40",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 21, 2020 at 2:06 pm",
+			"lastupdatedtime": "March 21, 2020 at 3:00 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
@@ -641,7 +641,7 @@
 			"confirmeddeltayesterday": "40",
 			"deaths": "4",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 21, 2020 at 2:06 pm",
+			"lastupdatedtime": "March 21, 2020 at 3:00 pm",
 			"recovered": "23",
 			"recovereddelta": "0",
 			"state": "Total",
