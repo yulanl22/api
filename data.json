@@ -460,10 +460,19 @@
 			"totalrecovered": "23"
 		},
 		{
+			"dailyconfirmed": "77",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "21 March ",
+			"totalconfirmed": "335",
+			"totaldeceased": "4",
+			"totalrecovered": "23"
+		},
+		{
 			"dailyconfirmed": "",
 			"dailydeceased": "",
 			"dailyrecovered": "",
-			"date": "21 March ",
+			"date": "22 March ",
 			"totalconfirmed": "",
 			"totaldeceased": "",
 			"totalrecovered": ""
@@ -471,17 +480,17 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "73",
+			"confirmeddelta": "-1",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "March 21, 2020 at 9:15 pm",
 			"recovereddelta": "0",
-			"statesdelta": "0"
+			"statesdelta": "1"
 		}
 	],
 	"statewise": [
 		{
-			"active": "304",
-			"confirmed": "331",
+			"active": "307",
+			"confirmed": "334",
 			"deaths": "4",
 			"lastupdatedtime": "March 21, 2020 at 9:15 pm",
 			"recovered": "23",
@@ -504,16 +513,16 @@
 			"state": "Kerala"
 		},
 		{
-			"active": "20",
-			"confirmed": "26",
+			"active": "21",
+			"confirmed": "27",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "5",
 			"state": "Delhi"
 		},
 		{
-			"active": "17",
-			"confirmed": "26",
+			"active": "19",
+			"confirmed": "28",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "9",
