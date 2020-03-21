@@ -627,9 +627,9 @@
 	],
 	"key_values": [
 		{
-			"confirmeddeltayesterday": "51",
+			"confirmeddelta": "51",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 21, 2020 at 5:14 pm",
+			"lastupdatedtime": "March 21, 2020 at 5:27 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
@@ -641,7 +641,7 @@
 			"confirmeddeltayesterday": "51",
 			"deaths": "4",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 21, 2020 at 5:14 pm",
+			"lastupdatedtime": "March 21, 2020 at 5:27 pm",
 			"recovered": "23",
 			"recovereddelta": "0",
 			"state": "Total",
