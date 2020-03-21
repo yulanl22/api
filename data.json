@@ -1088,7 +1088,8 @@
 			"lastupdatedtime": "March 21, 2020 at 10:24 am",
 			"confirmeddelta": "28",
 			"recovereddelta": "0",
-			"deceaseddelta": "0"
+			"deceaseddelta": "0",
+			"statesdelta": "0"
 		}
 	]
 }
