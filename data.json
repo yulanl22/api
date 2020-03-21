@@ -6,7 +6,7 @@
 			"recovered": "23",
 			"deaths": "4",
 			"active": "263",
-			"lastupdatedtime": "March 21, 2020 at 10:24 am",
+			"lastupdatedtime": "March 21, 2020 at 1:00 pm",
 			"confirmeddeltayesterday": "32",
 			"deceaseddelta": "0",
 			"recovereddelta": "0",
@@ -18,7 +18,7 @@
 			"recovered": "0",
 			"deaths": "1",
 			"active": "62",
-			"lastupdatedtime": "257",
+			"lastupdatedtime": "",
 			"confirmeddeltayesterday": "",
 			"deceaseddelta": "",
 			"recovereddelta": "",
@@ -1085,7 +1085,7 @@
 	],
 	"key_values": [
 		{
-			"lastupdatedtime": "March 21, 2020 at 10:24 am",
+			"lastupdatedtime": "March 21, 2020 at 1:00 pm",
 			"confirmeddelta": "32",
 			"recovereddelta": "0",
 			"deceaseddelta": "0",
