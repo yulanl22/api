@@ -460,13 +460,13 @@
 			"totalrecovered": "23"
 		},
 		{
-			"dailyconfirmed": "76",
-			"dailydeceased": "0",
-			"dailyrecovered": "0",
+			"dailyconfirmed": "",
+			"dailydeceased": "",
+			"dailyrecovered": "",
 			"date": "21 March ",
-			"totalconfirmed": "334",
-			"totaldeceased": "4",
-			"totalrecovered": "23"
+			"totalconfirmed": "",
+			"totaldeceased": "",
+			"totalrecovered": ""
 		},
 		{
 			"dailyconfirmed": "",
@@ -480,17 +480,17 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "0",
+			"confirmeddelta": "77",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "March 21, 2020 at 11:30 am",
 			"recovereddelta": "0",
-			"statesdelta": "1"
+			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "307",
-			"confirmed": "334",
+			"active": "308",
+			"confirmed": "335",
 			"deaths": "4",
 			"lastupdatedtime": "March 21, 2020 at 11:30 am",
 			"recovered": "23",
@@ -681,8 +681,8 @@
 			"state": "Andaman and Nicobar Islands"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "0",
