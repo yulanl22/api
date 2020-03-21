@@ -1,0 +1,580 @@
+{
+	"travel_history": [
+		{
+			"address": "Hotel Aryas, Kuthattukulam, Muvattupuzha road",
+			"latlong": "9.8614231,76.5900643",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "29/02/2020 10:30:00",
+			"timeto": "29/02/2020 11:30:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Suresh Hotel Ranni",
+			"latlong": "9.3823686,76.779199",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "01/03/2020 21:30:00",
+			"timeto": "01/03/2020 23:00:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Post Office Ranni Pazvangadi, Ranni",
+			"latlong": "9.3757533,76.7763825",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "02/03/2020 11:00:00",
+			"timeto": "02/03/2020 11:30:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Knanaya Church, Pazvangadi Ranni",
+			"latlong": "9.375753,76.7698164",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "02/03/2020 11:30:00",
+			"timeto": "02/03/2020 12:00:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Post Office Ranni Pazvangadi",
+			"latlong": "9.3757533,76.7763825",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "02/03/2020 12:00:00",
+			"timeto": "02/03/2020 13:00:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Golde Emporium, New Hypermarket",
+			"latlong": "9.385127,76.7849146",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "02/03/2020 13:15:00",
+			"timeto": "02/03/2020 14:00:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Muthoot mini supermarket, Ranni",
+			"latlong": "",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "02/03/2020 14:30:00",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Imperial Backers, Punalur",
+			"latlong": "9.0164797,76.92397",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "02/03/2020 18:00:00",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Relative house, Manjar PO, Punalur",
+			"latlong": "9.0158521,76.9097683",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "02/03/2020 19:00:00",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "SBI/SBT Ranni, Thottamon",
+			"latlong": "9.3772508,76.7756069",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "03/03/2020 12:00:00",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "SBI/SBT Ranni, Thottamon",
+			"latlong": "9.3772508,76.7756069",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "04/03/2020 10:00:00",
+			"timeto": "04/03/2020 10:30:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Supreme Travels, Ranni",
+			"latlong": "",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "04/03/2020 10:30:00",
+			"timeto": "04/03/2020 11:30:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "UAE Exchange Pathanamthitta",
+			"latlong": "9.263646,76.7829783",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "05/03/2020 11:45:00",
+			"timeto": "05/03/2020 12:15:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "SP Office, Pathanamthitta",
+			"latlong": "9.2728908,76.7892299",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "05/03/2020 12:15:00",
+			"timeto": "05/03/2020 12:45:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Royal Studio, Pathanamthitta",
+			"latlong": "9.2611563,76.7879638,18",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "05/03/2020 12:45:00",
+			"timeto": "05/03/2020 13:15:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Josco Jewellery, Pathanamthitta",
+			"latlong": "9.2661764,76.7809417",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "05/03/2020 13:15:00",
+			"timeto": "05/03/2020 14:00:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Ranni Gate Hotel, Bar",
+			"latlong": "9.386206,76.7863243",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "05/03/2020 15:00:00",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Admitted to Hospital. Probably Pathanamthita General Hospital",
+			"latlong": "",
+			"modeoftravel": "",
+			"pid": "P35",
+			"timefrom": "06/03/2020",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Kozhikode International Airport",
+			"latlong": "11.1397276,75.948596",
+			"modeoftravel": "Taxi",
+			"pid": "P139",
+			"timefrom": "13/03/2020 03:30",
+			"timeto": "13/03/2020 05:00",
+			"type": "travel"
+		},
+		{
+			"address": "Indian Coffe House, Nuts street, Adakkatheru, Vadakara",
+			"latlong": "11.6015612,75.5910405",
+			"modeoftravel": "Taxi",
+			"pid": "P139",
+			"timefrom": "13/03/2020 06:20",
+			"timeto": "13/03/2020 06:50",
+			"type": "travel"
+		},
+		{
+			"address": "General Hospital, Mahe",
+			"latlong": "11.6995079,75.5344015",
+			"modeoftravel": "Taxi",
+			"pid": "P139",
+			"timefrom": "13/03/2020 07:00",
+			"timeto": "13/03/2020 07:20",
+			"type": "travel"
+		},
+		{
+			"address": "Residence at palloor, Mahe",
+			"latlong": "11.7208115,75.5349187",
+			"modeoftravel": "Ambulance",
+			"pid": "P139",
+			"timefrom": "13/03/2020 07:30",
+			"timeto": "13/03/2020 07:30",
+			"type": "travel"
+		},
+		{
+			"address": "Beach Hospital, Corona Ward, Kozhikkode",
+			"latlong": "11.2566435,75.7685646",
+			"modeoftravel": "Autorikshaw",
+			"pid": "P139",
+			"timefrom": "13/03/2020 15:30",
+			"timeto": "13/03/2020 17:30",
+			"type": "travel"
+		},
+		{
+			"address": "Railway Station platform 4, Kozhikkode",
+			"latlong": "11.2486712,75.7781127",
+			"modeoftravel": "Mangala Express, Sleeper",
+			"pid": "P139",
+			"timefrom": "13/03/2020 17:50",
+			"timeto": "13/03/2020 18:06",
+			"type": "travel"
+		},
+		{
+			"address": "Railway Station Platform 1, Thalasserry",
+			"latlong": "11.7531875,75.4919971",
+			"modeoftravel": "Autorikshaw",
+			"pid": "P139",
+			"timefrom": "13/03/2020 19:09",
+			"timeto": "13/03/2020 19:09",
+			"type": "travel"
+		},
+		{
+			"address": "Residence at palloor, Mahe",
+			"latlong": "11.7208115,75.5349187",
+			"modeoftravel": "Ambulance",
+			"pid": "P139",
+			"timefrom": "13/03/2020 19:45",
+			"timeto": "13/03/2020 19:45",
+			"type": "travel"
+		},
+		{
+			"address": "General Hospital , Mahe",
+			"latlong": "11.6995079,75.5344015",
+			"modeoftravel": "",
+			"pid": "P139",
+			"timefrom": "13/03/2020 21:45",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Arrival at Karipur airport  ",
+			"latlong": "11.1397276,75.948596",
+			"modeoftravel": "Air India Flight No. AI 960 (Jeddah to Karipur)",
+			"pid": "P118",
+			"timefrom": "09/03/2020 08:05",
+			"timeto": "",
+			"type": "travel"
+		},
+		{
+			"address": "Travel in an autocab and stopped outside relatives house at Shappinkunu",
+			"latlong": "11.1792876,76.144535",
+			"modeoftravel": "Autocab",
+			"pid": "P118",
+			"timefrom": "09/03/2020 10:30",
+			"timeto": "",
+			"type": "travel"
+		},
+		{
+			"address": "Halt at relatives house, Mattukkulam",
+			"latlong": "",
+			"modeoftravel": "",
+			"pid": "P118",
+			"timefrom": "09/03/2020 11:00",
+			"timeto": "09/03/2020 11:25",
+			"type": "PlaceVisit"
+		},
+		{
+			"address": "Travel and halt at relatives house at Santhinagar, Vaniyambalam",
+			"latlong": "11.1878099,76.2580323",
+			"modeoftravel": "",
+			"pid": "P118",
+			"timefrom": "09/03/2020 12:00",
+			"timeto": "09/03/2020 12:30",
+			"type": "travel"
+		},
+		{
+			"address": "Continued travel and reached home Santhinagar, Vaniyambalam",
+			"latlong": "11.1878099,76.2580323",
+			"modeoftravel": "",
+			"pid": "P118",
+			"timefrom": "09/03/2020 12:30",
+			"timeto": "09/03/2020 13:00",
+			"type": "travel"
+		},
+		{
+			"address": "Private Medicals near Shanthi Medicals,  Wandoor",
+			"latlong": "11.192934,76.2251387",
+			"modeoftravel": "",
+			"pid": "P118",
+			"timefrom": "09/03/2020 18:20",
+			"timeto": "09/03/2020 18:30",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Nebulised at Micromax Private Lab Wandoor",
+			"latlong": "",
+			"modeoftravel": "",
+			"pid": "P118",
+			"timefrom": "09/03/2020 18:30",
+			"timeto": "09/03/2020 18:45",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Nebulised at Micromax Private Lab Wandoor (2nd time)",
+			"latlong": "",
+			"modeoftravel": "",
+			"pid": "P118",
+			"timefrom": "10/03/2020 08:00",
+			"timeto": "10/03/2020 08:30",
+			"type": "placeVisit"
+		},
+		{
+			"address": "VMB clinic Vaniyambalam",
+			"latlong": "11.1878099,76.2580323",
+			"modeoftravel": "",
+			"pid": "P118",
+			"timefrom": "10/03/2020 12:30",
+			"timeto": "10/03/2020 12:40",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Stayed at home Santhinagar, Vaniyambalam",
+			"latlong": "11.1878099,76.2580323",
+			"modeoftravel": "",
+			"pid": "P118",
+			"timefrom": "10/03/2020 13:00",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Tavel to Talook Hospital Wandoor for consultation",
+			"latlong": "11.192934,76.2251387",
+			"modeoftravel": "",
+			"pid": "P118",
+			"timefrom": "11/03/2020 18:30",
+			"timeto": "",
+			"type": "travel"
+		},
+		{
+			"address": "Traveled back home",
+			"latlong": "11.1878099,76.2580323",
+			"modeoftravel": "",
+			"pid": "P118",
+			"timefrom": "10/03/2020 19:30",
+			"timeto": "",
+			"type": "travel"
+		},
+		{
+			"address": "Stayed at home Santhinagar, Vaniyambalam",
+			"latlong": "11.1878099,76.2580323",
+			"modeoftravel": "",
+			"pid": "P118",
+			"timefrom": "12/03/2020",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Consultation at THQ Hospital Wandoor",
+			"latlong": "11.192934,76.2251387",
+			"modeoftravel": "",
+			"pid": "P118",
+			"timefrom": "13/03/2020 16:30",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Reached home",
+			"latlong": "11.1878099,76.2580323",
+			"modeoftravel": "",
+			"pid": "P118",
+			"timefrom": "13/03/2020 19:30",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Admitted at Government Medical College, Manjeri",
+			"latlong": "11.1177955,76.1199936",
+			"modeoftravel": "",
+			"pid": "P118",
+			"timefrom": "13/03/2020 20:00",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Flight; USA to Bengaluru via Heathrow, London",
+			"latlong": "13.1986348,77.7044041",
+			"modeoftravel": "",
+			"pid": "P43",
+			"timefrom": "06/03/2020",
+			"timeto": "08/03/2020 04:30",
+			"type": "travel"
+		},
+		{
+			"address": "Bengaluru Airport to Residence",
+			"latlong": "",
+			"modeoftravel": "",
+			"pid": "P43",
+			"timefrom": "08/03/2020 04:30",
+			"timeto": "08/03/2020 06:15",
+			"type": "placeVisit"
+		},
+		{
+			"address": "RGICD Visit to provide test samples",
+			"latlong": "12.938365,77.5885142",
+			"modeoftravel": "",
+			"pid": "P43",
+			"timefrom": "08/03/2020 14:30",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Quarantined at Home",
+			"latlong": "",
+			"modeoftravel": "",
+			"pid": "P43",
+			"timefrom": "08/03/2020 16:00",
+			"timeto": "09/03/2020 20:30",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Taken in ambulance to RGICD",
+			"latlong": "12.938365,77.5885142",
+			"modeoftravel": "",
+			"pid": "P43",
+			"timefrom": "09/02/2020 20:30",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Travel from Austin, TX to New York (JFK)",
+			"latlong": "40.6413111,-73.7803278",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "28/02/2020 12:30",
+			"timeto": "28/02/2020 16:11",
+			"type": "travel"
+		},
+		{
+			"address": "JFK Airport, New York",
+			"latlong": "40.6413111,-73.7803278",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "28/02/2020 16:11",
+			"timeto": "28/02/2020 23:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Travel from New York to Dubai",
+			"latlong": "25.2531745,55.3634841",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "28/02/2020 23:00",
+			"timeto": "29/02/2020 20:25",
+			"type": "travel"
+		},
+		{
+			"address": "Dubai Airport",
+			"latlong": "25.2531745,55.3634841",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "29/02/2020 20:25",
+			"timeto": "01/03/2020 03:40",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Travel from Dubai to Bengaluru",
+			"latlong": "13.1986348,77.7044041",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "01/03/2020 03:40",
+			"timeto": "01/03/2020 08:50",
+			"type": "travel"
+		},
+		{
+			"address": "Travel from Bengaluru Airport to Residence",
+			"latlong": "12.9645669,77.7190231",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "01/03/2020 09:30",
+			"timeto": "01/03/2020 11:00",
+			"type": "travel"
+		},
+		{
+			"address": "Lunch at Paradise Biriyani Restaurant",
+			"latlong": "12.9572489,77.7428406",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "01/03/2020 14:00",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Shopping at Loyal City Supermarket",
+			"latlong": "12.9838874,77.7418193",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "02/03/2020 14:00",
+			"timeto": "02/03/2020 15:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Office - Dell, Divyasree Greens",
+			"latlong": "12.9527286,77.6392458",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "02/03/2020 16:00",
+			"timeto": "02/03/2020 22:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Cinema, Forum Value Mall",
+			"latlong": "12.959711,77.7461103",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "03/03/2020 10:00",
+			"timeto": "",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Office - Dell, Divyasree Greens",
+			"latlong": "12.9527286,77.6392458",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "03/03/2020 14:00",
+			"timeto": "03/03/2020 22:30",
+			"type": "placeVisit"
+		},
+		{
+			"address": "RXDX Clinic for Checkup; Referred then to Manipal Hospital",
+			"latlong": "12.9768569,77.7081903",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "05/03/2020 10:30",
+			"timeto": "05/03/2020 14:50",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Home",
+			"latlong": "12.9645669,77.7190231",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "05/03/2020 15:30",
+			"timeto": "08/03/2020 14:30",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Mediwave Medical Store and Loyal City Supermarket",
+			"latlong": "12.9838874,77.7418193",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "08/03/2020 14:30",
+			"timeto": "08/03/2020 15:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Home",
+			"latlong": "12.9645669,77.7190231",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "08/03/2020 15:00",
+			"timeto": "08/03/2020 20:00",
+			"type": "placeVisit"
+		},
+		{
+			"address": "Admitted to RGICD",
+			"latlong": "12.938365,77.5885142",
+			"modeoftravel": "",
+			"pid": "P51",
+			"timefrom": "08/03/2020 20:00",
+			"timeto": "",
+			"type": "placeVisit"
+		}
+	]
+}
