@@ -1,7 +1,7 @@
 {
 	"cases_time_series": [
 		{
-			"confirmeddeltayesterday": "51",
+			"confirmeddelta": "51",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -13,7 +13,7 @@
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -25,7 +25,7 @@
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -37,7 +37,7 @@
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -49,7 +49,7 @@
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -61,7 +61,7 @@
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -73,7 +73,7 @@
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -85,7 +85,7 @@
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -97,7 +97,7 @@
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -109,7 +109,7 @@
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -121,7 +121,7 @@
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -133,7 +133,7 @@
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -145,7 +145,7 @@
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -157,7 +157,7 @@
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -169,7 +169,7 @@
 			"totalrecovered": "0"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
@@ -181,7 +181,7 @@
 			"totalrecovered": "1"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -193,7 +193,7 @@
 			"totalrecovered": "1"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -205,7 +205,7 @@
 			"totalrecovered": "1"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
@@ -217,7 +217,7 @@
 			"totalrecovered": "2"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -229,7 +229,7 @@
 			"totalrecovered": "2"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -241,7 +241,7 @@
 			"totalrecovered": "2"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -253,7 +253,7 @@
 			"totalrecovered": "2"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
@@ -265,7 +265,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -277,7 +277,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -289,7 +289,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -301,7 +301,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -313,7 +313,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -325,7 +325,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -337,7 +337,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -349,7 +349,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -361,7 +361,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -373,7 +373,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -385,7 +385,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "2",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -397,7 +397,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -409,7 +409,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "22",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -421,7 +421,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "2",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -433,7 +433,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -445,7 +445,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "3",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -457,7 +457,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "5",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -469,7 +469,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "9",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -481,7 +481,7 @@
 			"totalrecovered": "3"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "15",
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
@@ -493,7 +493,7 @@
 			"totalrecovered": "4"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "7",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -505,7 +505,7 @@
 			"totalrecovered": "4"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "12",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
@@ -517,7 +517,7 @@
 			"totalrecovered": "4"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "9",
 			"dailydeceased": "0",
 			"dailyrecovered": "6",
@@ -529,7 +529,7 @@
 			"totalrecovered": "10"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "16",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
@@ -541,7 +541,7 @@
 			"totalrecovered": "10"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "6",
 			"dailydeceased": "0",
 			"dailyrecovered": "3",
@@ -553,7 +553,7 @@
 			"totalrecovered": "13"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "14",
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
@@ -565,7 +565,7 @@
 			"totalrecovered": "14"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "19",
 			"dailydeceased": "1",
 			"dailyrecovered": "1",
@@ -577,7 +577,7 @@
 			"totalrecovered": "15"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "25",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -589,7 +589,7 @@
 			"totalrecovered": "15"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "28",
 			"dailydeceased": "1",
 			"dailyrecovered": "5",
@@ -601,7 +601,7 @@
 			"totalrecovered": "20"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "59",
 			"dailydeceased": "0",
 			"dailyrecovered": "3",
@@ -613,7 +613,7 @@
 			"totalrecovered": "23"
 		},
 		{
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"dailyconfirmed": "",
 			"dailydeceased": "",
 			"dailyrecovered": "",
@@ -638,7 +638,7 @@
 		{
 			"active": "282",
 			"confirmed": "309",
-			"confirmeddeltayesterday": "51",
+			"confirmeddelta": "51",
 			"deaths": "4",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "March 21, 2020 at 5:27 pm",
@@ -650,7 +650,7 @@
 		{
 			"active": "62",
 			"confirmed": "63",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "1",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -662,7 +662,7 @@
 		{
 			"active": "37",
 			"confirmed": "40",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -674,7 +674,7 @@
 		{
 			"active": "20",
 			"confirmed": "26",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "1",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -686,7 +686,7 @@
 		{
 			"active": "17",
 			"confirmed": "26",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -698,7 +698,7 @@
 		{
 			"active": "20",
 			"confirmed": "23",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -710,7 +710,7 @@
 		{
 			"active": "20",
 			"confirmed": "20",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -722,7 +722,7 @@
 		{
 			"active": "20",
 			"confirmed": "21",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -734,7 +734,7 @@
 		{
 			"active": "16",
 			"confirmed": "18",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "1",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -746,7 +746,7 @@
 		{
 			"active": "13",
 			"confirmed": "13",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -758,7 +758,7 @@
 		{
 			"active": "13",
 			"confirmed": "13",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -770,7 +770,7 @@
 		{
 			"active": "11",
 			"confirmed": "12",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "1",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -782,7 +782,7 @@
 		{
 			"active": "5",
 			"confirmed": "5",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -794,7 +794,7 @@
 		{
 			"active": "4",
 			"confirmed": "4",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -806,7 +806,7 @@
 		{
 			"active": "4",
 			"confirmed": "4",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -818,7 +818,7 @@
 		{
 			"active": "5",
 			"confirmed": "6",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -830,7 +830,7 @@
 		{
 			"active": "3",
 			"confirmed": "3",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -842,7 +842,7 @@
 		{
 			"active": "3",
 			"confirmed": "3",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -854,7 +854,7 @@
 		{
 			"active": "3",
 			"confirmed": "3",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -866,7 +866,7 @@
 		{
 			"active": "2",
 			"confirmed": "2",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -878,7 +878,7 @@
 		{
 			"active": "2",
 			"confirmed": "2",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -890,7 +890,7 @@
 		{
 			"active": "1",
 			"confirmed": "1",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -902,7 +902,7 @@
 		{
 			"active": "1",
 			"confirmed": "1",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -914,7 +914,7 @@
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -926,7 +926,7 @@
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -938,7 +938,7 @@
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -950,7 +950,7 @@
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -962,7 +962,7 @@
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -974,7 +974,7 @@
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -986,7 +986,7 @@
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -998,7 +998,7 @@
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -1010,7 +1010,7 @@
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -1022,7 +1022,7 @@
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -1034,7 +1034,7 @@
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -1046,7 +1046,7 @@
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -1058,7 +1058,7 @@
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -1070,7 +1070,7 @@
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
@@ -1082,7 +1082,7 @@
 		{
 			"active": "0",
 			"confirmed": "0",
-			"confirmeddeltayesterday": "",
+			"confirmeddelta": "",
 			"deaths": "0",
 			"deceaseddelta": "",
 			"lastupdatedtime": "",
