@@ -2,12 +2,12 @@
 	"statewise": [
 		{
 			"state": "Total",
-			"confirmed": "287",
+			"confirmed": "290",
 			"recovered": "23",
 			"deaths": "4",
-			"active": "260",
+			"active": "263",
 			"lastupdatedtime": "March 21, 2020 at 10:24 am",
-			"confirmeddeltayesterday": "29",
+			"confirmeddeltayesterday": "32",
 			"deceaseddelta": "0",
 			"recovereddelta": "0",
 			"statesdelta": "0"
@@ -110,10 +110,10 @@
 		},
 		{
 			"state": "Ladakh",
-			"confirmed": "10",
+			"confirmed": "13",
 			"recovered": "0",
 			"deaths": "0",
-			"active": "10",
+			"active": "13",
 			"lastupdatedtime": "",
 			"confirmeddeltayesterday": "",
 			"deceaseddelta": "",
@@ -466,7 +466,7 @@
 			"totalrecovered": "0",
 			"dailydeceased": "0",
 			"totaldeceased": "0",
-			"confirmeddeltayesterday": "29",
+			"confirmeddeltayesterday": "32",
 			"recovereddelta": "0",
 			"deceaseddelta": "0"
 		},
@@ -1086,7 +1086,7 @@
 	"key_values": [
 		{
 			"lastupdatedtime": "March 21, 2020 at 10:24 am",
-			"confirmeddelta": "29",
+			"confirmeddelta": "32",
 			"recovereddelta": "0",
 			"deceaseddelta": "0",
 			"statesdelta": "0"
