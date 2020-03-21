@@ -471,19 +471,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "52",
+			"confirmeddelta": "53",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 21, 2020 at 5:48 pm",
+			"lastupdatedtime": "March 21, 2020 at 6:11 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "283",
-			"confirmed": "310",
+			"active": "284",
+			"confirmed": "311",
 			"deaths": "4",
-			"lastupdatedtime": "March 21, 2020 at 5:48 pm",
+			"lastupdatedtime": "March 21, 2020 at 6:11 pm",
 			"recovered": "23",
 			"state": "Total"
 		},
@@ -568,8 +568,8 @@
 			"state": "Gujarat"
 		},
 		{
-			"active": "11",
-			"confirmed": "12",
+			"active": "12",
+			"confirmed": "13",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
