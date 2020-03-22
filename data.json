@@ -469,19 +469,19 @@
 			"totalrecovered": "23"
 		},
 		{
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
+			"dailyconfirmed": "67",
+			"dailydeceased": "3",
+			"dailyrecovered": "0",
 			"date": "22 March ",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
+			"totalconfirmed": "401",
+			"totaldeceased": "7",
+			"totalrecovered": "23"
 		}
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "67",
-			"deceaseddelta": "3",
+			"confirmeddelta": "0",
+			"deceaseddelta": "0",
 			"lastupdatedtime": "March 23, 2020 at 12:19 am",
 			"recovereddelta": "0",
 			"statesdelta": "0"
