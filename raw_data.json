@@ -5815,7 +5815,7 @@
 			"notes": "Details awaited",
 			"patientnumber": "291",
 			"source1": "https://twitter.com/ANI/status/1241292573584441345",
-			"source2": "",
+			"source2": "https://www.thehindu.com/news/national/coronavirus-jump-in-covid-19-cases-in-gujarat/article31130224.ece",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "21/03/2020"
@@ -5835,7 +5835,7 @@
 			"notes": "Details awaited",
 			"patientnumber": "292",
 			"source1": "https://twitter.com/ANI/status/1241292573584441345",
-			"source2": "",
+			"source2": "https://www.thehindu.com/news/national/coronavirus-jump-in-covid-19-cases-in-gujarat/article31130224.ece",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "21/03/2020"
@@ -5855,7 +5855,7 @@
 			"notes": "Details awaited",
 			"patientnumber": "293",
 			"source1": "https://twitter.com/ANI/status/1241292573584441345",
-			"source2": "",
+			"source2": "https://www.thehindu.com/news/national/coronavirus-jump-in-covid-19-cases-in-gujarat/article31130224.ece",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "22/03/2020"
@@ -5875,7 +5875,7 @@
 			"notes": "Details awaited",
 			"patientnumber": "294",
 			"source1": "https://twitter.com/ANI/status/1241292573584441345",
-			"source2": "",
+			"source2": "https://www.thehindu.com/news/national/coronavirus-jump-in-covid-19-cases-in-gujarat/article31130224.ece",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "21/03/2020"
@@ -5895,7 +5895,7 @@
 			"notes": "Details awaited",
 			"patientnumber": "295",
 			"source1": "https://twitter.com/ANI/status/1241292573584441345",
-			"source2": "",
+			"source2": "https://www.thehindu.com/news/national/coronavirus-jump-in-covid-19-cases-in-gujarat/article31130224.ece",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "21/03/2020"
@@ -6721,7 +6721,7 @@
 			"statuschangedate": "22/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "32",
 			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -6730,9 +6730,9 @@
 			"detecteddistrict": "",
 			"detectedstate": "Maharashtra",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Travelled from USA",
 			"patientnumber": "337",
 			"source1": "https://twitter.com/PTI_News/status/1241595506037415936",
 			"source2": "",
@@ -6741,7 +6741,7 @@
 			"statuschangedate": "22/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "30",
 			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -6750,9 +6750,9 @@
 			"detecteddistrict": "",
 			"detectedstate": "Maharashtra",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Travelled from USA",
 			"patientnumber": "338",
 			"source1": "https://twitter.com/PTI_News/status/1241595506037415936",
 			"source2": "",
@@ -6761,7 +6761,7 @@
 			"statuschangedate": "22/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "21",
 			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -6770,9 +6770,9 @@
 			"detecteddistrict": "",
 			"detectedstate": "Maharashtra",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Travelled from Edenburg, South Africa",
 			"patientnumber": "339",
 			"source1": "https://twitter.com/PTI_News/status/1241595506037415936",
 			"source2": "",
@@ -6781,7 +6781,7 @@
 			"statuschangedate": "22/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "60",
 			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -6790,9 +6790,9 @@
 			"detecteddistrict": "",
 			"detectedstate": "Maharashtra",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Travelled from Saudi Arabia",
 			"patientnumber": "340",
 			"source1": "https://twitter.com/PTI_News/status/1241595506037415936",
 			"source2": "",
@@ -6801,7 +6801,7 @@
 			"statuschangedate": "22/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "64",
 			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -6810,9 +6810,9 @@
 			"detecteddistrict": "",
 			"detectedstate": "Maharashtra",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Contact ",
 			"patientnumber": "341",
 			"source1": "https://twitter.com/PTI_News/status/1241595506037415936",
 			"source2": "",
@@ -6821,7 +6821,7 @@
 			"statuschangedate": "22/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "35",
 			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -6830,9 +6830,9 @@
 			"detecteddistrict": "",
 			"detectedstate": "Maharashtra",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Travelled from Istanbul, Turkey",
 			"patientnumber": "342",
 			"source1": "https://twitter.com/PTI_News/status/1241595506037415936",
 			"source2": "",
@@ -7215,7 +7215,7 @@
 			"notes": "",
 			"patientnumber": "361",
 			"source1": "https://twitter.com/ANI/status/1241641572162101249",
-			"source2": "https://www.hindustantimes.com/india-news/coronavirus-7-more-test-positive-for-covid-19-in-sbs-nagar-punjab-toll-touches-21/story-g5yplHLS1Eadb3CcnM9MwJ.html",
+			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "22/03/2020"
@@ -7223,11 +7223,11 @@
 		{
 			"agebracket": "",
 			"backupnotes": "Details awaited",
-			"contractedfromwhichpatientsuspected": "P182",
+			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "Shaheed Bhagat Singh Nagar",
+			"detecteddistrict": "",
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
 			"gender": "",
