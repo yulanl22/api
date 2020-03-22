@@ -6577,21 +6577,21 @@
 		{
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
-			"detectedcity": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "22/03/2020",
+			"detectedcity": "Chennai",
 			"detecteddistrict": "",
-			"detectedstate": "",
+			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Traveller from Spain",
 			"patientnumber": "347",
-			"source1": "",
+			"source1": "https://twitter.com/Vijayabaskarofl/status/1241609304127336449",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "22/03/2020"
 		},
 		{
 			"agebracket": "",
