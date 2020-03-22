@@ -17,7 +17,8 @@
 			"source2": "https://weather.com/en-IN/india/news/news/2020-02-14-kerala-defeats-coronavirus-indias-three-covid-19-patients-successfully",
 			"source3": "",
 			"statepatientnumber": "KL-TS-P1",
-			"statuschangedate": "14/02/2020"
+			"statuschangedate": "14/02/2020",
+			"travelledfrom": "Wuhan"
 		},
 		{
 			"agebracket": "",
@@ -36,7 +37,8 @@
 			"source2": "https://weather.com/en-IN/india/news/news/2020-02-14-kerala-defeats-coronavirus-indias-three-covid-19-patients-successfully",
 			"source3": "",
 			"statepatientnumber": "KL-AL-P1",
-			"statuschangedate": "14/02/2020"
+			"statuschangedate": "14/02/2020",
+			"travelledfrom": "Wuhan"
 		},
 		{
 			"agebracket": "",
@@ -55,7 +57,8 @@
 			"source2": "https://twitter.com/ANI/status/1224221485805395968?s=20",
 			"source3": "https://weather.com/en-IN/india/news/news/2020-02-14-kerala-defeats-coronavirus-indias-three-covid-19-patients-successfully",
 			"statepatientnumber": "KL-KS-P1",
-			"statuschangedate": "14/02/2020"
+			"statuschangedate": "14/02/2020",
+			"travelledfrom": "Wuhan"
 		},
 		{
 			"agebracket": "45",
@@ -74,7 +77,8 @@
 			"source2": "https://economictimes.indiatimes.com/news/politics-and-nation/coronavirus-cases-in-india-live-news-latest-updates-mar2/liveblog/74432375.cms",
 			"source3": "",
 			"statepatientnumber": "DL-P1",
-			"statuschangedate": "15/03/2020"
+			"statuschangedate": "15/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -93,7 +97,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "TS-P1",
-			"statuschangedate": "02/03/2020"
+			"statuschangedate": "02/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "69",
@@ -112,7 +117,8 @@
 			"source2": "https://economictimes.indiatimes.com/news/politics-and-nation/all-3-old-corona-positive-patients-cured-one-new-virus-hit-man-undergoing-treatment-official/articleshow/74638120.cms?from=mdr",
 			"source3": "https://twitter.com/PTI_News/status/1240878975846506496",
 			"statepatientnumber": "",
-			"statuschangedate": "03/03/2020"
+			"statuschangedate": "03/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "55",
@@ -131,7 +137,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "55",
@@ -150,7 +157,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "55",
@@ -169,7 +177,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "55",
@@ -188,7 +197,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "55",
@@ -207,7 +217,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "55",
@@ -226,7 +237,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "55",
@@ -245,7 +257,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "55",
@@ -264,7 +277,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "55",
@@ -283,7 +297,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "55",
@@ -302,7 +317,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "55",
@@ -321,7 +337,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "55",
@@ -340,7 +357,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "55",
@@ -359,7 +377,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "55",
@@ -378,7 +397,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "70",
@@ -397,7 +417,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "https://economictimes.indiatimes.com/news/politics-and-nation/all-3-old-corona-positive-patients-cured-one-new-virus-hit-man-undergoing-treatment-official/articleshow/74638120.cms?from=mdr",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -416,7 +437,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -435,7 +457,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -454,7 +477,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -473,7 +497,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -492,7 +517,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -511,7 +537,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -530,7 +557,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "04/03/2020"
+			"statuschangedate": "04/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "27",
@@ -549,7 +577,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "DL-P2",
-			"statuschangedate": "05/03/2020"
+			"statuschangedate": "05/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "59",
@@ -568,7 +597,8 @@
 			"source2": "https://www.indiatoday.in/india/story/delhi-positive-coronavirus-number-cases-rise-india-news-update-1653008-2020-03-06",
 			"source3": "https://timesofindia.indiatimes.com/city/mumbai/coronavirus-in-india-live-updates-march-18-2020/liveblog/74683100.cms",
 			"statepatientnumber": "",
-			"statuschangedate": "05/03/2020"
+			"statuschangedate": "05/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -587,7 +617,8 @@
 			"source2": "https://www.indiatoday.in/india/story/delhi-positive-coronavirus-number-cases-rise-india-news-update-1653008-2020-03-06",
 			"source3": "http://health.delhigovt.nic.in/wps/wcm/connect/d9bd65804d9102c6a3baf7982ee7a5c7/HB15.pdf?MOD=AJPERES&lmod=-506630906&CACHEID=d9bd65804d9102c6a3baf7982ee7a5c7",
 			"statepatientnumber": "DL-P3",
-			"statuschangedate": "15/03/2020"
+			"statuschangedate": "15/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "65",
@@ -606,7 +637,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "07/03/2020"
+			"statuschangedate": "07/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "75",
@@ -625,7 +657,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "07/03/2020"
+			"statuschangedate": "07/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "45",
@@ -644,7 +677,8 @@
 			"source2": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadus-lone-covid-19-patient-recovers-to-be-discharged-from-chennai-hospital-on-monday/articleshow/74639130.cms",
 			"source3": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"statepatientnumber": "",
-			"statuschangedate": "07/03/2020"
+			"statuschangedate": "07/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "24",
@@ -663,7 +697,8 @@
 			"source2": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiq4ZOK7aHoAhWWH7cAHXyvBxgQFjAAegQIBhAB&url=https%3A%2F%2Fm.economictimes.com%2Fnews%2Fpolitics-and-nation%2Ffive-more-people-from-kerala-test-positive-for-coronavirus%2Farticleshow%2F74534888.cms&usg=AOvVaw0zADrc8fBj8SsZDqkG3Cwb",
 			"source3": "",
 			"statepatientnumber": "KL-PT-P1",
-			"statuschangedate": "08/03/2020"
+			"statuschangedate": "08/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "54",
@@ -682,7 +717,8 @@
 			"source2": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiq4ZOK7aHoAhWWH7cAHXyvBxgQFjAAegQIBhAB&url=https%3A%2F%2Fm.economictimes.com%2Fnews%2Fpolitics-and-nation%2Ffive-more-people-from-kerala-test-positive-for-coronavirus%2Farticleshow%2F74534888.cms&usg=AOvVaw0zADrc8fBj8SsZDqkG3Cwb",
 			"source3": "",
 			"statepatientnumber": "KL-PT-P1",
-			"statuschangedate": "08/03/2020"
+			"statuschangedate": "08/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "53",
@@ -701,7 +737,8 @@
 			"source2": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiq4ZOK7aHoAhWWH7cAHXyvBxgQFjAAegQIBhAB&url=https%3A%2F%2Fm.economictimes.com%2Fnews%2Fpolitics-and-nation%2Ffive-more-people-from-kerala-test-positive-for-coronavirus%2Farticleshow%2F74534888.cms&usg=AOvVaw0zADrc8fBj8SsZDqkG3Cwb",
 			"source3": "",
 			"statepatientnumber": "KL-P1-P1",
-			"statuschangedate": "08/03/2020"
+			"statuschangedate": "08/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "65",
@@ -720,7 +757,8 @@
 			"source2": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiq4ZOK7aHoAhWWH7cAHXyvBxgQFjAAegQIBhAB&url=https%3A%2F%2Fm.economictimes.com%2Fnews%2Fpolitics-and-nation%2Ffive-more-people-from-kerala-test-positive-for-coronavirus%2Farticleshow%2F74534888.cms&usg=AOvVaw0zADrc8fBj8SsZDqkG3Cwb",
 			"source3": "",
 			"statepatientnumber": "KL-PT-P2",
-			"statuschangedate": "08/03/2020"
+			"statuschangedate": "08/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "61",
@@ -739,7 +777,8 @@
 			"source2": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiq4ZOK7aHoAhWWH7cAHXyvBxgQFjAAegQIBhAB&url=https%3A%2F%2Fm.economictimes.com%2Fnews%2Fpolitics-and-nation%2Ffive-more-people-from-kerala-test-positive-for-coronavirus%2Farticleshow%2F74534888.cms&usg=AOvVaw0zADrc8fBj8SsZDqkG3Cwb",
 			"source3": "",
 			"statepatientnumber": "KL-PT-P2",
-			"statuschangedate": "08/03/2020"
+			"statuschangedate": "08/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "25",
@@ -758,7 +797,8 @@
 			"source2": "http://health.delhigovt.nic.in/wps/wcm/connect/665cd7804d7b94b18194f7982ee7a5c7/HB07.pdf?MOD=AJPERES&lmod=-1110807331&CACHEID=665cd7804d7b94b18194f7982ee7a5c7",
 			"source3": "https://www.hindustantimes.com/cities/two-more-delhi-residents-test-positive-for-covid-19-total-now-10/story-eZf1cfA2jqI6n7owy6xPXJ.html",
 			"statepatientnumber": "DL-P4",
-			"statuschangedate": "09/03/2020"
+			"statuschangedate": "09/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "63",
@@ -777,7 +817,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "09/03/2020"
+			"statuschangedate": "09/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -796,7 +837,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P1",
-			"statuschangedate": "09/03/2020"
+			"statuschangedate": "09/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "3",
@@ -815,7 +857,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KL-KN-1",
-			"statuschangedate": "09/03/2020"
+			"statuschangedate": "09/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -834,7 +877,8 @@
 			"source2": "https://www.firstpost.com/health/coronavirus-outbreak-latest-updates-covid-19-india-alert-novel-coronavirus-holi-2020-latest-news-today-8115121.html",
 			"source3": "https://www.thehindu.com/news/national/coronavirus-live-updates-march-9-2020/article31020875.ece",
 			"statepatientnumber": "",
-			"statuschangedate": "09/03/2020"
+			"statuschangedate": "09/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -853,7 +897,8 @@
 			"source2": "https://www.firstpost.com/health/coronavirus-outbreak-latest-updates-covid-19-india-alert-novel-coronavirus-holi-2020-latest-news-today-8115121.html",
 			"source3": "https://www.thehindu.com/news/national/coronavirus-live-updates-march-9-2020/article31020875.ece",
 			"statepatientnumber": "",
-			"statuschangedate": "09/03/2020"
+			"statuschangedate": "09/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -872,7 +917,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "PJ-P1",
-			"statuschangedate": "09/03/2020"
+			"statuschangedate": "09/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "48",
@@ -891,7 +937,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "09/03/2020"
+			"statuschangedate": "09/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -910,7 +957,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "09/03/2020"
+			"statuschangedate": "09/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -929,7 +977,8 @@
 			"source2": "https://english.manoramaonline.com/news/kerala/2020/03/10/coronavirus-holiday-for-upto-class-7-kerala.html",
 			"source3": "https://www.thehindu.com/news/national/kerala/coronavirus-five-more-people-from-kerala-test-positive-for-covid-19/article31014406.ece",
 			"statepatientnumber": "KL-PT-P3",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "10/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -948,7 +997,8 @@
 			"source2": "https://english.manoramaonline.com/news/kerala/2020/03/10/coronavirus-holiday-for-upto-class-7-kerala.html",
 			"source3": "https://www.thehindu.com/news/national/kerala/coronavirus-five-more-people-from-kerala-test-positive-for-covid-19/article31014406.ece",
 			"statepatientnumber": "KL-PT-P4",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "10/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "40",
@@ -967,7 +1017,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P2",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "10/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -986,7 +1037,8 @@
 			"source2": "https://www.newindianexpress.com/states/karnataka/2020/mar/20/coronavirus-two-patients-recover-to-be-discharged-on-friday-2119125.html",
 			"source3": "",
 			"statepatientnumber": "KA-P3",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "13",
@@ -1005,7 +1057,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P4",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "10/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1024,7 +1077,8 @@
 			"source2": "https://english.manoramaonline.com/news/kerala/2020/03/10/coronavirus-holiday-for-upto-class-7-kerala.html",
 			"source3": "",
 			"statepatientnumber": "KL-EL-P1",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "10/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1043,7 +1097,8 @@
 			"source2": "https://english.manoramaonline.com/news/kerala/2020/03/10/coronavirus-holiday-for-upto-class-7-kerala.html",
 			"source3": "",
 			"statepatientnumber": "KL-EL-P2",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "10/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "96",
@@ -1062,7 +1117,8 @@
 			"source2": "https://timesofindia.indiatimes.com/videos/city/kochi/kerala-corona-scare-2-patients-admitted-in-kottayam-hospital-critical/videoshow/74573426.cms",
 			"source3": "https://english.manoramaonline.com/news/kerala/2020/03/13/covid-19-coronavirus-chengalam-kottayam-neighbour-dies.html",
 			"statepatientnumber": "KL-PT-P5",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "10/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "89",
@@ -1081,7 +1137,8 @@
 			"source2": "https://timesofindia.indiatimes.com/videos/city/kochi/kerala-corona-scare-2-patients-admitted-in-kottayam-hospital-critical/videoshow/74573426.cms",
 			"source3": "https://english.manoramaonline.com/news/kerala/2020/03/13/covid-19-coronavirus-chengalam-kottayam-neighbour-dies.html",
 			"statepatientnumber": "KL-PT-P6",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "10/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1100,7 +1157,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KL-KT-R1",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "10/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1119,7 +1177,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KL-KT-R2",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "10/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "3",
@@ -1138,7 +1197,8 @@
 			"source2": "https://www.theweek.in/news/india/2020/03/10/coronavirus-five-positive-cases-reported-in-pune.html",
 			"source3": "https://www.deccanherald.com/national/pune-confirms-five-coronavirus-cases-812429.html",
 			"statepatientnumber": "",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "10/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1157,7 +1217,8 @@
 			"source2": "https://www.theweek.in/news/india/2020/03/10/coronavirus-five-positive-cases-reported-in-pune.html",
 			"source3": "https://www.deccanherald.com/national/pune-confirms-five-coronavirus-cases-812429.html",
 			"statepatientnumber": "",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "10/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1176,7 +1237,8 @@
 			"source2": "https://www.theweek.in/news/india/2020/03/10/coronavirus-five-positive-cases-reported-in-pune.html",
 			"source3": "https://www.deccanherald.com/national/pune-confirms-five-coronavirus-cases-812429.html",
 			"statepatientnumber": "",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "10/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "85",
@@ -1195,7 +1257,8 @@
 			"source2": "https://economictimes.indiatimes.com/news/politics-and-nation/all-3-old-corona-positive-patients-cured-one-new-virus-hit-man-undergoing-treatment-official/articleshow/74638120.cms?from=mdr",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "10/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "46",
@@ -1214,7 +1277,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "DL-P5",
-			"statuschangedate": "11/03/2020"
+			"statuschangedate": "11/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1233,7 +1297,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "11/03/2020"
+			"statuschangedate": "11/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "70",
@@ -1252,7 +1317,8 @@
 			"source2": "https://www.thehindu.com/todays-paper/tally-goes-up-to-11/article31045938.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "11/03/2020"
+			"statuschangedate": "11/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "68",
@@ -1271,7 +1337,8 @@
 			"source2": "https://www.thehindu.com/todays-paper/tally-goes-up-to-11/article31045938.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "11/03/2020"
+			"statuschangedate": "11/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1290,7 +1357,8 @@
 			"source2": "https://www.indiatoday.in/india/story/10-coronavirus-positive-cases-in-maharashtra-uddhav-thackeray-1654564-2020-03-11",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "11/03/2020"
+			"statuschangedate": "11/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1309,7 +1377,8 @@
 			"source2": "https://www.indiatoday.in/india/story/10-coronavirus-positive-cases-in-maharashtra-uddhav-thackeray-1654564-2020-03-11",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "11/03/2020"
+			"statuschangedate": "11/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1328,7 +1397,8 @@
 			"source2": "https://www.indiatoday.in/india/story/10-coronavirus-positive-cases-in-maharashtra-uddhav-thackeray-1654564-2020-03-11",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "11/03/2020"
+			"statuschangedate": "11/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1347,7 +1417,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "12/03/2020"
+			"statuschangedate": "12/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "69",
@@ -1366,7 +1437,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "DL-P6",
-			"statuschangedate": "12/03/2020"
+			"statuschangedate": "12/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "26",
@@ -1385,7 +1457,8 @@
 			"source2": "https://www.newindianexpress.com/states/karnataka/2020/mar/20/coronavirus-two-patients-recover-to-be-discharged-on-friday-2119125.html",
 			"source3": "",
 			"statepatientnumber": "KA-P5",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "76",
@@ -1404,7 +1477,8 @@
 			"source2": "https://www.indiatoday.in/india/story/tracking-coronavirus-patients-in-karnataka-who-went-where-1655701-2020-03-15",
 			"source3": "",
 			"statepatientnumber": "KA-P6",
-			"statuschangedate": "12/03/2020"
+			"statuschangedate": "12/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1423,7 +1497,8 @@
 			"source2": "https://www.thenewsminute.com/article/two-more-covid-19-cases-kerala-returnees-dubai-and-qatar-120074",
 			"source3": "",
 			"statepatientnumber": "KL-KN-2",
-			"statuschangedate": "12/03/2020"
+			"statuschangedate": "12/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1442,7 +1517,8 @@
 			"source2": "https://www.thenewsminute.com/article/two-more-covid-19-cases-kerala-returnees-dubai-and-qatar-120074",
 			"source3": "",
 			"statepatientnumber": "KL-TS-P1",
-			"statuschangedate": "12/03/2020"
+			"statuschangedate": "12/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "65",
@@ -1461,7 +1537,8 @@
 			"source2": "https://www.thehindu.com/news/national/other-states/three-more-test-positive-in-maharashtra/article31054460.ece",
 			"source3": "https://www.theweek.in/news/india/2020/03/17/coronavirus-3rd-death-in-india-reported-from-mumbai-as-64-year-old-man-dies.html",
 			"statepatientnumber": "",
-			"statuschangedate": "12/03/2020"
+			"statuschangedate": "12/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "45",
@@ -1480,7 +1557,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "12/03/2020"
+			"statuschangedate": "12/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "33",
@@ -1499,7 +1577,8 @@
 			"source2": "https://www.thehindu.com/news/cities/mumbai/man-back-from-us-is-punes-ninth-case/article31054331.ece",
 			"source3": "https://www.thehindu.com/news/national/other-states/three-more-test-positive-in-maharashtra/article31054460.ece",
 			"statepatientnumber": "",
-			"statuschangedate": "12/03/2020"
+			"statuschangedate": "12/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "35",
@@ -1518,7 +1597,8 @@
 			"source2": "https://www.thehindu.com/news/national/other-states/three-more-test-positive-in-maharashtra/article31054460.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "12/03/2020"
+			"statuschangedate": "12/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1537,7 +1617,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "12/03/2020"
+			"statuschangedate": "12/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "27",
@@ -1556,7 +1637,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "12/03/2020"
+			"statuschangedate": "12/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1575,7 +1657,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "DL-P7",
-			"statuschangedate": "13/03/2020"
+			"statuschangedate": "13/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1594,7 +1677,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "13/03/2020"
+			"statuschangedate": "13/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1613,7 +1697,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/coronavirus-thiruvananthapuram-officials-release-travel-history-of-two-who-tested-positive/article31068119.ece",
 			"source3": "",
 			"statepatientnumber": "KL-TV-R3",
-			"statuschangedate": "13/03/2020"
+			"statuschangedate": "13/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1632,7 +1717,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/coronavirus-thiruvananthapuram-officials-release-travel-history-of-two-who-tested-positive/article31068119.ece",
 			"source3": "",
 			"statepatientnumber": "KL-TV-R1",
-			"statuschangedate": "13/03/2020"
+			"statuschangedate": "13/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1651,7 +1737,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/coronavirus-thiruvananthapuram-officials-release-travel-history-of-two-who-tested-positive/article31068119.ece",
 			"source3": "",
 			"statepatientnumber": "KL-TV-R2",
-			"statuschangedate": "13/03/2020"
+			"statuschangedate": "13/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1670,7 +1757,8 @@
 			"source2": "https://www.ndtv.com/india-news/coronavirus-outbreak-3-more-test-positive-for-coronavirus-in-maharashtra-2194498",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "13/03/2020"
+			"statuschangedate": "13/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1689,7 +1777,8 @@
 			"source2": "https://www.ndtv.com/india-news/coronavirus-outbreak-3-more-test-positive-for-coronavirus-in-maharashtra-2194498",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "13/03/2020"
+			"statuschangedate": "13/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1708,7 +1797,8 @@
 			"source2": "https://www.ndtv.com/india-news/coronavirus-outbreak-3-more-test-positive-for-coronavirus-in-maharashtra-2194498",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "13/03/2020"
+			"statuschangedate": "13/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1727,7 +1817,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "13/03/2020"
+			"statuschangedate": "13/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1746,7 +1837,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1765,7 +1857,8 @@
 			"source2": "https://www.thehindu.com/todays-paper/tp-national/12-new-cases-registered-in-maharashtra-in-a-single-day/article31072504.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1784,7 +1877,8 @@
 			"source2": "https://www.thehindu.com/todays-paper/tp-national/12-new-cases-registered-in-maharashtra-in-a-single-day/article31072504.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "37",
@@ -1803,7 +1897,8 @@
 			"source2": "https://www.thehindu.com/todays-paper/tp-national/12-new-cases-registered-in-maharashtra-in-a-single-day/article31072504.ece",
 			"source3": "https://www.thehindu.com/news/cities/mumbai/three-year-old-among-6-new-covid-19-cases-in-maharashtra/article31086368.ece",
 			"statepatientnumber": "",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "59",
@@ -1822,7 +1917,8 @@
 			"source2": "https://www.thehindu.com/todays-paper/tp-national/12-new-cases-registered-in-maharashtra-in-a-single-day/article31072504.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1841,7 +1937,8 @@
 			"source2": "https://www.thehindu.com/todays-paper/tp-national/12-new-cases-registered-in-maharashtra-in-a-single-day/article31072504.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "43",
@@ -1860,7 +1957,8 @@
 			"source2": "https://www.thehindu.com/news/national/coronavirus-live-updates-march-14-2020/article31066969.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1879,7 +1977,8 @@
 			"source2": "https://www.hindustantimes.com/india-news/5-new-cases-of-coronavirus-in-pune-number-rises-to-15-in-city/story-WBtoXb54M0ijEidNK4FXfO.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1898,7 +1997,8 @@
 			"source2": "https://www.hindustantimes.com/india-news/5-new-cases-of-coronavirus-in-pune-number-rises-to-15-in-city/story-WBtoXb54M0ijEidNK4FXfO.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1917,7 +2017,8 @@
 			"source2": "https://www.hindustantimes.com/india-news/5-new-cases-of-coronavirus-in-pune-number-rises-to-15-in-city/story-WBtoXb54M0ijEidNK4FXfO.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1936,7 +2037,8 @@
 			"source2": "https://www.hindustantimes.com/india-news/5-new-cases-of-coronavirus-in-pune-number-rises-to-15-in-city/story-WBtoXb54M0ijEidNK4FXfO.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "21",
@@ -1955,7 +2057,8 @@
 			"source2": "https://www.hindustantimes.com/india-news/5-new-cases-of-coronavirus-in-pune-number-rises-to-15-in-city/story-WBtoXb54M0ijEidNK4FXfO.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1974,7 +2077,8 @@
 			"source2": "https://mumbaimirror.indiatimes.com/two-coronavirus-cases-found-in-yavatmal-maharashtra-count-22/articleshow/74628969.cms",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -1993,7 +2097,8 @@
 			"source2": "https://mumbaimirror.indiatimes.com/two-coronavirus-cases-found-in-yavatmal-maharashtra-count-22/articleshow/74628969.cms",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "24",
@@ -2012,7 +2117,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2031,7 +2137,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TS-P2",
-			"statuschangedate": "14/03/2020"
+			"statuschangedate": "14/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2050,7 +2157,8 @@
 			"source2": "https://economictimes.indiatimes.com/news/politics-and-nation/uk-national-tests-positive-for-coronavirus-all-289-passengers-offloaded-at-kochi-airport/articleshow/74635802.cms",
 			"source3": "",
 			"statepatientnumber": "KL-ID-1",
-			"statuschangedate": "15/03/2020"
+			"statuschangedate": "15/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2069,7 +2177,8 @@
 			"source2": "https://www.thehindu.com/news/cities/Thiruvananthapuram/after-doctor-tests-positive-sctimst-heads-for-shutdown/article31077272.ece",
 			"source3": "",
 			"statepatientnumber": "KL-TV-R4",
-			"statuschangedate": "15/03/2020"
+			"statuschangedate": "15/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "59",
@@ -2088,7 +2197,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-total-cases-maharashtra-state-expands-healthcare-facilities-1655794-2020-03-15",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "15/03/2020"
+			"statuschangedate": "15/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2107,7 +2217,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-total-cases-maharashtra-state-expands-healthcare-facilities-1655794-2020-03-15",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "15/03/2020"
+			"statuschangedate": "15/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "46",
@@ -2126,7 +2237,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "15/03/2020"
+			"statuschangedate": "15/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2145,7 +2257,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "15/03/2020"
+			"statuschangedate": "15/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2164,7 +2277,8 @@
 			"source2": "https://twitter.com/ANI/status/1239597418640900096",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "16/03/2020"
+			"statuschangedate": "16/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "32",
@@ -2183,7 +2297,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P7",
-			"statuschangedate": "16/03/2020"
+			"statuschangedate": "16/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "45",
@@ -2202,7 +2317,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P8",
-			"statuschangedate": "16/03/2020"
+			"statuschangedate": "16/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2221,7 +2337,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/coronavirus-34-on-patients-contact-list-traced/article31093630.ece",
 			"source3": "",
 			"statepatientnumber": "KL-KS-P2",
-			"statuschangedate": "16/03/2020"
+			"statuschangedate": "16/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2240,7 +2357,8 @@
 			"source2": "",
 			"source3": "https://www.mathrubhumi.com/news/kerala/two-corona-positive-cases-in-malappuram-route-map-published-1.4619884",
 			"statepatientnumber": "KL-MLP-1",
-			"statuschangedate": "16/03/2020"
+			"statuschangedate": "16/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2259,7 +2377,8 @@
 			"source2": "",
 			"source3": "https://www.mathrubhumi.com/news/kerala/two-corona-positive-cases-in-malappuram-route-map-published-1.4619884",
 			"statepatientnumber": "KL-MLP-2",
-			"statuschangedate": "16/03/2020"
+			"statuschangedate": "16/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "47",
@@ -2278,7 +2397,8 @@
 			"source2": "https://www.thehindu.com/news/cities/mumbai/three-year-old-among-6-new-covid-19-cases-in-maharashtra/article31086368.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "16/03/2020"
+			"statuschangedate": "16/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "42",
@@ -2297,7 +2417,8 @@
 			"source2": "https://www.thehindu.com/news/cities/mumbai/three-year-old-among-6-new-covid-19-cases-in-maharashtra/article31086368.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "16/03/2020"
+			"statuschangedate": "16/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "33",
@@ -2316,7 +2437,8 @@
 			"source2": "https://www.thehindu.com/news/cities/mumbai/three-year-old-among-6-new-covid-19-cases-in-maharashtra/article31086368.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "16/03/2020"
+			"statuschangedate": "16/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "3",
@@ -2335,7 +2457,8 @@
 			"source2": "https://timesofindia.indiatimes.com/city/mumbai/coronavirus-in-maharashtra-3-year-old-tests-positive-cases-up-to-40/articleshow/74664684.cms",
 			"source3": "https://www.thehindu.com/news/cities/mumbai/three-year-old-among-6-new-covid-19-cases-in-maharashtra/article31086368.ece",
 			"statepatientnumber": "",
-			"statuschangedate": "16/03/2020"
+			"statuschangedate": "16/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "44",
@@ -2354,7 +2477,8 @@
 			"source2": "https://www.thehindu.com/news/cities/mumbai/three-year-old-among-6-new-covid-19-cases-in-maharashtra/article31086368.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "16/03/2020"
+			"statuschangedate": "16/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "51",
@@ -2373,7 +2497,8 @@
 			"source2": "https://www.deccanherald.com/national/west/woman-tests-covid-19-positive-in-maharashtras-yavatmal-814251.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "16/03/2020"
+			"statuschangedate": "16/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "31",
@@ -2392,7 +2517,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "16/03/2020"
+			"statuschangedate": "16/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2411,7 +2537,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TS-P3",
-			"statuschangedate": "16/03/2020"
+			"statuschangedate": "16/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2430,7 +2557,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "DL-P11",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2449,7 +2577,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "DL-P12",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2468,7 +2597,8 @@
 			"source2": "https://www.hindustantimes.com/delhi-news/delhi-s-8th-covid-19-case-flew-to-singapore-without-waiting-for-test-result/story-c4YFWwviCvti3TYnA124SM.html",
 			"source3": "",
 			"statepatientnumber": "DL-P8",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "29",
@@ -2487,7 +2617,8 @@
 			"source2": "https://economictimes.indiatimes.com/news/politics-and-nation/gurgaon-woman-tests-positive-for-coronavirus-first-confirmed-case-in-haryana/articleshow/74668812.cms",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2506,7 +2637,8 @@
 			"source2": "http://newsonair.com/Main-News-Details.aspx?id=383141",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2525,7 +2657,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2544,7 +2677,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "20",
@@ -2563,7 +2697,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P9",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "67",
@@ -2582,7 +2717,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P10",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "63",
@@ -2601,7 +2737,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P11",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "49",
@@ -2620,7 +2757,8 @@
 			"source2": "https://www.thehindu.com/news/national/coronavirus-live-updates-march-17-2020/article31088570.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "26",
@@ -2639,7 +2777,8 @@
 			"source2": "https://www.thehindu.com/news/national/coronavirus-live-updates-march-17-2020/article31088570.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "68",
@@ -2658,7 +2797,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/first-covid-19-case-detected-in-mahe/article31093347.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "52",
@@ -2677,7 +2817,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TS-P4",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2696,7 +2837,8 @@
 			"source2": "https://timesofindia.indiatimes.com/city/noida/coronavirus-cases-in-noida-two-test-positive-for-coronavirus-in-noida/articleshow/74668161.cms",
 			"source3": "https://www.hindustantimes.com/noida/noida-man-tests-coronavirus-positive-after-he-meets-delhi-patient-at-work/story-KNJ0rTgO3n0Y5fyg4AVNxK.html",
 			"statepatientnumber": "",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "21",
@@ -2715,7 +2857,8 @@
 			"source2": "https://timesofindia.indiatimes.com/city/noida/coronavirus-cases-in-noida-two-test-positive-for-coronavirus-in-noida/articleshow/74668161.cms",
 			"source3": "https://www.hindustantimes.com/noida/noida-man-tests-coronavirus-positive-after-he-meets-delhi-patient-at-work/story-KNJ0rTgO3n0Y5fyg4AVNxK.html",
 			"statepatientnumber": "",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "18",
@@ -2734,7 +2877,8 @@
 			"source2": "https://twitter.com/ANI/status/1239953388248260608",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "34",
@@ -2753,7 +2897,8 @@
 			"source2": "https://twitter.com/ANI/status/1239969373013438464",
 			"source3": "https://timesofindia.indiatimes.com/city/mumbai/coronavirus-in-india-live-updates-march-18-2020/liveblog/74683100.cms",
 			"statepatientnumber": "",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2772,7 +2917,8 @@
 			"source2": "https://twitter.com/ANI/status/1239969373013438464",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "17/03/2020"
+			"statuschangedate": "17/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "28",
@@ -2791,7 +2937,8 @@
 			"source2": "https://timesofindia.indiatimes.com/city/pune/pune-woman-tests-positive-for-coronavirus-maharashtra-count-climbs-to-42/articleshow/74684191.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOICitiesNews",
 			"source3": "https://www.thehindu.com/news/national/coronavirus-live-updates-march-18-2020/article31096318.ece",
 			"statepatientnumber": "",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "25",
@@ -2810,7 +2957,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "22",
@@ -2829,7 +2977,8 @@
 			"source2": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"source3": "",
 			"statepatientnumber": "TS-P5",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "56",
@@ -2848,7 +2997,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P12",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "25",
@@ -2867,7 +3017,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P13",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -2886,7 +3037,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "44",
@@ -2905,7 +3057,8 @@
 			"source2": "https://epaper.hindustantimes.com/Home/ShareArticle?OrgId=d2d754a3",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "20",
@@ -2924,7 +3077,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "68",
@@ -2943,7 +3097,8 @@
 			"source2": "https://twitter.com/THMumbai/status/1240262937576484864",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "35",
@@ -2962,7 +3117,8 @@
 			"source2": "https://twitter.com/sriramulubjp/status/1240259610486829056",
 			"source3": "",
 			"statepatientnumber": "KA-P14",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "21",
@@ -2981,7 +3137,8 @@
 			"source2": "https://twitter.com/PTI_News/status/1240284806908235778?s=19",
 			"source3": "https://thepigeonexpress.com/maharashtra-records-44th-coronavirus-case/",
 			"statepatientnumber": "",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "50",
@@ -3000,7 +3157,8 @@
 			"source2": "https://twitter.com/THMumbai/status/1240304036143718407?s=19",
 			"source3": "",
 			"statepatientnumber": "MH-P45",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3019,7 +3177,8 @@
 			"source2": "https://twitter.com/kansalrohit69/status/1240312429638070274",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "33",
@@ -3038,7 +3197,8 @@
 			"source2": "https://twitter.com/ANI/status/1240318435646525442",
 			"source3": "https://m.hindustantimes.com/india-news/rajasthan-couple-3-yr-old-test-covid-19-positive-curfew-ordered-in-1-km-radius/",
 			"statepatientnumber": "",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "30",
@@ -3057,7 +3217,8 @@
 			"source2": "https://twitter.com/ANI/status/1240318435646525442",
 			"source3": "https://m.hindustantimes.com/india-news/rajasthan-couple-3-yr-old-test-covid-19-positive-curfew-ordered-in-1-km-radius/",
 			"statepatientnumber": "",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "3",
@@ -3076,7 +3237,8 @@
 			"source2": "https://twitter.com/ANI/status/1240318435646525442",
 			"source3": "https://m.hindustantimes.com/india-news/rajasthan-couple-3-yr-old-test-covid-19-positive-curfew-ordered-in-1-km-radius/",
 			"statepatientnumber": "",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3095,7 +3257,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TS-P7",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3114,7 +3277,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TS-P8",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3133,7 +3297,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TS-P9",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3152,7 +3317,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TS-P10",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3171,7 +3337,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TS-P11",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3190,7 +3357,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TS-P12",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3209,7 +3377,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TS-P13",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3228,7 +3397,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "38",
@@ -3247,7 +3417,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "18/03/2020"
+			"statuschangedate": "18/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "23",
@@ -3266,7 +3437,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "22",
@@ -3285,7 +3457,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "49",
@@ -3304,7 +3477,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "35",
@@ -3323,7 +3497,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P15",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3342,7 +3517,8 @@
 			"source2": "https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-reports-second-positive-case-of-covid-19/articleshow/74703260.cms",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "24",
@@ -3361,7 +3537,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3380,7 +3557,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3399,7 +3577,8 @@
 			"source2": "https://www.livemint.com/news/india/coronavirus-update-two-more-cases-reported-in-lucknow-11584602501673.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3418,7 +3597,8 @@
 			"source2": "https://www.livemint.com/news/india/coronavirus-update-two-more-cases-reported-in-lucknow-11584602501673.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "21",
@@ -3437,7 +3617,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "70",
@@ -3456,7 +3637,8 @@
 			"source2": "https://www.latestly.com/india/news/baldev-singh-who-died-due-to-covid-19-in-punjab-met-hundreds-district-admin-locks-down-village-1621476.html",
 			"source3": "",
 			"statepatientnumber": "PJ-P2",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "47",
@@ -3475,7 +3657,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KL-KS-P3",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "32",
@@ -3494,7 +3677,8 @@
 			"source2": "https://twitter.com/PTI_News/status/1240642955506888706?s=09",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "21",
@@ -3513,7 +3697,8 @@
 			"source2": "https://twitter.com/PTI_News/status/1240642955506888706?s=09",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3532,7 +3717,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "51",
@@ -3551,7 +3737,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "MH-P48",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3570,7 +3757,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3589,7 +3777,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3608,7 +3797,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-india-positive-cases-covid-19-rise-fresh-cases-news-update-1657244-2020-03-19",
 			"source3": "",
 			"statepatientnumber": "TS-P15",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3627,7 +3817,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-india-positive-cases-covid-19-rise-fresh-cases-news-update-1657244-2020-03-19",
 			"source3": "",
 			"statepatientnumber": "TS-P14",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3646,7 +3837,8 @@
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-india-positive-cases-covid-19-rise-fresh-cases-news-update-1657244-2020-03-19",
 			"source3": "",
 			"statepatientnumber": "TS-P16",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "19",
@@ -3665,7 +3857,8 @@
 			"source2": "https://kalingatv.com/state/odisha-reports-2nd-positive-coronavirus-case/",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3684,7 +3877,8 @@
 			"source2": "https://twitter.com/TabeenahAnjum/status/1240703473118629888",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3703,7 +3897,8 @@
 			"source2": "https://twitter.com/TabeenahAnjum/status/1240703473118629888",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3722,7 +3917,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "22",
@@ -3741,7 +3937,8 @@
 			"source2": "https://www.hindustantimes.com/cities/two-more-delhi-residents-test-positive-for-covid-19-total-now-10/story-eZf1cfA2jqI6n7owy6xPXJ.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "22",
@@ -3760,7 +3957,8 @@
 			"source2": "https://in.news.yahoo.com/four-coronavirus-cases-delhi-2-000649330.html",
 			"source3": "",
 			"statepatientnumber": "DL-P13",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "32",
@@ -3779,7 +3977,8 @@
 			"source2": "https://in.news.yahoo.com/four-coronavirus-cases-delhi-2-000649330.html",
 			"source3": "",
 			"statepatientnumber": "DL-P14",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "19/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "22",
@@ -3798,7 +3997,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "69",
@@ -3817,7 +4017,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "PJ-P3",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3836,7 +4037,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3855,7 +4057,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3874,7 +4077,8 @@
 			"source2": "https://timesofindia.indiatimes.com/city/delhi/at-six-delhi-reports-most-covid-19-cases-in-a-day/articleshow/74739489.cms",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -3893,7 +4097,8 @@
 			"source2": "https://timesofindia.indiatimes.com/city/delhi/at-six-delhi-reports-most-covid-19-cases-in-a-day/articleshow/74739489.cms",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "58",
@@ -3912,7 +4117,8 @@
 			"source2": "https://timesofindia.indiatimes.com/city/delhi/at-six-delhi-reports-most-covid-19-cases-in-a-day/articleshow/74739489.cms",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "24",
@@ -3931,7 +4137,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "38",
@@ -3950,7 +4157,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "20",
@@ -3969,7 +4177,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "22",
@@ -3988,7 +4197,8 @@
 			"source2": "https://ahmedabadmirror.indiatimes.com/ahmedabad/cover-story/confirmed-first-3-ve-cases-in-ahmedabad-rajkot-surat/articleshow/74720622.cms",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "34",
@@ -4007,7 +4217,8 @@
 			"source2": "https://ahmedabadmirror.indiatimes.com/ahmedabad/others/corona-positive-cases-now-7/articleshow/74740267.cms",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "47",
@@ -4026,7 +4237,8 @@
 			"source2": "https://ahmedabadmirror.indiatimes.com/ahmedabad/others/corona-positive-cases-now-7/articleshow/74740267.cms",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "37",
@@ -4045,7 +4257,8 @@
 			"source2": "https://in.news.yahoo.com/three-family-members-lucknow-doctor-035949509.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "35",
@@ -4064,7 +4277,8 @@
 			"source2": "https://in.news.yahoo.com/three-family-members-lucknow-doctor-035949509.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "20",
@@ -4083,7 +4297,8 @@
 			"source2": "https://in.news.yahoo.com/three-family-members-lucknow-doctor-035949509.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "41",
@@ -4102,7 +4317,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4121,7 +4337,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4140,7 +4357,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4159,7 +4377,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "18",
@@ -4178,7 +4397,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TS-P17",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4197,7 +4417,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "69",
@@ -4216,7 +4437,8 @@
 			"source2": "https://www.news18.com/news/india/vadodara-man-with-travel-history-to-sri-lanka-tests-positive-for-coronavirus-gujarat-cases-rise-to-8-2545547.html",
 			"source3": "https://ahmedabadmirror.indiatimes.com/ahmedabad/others/corona-positive-cases-now-7/articleshow/74740267.cms",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "27",
@@ -4235,7 +4457,8 @@
 			"source2": "https://ahmedabadmirror.indiatimes.com/ahmedabad/others/corona-positive-cases-now-7/articleshow/74740267.cms",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4254,7 +4477,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4273,7 +4497,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4292,7 +4517,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "26",
@@ -4311,7 +4537,8 @@
 			"source2": "https://theprint.in/health/mohali-woman-with-coronavirus-dragged-to-govt-hospital-chandigarh-reports-4-new-cases/385035/",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4330,7 +4557,8 @@
 			"source2": "https://english.manoramaonline.com/news/kerala/2020/03/20/covid-19-confirmed-in-five-more-uk-tourists-in-kochi.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4349,7 +4577,8 @@
 			"source2": "https://english.manoramaonline.com/news/kerala/2020/03/20/covid-19-confirmed-in-five-more-uk-tourists-in-kochi.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4368,7 +4597,8 @@
 			"source2": "https://english.manoramaonline.com/news/kerala/2020/03/20/covid-19-confirmed-in-five-more-uk-tourists-in-kochi.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4387,7 +4617,8 @@
 			"source2": "https://english.manoramaonline.com/news/kerala/2020/03/20/covid-19-confirmed-in-five-more-uk-tourists-in-kochi.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4406,7 +4637,8 @@
 			"source2": "https://english.manoramaonline.com/news/kerala/2020/03/20/covid-19-confirmed-in-five-more-uk-tourists-in-kochi.html",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4425,7 +4657,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4444,7 +4677,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4463,7 +4697,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4482,7 +4717,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "52",
@@ -4501,7 +4737,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "21",
@@ -4520,7 +4757,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "52",
@@ -4539,7 +4777,8 @@
 			"source2": "https://www.thenewsminute.com/article/covid-19-kerala-reports-12-new-cases-coronavirus-total-rises-40-120740",
 			"source3": "https://www.thehindu.com/news/national/kerala/six-more-covid-19-cases-in-kasaragod/article31123807.ece",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "27",
@@ -4558,7 +4797,8 @@
 			"source2": "https://www.thenewsminute.com/article/covid-19-kerala-reports-12-new-cases-coronavirus-total-rises-40-120740",
 			"source3": "https://www.thehindu.com/news/national/kerala/six-more-covid-19-cases-in-kasaragod/article31123807.ece",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4577,7 +4817,8 @@
 			"source2": "https://www.thenewsminute.com/article/covid-19-kerala-reports-12-new-cases-coronavirus-total-rises-40-120740",
 			"source3": "https://www.thehindu.com/news/national/kerala/six-more-covid-19-cases-in-kasaragod/article31123807.ece",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4596,7 +4837,8 @@
 			"source2": "https://www.thenewsminute.com/article/covid-19-kerala-reports-12-new-cases-coronavirus-total-rises-40-120740",
 			"source3": "https://www.thehindu.com/news/national/kerala/six-more-covid-19-cases-in-kasaragod/article31123807.ece",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4615,7 +4857,8 @@
 			"source2": "https://www.thenewsminute.com/article/covid-19-kerala-reports-12-new-cases-coronavirus-total-rises-40-120740",
 			"source3": "https://www.thehindu.com/news/national/kerala/six-more-covid-19-cases-in-kasaragod/article31123807.ece",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "2",
@@ -4634,7 +4877,8 @@
 			"source2": "https://www.thenewsminute.com/article/covid-19-kerala-reports-12-new-cases-coronavirus-total-rises-40-120740",
 			"source3": "https://www.thehindu.com/news/national/kerala/six-more-covid-19-cases-in-kasaragod/article31123807.ece",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4653,7 +4897,8 @@
 			"source2": "https://www.thenewsminute.com/article/covid-19-kerala-reports-12-new-cases-coronavirus-total-rises-40-120740",
 			"source3": "http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_20032020.pdf",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4672,7 +4917,8 @@
 			"source2": "https://twitter.com/PIBShimla/status/1241021507138011136",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4691,7 +4937,8 @@
 			"source2": "https://twitter.com/PIBShimla/status/1241021507138011136",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "59",
@@ -4710,7 +4957,8 @@
 			"source2": "https://www.naidunia.com/madhya-pradesh/jabalpur-corona-virus-effect-in-madhya-pradesh-4-members-of-same-family-in-jabalpur-vulnerable-to-corona-infection-5429101",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "45",
@@ -4729,7 +4977,8 @@
 			"source2": "https://www.naidunia.com/madhya-pradesh/jabalpur-corona-virus-effect-in-madhya-pradesh-4-members-of-same-family-in-jabalpur-vulnerable-to-corona-infection-5429101",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "22",
@@ -4748,7 +4997,8 @@
 			"source2": "https://www.naidunia.com/madhya-pradesh/jabalpur-corona-virus-effect-in-madhya-pradesh-4-members-of-same-family-in-jabalpur-vulnerable-to-corona-infection-5429101",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "24",
@@ -4767,7 +5017,8 @@
 			"source2": "https://www.naidunia.com/madhya-pradesh/jabalpur-corona-virus-effect-in-madhya-pradesh-4-members-of-same-family-in-jabalpur-vulnerable-to-corona-infection-5429101",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "27",
@@ -4786,7 +5037,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TS-P18",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "60",
@@ -4805,7 +5057,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TS-P19",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "32",
@@ -4824,7 +5077,8 @@
 			"source2": "https://timesofindia.indiatimes.com/city/delhi/at-six-delhi-reports-most-covid-19-cases-in-a-day/articleshow/74739489.cms",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4843,7 +5097,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4862,7 +5117,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "53",
@@ -4881,7 +5137,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "20",
@@ -4900,7 +5157,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "20/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "23",
@@ -4919,7 +5177,8 @@
 			"source2": "https://twitter.com/ANI/status/1241299591036686336",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4938,7 +5197,8 @@
 			"source2": "https://twitter.com/TabeenahAnjum/status/1241225769767993344",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4957,7 +5217,8 @@
 			"source2": "https://twitter.com/TabeenahAnjum/status/1241225769767993344",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4976,7 +5237,8 @@
 			"source2": "https://twitter.com/TabeenahAnjum/status/1241225769767993344",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -4995,7 +5257,8 @@
 			"source2": "https://twitter.com/TabeenahAnjum/status/1241225769767993344",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5014,7 +5277,8 @@
 			"source2": "https://twitter.com/TabeenahAnjum/status/1241225769767993344",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5033,7 +5297,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "42",
@@ -5052,7 +5317,8 @@
 			"source2": "https://www.thehindu.com/news/national/other-states/coronavirus-three-fresh-cases-reported-in-punjab/article31126217.ece",
 			"source3": "https://www.outlookindia.com/newsscroll/three-more-test-positive-in-punjab-total-rises-to-six/1775128",
 			"statepatientnumber": "PJ-P10",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "74",
@@ -5071,7 +5337,8 @@
 			"source2": "https://www.thehindu.com/news/national/other-states/coronavirus-three-fresh-cases-reported-in-punjab/article31126217.ece",
 			"source3": "https://www.outlookindia.com/newsscroll/three-more-test-positive-in-punjab-total-rises-to-six/1775128",
 			"statepatientnumber": "PJ-P12",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "28",
@@ -5090,7 +5357,8 @@
 			"source2": "https://www.thehindu.com/news/national/other-states/coronavirus-three-fresh-cases-reported-in-punjab/article31126217.ece",
 			"source3": "https://m.hindustantimes.com/cities/four-more-test-positive-for-covid-19-in-chandigarh-panchkula-and-mohali-taking-count-to-10-in-tricity/story-2KPatugr8JiGcNIUXZAJhI_amp.html?__twitter_impression=true",
 			"statepatientnumber": "PJ-P13",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "52",
@@ -5109,26 +5377,28 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "63",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Deceased",
 			"dateannounced": "21/03/2020",
 			"detectedcity": "Mumbai",
 			"detecteddistrict": "",
 			"detectedstate": "Maharashtra",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "India",
-			"notes": "Details awaited",
+			"notes": "Details awaited, had a chronic history of diabetes, high blood pressure, and ischemic heart disease.",
 			"patientnumber": "270",
 			"source1": "https://twitter.com/PTI_News/status/1241219494996873217",
 			"source2": "https://www.thehindu.com/news/cities/mumbai/five-new-cases-in-state-critical-patient-shifted-to-jaslok/article31123456.ece",
-			"source3": "",
+			"source3": "https://english.jagran.com/india/coronavirus-pandemic-india-reports-six-deaths-due-to-covid19-after-patients-from-bihar-and-maharashtra-dies-10009895",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5147,7 +5417,8 @@
 			"source2": "https://www.thehindu.com/news/cities/mumbai/five-new-cases-in-state-critical-patient-shifted-to-jaslok/article31123456.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "42",
@@ -5166,7 +5437,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5185,7 +5457,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5204,7 +5477,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5223,7 +5497,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5242,7 +5517,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5261,7 +5537,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5280,7 +5557,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5299,7 +5577,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5318,7 +5597,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5337,7 +5617,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5356,7 +5637,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5375,7 +5657,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5394,7 +5677,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "32",
@@ -5413,7 +5697,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P19",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5432,7 +5717,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "38",
@@ -5451,7 +5737,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5470,7 +5757,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5489,7 +5777,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5508,7 +5797,8 @@
 			"source2": "http://newsonair.com/Main-News-Details.aspx?id=383141",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5527,7 +5817,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5546,7 +5837,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5565,7 +5857,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5584,7 +5877,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5603,7 +5897,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "53",
@@ -5622,7 +5917,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P16",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "39",
@@ -5641,7 +5937,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P17",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "19",
@@ -5660,7 +5957,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "35",
@@ -5679,7 +5977,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TS-P20",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "33",
@@ -5698,7 +5997,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TS-P21",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5717,7 +6017,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5736,7 +6037,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "65",
@@ -5755,7 +6057,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "35",
@@ -5774,7 +6077,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "PJ-P4",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "34",
@@ -5793,7 +6097,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "PJ-P5",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "45",
@@ -5812,7 +6117,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "PJ-P6",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "40",
@@ -5831,7 +6137,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "PJ-P7",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "17",
@@ -5850,7 +6157,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "PJ-P8",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "36",
@@ -5869,7 +6177,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "PJ-P9",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5888,7 +6197,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "60",
@@ -5907,7 +6217,8 @@
 			"source2": "https://www.ptcnews.tv/coronavirus-punjab-cases-mohali-hoshiarpur-moranwali-village-amritsar-en/",
 			"source3": "",
 			"statepatientnumber": "PJ-P11",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5926,7 +6237,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/more-positive-cases-reported-in-state/article31130190.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5945,7 +6257,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/more-positive-cases-reported-in-state/article31130190.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5964,7 +6277,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/more-positive-cases-reported-in-state/article31130190.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -5983,7 +6297,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/more-positive-cases-reported-in-state/article31130190.ece",
 			"source3": "https://www.facebook.com/District-Information-OfficeKasaragod-1005A07158085788",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6002,7 +6317,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/more-positive-cases-reported-in-state/article31130190.ece",
 			"source3": "https://www.facebook.com/District-Information-OfficeKasaragod-1005A07158085788",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6021,7 +6337,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/more-positive-cases-reported-in-state/article31130190.ece",
 			"source3": "https://www.facebook.com/District-Information-OfficeKasaragod-1005A07158085788",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6040,7 +6357,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/more-positive-cases-reported-in-state/article31130190.ece",
 			"source3": "https://www.facebook.com/District-Information-OfficeKasaragod-1005A07158085788",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6059,7 +6377,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/more-positive-cases-reported-in-state/article31130190.ece",
 			"source3": "https://www.facebook.com/District-Information-OfficeKasaragod-1005A07158085788",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6078,7 +6397,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/more-positive-cases-reported-in-state/article31130190.ece",
 			"source3": "https://www.facebook.com/District-Information-OfficeKasaragod-1005A07158085788",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6097,7 +6417,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/more-positive-cases-reported-in-state/article31130190.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6116,7 +6437,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/more-positive-cases-reported-in-state/article31130190.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6135,7 +6457,8 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/more-positive-cases-reported-in-state/article31130190.ece",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "21",
@@ -6154,7 +6477,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P18",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "35",
@@ -6173,7 +6497,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P20",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "23",
@@ -6192,7 +6517,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "57",
@@ -6211,7 +6537,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6230,7 +6557,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "59",
@@ -6249,7 +6577,8 @@
 			"source2": "https://twitter.com/tv9gujarati/status/1241361717499584513",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "22",
@@ -6268,7 +6597,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "24",
@@ -6287,7 +6617,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6306,7 +6637,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "31",
@@ -6325,7 +6657,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "30",
@@ -6344,7 +6677,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "21/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6363,7 +6697,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "33",
@@ -6382,7 +6717,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6401,7 +6737,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6420,7 +6757,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6439,7 +6777,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6458,7 +6797,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6477,7 +6817,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6496,7 +6837,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6515,7 +6857,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6534,7 +6877,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6553,7 +6897,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6572,7 +6917,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6591,10 +6937,11 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "38",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Deceased",
 			"dateannounced": "22/03/2020",
@@ -6607,10 +6954,11 @@
 			"notes": "He was from Munger. He died yesterday at AIIMS in Patna; had returned from Kolkata two days back.Foreign travel history to Qatar",
 			"patientnumber": "348",
 			"source1": "https://twitter.com/ANI/status/1241613245934260225",
-			"source2": "",
+			"source2": "https://twitter.com/ANI/status/1241621958925537280",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6626,10 +6974,11 @@
 			"notes": "Patient has recently returned from Scotland.",
 			"patientnumber": "349",
 			"source1": "https://www.indiatvnews.com/news/india/bihar-coronavirus-cases-patna-covid-19-fatality-health-ministry-janata-curfew-600424",
-			"source2": "",
+			"source2": "https://twitter.com/ANI/status/1241621958925537280",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "22/03/2020",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6648,7 +6997,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6667,7 +7017,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6686,7 +7037,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6705,7 +7057,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6724,7 +7077,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6743,7 +7097,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6762,7 +7117,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6781,7 +7137,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6800,7 +7157,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6819,7 +7177,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6838,7 +7197,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6857,7 +7217,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6876,7 +7237,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6895,7 +7257,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6914,7 +7277,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6933,7 +7297,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6952,7 +7317,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6971,7 +7337,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -6990,7 +7357,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7009,7 +7377,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7028,7 +7397,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7047,7 +7417,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7066,7 +7437,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7085,7 +7457,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7104,7 +7477,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7123,7 +7497,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7142,7 +7517,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7161,7 +7537,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7180,7 +7557,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7199,7 +7577,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7218,7 +7597,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7237,7 +7617,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7256,7 +7637,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7275,7 +7657,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7294,7 +7677,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7313,7 +7697,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7332,7 +7717,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7351,7 +7737,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7370,7 +7757,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7389,7 +7777,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7408,7 +7797,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7427,7 +7817,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7446,7 +7837,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7465,7 +7857,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7484,7 +7877,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7503,7 +7897,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7522,7 +7917,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7541,7 +7937,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7560,7 +7957,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7579,7 +7977,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7598,7 +7997,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7617,7 +8017,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7636,7 +8037,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7655,7 +8057,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7674,7 +8077,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7693,7 +8097,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7712,7 +8117,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7731,7 +8137,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7750,7 +8157,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7769,7 +8177,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7788,7 +8197,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7807,7 +8217,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7826,7 +8237,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		},
 		{
 			"agebracket": "",
@@ -7845,7 +8257,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "",
+			"travelledfrom": ""
 		}
 	]
 }
