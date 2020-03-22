@@ -776,23 +776,23 @@
 			"address": "Was at Hotel Aaryas on Kuthattukulum Muvattupuzha Road",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"latlong": "9.8614227, 76.5813094",
-			"modeoftravel": "NA",
+			"modeoftravel": "",
 			"pid": "R2",
 			"placename": "hotel Aryaas Koothattukulam Muvattupuzha road",
 			"timefrom": "02/29/2020 10.30AM",
 			"timeto": "",
-			"type": "Hotel Visit"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Relative's house in Punalur",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"latlong": "",
-			"modeoftravel": "NA",
+			"modeoftravel": "",
 			"pid": "R2",
 			"placename": "",
 			"timefrom": "03/02/2020 10.30 AM",
 			"timeto": "",
-			"type": "Place visit"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Shopping at Golden Hypermarket, Ranni",
@@ -803,35 +803,35 @@
 			"placename": "Golden Hyper Market",
 			"timefrom": "03/03/2020 11.00 AM",
 			"timeto": "03/03/2020 12.00 PM",
-			"type": "shopping market"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Was at Marthoma Private clinic, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"latlong": "",
-			"modeoftravel": "NA",
+			"modeoftravel": "",
 			"pid": "R2",
 			"placename": "",
 			"timefrom": "04/03/2020",
 			"timeto": "",
-			"type": "Clinic visit"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Josco Jewellers Pathanamthitta",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"latlong": "",
-			"modeoftravel": "NA",
+			"modeoftravel": "",
 			"pid": "R2",
 			"placename": "",
 			"timefrom": "03/05/2020 12.00 PM",
 			"timeto": "05/03/2020 3.00 PM",
-			"type": "Place visit"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Hotel Rani Gate, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"latlong": "",
-			"modeoftravel": "NA",
+			"modeoftravel": "",
 			"pid": "R2",
 			"placename": "",
 			"timefrom": "03/05/2020 3.00 PM",
@@ -842,7 +842,7 @@
 			"address": "AM Bakers Kottayam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"latlong": "",
-			"modeoftravel": "NA",
+			"modeoftravel": "",
 			"pid": "R2",
 			"placename": "",
 			"timefrom": "03/05/2020 8.30 PM",
@@ -853,7 +853,7 @@
 			"address": "Dr. Vinod Mani's clinic, Chengalam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"latlong": "",
-			"modeoftravel": "NA",
+			"modeoftravel": "",
 			"pid": "R2",
 			"placename": "",
 			"timefrom": "03/06/2020 10.30 AM",
@@ -864,7 +864,7 @@
 			"address": "Admitted in Medical College hospital, Kottayam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"latlong": "",
-			"modeoftravel": "NA",
+			"modeoftravel": "",
 			"pid": "R3",
 			"placename": "",
 			"timefrom": "03/082020",
@@ -1298,7 +1298,7 @@
 			"placename": "Kozhikode International Airport",
 			"timefrom": "05.03.2020 9:30PM",
 			"timeto": "05.03.2020 11:00PM",
-			"type": "Airport"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Hotel Malabar Plaza\n(Near Ramanattukara)",
@@ -1309,7 +1309,7 @@
 			"placename": "Hotel Malabar Plaza",
 			"timefrom": "05.03.2020 11.15 PM",
 			"timeto": "05.03.2020 11.45 PM",
-			"type": "Hotel"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Travel on road by \ntaxi",
@@ -1331,7 +1331,7 @@
 			"placename": "",
 			"timefrom": "06.03.2020 04:00 AM",
 			"timeto": "07.03.2020 02:30pm",
-			"type": "Home"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Private Consultation \n(Dr Home) \nLocation: Mathil",
@@ -1364,7 +1364,7 @@
 			"placename": "Government Medical College Kannur",
 			"timefrom": "07.03.2020 03:30 PM",
 			"timeto": "07.03.2020 03:35 PM",
-			"type": "Governent Medical College Kannur"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Isolation unit, GMC Kannur",
@@ -1485,7 +1485,7 @@
 			"placename": "Kempegowda International Airport Bengaluru",
 			"timefrom": "08.03.2020 04:30 AM",
 			"timeto": "08.03.2020 06:15 AM",
-			"type": "Bangalore International Airport"
+			"type": "placeVisit"
 		},
 		{
 			"address": "HOME",
@@ -1507,7 +1507,7 @@
 			"placename": "Health",
 			"timefrom": "08.03.2020 02:30 PM",
 			"timeto": "08.03.2020 02:30 PM",
-			"type": "Rajiv Gandhi Chest Diseases Hospital"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Whole day he was under home quarantine",
@@ -1540,7 +1540,7 @@
 			"placename": "",
 			"timefrom": "29:02:2020 12:30 PM",
 			"timeto": "29:02:2020 05:00 PM",
-			"type": "Had tea at patencheru,Hyderabad\nOn the way had food at a dhaba near petrol bunk at kamalapur,kalaburgi"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Had fever and family physician visited and gave treatment",
@@ -1551,7 +1551,7 @@
 			"placename": "",
 			"timefrom": "06.03.2020",
 			"timeto": "",
-			"type": "Home"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Treated at home by family doctor then shifted to private hospital and got admitted,\nSample was collected and was sent to VRDL,BMC & RI\nPatient was discharged against medical advise at 10:00 PM",
@@ -1573,7 +1573,7 @@
 			"placename": "Trivandrum International Airport",
 			"timefrom": "02.03.2020 01:20AM",
 			"timeto": "",
-			"type": "Trivandrum International Airport"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Ulloor Gardens",
@@ -1595,7 +1595,7 @@
 			"placename": "Hotel Bismi",
 			"timefrom": "02.03.2020 06:00 PM",
 			"timeto": "02.03.2020 06:30 PM",
-			"type": "Hotel"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Hotel Ambadi Kannan,Medical College Junction",
@@ -1606,7 +1606,7 @@
 			"placename": "Ambadi Kannan Restaurant",
 			"timefrom": "03.03.2020 07:30 PM",
 			"timeto": "",
-			"type": "Hotel"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Hotel Bismi, Kumarapuram",
@@ -2244,7 +2244,7 @@
 			"placename": "Mangalore International Airport",
 			"timefrom": "02/29/2020 0:00",
 			"timeto": "02/29/2020 0:00",
-			"type": "Place visit"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Stayed at own house Fort",
@@ -2255,7 +2255,7 @@
 			"placename": "Kasargod Govt medical collage",
 			"timefrom": "03/01/2020 00:00",
 			"timeto": "03/02/2020 00:00",
-			"type": "Place visit"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Met father at Fathers House Near KNZ Function hall, Kalaburagi",
@@ -2266,7 +2266,7 @@
 			"placename": "Kasargod Govt medical collage",
 			"timefrom": "03/03/2020 00:00",
 			"timeto": "03/03/2020 00:00",
-			"type": "Place visit"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Stayed at own house Fort",
@@ -2277,7 +2277,7 @@
 			"placename": "Kasargod Govt medical collage",
 			"timefrom": "03/04/2020 00:00",
 			"timeto": "03/05/2020 00:00",
-			"type": "Place visit"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Met father at Fathers House Near KNZ Function hall, Kalaburagi",
@@ -2288,7 +2288,7 @@
 			"placename": "Bevinja - Bovikanam Road, Kerala 671542",
 			"timefrom": "03/06/2020 00:00",
 			"timeto": "03/06/2020 00:00",
-			"type": "Place visit"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Stayed at own house Fort",
@@ -2299,7 +2299,7 @@
 			"placename": "",
 			"timefrom": "03/07/2020 00:00",
 			"timeto": "03/08/2020 00:00",
-			"type": "Place visit"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Accompanied patient 6 (father) in ambulance during his illness from Hyderabad to Kalaburagi",
@@ -2321,7 +2321,7 @@
 			"placename": "Gulbarga Fort, Halbarga, Brhampur, Gulbarga, Karnataka 585101",
 			"timefrom": "03/10/2020 00:00",
 			"timeto": "03/10/2020 00:00",
-			"type": "Place visit"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Admitted to ESI Hospital Kalaburagi",
@@ -2332,7 +2332,7 @@
 			"placename": "KNZ Function Hall",
 			"timefrom": "03/11/2020 00:00",
 			"timeto": "",
-			"type": "Hospital"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Arrival at Nedumbassery Airport by AirIndia Flight no AI964 (JEDDAH-KOCHI)",
@@ -2343,7 +2343,7 @@
 			"placename": "Gulbarga Fort, Halbarga, Brhampur, Gulbarga, Karnataka 585101",
 			"timefrom": "03/12/2020 07:30",
 			"timeto": "03/12/2020 09:30",
-			"type": "Airport"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Started travel from Airport in Benzy travels bus with approximate 40 Travellers",
@@ -2365,7 +2365,7 @@
 			"placename": "Gulbarga Fort, Halbarga, Brhampur, Gulbarga, Karnataka 585101",
 			"timefrom": "03/12/2020 15:30",
 			"timeto": "03/12/2020 15:30",
-			"type": "Place visit"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Travel to home",
@@ -2387,7 +2387,7 @@
 			"placename": "KNZ Function Hall",
 			"timefrom": "03/12/2020 16:00",
 			"timeto": "",
-			"type": "Place visit"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Consultation at Areecode Thaluk Hospital",
@@ -2398,7 +2398,7 @@
 			"placename": "ESIC Hospital, Kalaburagi (Gulbarga)",
 			"timefrom": "03/13/2020 10:10",
 			"timeto": "03/13/2020 10:20",
-			"type": "Hospital Visit"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Return Home",
@@ -2409,7 +2409,7 @@
 			"placename": "Cochin International Airport",
 			"timefrom": "03/13/2020 11:00",
 			"timeto": "03/13/2020 11:00",
-			"type": "Place visit"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Admitted at Government Medical college, Manjeri",
@@ -2420,7 +2420,7 @@
 			"placename": "",
 			"timefrom": "03/13/2020 14:00",
 			"timeto": "",
-			"type": "Hospitalaized"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Reached Kempegowda Intl Airport by Indigo Flight no 6E96(Dubai - Banglore)",
@@ -2431,7 +2431,7 @@
 			"placename": "Haj House, kerala state hajj Committee Karipur",
 			"timefrom": "03/15/2020 16:15",
 			"timeto": "",
-			"type": "Airport"
+			"type": "placeVisit"
 		},
 		{
 			"address": "Took KSRTC Rajahamsa Bus(KA 19 F 3170) from Satellite Bus Stand to Madikeri (via Virajpet and Muranad)",
