@@ -2781,7 +2781,7 @@
 			"statuschangedate": "17/03/2020"
 		},
 		{
-			"additionalinfo": "Travel history UAE",
+			"additionalinfo": "Travelled from UAE",
 			"agebracket": "68",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -2841,7 +2841,7 @@
 			"statuschangedate": "17/03/2020"
 		},
 		{
-			"additionalinfo": "Sector 100; Travelled from France",
+			"additionalinfo": "Travelled from France, Sector 100; ",
 			"agebracket": "21",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -2901,7 +2901,7 @@
 			"statuschangedate": "17/03/2020"
 		},
 		{
-			"additionalinfo": "Father of P145, Travelled from Iran",
+			"additionalinfo": "Travelled from Iran, Father of P145, ",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -2921,7 +2921,7 @@
 			"statuschangedate": "17/03/2020"
 		},
 		{
-			"additionalinfo": "Kasaba Peth Woman, Travelled from France & Netherlands, Retuned to India on March 15th",
+			"additionalinfo": "Travelled from France & Netherlands, Kasaba Peth Woman,Retuned to India on March 15th",
 			"agebracket": "28",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -2961,7 +2961,7 @@
 			"statuschangedate": "18/03/2020"
 		},
 		{
-			"additionalinfo": "Travelled from Scotland, UK",
+			"additionalinfo": "Travelled from UK",
 			"agebracket": "22",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -3541,7 +3541,7 @@
 			"statuschangedate": "19/03/2020"
 		},
 		{
-			"additionalinfo": "HCL Emp, Travelled from International trip",
+			"additionalinfo": "Travelled from Japan. HCL Emp",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -4441,7 +4441,7 @@
 			"statuschangedate": "20/03/2020"
 		},
 		{
-			"additionalinfo": "Travelled from London, UK",
+			"additionalinfo": "Travelled from UK",
 			"agebracket": "27",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -4521,7 +4521,7 @@
 			"statuschangedate": "20/03/2020"
 		},
 		{
-			"additionalinfo": "Sector 19; Travelled from the UK",
+			"additionalinfo": "Travelled from UK, Sector 19; ",
 			"agebracket": "26",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -4541,7 +4541,7 @@
 			"statuschangedate": "20/03/2020"
 		},
 		{
-			"additionalinfo": "UK Tourist",
+			"additionalinfo": "Travelled from Dubai. UK Tourist",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "P108",
 			"currentstatus": "Hospitalized",
@@ -4561,7 +4561,7 @@
 			"statuschangedate": "20/03/2020"
 		},
 		{
-			"additionalinfo": "UK Tourist",
+			"additionalinfo": "Travelled from Dubai. UK Tourist",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "P108",
 			"currentstatus": "Hospitalized",
@@ -4581,7 +4581,7 @@
 			"statuschangedate": "20/03/2020"
 		},
 		{
-			"additionalinfo": "UK Tourist",
+			"additionalinfo": "Travelled from Dubai. UK Tourist",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "P108",
 			"currentstatus": "Hospitalized",
@@ -4601,7 +4601,7 @@
 			"statuschangedate": "20/03/2020"
 		},
 		{
-			"additionalinfo": "UK Tourist",
+			"additionalinfo": "Travelled from Dubai. UK Tourist",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "P108",
 			"currentstatus": "Hospitalized",
@@ -4621,7 +4621,7 @@
 			"statuschangedate": "20/03/2020"
 		},
 		{
-			"additionalinfo": "UK Tourist",
+			"additionalinfo": "Travelled from Dubai. UK Tourist",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "P108",
 			"currentstatus": "Hospitalized",
@@ -4721,7 +4721,7 @@
 			"statuschangedate": "20/03/2020"
 		},
 		{
-			"additionalinfo": "Sector 15; Travelled from Spain",
+			"additionalinfo": "Travelled from Spain, Sector 15; ",
 			"agebracket": "52",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -4881,7 +4881,7 @@
 			"statuschangedate": "20/03/2020"
 		},
 		{
-			"additionalinfo": "Palakkad native, Travelled from UK",
+			"additionalinfo": "Travelled from UK. Palakkad native",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -5921,7 +5921,7 @@
 			"statuschangedate": "21/03/2020"
 		},
 		{
-			"additionalinfo": "Travelled from Amsterdam, The Netherlands",
+			"additionalinfo": "Travelled from Netherlands",
 			"agebracket": "39",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -6922,7 +6922,7 @@
 		},
 		{
 			"additionalinfo": "Traveller from Spain",
-			"agebracket": "",
+			"agebracket": "26",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -6930,12 +6930,12 @@
 			"detecteddistrict": "",
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
 			"notes": "Traveller from Spain",
 			"patientnumber": "347",
 			"source1": "https://twitter.com/Vijayabaskarofl/status/1241609304127336449",
-			"source2": "",
+			"source2": "https://twitter.com/wilson_thehindu/status/1241649188783312899",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "22/03/2020"
@@ -7202,43 +7202,43 @@
 		},
 		{
 			"additionalinfo": "",
-			"agebracket": "26",
+			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
-			"detectedcity": "Coimbatore",
-			"detecteddistrict": "Coimbatore",
-			"detectedstate": "Tamil Nadu",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
-			"gender": "F",
+			"gender": "",
 			"nationality": "",
-			"notes": "Returned from Spain",
+			"notes": "Details awaited",
 			"patientnumber": "361",
-			"source1": "https://twitter.com/wilson_thehindu/status/1241649188783312899",
+			"source1": "https://twitter.com/ANI/status/1241641572162101249",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "22/03/2020"
 		},
 		{
 			"additionalinfo": "",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "22/03/2020",
 			"detectedcity": "",
 			"detecteddistrict": "",
-			"detectedstate": "",
+			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Details awaited",
 			"patientnumber": "362",
-			"source1": "",
+			"source1": "https://twitter.com/ANI/status/1241641572162101249",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "22/03/2020"
 		},
 		{
 			"additionalinfo": "",

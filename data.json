@@ -480,19 +480,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "27",
+			"confirmeddelta": "28",
 			"deceaseddelta": "2",
-			"lastupdatedtime": "March 22, 2020 at 2:08 pm",
+			"lastupdatedtime": "March 22, 2020 at 2:09 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "332",
-			"confirmed": "361",
+			"active": "333",
+			"confirmed": "362",
 			"deaths": "6",
-			"lastupdatedtime": "March 22, 2020 at 2:08 pm",
+			"lastupdatedtime": "March 22, 2020 at 2:09 pm",
 			"recovered": "23",
 			"state": "Total"
 		},
@@ -561,6 +561,14 @@
 			"state": "Karnataka"
 		},
 		{
+			"active": "20",
+			"confirmed": "21",
+			"deaths": "1",
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Punjab"
+		},
+		{
 			"active": "18",
 			"confirmed": "18",
 			"deaths": "0",
@@ -577,16 +585,8 @@
 			"state": "Ladakh"
 		},
 		{
-			"active": "18",
-			"confirmed": "19",
-			"deaths": "1",
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Punjab"
-		},
-		{
-			"active": "7",
-			"confirmed": "8",
+			"active": "6",
+			"confirmed": "7",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "1",
