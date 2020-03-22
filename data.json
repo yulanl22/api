@@ -480,19 +480,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "51",
+			"confirmeddelta": "53",
 			"deceaseddelta": "3",
-			"lastupdatedtime": "March 22, 2020 at 7:10 pm",
+			"lastupdatedtime": "March 22, 2020 at 7:20 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "355",
-			"confirmed": "385",
+			"active": "357",
+			"confirmed": "387",
 			"deaths": "7",
-			"lastupdatedtime": "March 22, 2020 at 7:10 pm",
+			"lastupdatedtime": "March 22, 2020 at 7:20 pm",
 			"recovered": "23",
 			"state": "Total"
 		},
@@ -505,8 +505,8 @@
 			"state": "Maharashtra"
 		},
 		{
-			"active": "62",
-			"confirmed": "65",
+			"active": "64",
+			"confirmed": "67",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "3",
