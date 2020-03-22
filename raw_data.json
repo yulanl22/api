@@ -1661,9 +1661,9 @@
 			"statuschangedate": "13/03/2020"
 		},
 		{
-			"additionalinfo": "Close contact of P41",
+			"additionalinfo": "Close contact of P42",
 			"agebracket": "",
-			"contractedfromwhichpatientsuspected": "P41",
+			"contractedfromwhichpatientsuspected": "P42",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "13/03/2020",
 			"detectedcity": "",
@@ -1672,7 +1672,7 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "India",
-			"notes": "Close contact of P41",
+			"notes": "Close contact of P42",
 			"patientnumber": "84",
 			"source1": "https://twitter.com/ANI/status/1238482416936701953",
 			"source2": "",
