@@ -1,7 +1,7 @@
 {
 	"raw_data": [
 		{
-			"additionalinfo": "Student from Wuhan",
+			"additionalinfo": "Travelled from Wuhan",
 			"agebracket": "20",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
@@ -21,7 +21,7 @@
 			"statuschangedate": "14/02/2020"
 		},
 		{
-			"additionalinfo": "Student from Wuhan",
+			"additionalinfo": "Travelled from Wuhan",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
@@ -41,7 +41,7 @@
 			"statuschangedate": "14/02/2020"
 		},
 		{
-			"additionalinfo": "Student from Wuhan",
+			"additionalinfo": "Travelled from Wuhan",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
@@ -401,7 +401,7 @@
 			"statuschangedate": "04/03/2020"
 		},
 		{
-			"additionalinfo": "Italian tourist (wife of P6)",
+			"additionalinfo": "Italian tourist, Wife of P6",
 			"agebracket": "70",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Recovered",
@@ -561,7 +561,7 @@
 			"statuschangedate": "04/03/2020"
 		},
 		{
-			"additionalinfo": "PayTm Emp, Travelled from Italy",
+			"additionalinfo": "Travelled from Italy PayTm Emp, ",
 			"agebracket": "27",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
