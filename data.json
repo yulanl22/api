@@ -480,19 +480,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "60",
+			"confirmeddelta": "62",
 			"deceaseddelta": "3",
-			"lastupdatedtime": "March 22, 2020 at 7:09 pm",
+			"lastupdatedtime": "March 22, 2020 at 10:06 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "364",
-			"confirmed": "394",
+			"active": "366",
+			"confirmed": "396",
 			"deaths": "7",
-			"lastupdatedtime": "March 22, 2020 at 7:09 pm",
+			"lastupdatedtime": "March 22, 2020 at 10:06 pm",
 			"recovered": "23",
 			"state": "Total"
 		},
@@ -529,14 +529,6 @@
 			"state": "Delhi"
 		},
 		{
-			"active": "21",
-			"confirmed": "24",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "3",
-			"state": "Rajasthan"
-		},
-		{
 			"active": "26",
 			"confirmed": "27",
 			"deaths": "0",
@@ -545,20 +537,28 @@
 			"state": "Telangana"
 		},
 		{
-			"active": "21",
-			"confirmed": "21",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Haryana"
-		},
-		{
 			"active": "24",
 			"confirmed": "26",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "1",
 			"state": "Karnataka"
+		},
+		{
+			"active": "21",
+			"confirmed": "24",
+			"deaths": "0",
+			"lastupdatedtime": "",
+			"recovered": "3",
+			"state": "Rajasthan"
+		},
+		{
+			"active": "21",
+			"confirmed": "21",
+			"deaths": "0",
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Haryana"
 		},
 		{
 			"active": "20",
@@ -585,12 +585,20 @@
 			"state": "Ladakh"
 		},
 		{
-			"active": "6",
-			"confirmed": "7",
+			"active": "8",
+			"confirmed": "9",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "1",
 			"state": "Tamil Nadu"
+		},
+		{
+			"active": "7",
+			"confirmed": "7",
+			"deaths": "0",
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "West Bengal"
 		},
 		{
 			"active": "6",
@@ -599,6 +607,14 @@
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Chandigarh"
+		},
+		{
+			"active": "6",
+			"confirmed": "6",
+			"deaths": "0",
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Madhya Pradesh"
 		},
 		{
 			"active": "5",
@@ -615,22 +631,6 @@
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Jammu and Kashmir"
-		},
-		{
-			"active": "6",
-			"confirmed": "6",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Madhya Pradesh"
-		},
-		{
-			"active": "7",
-			"confirmed": "7",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "West Bengal"
 		},
 		{
 			"active": "3",
