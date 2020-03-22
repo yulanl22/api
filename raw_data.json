@@ -2317,7 +2317,7 @@
 			"source1": "https://www.thehindu.com/news/national/karnataka/number-of-covid-19-positive-cases-in-karnataka-touches-seven/article31077361.ece",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "KA-P8",
+			"statepatientnumber": "KA-P7",
 			"statuschangedate": "16/03/2020"
 		},
 		{
@@ -3501,7 +3501,7 @@
 			"statuschangedate": "19/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "24",
 			"backupnotes": "Travel History to UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -3901,16 +3901,16 @@
 			"statuschangedate": "19/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "65",
 			"backupnotes": "Returned from Saudi Arabia on 12 Mar",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
-			"detectedcity": "Vishakapatnam",
+			"detectedcity": "Visakapatnam",
 			"detecteddistrict": "",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "India",
 			"notes": "Travelled from Saudi Arabia on 12 Mar",
 			"patientnumber": "196",
