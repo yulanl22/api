@@ -480,7 +480,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "1",
+			"confirmeddelta": "2",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "March 22, 2020 at 12:08 am",
 			"recovereddelta": "0",
@@ -489,8 +489,8 @@
 	],
 	"statewise": [
 		{
-			"active": "308",
-			"confirmed": "335",
+			"active": "309",
+			"confirmed": "336",
 			"deaths": "4",
 			"lastupdatedtime": "March 22, 2020 at 12:08 am",
 			"recovered": "23",
@@ -553,8 +553,8 @@
 			"state": "Telangana"
 		},
 		{
-			"active": "18",
-			"confirmed": "20",
+			"active": "19",
+			"confirmed": "21",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "1",
