@@ -482,7 +482,7 @@
 		{
 			"confirmeddelta": "16",
 			"deceaseddelta": "2",
-			"lastupdatedtime": "March 22, 2020 at 1:12 pm",
+			"lastupdatedtime": "March 22, 2020 at 1:51 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
@@ -492,7 +492,7 @@
 			"active": "321",
 			"confirmed": "350",
 			"deaths": "6",
-			"lastupdatedtime": "March 22, 2020 at 1:12 pm",
+			"lastupdatedtime": "March 22, 2020 at 1:51 pm",
 			"recovered": "23",
 			"state": "Total"
 		},
@@ -538,19 +538,19 @@
 		},
 		{
 			"active": "21",
-			"confirmed": "21",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Haryana"
-		},
-		{
-			"active": "21",
 			"confirmed": "22",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "1",
 			"state": "Telangana"
+		},
+		{
+			"active": "21",
+			"confirmed": "21",
+			"deaths": "0",
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Haryana"
 		},
 		{
 			"active": "19",
@@ -658,6 +658,14 @@
 		},
 		{
 			"active": "1",
+			"confirmed": "2",
+			"deaths": "1",
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Bihar"
+		},
+		{
+			"active": "1",
 			"confirmed": "1",
 			"deaths": "0",
 			"lastupdatedtime": "",
@@ -687,14 +695,6 @@
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Assam"
-		},
-		{
-			"active": "1",
-			"confirmed": "2",
-			"deaths": "1",
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Bihar"
 		},
 		{
 			"active": "0",
