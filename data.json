@@ -480,7 +480,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "2",
+			"confirmeddelta": "12",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "March 22, 2020 at 12:08 am",
 			"recovereddelta": "0",
@@ -489,16 +489,16 @@
 	],
 	"statewise": [
 		{
-			"active": "309",
-			"confirmed": "336",
+			"active": "319",
+			"confirmed": "346",
 			"deaths": "4",
 			"lastupdatedtime": "March 22, 2020 at 12:08 am",
 			"recovered": "23",
 			"state": "Total"
 		},
 		{
-			"active": "63",
-			"confirmed": "64",
+			"active": "73",
+			"confirmed": "74",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
