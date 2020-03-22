@@ -921,7 +921,7 @@
 			"statuschangedate": "09/03/2020"
 		},
 		{
-			"additionalinfo": "Factory worker contact with businessman",
+			"additionalinfo": "Factory Manager contact with businessman",
 			"agebracket": "48",
 			"contractedfromwhichpatientsuspected": "P4",
 			"currentstatus": "Recovered",
@@ -1601,7 +1601,7 @@
 			"statuschangedate": "12/03/2020"
 		},
 		{
-			"additionalinfo": "Canadian Doctor",
+			"additionalinfo": "Travelled from UK, Canadian Doctor",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -1921,7 +1921,7 @@
 			"statuschangedate": "14/03/2020"
 		},
 		{
-			"additionalinfo": "Have international Travelled from and were brought in from the Mumbai Airport",
+			"additionalinfo": "Have international history and were brought in from the Mumbai Airport",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -2481,7 +2481,7 @@
 			"statuschangedate": "16/03/2020"
 		},
 		{
-			"additionalinfo": "Patient Travelled from Dubai on March 1",
+			"additionalinfo": "Travelled from Dubai on March 1",
 			"agebracket": "51",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -2541,7 +2541,7 @@
 			"statuschangedate": "16/03/2020"
 		},
 		{
-			"additionalinfo": "2nd evacuee from Italy in ITBP Chhawla Camp",
+			"additionalinfo": "Travelled from Italy, 2nd evacuee from Italy in ITBP Chhawla Camp",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -2561,7 +2561,7 @@
 			"statuschangedate": "17/03/2020"
 		},
 		{
-			"additionalinfo": "3rd evacuee from Italy in ITBP Chhawla Camp",
+			"additionalinfo": "Travelled from Italy, 3rd evacuee from Italy in ITBP Chhawla Camp",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
