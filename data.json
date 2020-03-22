@@ -480,9 +480,9 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "13",
-			"deceaseddelta": "0",
-			"lastupdatedtime": "22/03/2020 12:08:18",
+			"confirmeddelta": "14",
+			"deceaseddelta": "1",
+			"lastupdatedtime": "March 22, 2020 at 12:08 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
@@ -490,9 +490,9 @@
 	"statewise": [
 		{
 			"active": "320",
-			"confirmed": "347",
-			"deaths": "4",
-			"lastupdatedtime": "22/03/2020 12:08:18",
+			"confirmed": "348",
+			"deaths": "5",
+			"lastupdatedtime": "March 22, 2020 at 12:08 pm",
 			"recovered": "23",
 			"state": "Total"
 		},
@@ -690,8 +690,8 @@
 		},
 		{
 			"active": "0",
-			"confirmed": "0",
-			"deaths": "0",
+			"confirmed": "1",
+			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Bihar"
