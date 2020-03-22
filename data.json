@@ -481,7 +481,7 @@
 	"key_values": [
 		{
 			"confirmeddelta": "28",
-			"deceaseddelta": "2",
+			"deceaseddelta": "3",
 			"lastupdatedtime": "March 22, 2020 at 2:09 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
@@ -489,9 +489,9 @@
 	],
 	"statewise": [
 		{
-			"active": "333",
+			"active": "332",
 			"confirmed": "362",
-			"deaths": "6",
+			"deaths": "7",
 			"lastupdatedtime": "March 22, 2020 at 2:09 pm",
 			"recovered": "23",
 			"state": "Total"
@@ -569,9 +569,9 @@
 			"state": "Punjab"
 		},
 		{
-			"active": "18",
+			"active": "17",
 			"confirmed": "18",
-			"deaths": "0",
+			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Gujarat"

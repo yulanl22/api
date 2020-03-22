@@ -2,7 +2,7 @@
 	"raw_data": [
 		{
 			"agebracket": "20",
-			"backup-notes": "Student from Wuhan",
+			"backupnotes": "Student from Wuhan",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
 			"dateannounced": "30/01/2020",
@@ -22,7 +22,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Student from Wuhan",
+			"backupnotes": "Student from Wuhan",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
 			"dateannounced": "02/02/2020",
@@ -42,7 +42,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Student from Wuhan",
+			"backupnotes": "Student from Wuhan",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
 			"dateannounced": "03/02/2020",
@@ -62,7 +62,7 @@
 		},
 		{
 			"agebracket": "45",
-			"backup-notes": "Travel history to Italy and Austria",
+			"backupnotes": "Travel history to Italy and Austria",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
 			"dateannounced": "02/03/2020",
@@ -82,7 +82,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Travel history to Dubai, Singapore contact",
+			"backupnotes": "Travel history to Dubai, Singapore contact",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
 			"dateannounced": "02/03/2020",
@@ -102,7 +102,7 @@
 		},
 		{
 			"agebracket": "69",
-			"backup-notes": "Italian tourist",
+			"backupnotes": "Italian tourist",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
 			"dateannounced": "03/03/2020",
@@ -122,7 +122,7 @@
 		},
 		{
 			"agebracket": "55",
-			"backup-notes": "Italian tourist",
+			"backupnotes": "Italian tourist",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -142,7 +142,7 @@
 		},
 		{
 			"agebracket": "55",
-			"backup-notes": "Italian tourist",
+			"backupnotes": "Italian tourist",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -162,7 +162,7 @@
 		},
 		{
 			"agebracket": "55",
-			"backup-notes": "Italian tourist",
+			"backupnotes": "Italian tourist",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -182,7 +182,7 @@
 		},
 		{
 			"agebracket": "55",
-			"backup-notes": "Italian tourist",
+			"backupnotes": "Italian tourist",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -202,7 +202,7 @@
 		},
 		{
 			"agebracket": "55",
-			"backup-notes": "Italian tourist",
+			"backupnotes": "Italian tourist",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -222,7 +222,7 @@
 		},
 		{
 			"agebracket": "55",
-			"backup-notes": "Italian tourist",
+			"backupnotes": "Italian tourist",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -242,7 +242,7 @@
 		},
 		{
 			"agebracket": "55",
-			"backup-notes": "Italian tourist",
+			"backupnotes": "Italian tourist",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -262,7 +262,7 @@
 		},
 		{
 			"agebracket": "55",
-			"backup-notes": "Italian tourist",
+			"backupnotes": "Italian tourist",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -282,7 +282,7 @@
 		},
 		{
 			"agebracket": "55",
-			"backup-notes": "Italian tourist",
+			"backupnotes": "Italian tourist",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -302,7 +302,7 @@
 		},
 		{
 			"agebracket": "55",
-			"backup-notes": "Italian tourist",
+			"backupnotes": "Italian tourist",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -322,7 +322,7 @@
 		},
 		{
 			"agebracket": "55",
-			"backup-notes": "Italian tourist",
+			"backupnotes": "Italian tourist",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -342,7 +342,7 @@
 		},
 		{
 			"agebracket": "55",
-			"backup-notes": "Italian tourist",
+			"backupnotes": "Italian tourist",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -362,7 +362,7 @@
 		},
 		{
 			"agebracket": "55",
-			"backup-notes": "Italian tourist",
+			"backupnotes": "Italian tourist",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -382,7 +382,7 @@
 		},
 		{
 			"agebracket": "55",
-			"backup-notes": "Italian tourist",
+			"backupnotes": "Italian tourist",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -402,7 +402,7 @@
 		},
 		{
 			"agebracket": "70",
-			"backup-notes": "Italian tourist (wife of P6)",
+			"backupnotes": "Italian tourist (wife of P6)",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Recovered",
 			"dateannounced": "04/03/2020",
@@ -422,7 +422,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Family members of P4",
+			"backupnotes": "Family members of P4",
 			"contractedfromwhichpatientsuspected": "P4",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -442,7 +442,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Family members of P4",
+			"backupnotes": "Family members of P4",
 			"contractedfromwhichpatientsuspected": "P4",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -462,7 +462,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Family members of P4",
+			"backupnotes": "Family members of P4",
 			"contractedfromwhichpatientsuspected": "P4",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -482,7 +482,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Family members of P4",
+			"backupnotes": "Family members of P4",
 			"contractedfromwhichpatientsuspected": "P4",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -502,7 +502,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Family members of P4",
+			"backupnotes": "Family members of P4",
 			"contractedfromwhichpatientsuspected": "P4",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -522,7 +522,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Family members of P4",
+			"backupnotes": "Family members of P4",
 			"contractedfromwhichpatientsuspected": "P4",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -542,7 +542,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Indian who accompanied the Italian tourists",
+			"backupnotes": "Indian who accompanied the Italian tourists",
 			"contractedfromwhichpatientsuspected": "P6",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/03/2020",
@@ -562,7 +562,7 @@
 		},
 		{
 			"agebracket": "27",
-			"backup-notes": "PayTm Emp, Travelled from Italy",
+			"backupnotes": "PayTm Emp, Travelled from Italy",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "05/03/2020",
@@ -582,7 +582,7 @@
 		},
 		{
 			"agebracket": "59",
-			"backup-notes": "Travelled to Iran",
+			"backupnotes": "Travelled to Iran",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
 			"dateannounced": "05/03/2020",
@@ -602,7 +602,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Travelled to Thailand and Malaysia",
+			"backupnotes": "Travelled to Thailand and Malaysia",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
 			"dateannounced": "06/03/2020",
@@ -622,7 +622,7 @@
 		},
 		{
 			"agebracket": "65",
-			"backup-notes": "Travelled from Iran",
+			"backupnotes": "Travelled from Iran",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "07/03/2020",
@@ -642,7 +642,7 @@
 		},
 		{
 			"agebracket": "75",
-			"backup-notes": "Travelled from Iran",
+			"backupnotes": "Travelled from Iran",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "07/03/2020",
@@ -662,7 +662,7 @@
 		},
 		{
 			"agebracket": "45",
-			"backup-notes": "Travelled from Oman",
+			"backupnotes": "Travelled from Oman",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
 			"dateannounced": "07/03/2020",
@@ -682,7 +682,7 @@
 		},
 		{
 			"agebracket": "24",
-			"backup-notes": "Travel from Italy on 29/02/2020 through Doha",
+			"backupnotes": "Travel from Italy on 29/02/2020 through Doha",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "08/03/2020",
@@ -702,7 +702,7 @@
 		},
 		{
 			"agebracket": "54",
-			"backup-notes": "Travel from Italy on 29/02/2020 through Doha",
+			"backupnotes": "Travel from Italy on 29/02/2020 through Doha",
 			"contractedfromwhichpatientsuspected": "P35",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "08/03/2020",
@@ -722,7 +722,7 @@
 		},
 		{
 			"agebracket": "53",
-			"backup-notes": "Travel from Italy on 29/02/2020 through Doha",
+			"backupnotes": "Travel from Italy on 29/02/2020 through Doha",
 			"contractedfromwhichpatientsuspected": "P35",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "08/03/2020",
@@ -742,7 +742,7 @@
 		},
 		{
 			"agebracket": "65",
-			"backup-notes": "Relative and neighbour of P35-P37",
+			"backupnotes": "Relative and neighbour of P35-P37",
 			"contractedfromwhichpatientsuspected": "P35",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "08/03/2020",
@@ -762,7 +762,7 @@
 		},
 		{
 			"agebracket": "61",
-			"backup-notes": "Relative  and neighbour of P35-P37",
+			"backupnotes": "Relative  and neighbour of P35-P37",
 			"contractedfromwhichpatientsuspected": "P35",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "08/03/2020",
@@ -782,7 +782,7 @@
 		},
 		{
 			"agebracket": "25",
-			"backup-notes": "No travel history",
+			"backupnotes": "No travel history",
 			"contractedfromwhichpatientsuspected": "P29",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "09/03/2020",
@@ -802,7 +802,7 @@
 		},
 		{
 			"agebracket": "63",
-			"backup-notes": "Travel history - Italy, S Korea, Iran",
+			"backupnotes": "Travel history - Italy, S Korea, Iran",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "09/03/2020",
@@ -822,7 +822,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Mindtree Employee, Returned from US via London",
+			"backupnotes": "Mindtree Employee, Returned from US via London",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "09/03/2020",
@@ -842,7 +842,7 @@
 		},
 		{
 			"agebracket": "3",
-			"backup-notes": "Travel from Italy on 07/03/2020 (Parents in isolation)",
+			"backupnotes": "Travel from Italy on 07/03/2020 (Parents in isolation)",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "09/03/2020",
@@ -862,7 +862,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai on 1 March, Husband of P45",
+			"backupnotes": "Returned from Dubai on 1 March, Husband of P45",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "09/03/2020",
@@ -882,7 +882,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai on 1 March, Wife of P44",
+			"backupnotes": "Returned from Dubai on 1 March, Wife of P44",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "09/03/2020",
@@ -902,7 +902,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Milan",
+			"backupnotes": "Returned from Milan",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "09/03/2020",
@@ -922,7 +922,7 @@
 		},
 		{
 			"agebracket": "48",
-			"backup-notes": "Factory worker contact with businessman",
+			"backupnotes": "Factory worker contact with businessman",
 			"contractedfromwhichpatientsuspected": "P4",
 			"currentstatus": "Recovered",
 			"dateannounced": "09/03/2020",
@@ -942,7 +942,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Was in contact with P22-P27",
+			"backupnotes": "Was in contact with P22-P27",
 			"contractedfromwhichpatientsuspected": "P22",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "09/03/2020",
@@ -962,7 +962,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Friends of P35, P36, P37",
+			"backupnotes": "Friends of P35, P36, P37",
 			"contractedfromwhichpatientsuspected": "P35, P36, P37",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "10/03/2020",
@@ -982,7 +982,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Friends of P35, P36, P37",
+			"backupnotes": "Friends of P35, P36, P37",
 			"contractedfromwhichpatientsuspected": "P35, P36, P37",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "10/03/2020",
@@ -1002,7 +1002,7 @@
 		},
 		{
 			"agebracket": "40",
-			"backup-notes": "Dell Employee, Returned from Austin on Feb 28",
+			"backupnotes": "Dell Employee, Returned from Austin on Feb 28",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "10/03/2020",
@@ -1022,7 +1022,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Wife of P51",
+			"backupnotes": "Wife of P51",
 			"contractedfromwhichpatientsuspected": "P51",
 			"currentstatus": "Recovered",
 			"dateannounced": "10/03/2020",
@@ -1042,7 +1042,7 @@
 		},
 		{
 			"agebracket": "13",
-			"backup-notes": "Daughter of P51 and P52",
+			"backupnotes": "Daughter of P51 and P52",
 			"contractedfromwhichpatientsuspected": "P51",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "10/03/2020",
@@ -1062,7 +1062,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Father of P43",
+			"backupnotes": "Father of P43",
 			"contractedfromwhichpatientsuspected": "P43",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "10/03/2020",
@@ -1082,7 +1082,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Mother of P43",
+			"backupnotes": "Mother of P43",
 			"contractedfromwhichpatientsuspected": "P43",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "10/03/2020",
@@ -1102,7 +1102,7 @@
 		},
 		{
 			"agebracket": "96",
-			"backup-notes": "Father of P36",
+			"backupnotes": "Father of P36",
 			"contractedfromwhichpatientsuspected": "P36, P37, P38",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "10/03/2020",
@@ -1122,7 +1122,7 @@
 		},
 		{
 			"agebracket": "89",
-			"backup-notes": "Mother of P36",
+			"backupnotes": "Mother of P36",
 			"contractedfromwhichpatientsuspected": "P36, P37, P38",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "10/03/2020",
@@ -1142,7 +1142,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Daughter of P36 & P37",
+			"backupnotes": "Daughter of P36 & P37",
 			"contractedfromwhichpatientsuspected": "P36, P37, P38",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "10/03/2020",
@@ -1162,7 +1162,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Son in law of P36 & P37",
+			"backupnotes": "Son in law of P36 & P37",
 			"contractedfromwhichpatientsuspected": "P36, P37, P38",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "10/03/2020",
@@ -1182,7 +1182,7 @@
 		},
 		{
 			"agebracket": "3",
-			"backup-notes": "Daughter of P44 & P45",
+			"backupnotes": "Daughter of P44 & P45",
 			"contractedfromwhichpatientsuspected": "P44, P45",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "10/03/2020",
@@ -1202,7 +1202,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Co-passenger with P44 & P45 in cab of P62 from Mumbai airport to Pune",
+			"backupnotes": "Co-passenger with P44 & P45 in cab of P62 from Mumbai airport to Pune",
 			"contractedfromwhichpatientsuspected": "P44, P45",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "10/03/2020",
@@ -1222,7 +1222,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Cab driver who ferried P44, P45, P61 from Mumbai airport to Pune",
+			"backupnotes": "Cab driver who ferried P44, P45, P61 from Mumbai airport to Pune",
 			"contractedfromwhichpatientsuspected": "P44, P45",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "10/03/2020",
@@ -1242,7 +1242,7 @@
 		},
 		{
 			"agebracket": "85",
-			"backup-notes": "Returned from Dubai",
+			"backupnotes": "Returned from Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
 			"dateannounced": "10/03/2020",
@@ -1262,7 +1262,7 @@
 		},
 		{
 			"agebracket": "46",
-			"backup-notes": "Travelled to Japan, Switzerland and Italy",
+			"backupnotes": "Travelled to Japan, Switzerland and Italy",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "11/03/2020",
@@ -1282,7 +1282,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Iran",
+			"backupnotes": "Returned from Iran",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "11/03/2020",
@@ -1302,7 +1302,7 @@
 		},
 		{
 			"agebracket": "70",
-			"backup-notes": "Returned from Dubai, Co-passengers P44, P45, spouse of P67",
+			"backupnotes": "Returned from Dubai, Co-passengers P44, P45, spouse of P67",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "11/03/2020",
@@ -1322,7 +1322,7 @@
 		},
 		{
 			"agebracket": "68",
-			"backup-notes": "Returned from Dubai, Co-passengers P44, P45, spouse of P66",
+			"backupnotes": "Returned from Dubai, Co-passengers P44, P45, spouse of P66",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "11/03/2020",
@@ -1342,7 +1342,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai, Co-passengers P44, P45",
+			"backupnotes": "Returned from Dubai, Co-passengers P44, P45",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "11/03/2020",
@@ -1362,7 +1362,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai, Co-passengers P44, P45",
+			"backupnotes": "Returned from Dubai, Co-passengers P44, P45",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "11/03/2020",
@@ -1382,7 +1382,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai, Co-passengers P44, P45",
+			"backupnotes": "Returned from Dubai, Co-passengers P44, P45",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "11/03/2020",
@@ -1402,7 +1402,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Arrived from Italy on March 6th",
+			"backupnotes": "Arrived from Italy on March 6th",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/03/2020",
@@ -1422,7 +1422,7 @@
 		},
 		{
 			"agebracket": "69",
-			"backup-notes": "Mother of P64",
+			"backupnotes": "Mother of P64",
 			"contractedfromwhichpatientsuspected": "P64",
 			"currentstatus": "Deceased",
 			"dateannounced": "12/03/2020",
@@ -1442,7 +1442,7 @@
 		},
 		{
 			"agebracket": "26",
-			"backup-notes": "Google Employee, Came from Greece to Mumbai on March 6th",
+			"backupnotes": "Google Employee, Came from Greece to Mumbai on March 6th",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
 			"dateannounced": "12/03/2020",
@@ -1462,7 +1462,7 @@
 		},
 		{
 			"agebracket": "76",
-			"backup-notes": "First death in India, Returned from Saudi on Feb 29",
+			"backupnotes": "First death in India, Returned from Saudi on Feb 29",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Deceased",
 			"dateannounced": "12/03/2020",
@@ -1482,7 +1482,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai",
+			"backupnotes": "Returned from Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/03/2020",
@@ -1502,7 +1502,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Qatar",
+			"backupnotes": "Returned from Qatar",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/03/2020",
@@ -1522,7 +1522,7 @@
 		},
 		{
 			"agebracket": "65",
-			"backup-notes": "Third death in India, Returned from Dubai on March 8, Was hospitalised in Kasturba Hospital",
+			"backupnotes": "Third death in India, Returned from Dubai on March 8, Was hospitalised in Kasturba Hospital",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Deceased",
 			"dateannounced": "12/03/2020",
@@ -1542,7 +1542,7 @@
 		},
 		{
 			"agebracket": "45",
-			"backup-notes": "Returned from US on 6th March",
+			"backupnotes": "Returned from US on 6th March",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/03/2020",
@@ -1562,7 +1562,7 @@
 		},
 		{
 			"agebracket": "33",
-			"backup-notes": "Returned from the US on 1st March",
+			"backupnotes": "Returned from the US on 1st March",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/03/2020",
@@ -1582,7 +1582,7 @@
 		},
 		{
 			"agebracket": "35",
-			"backup-notes": "Returned from France on March 8",
+			"backupnotes": "Returned from France on March 8",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/03/2020",
@@ -1602,7 +1602,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Canadian Doctor",
+			"backupnotes": "Canadian Doctor",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/03/2020",
@@ -1622,7 +1622,7 @@
 		},
 		{
 			"agebracket": "27",
-			"backup-notes": "Son of P30",
+			"backupnotes": "Son of P30",
 			"contractedfromwhichpatientsuspected": "P30",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/03/2020",
@@ -1642,7 +1642,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Restaurant worker evacuated from Italy",
+			"backupnotes": "Restaurant worker evacuated from Italy",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "13/03/2020",
@@ -1662,7 +1662,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Close contact of P42",
+			"backupnotes": "Close contact of P42",
 			"contractedfromwhichpatientsuspected": "P42",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "13/03/2020",
@@ -1682,7 +1682,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Italian national stayed in a resort at Varkala",
+			"backupnotes": "Italian national stayed in a resort at Varkala",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "13/03/2020",
@@ -1702,7 +1702,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai, has visited Italy",
+			"backupnotes": "Returned from Dubai, has visited Italy",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "13/03/2020",
@@ -1722,7 +1722,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from London via Bahrain ",
+			"backupnotes": "Returned from London via Bahrain ",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "13/03/2020",
@@ -1742,7 +1742,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Wife of P78",
+			"backupnotes": "Wife of P78",
 			"contractedfromwhichpatientsuspected": "P78",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "13/03/2020",
@@ -1762,7 +1762,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Friend of P78",
+			"backupnotes": "Friend of P78",
 			"contractedfromwhichpatientsuspected": "P78",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "13/03/2020",
@@ -1782,7 +1782,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Travel history to US",
+			"backupnotes": "Travel history to US",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "13/03/2020",
@@ -1802,7 +1802,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Wife of P73",
+			"backupnotes": "Wife of P73",
 			"contractedfromwhichpatientsuspected": "P73",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "13/03/2020",
@@ -1822,7 +1822,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai",
+			"backupnotes": "Returned from Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -1842,7 +1842,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Wife of P77",
+			"backupnotes": "Wife of P77",
 			"contractedfromwhichpatientsuspected": "P77",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -1862,7 +1862,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai on March 8, son of P77",
+			"backupnotes": "Returned from Dubai on March 8, son of P77",
 			"contractedfromwhichpatientsuspected": "P77",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -1882,7 +1882,7 @@
 		},
 		{
 			"agebracket": "37",
-			"backup-notes": "Travelled to the US , From Kalyan",
+			"backupnotes": "Travelled to the US , From Kalyan",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -1902,7 +1902,7 @@
 		},
 		{
 			"agebracket": "59",
-			"backup-notes": "Travel history to Philippines and were brought in from the Mumbai Airport",
+			"backupnotes": "Travel history to Philippines and were brought in from the Mumbai Airport",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -1922,7 +1922,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Have international travel history and were brought in from the Mumbai Airport",
+			"backupnotes": "Have international travel history and were brought in from the Mumbai Airport",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -1942,7 +1942,7 @@
 		},
 		{
 			"agebracket": "43",
-			"backup-notes": "Returned from US, travelled along with P78",
+			"backupnotes": "Returned from US, travelled along with P78",
 			"contractedfromwhichpatientsuspected": "P78",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -1962,7 +1962,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "First contacts or family members of the group of 40 who came back from Dubai earlier",
+			"backupnotes": "First contacts or family members of the group of 40 who came back from Dubai earlier",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -1982,7 +1982,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "First contacts or family members of the group of 40 who came back from Dubai earlier",
+			"backupnotes": "First contacts or family members of the group of 40 who came back from Dubai earlier",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -2002,7 +2002,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "First contacts or family members of the group of 40 who came back from Dubai earlier",
+			"backupnotes": "First contacts or family members of the group of 40 who came back from Dubai earlier",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -2022,7 +2022,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "First contacts or family members of the group of 40 who came back from Dubai earlier",
+			"backupnotes": "First contacts or family members of the group of 40 who came back from Dubai earlier",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -2042,7 +2042,7 @@
 		},
 		{
 			"agebracket": "21",
-			"backup-notes": "Travelled from Thailand",
+			"backupnotes": "Travelled from Thailand",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -2062,7 +2062,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai on 1st March",
+			"backupnotes": "Returned from Dubai on 1st March",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -2082,7 +2082,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai on 1st March",
+			"backupnotes": "Returned from Dubai on 1st March",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -2102,7 +2102,7 @@
 		},
 		{
 			"agebracket": "24",
-			"backup-notes": "Travelled to Spain",
+			"backupnotes": "Travelled to Spain",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -2122,7 +2122,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Italy",
+			"backupnotes": "Returned from Italy",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/03/2020",
@@ -2142,7 +2142,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "British citizen who had resided in Munnar resort",
+			"backupnotes": "British citizen who had resided in Munnar resort",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "15/03/2020",
@@ -2162,7 +2162,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Doctor who had been to Spain ",
+			"backupnotes": "Doctor who had been to Spain ",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "15/03/2020",
@@ -2182,7 +2182,7 @@
 		},
 		{
 			"agebracket": "59",
-			"backup-notes": "Travel history to Russia and Kazakhstan",
+			"backupnotes": "Travel history to Russia and Kazakhstan",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "15/03/2020",
@@ -2202,7 +2202,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Travelled to Japan and Dubai before his return on March 3",
+			"backupnotes": "Travelled to Japan and Dubai before his return on March 3",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "15/03/2020",
@@ -2222,7 +2222,7 @@
 		},
 		{
 			"agebracket": "46",
-			"backup-notes": "Netherlands travel history March 9",
+			"backupnotes": "Netherlands travel history March 9",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "15/03/2020",
@@ -2242,7 +2242,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Probationer travelled to Spain, Italy and Russia March 11",
+			"backupnotes": "Probationer travelled to Spain, Italy and Russia March 11",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "15/03/2020",
@@ -2262,7 +2262,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Travel history to Saudi Arabia",
+			"backupnotes": "Travel history to Saudi Arabia",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/03/2020",
@@ -2282,7 +2282,7 @@
 		},
 		{
 			"agebracket": "32",
-			"backup-notes": "Returned from the US via London on March 8, Co Passenger of P82",
+			"backupnotes": "Returned from the US via London on March 8, Co Passenger of P82",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/03/2020",
@@ -2302,7 +2302,7 @@
 		},
 		{
 			"agebracket": "45",
-			"backup-notes": "Daughter of P74",
+			"backupnotes": "Daughter of P74",
 			"contractedfromwhichpatientsuspected": "P74",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/03/2020",
@@ -2322,7 +2322,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Middle East",
+			"backupnotes": "Returned from Middle East",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/03/2020",
@@ -2342,7 +2342,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Middle East",
+			"backupnotes": "Returned from Middle East",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/03/2020",
@@ -2362,7 +2362,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Middle East",
+			"backupnotes": "Returned from Middle East",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/03/2020",
@@ -2382,7 +2382,7 @@
 		},
 		{
 			"agebracket": "47",
-			"backup-notes": "Philippines nationals who had come to Navi Mumbai",
+			"backupnotes": "Philippines nationals who had come to Navi Mumbai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/03/2020",
@@ -2402,7 +2402,7 @@
 		},
 		{
 			"agebracket": "42",
-			"backup-notes": "Philippines nationals who had come to Navi Mumbai",
+			"backupnotes": "Philippines nationals who had come to Navi Mumbai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/03/2020",
@@ -2422,7 +2422,7 @@
 		},
 		{
 			"agebracket": "33",
-			"backup-notes": "Spouse of P95, From Kalyan",
+			"backupnotes": "Spouse of P95, From Kalyan",
 			"contractedfromwhichpatientsuspected": "P95",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/03/2020",
@@ -2442,7 +2442,7 @@
 		},
 		{
 			"agebracket": "3",
-			"backup-notes": "3 year old from Kalyan, Father P95 /Mother P122",
+			"backupnotes": "3 year old from Kalyan, Father P95 /Mother P122",
 			"contractedfromwhichpatientsuspected": "P95",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/03/2020",
@@ -2462,7 +2462,7 @@
 		},
 		{
 			"agebracket": "44",
-			"backup-notes": "Travel history to Lisbon in Portugal",
+			"backupnotes": "Travel history to Lisbon in Portugal",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/03/2020",
@@ -2482,7 +2482,7 @@
 		},
 		{
 			"agebracket": "51",
-			"backup-notes": "Patient returned from Dubai on March 1",
+			"backupnotes": "Patient returned from Dubai on March 1",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/03/2020",
@@ -2502,7 +2502,7 @@
 		},
 		{
 			"agebracket": "31",
-			"backup-notes": "Returned from Italy",
+			"backupnotes": "Returned from Italy",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/03/2020",
@@ -2522,7 +2522,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Scotland",
+			"backupnotes": "Returned from Scotland",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/03/2020",
@@ -2542,7 +2542,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "2nd evacuee from Italy in ITBP Chhawla Camp",
+			"backupnotes": "2nd evacuee from Italy in ITBP Chhawla Camp",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2562,7 +2562,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "3rd evacuee from Italy in ITBP Chhawla Camp",
+			"backupnotes": "3rd evacuee from Italy in ITBP Chhawla Camp",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2582,7 +2582,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Travelled to Singapore (Feb) and Canada (Mar)",
+			"backupnotes": "Travelled to Singapore (Feb) and Canada (Mar)",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Migrated",
 			"dateannounced": "17/03/2020",
@@ -2602,7 +2602,7 @@
 		},
 		{
 			"agebracket": "29",
-			"backup-notes": "Sector 9; travelled from Malaysia",
+			"backupnotes": "Sector 9; travelled from Malaysia",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2622,7 +2622,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Travelled from Iran",
+			"backupnotes": "Travelled from Iran",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2642,7 +2642,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2662,7 +2662,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2682,7 +2682,7 @@
 		},
 		{
 			"agebracket": "20",
-			"backup-notes": "Returned from UK",
+			"backupnotes": "Returned from UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2702,7 +2702,7 @@
 		},
 		{
 			"agebracket": "67",
-			"backup-notes": "Travel history to Dubai",
+			"backupnotes": "Travel history to Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2722,7 +2722,7 @@
 		},
 		{
 			"agebracket": "63",
-			"backup-notes": "Doctor of P74",
+			"backupnotes": "Doctor of P74",
 			"contractedfromwhichpatientsuspected": "P74",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2742,7 +2742,7 @@
 		},
 		{
 			"agebracket": "49",
-			"backup-notes": "Travelled from the US on March 7",
+			"backupnotes": "Travelled from the US on March 7",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2762,7 +2762,7 @@
 		},
 		{
 			"agebracket": "26",
-			"backup-notes": "Travelled from the US on March 14",
+			"backupnotes": "Travelled from the US on March 14",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2782,7 +2782,7 @@
 		},
 		{
 			"agebracket": "68",
-			"backup-notes": "Travel history UAE",
+			"backupnotes": "Travel history UAE",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2802,7 +2802,7 @@
 		},
 		{
 			"agebracket": "52",
-			"backup-notes": "Indonesian national; The patient had flown into Delhi on March 9 and after a few days took a train to Karimnagar, about 170 km from Hyderabad, for a religious meeting with a group from Indonesia and Malaysia.",
+			"backupnotes": "Indonesian national; The patient had flown into Delhi on March 9 and after a few days took a train to Karimnagar, about 170 km from Hyderabad, for a religious meeting with a group from Indonesia and Malaysia.",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2822,7 +2822,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Sector 78; Contracted from his boss",
+			"backupnotes": "Sector 78; Contracted from his boss",
 			"contractedfromwhichpatientsuspected": "P64",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2842,7 +2842,7 @@
 		},
 		{
 			"agebracket": "21",
-			"backup-notes": "Sector 100; Travel history to France",
+			"backupnotes": "Sector 100; Travel history to France",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2862,7 +2862,7 @@
 		},
 		{
 			"agebracket": "18",
-			"backup-notes": "Travel history to United Kingdom (quarantined)",
+			"backupnotes": "Travel history to United Kingdom (quarantined)",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2882,7 +2882,7 @@
 		},
 		{
 			"agebracket": "34",
-			"backup-notes": "Indian Army jawan",
+			"backupnotes": "Indian Army jawan",
 			"contractedfromwhichpatientsuspected": "P146",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2902,7 +2902,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Father of P145, Returned from Iran",
+			"backupnotes": "Father of P145, Returned from Iran",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
@@ -2922,7 +2922,7 @@
 		},
 		{
 			"agebracket": "28",
-			"backup-notes": "Kasaba Peth Woman, Travel History to France & Netherlands, Retuned to India on March 15th",
+			"backupnotes": "Kasaba Peth Woman, Travel History to France & Netherlands, Retuned to India on March 15th",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -2942,7 +2942,7 @@
 		},
 		{
 			"agebracket": "25",
-			"backup-notes": "KGMU Doctor treating infected patients",
+			"backupnotes": "KGMU Doctor treating infected patients",
 			"contractedfromwhichpatientsuspected": "P81",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -2962,7 +2962,7 @@
 		},
 		{
 			"agebracket": "22",
-			"backup-notes": "Travelled from Scotland, UK",
+			"backupnotes": "Travelled from Scotland, UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -2982,7 +2982,7 @@
 		},
 		{
 			"agebracket": "56",
-			"backup-notes": "Travel History to the US",
+			"backupnotes": "Travel History to the US",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3002,7 +3002,7 @@
 		},
 		{
 			"agebracket": "25",
-			"backup-notes": "Travel History to Spain",
+			"backupnotes": "Travel History to Spain",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3022,7 +3022,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Travel history to Indonesia",
+			"backupnotes": "Travel history to Indonesia",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3042,7 +3042,7 @@
 		},
 		{
 			"agebracket": "44",
-			"backup-notes": "Travel History to the UK",
+			"backupnotes": "Travel History to the UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3062,7 +3062,7 @@
 		},
 		{
 			"agebracket": "20",
-			"backup-notes": "Reached Chennai from Delhi via Train",
+			"backupnotes": "Reached Chennai from Delhi via Train",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3082,7 +3082,7 @@
 		},
 		{
 			"agebracket": "68",
-			"backup-notes": "Residing at N Ward,Close contact of another Covid Patient",
+			"backupnotes": "Residing at N Ward,Close contact of another Covid Patient",
 			"contractedfromwhichpatientsuspected": "P138",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3102,7 +3102,7 @@
 		},
 		{
 			"agebracket": "35",
-			"backup-notes": "Travel History to the US",
+			"backupnotes": "Travel History to the US",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3122,7 +3122,7 @@
 		},
 		{
 			"agebracket": "21",
-			"backup-notes": "Travel History to Philippines, Singapore and Sri Lanka",
+			"backupnotes": "Travel History to Philippines, Singapore and Sri Lanka",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3142,7 +3142,7 @@
 		},
 		{
 			"agebracket": "50",
-			"backup-notes": "Travel history to Dubai.",
+			"backupnotes": "Travel history to Dubai.",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3162,7 +3162,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Foreign Travel",
+			"backupnotes": "Foreign Travel",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3182,7 +3182,7 @@
 		},
 		{
 			"agebracket": "33",
-			"backup-notes": "Returned from Italy on March 8",
+			"backupnotes": "Returned from Italy on March 8",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3202,7 +3202,7 @@
 		},
 		{
 			"agebracket": "30",
-			"backup-notes": "Returned from Italy on March 8",
+			"backupnotes": "Returned from Italy on March 8",
 			"contractedfromwhichpatientsuspected": "P160",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3222,7 +3222,7 @@
 		},
 		{
 			"agebracket": "3",
-			"backup-notes": "Returned from Italy on March 8",
+			"backupnotes": "Returned from Italy on March 8",
 			"contractedfromwhichpatientsuspected": "P160",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3242,7 +3242,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Indonesian",
+			"backupnotes": "Indonesian",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3262,7 +3262,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Indonesian",
+			"backupnotes": "Indonesian",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3282,7 +3282,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Indonesian",
+			"backupnotes": "Indonesian",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3302,7 +3302,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Indonesian",
+			"backupnotes": "Indonesian",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3322,7 +3322,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Indonesian",
+			"backupnotes": "Indonesian",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3342,7 +3342,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Indonesian",
+			"backupnotes": "Indonesian",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3362,7 +3362,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Indonesian",
+			"backupnotes": "Indonesian",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3382,7 +3382,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Wife of P153",
+			"backupnotes": "Wife of P153",
 			"contractedfromwhichpatientsuspected": "P153",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3402,7 +3402,7 @@
 		},
 		{
 			"agebracket": "38",
-			"backup-notes": "Returned from Saudi Arabia",
+			"backupnotes": "Returned from Saudi Arabia",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/03/2020",
@@ -3422,7 +3422,7 @@
 		},
 		{
 			"agebracket": "23",
-			"backup-notes": "Travel History to UK",
+			"backupnotes": "Travel History to UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3442,7 +3442,7 @@
 		},
 		{
 			"agebracket": "22",
-			"backup-notes": "Travel History to UK",
+			"backupnotes": "Travel History to UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3462,7 +3462,7 @@
 		},
 		{
 			"agebracket": "49",
-			"backup-notes": "Travel History to Dubai",
+			"backupnotes": "Travel History to Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3482,7 +3482,7 @@
 		},
 		{
 			"agebracket": "35",
-			"backup-notes": "Travel history to Saudi Arabia",
+			"backupnotes": "Travel history to Saudi Arabia",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3502,7 +3502,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Travel History to UK",
+			"backupnotes": "Travel History to UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3522,7 +3522,7 @@
 		},
 		{
 			"agebracket": "24",
-			"backup-notes": "Travel History to UK",
+			"backupnotes": "Travel History to UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3542,7 +3542,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "HCL Emp, Returned from International trip",
+			"backupnotes": "HCL Emp, Returned from International trip",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3562,7 +3562,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Travel history to UK",
+			"backupnotes": "Travel history to UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3582,7 +3582,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Travel history to Turkey",
+			"backupnotes": "Travel history to Turkey",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3602,7 +3602,7 @@
 		},
 		{
 			"agebracket": "21",
-			"backup-notes": "Returned from Dublin, Ireland on 17/3",
+			"backupnotes": "Returned from Dublin, Ireland on 17/3",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3622,7 +3622,7 @@
 		},
 		{
 			"agebracket": "70",
-			"backup-notes": "Arrived from Germany via Italy",
+			"backupnotes": "Arrived from Germany via Italy",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Deceased",
 			"dateannounced": "19/03/2020",
@@ -3642,7 +3642,7 @@
 		},
 		{
 			"agebracket": "47",
-			"backup-notes": "Arrived from Dubai via Kozhikode",
+			"backupnotes": "Arrived from Dubai via Kozhikode",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3662,7 +3662,7 @@
 		},
 		{
 			"agebracket": "32",
-			"backup-notes": "Travelled from Mecca, Saudi Arabia",
+			"backupnotes": "Travelled from Mecca, Saudi Arabia",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3682,7 +3682,7 @@
 		},
 		{
 			"agebracket": "21",
-			"backup-notes": "Travelled from London, UK via Mumbai",
+			"backupnotes": "Travelled from London, UK via Mumbai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3702,7 +3702,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3722,7 +3722,7 @@
 		},
 		{
 			"agebracket": "51",
-			"backup-notes": "Returned from Dubai",
+			"backupnotes": "Returned from Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3742,7 +3742,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Spain; Indira Gandhi National Forest Academy Trainee",
+			"backupnotes": "Returned from Spain; Indira Gandhi National Forest Academy Trainee",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3762,7 +3762,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Spain; Indira Gandhi National Forest Academy Trainee",
+			"backupnotes": "Returned from Spain; Indira Gandhi National Forest Academy Trainee",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3782,7 +3782,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from London on 10th Mar",
+			"backupnotes": "Returned from London on 10th Mar",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3802,7 +3802,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai on 14 Mar",
+			"backupnotes": "Returned from Dubai on 14 Mar",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3822,7 +3822,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from London",
+			"backupnotes": "Returned from London",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3842,7 +3842,7 @@
 		},
 		{
 			"agebracket": "19",
-			"backup-notes": "Travel History to the UK",
+			"backupnotes": "Travel History to the UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3862,7 +3862,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Spain via Dubai - New Delhi on 18 Mar; Husband of P195",
+			"backupnotes": "Returned from Spain via Dubai - New Delhi on 18 Mar; Husband of P195",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3882,7 +3882,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Spain via Dubai - New Delhi on 18 Mar; Wife of P194",
+			"backupnotes": "Returned from Spain via Dubai - New Delhi on 18 Mar; Wife of P194",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3902,7 +3902,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Saudi Arabia on 12 Mar",
+			"backupnotes": "Returned from Saudi Arabia on 12 Mar",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3922,7 +3922,7 @@
 		},
 		{
 			"agebracket": "22",
-			"backup-notes": "Returned from London",
+			"backupnotes": "Returned from London",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3942,7 +3942,7 @@
 		},
 		{
 			"agebracket": "22",
-			"backup-notes": "Travel history to UK",
+			"backupnotes": "Travel history to UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3962,7 +3962,7 @@
 		},
 		{
 			"agebracket": "32",
-			"backup-notes": "Travel history to Mexico",
+			"backupnotes": "Travel history to Mexico",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
@@ -3982,7 +3982,7 @@
 		},
 		{
 			"agebracket": "22",
-			"backup-notes": "Travelled to UK",
+			"backupnotes": "Travelled to UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4002,7 +4002,7 @@
 		},
 		{
 			"agebracket": "69",
-			"backup-notes": "Returned from UK",
+			"backupnotes": "Returned from UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4022,7 +4022,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Related to SBI employee (Patient ID Unknown)",
+			"backupnotes": "Related to SBI employee (Patient ID Unknown)",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4042,7 +4042,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4062,7 +4062,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Relative of Patient (Patient unknown)",
+			"backupnotes": "Relative of Patient (Patient unknown)",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4082,7 +4082,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Relative of Patient (Patient unknown)",
+			"backupnotes": "Relative of Patient (Patient unknown)",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4102,7 +4102,7 @@
 		},
 		{
 			"agebracket": "58",
-			"backup-notes": "Travel history to UK",
+			"backupnotes": "Travel history to UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4122,7 +4122,7 @@
 		},
 		{
 			"agebracket": "24",
-			"backup-notes": "Brother of P157",
+			"backupnotes": "Brother of P157",
 			"contractedfromwhichpatientsuspected": "P157",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4142,7 +4142,7 @@
 		},
 		{
 			"agebracket": "38",
-			"backup-notes": "Travel History to Turkey",
+			"backupnotes": "Travel History to Turkey",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4162,7 +4162,7 @@
 		},
 		{
 			"agebracket": "20",
-			"backup-notes": "Travel History to Scotland",
+			"backupnotes": "Travel History to Scotland",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4182,7 +4182,7 @@
 		},
 		{
 			"agebracket": "22",
-			"backup-notes": "Returned from New York",
+			"backupnotes": "Returned from New York",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4202,7 +4202,7 @@
 		},
 		{
 			"agebracket": "34",
-			"backup-notes": "Returned from Finland via Delhi",
+			"backupnotes": "Returned from Finland via Delhi",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4222,7 +4222,7 @@
 		},
 		{
 			"agebracket": "47",
-			"backup-notes": "Travel history to Spain via Mumbai",
+			"backupnotes": "Travel history to Spain via Mumbai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4242,7 +4242,7 @@
 		},
 		{
 			"agebracket": "37",
-			"backup-notes": "Relative of P142, junior resident at KGMU",
+			"backupnotes": "Relative of P142, junior resident at KGMU",
 			"contractedfromwhichpatientsuspected": "P142",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4262,7 +4262,7 @@
 		},
 		{
 			"agebracket": "35",
-			"backup-notes": "Relative of P142, junior resident at KGMU",
+			"backupnotes": "Relative of P142, junior resident at KGMU",
 			"contractedfromwhichpatientsuspected": "P142",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4282,7 +4282,7 @@
 		},
 		{
 			"agebracket": "20",
-			"backup-notes": "Relative of P142, junior resident at KGMU",
+			"backupnotes": "Relative of P142, junior resident at KGMU",
 			"contractedfromwhichpatientsuspected": "P142",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4302,7 +4302,7 @@
 		},
 		{
 			"agebracket": "41",
-			"backup-notes": "Travel history to UK",
+			"backupnotes": "Travel history to UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4322,7 +4322,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Rangoli Garden, Vaishali Nagar",
+			"backupnotes": "Rangoli Garden, Vaishali Nagar",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4342,7 +4342,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Doctor",
+			"backupnotes": "Doctor",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4362,7 +4362,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Doctor",
+			"backupnotes": "Doctor",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4382,7 +4382,7 @@
 		},
 		{
 			"agebracket": "18",
-			"backup-notes": "Travel history to UK",
+			"backupnotes": "Travel history to UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4402,7 +4402,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4422,7 +4422,7 @@
 		},
 		{
 			"agebracket": "69",
-			"backup-notes": "Travel history to Sri Lanka",
+			"backupnotes": "Travel history to Sri Lanka",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4442,7 +4442,7 @@
 		},
 		{
 			"agebracket": "27",
-			"backup-notes": "Returned from London, UK",
+			"backupnotes": "Returned from London, UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4462,7 +4462,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Mother of P172",
+			"backupnotes": "Mother of P172",
 			"contractedfromwhichpatientsuspected": "P172",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4482,7 +4482,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Brother of P172",
+			"backupnotes": "Brother of P172",
 			"contractedfromwhichpatientsuspected": "P172",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4502,7 +4502,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Cook of P172",
+			"backupnotes": "Cook of P172",
 			"contractedfromwhichpatientsuspected": "P172",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4522,7 +4522,7 @@
 		},
 		{
 			"agebracket": "26",
-			"backup-notes": "Sector 19; Travel history to the UK",
+			"backupnotes": "Sector 19; Travel history to the UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4542,7 +4542,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "UK Tourist",
+			"backupnotes": "UK Tourist",
 			"contractedfromwhichpatientsuspected": "P108",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4562,7 +4562,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "UK Tourist",
+			"backupnotes": "UK Tourist",
 			"contractedfromwhichpatientsuspected": "P108",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4582,7 +4582,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "UK Tourist",
+			"backupnotes": "UK Tourist",
 			"contractedfromwhichpatientsuspected": "P108",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4602,7 +4602,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "UK Tourist",
+			"backupnotes": "UK Tourist",
 			"contractedfromwhichpatientsuspected": "P108",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4622,7 +4622,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "UK Tourist",
+			"backupnotes": "UK Tourist",
 			"contractedfromwhichpatientsuspected": "P108",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4642,7 +4642,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Bangar Hospital Doctor",
+			"backupnotes": "Bangar Hospital Doctor",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4662,7 +4662,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Bangar Hospital Compounder",
+			"backupnotes": "Bangar Hospital Compounder",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4682,7 +4682,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Bangar Hospital Compounder",
+			"backupnotes": "Bangar Hospital Compounder",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4702,7 +4702,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Bangar Hospital Compounder",
+			"backupnotes": "Bangar Hospital Compounder",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4722,7 +4722,7 @@
 		},
 		{
 			"agebracket": "52",
-			"backup-notes": "Sector 15; Travel History to Spain",
+			"backupnotes": "Sector 15; Travel History to Spain",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4742,7 +4742,7 @@
 		},
 		{
 			"agebracket": "21",
-			"backup-notes": "Travel History to UK",
+			"backupnotes": "Travel History to UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4762,7 +4762,7 @@
 		},
 		{
 			"agebracket": "52",
-			"backup-notes": "Returned from Sharjah ",
+			"backupnotes": "Returned from Sharjah ",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4782,7 +4782,7 @@
 		},
 		{
 			"agebracket": "27",
-			"backup-notes": "Returned from Dubai via Mangalore",
+			"backupnotes": "Returned from Dubai via Mangalore",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4802,7 +4802,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Travelled in a car with P117",
+			"backupnotes": "Travelled in a car with P117",
 			"contractedfromwhichpatientsuspected": "P117",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4822,7 +4822,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Relative of P117",
+			"backupnotes": "Relative of P117",
 			"contractedfromwhichpatientsuspected": "P117",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4842,7 +4842,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Relative of P117",
+			"backupnotes": "Relative of P117",
 			"contractedfromwhichpatientsuspected": "P117",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4862,7 +4862,7 @@
 		},
 		{
 			"agebracket": "2",
-			"backup-notes": "Relative of P117",
+			"backupnotes": "Relative of P117",
 			"contractedfromwhichpatientsuspected": "P117",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4882,7 +4882,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Palakkad native, returned from UK",
+			"backupnotes": "Palakkad native, returned from UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4902,7 +4902,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai",
+			"backupnotes": "Returned from Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4922,7 +4922,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Singapore",
+			"backupnotes": "Returned from Singapore",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4942,7 +4942,7 @@
 		},
 		{
 			"agebracket": "59",
-			"backup-notes": "Travel history to Dubai and Thailand(Family)",
+			"backupnotes": "Travel history to Dubai and Thailand(Family)",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4962,7 +4962,7 @@
 		},
 		{
 			"agebracket": "45",
-			"backup-notes": "Travel history to Dubai and Thailand(Family)",
+			"backupnotes": "Travel history to Dubai and Thailand(Family)",
 			"contractedfromwhichpatientsuspected": "P248",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -4982,7 +4982,7 @@
 		},
 		{
 			"agebracket": "22",
-			"backup-notes": "Travel history to Dubai and Thailand(Family)",
+			"backupnotes": "Travel history to Dubai and Thailand(Family)",
 			"contractedfromwhichpatientsuspected": "P248",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -5002,7 +5002,7 @@
 		},
 		{
 			"agebracket": "24",
-			"backup-notes": "Travel history to Germany and Switzerland",
+			"backupnotes": "Travel history to Germany and Switzerland",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -5022,7 +5022,7 @@
 		},
 		{
 			"agebracket": "27",
-			"backup-notes": "Indonesian citizen",
+			"backupnotes": "Indonesian citizen",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -5042,7 +5042,7 @@
 		},
 		{
 			"agebracket": "60",
-			"backup-notes": "Indonesian citizen",
+			"backupnotes": "Indonesian citizen",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -5062,7 +5062,7 @@
 		},
 		{
 			"agebracket": "32",
-			"backup-notes": "Travel history to France",
+			"backupnotes": "Travel history to France",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -5082,7 +5082,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -5102,7 +5102,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -5122,7 +5122,7 @@
 		},
 		{
 			"agebracket": "53",
-			"backup-notes": "Travel History to Dubai",
+			"backupnotes": "Travel History to Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -5142,7 +5142,7 @@
 		},
 		{
 			"agebracket": "20",
-			"backup-notes": "Travel History to Scotland",
+			"backupnotes": "Travel History to Scotland",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
@@ -5162,7 +5162,7 @@
 		},
 		{
 			"agebracket": "23",
-			"backup-notes": "Returned from Scotland via Mumbai",
+			"backupnotes": "Returned from Scotland via Mumbai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5182,7 +5182,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Staff of Private Hospital",
+			"backupnotes": "Staff of Private Hospital",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5202,7 +5202,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Staff of Private Hospital",
+			"backupnotes": "Staff of Private Hospital",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5222,7 +5222,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Staff of Private Hospital",
+			"backupnotes": "Staff of Private Hospital",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5242,7 +5242,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Staff of Private Hospital",
+			"backupnotes": "Staff of Private Hospital",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5262,7 +5262,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Staff of Private Hospital",
+			"backupnotes": "Staff of Private Hospital",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5282,7 +5282,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5302,7 +5302,7 @@
 		},
 		{
 			"agebracket": "42",
-			"backup-notes": "Travel history to UK",
+			"backupnotes": "Travel history to UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5322,7 +5322,7 @@
 		},
 		{
 			"agebracket": "74",
-			"backup-notes": "Sister of P201",
+			"backupnotes": "Sister of P201",
 			"contractedfromwhichpatientsuspected": "P201",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5342,7 +5342,7 @@
 		},
 		{
 			"agebracket": "28",
-			"backup-notes": "Employee of P172, Accompanied P224 & Driver",
+			"backupnotes": "Employee of P172, Accompanied P224 & Driver",
 			"contractedfromwhichpatientsuspected": "P172",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5362,7 +5362,7 @@
 		},
 		{
 			"agebracket": "52",
-			"backup-notes": "Travel History to Sri Lanka, same group as P222",
+			"backupnotes": "Travel History to Sri Lanka, same group as P222",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5382,7 +5382,7 @@
 		},
 		{
 			"agebracket": "63",
-			"backup-notes": "Travel history to UK, had a chronic history of diabetes, high blood pressure, and ischemic heart disease.",
+			"backupnotes": "Travel history to UK, had a chronic history of diabetes, high blood pressure, and ischemic heart disease.",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Deceased",
 			"dateannounced": "21/03/2020",
@@ -5402,7 +5402,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5422,7 +5422,7 @@
 		},
 		{
 			"agebracket": "41",
-			"backup-notes": "Admitted on Swine Flu suspicion; COVID19 confirmed",
+			"backupnotes": "Admitted on Swine Flu suspicion; COVID19 confirmed",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5442,7 +5442,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Travel History to Ireland",
+			"backupnotes": "Travel History to Ireland",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5462,7 +5462,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5482,7 +5482,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5502,7 +5502,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5522,7 +5522,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5542,7 +5542,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Airport Official, Details awaited",
+			"backupnotes": "Airport Official, Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5562,7 +5562,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited; MoHFW reported 26 on 21 Mar AM",
+			"backupnotes": "Details awaited; MoHFW reported 26 on 21 Mar AM",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5582,7 +5582,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited; MoHFW reported 26 on 21 Mar AM",
+			"backupnotes": "Details awaited; MoHFW reported 26 on 21 Mar AM",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5602,7 +5602,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited; MoHFW reported 26 on 21 Mar AM",
+			"backupnotes": "Details awaited; MoHFW reported 26 on 21 Mar AM",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5622,7 +5622,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited; MoHFW reported 26 on 21 Mar AM",
+			"backupnotes": "Details awaited; MoHFW reported 26 on 21 Mar AM",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5642,7 +5642,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited; MoHFW reported 26 on 21 Mar AM",
+			"backupnotes": "Details awaited; MoHFW reported 26 on 21 Mar AM",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5662,7 +5662,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited; MoHFW reported 26 on 21 Mar AM",
+			"backupnotes": "Details awaited; MoHFW reported 26 on 21 Mar AM",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5682,7 +5682,7 @@
 		},
 		{
 			"agebracket": "32",
-			"backup-notes": "Travel history to Mecca, Saudi Arabia",
+			"backupnotes": "Travel history to Mecca, Saudi Arabia",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5702,7 +5702,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Supertech Capetown, Sector 74, NOIDA",
+			"backupnotes": "Supertech Capetown, Sector 74, NOIDA",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5722,7 +5722,7 @@
 		},
 		{
 			"agebracket": "38",
-			"backup-notes": "Worked at a beauty salon that Chandigarh’s first coronavirus patient visited",
+			"backupnotes": "Worked at a beauty salon that Chandigarh’s first coronavirus patient visited",
 			"contractedfromwhichpatientsuspected": "P172",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5742,7 +5742,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Relative of Leh Patient (ID Unknown)",
+			"backupnotes": "Relative of Leh Patient (ID Unknown)",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5762,7 +5762,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Relative of Leh Patient (ID Unknown)",
+			"backupnotes": "Relative of Leh Patient (ID Unknown)",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5782,7 +5782,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Relative of P132",
+			"backupnotes": "Relative of P132",
 			"contractedfromwhichpatientsuspected": "P132",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5802,7 +5802,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5822,7 +5822,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5841,16 +5841,16 @@
 			"statuschangedate": "21/03/2020"
 		},
 		{
-			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"agebracket": "69",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Deceased",
 			"dateannounced": "21/03/2020",
 			"detectedcity": "Surat",
 			"detecteddistrict": "Surat",
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "India",
 			"notes": "Details awaited",
 			"patientnumber": "293",
@@ -5858,11 +5858,11 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "22/03/2020"
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5882,7 +5882,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5902,7 +5902,7 @@
 		},
 		{
 			"agebracket": "53",
-			"backup-notes": "Domestic Help of P137",
+			"backupnotes": "Domestic Help of P137",
 			"contractedfromwhichpatientsuspected": "P137",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5922,7 +5922,7 @@
 		},
 		{
 			"agebracket": "39",
-			"backup-notes": "Travel history to Amsterdam, The Netherlands",
+			"backupnotes": "Travel history to Amsterdam, The Netherlands",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5942,7 +5942,7 @@
 		},
 		{
 			"agebracket": "19",
-			"backup-notes": "Travel History to France",
+			"backupnotes": "Travel History to France",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5962,7 +5962,7 @@
 		},
 		{
 			"agebracket": "35",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "P191",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -5982,7 +5982,7 @@
 		},
 		{
 			"agebracket": "33",
-			"backup-notes": "Bellisima (?) Cruise employee; Travelled from Dubai",
+			"backupnotes": "Bellisima (?) Cruise employee; Travelled from Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6002,7 +6002,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6022,7 +6022,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6042,7 +6042,7 @@
 		},
 		{
 			"agebracket": "65",
-			"backup-notes": "Travel history to New Zealand",
+			"backupnotes": "Travel history to New Zealand",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6062,7 +6062,7 @@
 		},
 		{
 			"agebracket": "35",
-			"backup-notes": "Son of P182",
+			"backupnotes": "Son of P182",
 			"contractedfromwhichpatientsuspected": "P182",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6082,7 +6082,7 @@
 		},
 		{
 			"agebracket": "34",
-			"backup-notes": "Son of P182",
+			"backupnotes": "Son of P182",
 			"contractedfromwhichpatientsuspected": "P182",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6102,7 +6102,7 @@
 		},
 		{
 			"agebracket": "45",
-			"backup-notes": "Son of P182",
+			"backupnotes": "Son of P182",
 			"contractedfromwhichpatientsuspected": "P182",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6122,7 +6122,7 @@
 		},
 		{
 			"agebracket": "40",
-			"backup-notes": "Daughter in Law of P182",
+			"backupnotes": "Daughter in Law of P182",
 			"contractedfromwhichpatientsuspected": "P182",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6142,7 +6142,7 @@
 		},
 		{
 			"agebracket": "17",
-			"backup-notes": "Grand daughter of P182",
+			"backupnotes": "Grand daughter of P182",
 			"contractedfromwhichpatientsuspected": "P182",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6162,7 +6162,7 @@
 		},
 		{
 			"agebracket": "36",
-			"backup-notes": "Daughter of P182",
+			"backupnotes": "Daughter of P182",
 			"contractedfromwhichpatientsuspected": "P182",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6182,7 +6182,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Travel history to Congo",
+			"backupnotes": "Travel history to Congo",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6202,7 +6202,7 @@
 		},
 		{
 			"agebracket": "60",
-			"backup-notes": "In contact with P182",
+			"backupnotes": "In contact with P182",
 			"contractedfromwhichpatientsuspected": "P182",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6222,7 +6222,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited; Returned from a Gulf Country",
+			"backupnotes": "Details awaited; Returned from a Gulf Country",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6242,7 +6242,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited; Returned from a Gulf Country",
+			"backupnotes": "Details awaited; Returned from a Gulf Country",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6262,7 +6262,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited; Returned from a Gulf Country",
+			"backupnotes": "Details awaited; Returned from a Gulf Country",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6282,7 +6282,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai",
+			"backupnotes": "Returned from Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6302,7 +6302,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai",
+			"backupnotes": "Returned from Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6322,7 +6322,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai",
+			"backupnotes": "Returned from Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6342,7 +6342,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai",
+			"backupnotes": "Returned from Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6362,7 +6362,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai",
+			"backupnotes": "Returned from Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6382,7 +6382,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Returned from Dubai",
+			"backupnotes": "Returned from Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6402,7 +6402,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited; Returned from a Gulf Country",
+			"backupnotes": "Details awaited; Returned from a Gulf Country",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6422,7 +6422,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited; Returned from a Gulf Country",
+			"backupnotes": "Details awaited; Returned from a Gulf Country",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6442,7 +6442,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited; Returned from a Gulf Country",
+			"backupnotes": "Details awaited; Returned from a Gulf Country",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6462,7 +6462,7 @@
 		},
 		{
 			"agebracket": "21",
-			"backup-notes": "Travel history to Edinburgh, Scotland",
+			"backupnotes": "Travel history to Edinburgh, Scotland",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6482,7 +6482,7 @@
 		},
 		{
 			"agebracket": "35",
-			"backup-notes": "Travel History to Dubai via Bengaluru",
+			"backupnotes": "Travel History to Dubai via Bengaluru",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6502,7 +6502,7 @@
 		},
 		{
 			"agebracket": "23",
-			"backup-notes": "Sector 14; Travel History to the UK",
+			"backupnotes": "Sector 14; Travel History to the UK",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6522,7 +6522,7 @@
 		},
 		{
 			"agebracket": "57",
-			"backup-notes": "No Travel History, Details awaited",
+			"backupnotes": "No Travel History, Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6542,7 +6542,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6562,7 +6562,7 @@
 		},
 		{
 			"agebracket": "59",
-			"backup-notes": "Returned from Saudi Arabia",
+			"backupnotes": "Returned from Saudi Arabia",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6582,7 +6582,7 @@
 		},
 		{
 			"agebracket": "22",
-			"backup-notes": "London to Hyderabad to Rajahmundry",
+			"backupnotes": "London to Hyderabad to Rajahmundry",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6602,7 +6602,7 @@
 		},
 		{
 			"agebracket": "24",
-			"backup-notes": "Paris to Delhi to Hyderabad to Vijayawada",
+			"backupnotes": "Paris to Delhi to Hyderabad to Vijayawada",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6622,7 +6622,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6642,7 +6642,7 @@
 		},
 		{
 			"agebracket": "31",
-			"backup-notes": "Returned from Dubai",
+			"backupnotes": "Returned from Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6662,7 +6662,7 @@
 		},
 		{
 			"agebracket": "30",
-			"backup-notes": "Arrived in Delhi from Dubai on March 17 and went to Varanasi on March 18 in train",
+			"backupnotes": "Arrived in Delhi from Dubai on March 17 and went to Varanasi on March 18 in train",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "21/03/2020",
@@ -6682,7 +6682,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Scondary contact of Chandigarh's first positive case, has tested positive",
+			"backupnotes": "Scondary contact of Chandigarh's first positive case, has tested positive",
 			"contractedfromwhichpatientsuspected": "P172",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -6702,7 +6702,7 @@
 		},
 		{
 			"agebracket": "33",
-			"backup-notes": "Foreign travel history",
+			"backupnotes": "Foreign travel history",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -6722,7 +6722,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -6742,7 +6742,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -6762,7 +6762,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -6782,7 +6782,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -6802,7 +6802,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -6822,7 +6822,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -6842,7 +6842,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Close Relatives of P272",
+			"backupnotes": "Close Relatives of P272",
 			"contractedfromwhichpatientsuspected": "P272",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -6862,7 +6862,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Close Relatives of P272",
+			"backupnotes": "Close Relatives of P272",
 			"contractedfromwhichpatientsuspected": "P272",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -6882,7 +6882,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Close Relatives of P272",
+			"backupnotes": "Close Relatives of P272",
 			"contractedfromwhichpatientsuspected": "P272",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -6902,7 +6902,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Close Relatives of P272",
+			"backupnotes": "Close Relatives of P272",
 			"contractedfromwhichpatientsuspected": "P272",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -6922,7 +6922,7 @@
 		},
 		{
 			"agebracket": "26",
-			"backup-notes": "Traveller from Spain",
+			"backupnotes": "Traveller from Spain",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -6942,7 +6942,7 @@
 		},
 		{
 			"agebracket": "38",
-			"backup-notes": "He was from Munger. He died yesterday at AIIMS in Patna; had returned from Kolkata two days back.Foreign travel history to Qatar",
+			"backupnotes": "He was from Munger. He died yesterday at AIIMS in Patna; had returned from Kolkata two days back.Foreign travel history to Qatar",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Deceased",
 			"dateannounced": "22/03/2020",
@@ -6962,7 +6962,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Patient has recently returned from Scotland.",
+			"backupnotes": "Patient has recently returned from Scotland.",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -6982,7 +6982,7 @@
 		},
 		{
 			"agebracket": "24",
-			"backup-notes": "From London via Dubai",
+			"backupnotes": "From London via Dubai",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -7002,7 +7002,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -7022,7 +7022,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -7042,7 +7042,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -7062,7 +7062,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -7082,7 +7082,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -7102,7 +7102,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -7122,7 +7122,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -7142,7 +7142,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -7162,7 +7162,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -7182,7 +7182,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -7202,7 +7202,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -7222,7 +7222,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "Details awaited",
+			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
@@ -7242,7 +7242,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7262,7 +7262,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7282,7 +7282,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7302,7 +7302,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7322,7 +7322,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7342,7 +7342,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7362,7 +7362,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7382,7 +7382,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7402,7 +7402,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7422,7 +7422,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7442,7 +7442,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7462,7 +7462,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7482,7 +7482,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7502,7 +7502,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7522,7 +7522,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7542,7 +7542,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7562,7 +7562,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7582,7 +7582,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7602,7 +7602,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7622,7 +7622,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7642,7 +7642,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7662,7 +7662,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7682,7 +7682,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7702,7 +7702,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7722,7 +7722,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7742,7 +7742,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7762,7 +7762,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7782,7 +7782,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7802,7 +7802,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7822,7 +7822,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7842,7 +7842,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7862,7 +7862,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7882,7 +7882,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7902,7 +7902,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7922,7 +7922,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7942,7 +7942,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7962,7 +7962,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -7982,7 +7982,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -8002,7 +8002,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -8022,7 +8022,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -8042,7 +8042,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -8062,7 +8062,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -8082,7 +8082,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -8102,7 +8102,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -8122,7 +8122,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -8142,7 +8142,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -8162,7 +8162,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -8182,7 +8182,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -8202,7 +8202,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -8222,7 +8222,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
@@ -8242,7 +8242,7 @@
 		},
 		{
 			"agebracket": "",
-			"backup-notes": "",
+			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
 			"dateannounced": "",
