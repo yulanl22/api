@@ -781,7 +781,7 @@
 			"statuschangedate": "08/03/2020"
 		},
 		{
-			"additionalinfo": "No Travelled from",
+			"additionalinfo": "No travel history",
 			"agebracket": "25",
 			"contractedfromwhichpatientsuspected": "P29",
 			"currentstatus": "Hospitalized",
@@ -2141,7 +2141,7 @@
 			"statuschangedate": "14/03/2020"
 		},
 		{
-			"additionalinfo": "British citizen who had resided in Munnar resort",
+			"additionalinfo": "Travelled from Dubai, British citizen who had resided in Munnar resort",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -2161,7 +2161,7 @@
 			"statuschangedate": "15/03/2020"
 		},
 		{
-			"additionalinfo": "Doctor who had been to Spain ",
+			"additionalinfo": "Travelled from Spain, Doctor",
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -2601,7 +2601,7 @@
 			"statuschangedate": "20/03/2020"
 		},
 		{
-			"additionalinfo": "Sector 9; travelled from Malaysia",
+			"additionalinfo": "Travelled from Malaysia, Sector 9; ",
 			"agebracket": "29",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
