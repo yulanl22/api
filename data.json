@@ -480,7 +480,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "56",
+			"confirmeddelta": "59",
 			"deceaseddelta": "3",
 			"lastupdatedtime": "March 22, 2020 at 7:09 pm",
 			"recovereddelta": "0",
@@ -489,8 +489,8 @@
 	],
 	"statewise": [
 		{
-			"active": "360",
-			"confirmed": "390",
+			"active": "363",
+			"confirmed": "393",
 			"deaths": "7",
 			"lastupdatedtime": "March 22, 2020 at 7:09 pm",
 			"recovered": "23",
@@ -625,8 +625,8 @@
 			"state": "Madhya Pradesh"
 		},
 		{
-			"active": "4",
-			"confirmed": "4",
+			"active": "7",
+			"confirmed": "7",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "0",
