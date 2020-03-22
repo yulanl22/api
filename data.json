@@ -480,19 +480,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "53",
+			"confirmeddelta": "54",
 			"deceaseddelta": "3",
-			"lastupdatedtime": "March 22, 2020 at 7:20 pm",
+			"lastupdatedtime": "March 22, 2020 at 7:09 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "357",
-			"confirmed": "387",
+			"active": "358",
+			"confirmed": "388",
 			"deaths": "7",
-			"lastupdatedtime": "March 22, 2020 at 7:20 pm",
+			"lastupdatedtime": "March 22, 2020 at 7:09 pm",
 			"recovered": "23",
 			"state": "Total"
 		},
@@ -561,8 +561,8 @@
 			"state": "Karnataka"
 		},
 		{
-			"active": "19",
-			"confirmed": "20",
+			"active": "20",
+			"confirmed": "21",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
