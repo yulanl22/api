@@ -480,7 +480,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "59",
+			"confirmeddelta": "60",
 			"deceaseddelta": "3",
 			"lastupdatedtime": "March 22, 2020 at 7:09 pm",
 			"recovereddelta": "0",
@@ -489,8 +489,8 @@
 	],
 	"statewise": [
 		{
-			"active": "363",
-			"confirmed": "393",
+			"active": "364",
+			"confirmed": "394",
 			"deaths": "7",
 			"lastupdatedtime": "March 22, 2020 at 7:09 pm",
 			"recovered": "23",
@@ -617,8 +617,8 @@
 			"state": "Jammu and Kashmir"
 		},
 		{
-			"active": "5",
-			"confirmed": "5",
+			"active": "6",
+			"confirmed": "6",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "0",
