@@ -480,7 +480,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "60",
+			"confirmeddelta": "66",
 			"deceaseddelta": "3",
 			"lastupdatedtime": "March 22, 2020 at 7:09 pm",
 			"recovereddelta": "0",
@@ -489,8 +489,8 @@
 	],
 	"statewise": [
 		{
-			"active": "364",
-			"confirmed": "394",
+			"active": "370",
+			"confirmed": "400",
 			"deaths": "7",
 			"lastupdatedtime": "March 22, 2020 at 7:09 pm",
 			"recovered": "23",
@@ -601,8 +601,8 @@
 			"state": "Chandigarh"
 		},
 		{
-			"active": "5",
-			"confirmed": "5",
+			"active": "11",
+			"confirmed": "11",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "0",
