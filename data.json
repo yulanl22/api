@@ -492,17 +492,17 @@
 			"confirmeddelta": "68",
 			"deceaseddelta": "1",
 			"lastupdatedtime": "March 23, 2020 at 6:20 pm",
-			"recovereddelta": "0",
+			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "439",
+			"active": "438",
 			"confirmed": "470",
 			"deaths": "8",
 			"lastupdatedtime": "March 23, 2020 at 6:20 pm",
-			"recovered": "23",
+			"recovered": "24",
 			"state": "Total"
 		},
 		{
@@ -514,11 +514,11 @@
 			"state": "Maharashtra"
 		},
 		{
-			"active": "92",
+			"active": "91",
 			"confirmed": "95",
 			"deaths": "0",
 			"lastupdatedtime": "",
-			"recovered": "3",
+			"recovered": "4",
 			"state": "Kerala"
 		},
 		{
