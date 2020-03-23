@@ -7775,7 +7775,7 @@
 			"notes": "Travelled from Denmark",
 			"patientnumber": "389",
 			"source1": "https://mobile.twitter.com/PTI_News/status/1241728729958629378",
-			"source2": "",
+			"source2": "https://timesofindia.indiatimes.com/city/delhi/gurgaon-doctor-among-7-new-covid-19-patients-in-delhi-ncr/articleshow/74765177.cms",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "22/03/2020"
@@ -7783,7 +7783,7 @@
 		{
 			"agebracket": "62",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "P 389",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
 			"detectedcity": "Greater Noida (West)",
@@ -7792,10 +7792,10 @@
 			"estimatedonsetdate": "",
 			"gender": "F",
 			"nationality": "India",
-			"notes": "Mother of P389, details awaited",
+			"notes": "Mother of P389, showed symptoms first -- tested on Mar 19",
 			"patientnumber": "390",
 			"source1": "https://mobile.twitter.com/PTI_News/status/1241728729958629378",
-			"source2": "",
+			"source2": "https://timesofindia.indiatimes.com/city/delhi/gurgaon-doctor-among-7-new-covid-19-patients-in-delhi-ncr/articleshow/74765177.cms",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "22/03/2020"
@@ -9701,8 +9701,8 @@
 			"statuschangedate": "23/02/2020"
 		},
 		{
-			"agebracket": "",
-			"backupnotes": "",
+			"agebracket": "45",
+			"backupnotes": "Travelled in a group of 37 people to Mecca -- 36 others under observation in Lucknow ",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "23/03/2020",
@@ -9710,12 +9710,12 @@
 			"detecteddistrict": "",
 			"detectedstate": "Uttar Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
 			"notes": "Travelled from Middle East",
 			"patientnumber": "486",
 			"source1": "https://twitter.com/ANINewsUP/status/1242100370676957185",
-			"source2": "",
+			"source2": "https://www.businesstoday.in/current/economy-politics/coronavirus-in-india-live-updates-covid-news-delhi-mumbai-maharashtra-lockdown-pm-modi-death-toll-china-italy/story/398930.html",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "23/02/2020"
