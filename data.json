@@ -539,6 +539,14 @@
 			"state": "Uttar Pradesh"
 		},
 		{
+			"active": "26",
+			"confirmed": "29",
+			"deaths": "0",
+			"lastupdatedtime": "",
+			"recovered": "3",
+			"state": "Rajasthan"
+		},
+		{
 			"active": "21",
 			"confirmed": "27",
 			"deaths": "1",
@@ -561,14 +569,6 @@
 			"lastupdatedtime": "",
 			"recovered": "1",
 			"state": "Karnataka"
-		},
-		{
-			"active": "26",
-			"confirmed": "29",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "3",
-			"state": "Rajasthan"
 		},
 		{
 			"active": "21",
