@@ -490,7 +490,7 @@
 	"key_values": [
 		{
 			"confirmeddelta": "38",
-			"deceaseddelta": "0",
+			"deceaseddelta": "1",
 			"lastupdatedtime": "March 23, 2020 at 12:12 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
@@ -498,9 +498,9 @@
 	],
 	"statewise": [
 		{
-			"active": "410",
+			"active": "409",
 			"confirmed": "440",
-			"deaths": "7",
+			"deaths": "8",
 			"lastupdatedtime": "March 23, 2020 at 12:12 pm",
 			"recovered": "23",
 			"state": "Total"
@@ -602,9 +602,9 @@
 			"state": "Tamil Nadu"
 		},
 		{
-			"active": "7",
+			"active": "6",
 			"confirmed": "7",
-			"deaths": "0",
+			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "West Bengal"
@@ -800,6 +800,85 @@
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Lakshadweep"
+		}
+	],
+	"tested": [
+		{
+			"source": "Press_Release_ICMR_13March2020.pdf",
+			"totalindividualstested": "5900",
+			"totalpositivecases": "78",
+			"totalsamplestested": "6500",
+			"updatetimestamp": "13/3/2020 00:00"
+		},
+		{
+			"source": "ICMR_website_update_18March_6PM_IST.pdf",
+			"totalindividualstested": "12235",
+			"totalpositivecases": "150",
+			"totalsamplestested": "13125",
+			"updatetimestamp": "18/3/2020 18:00"
+		},
+		{
+			"source": "ICMR_website_update_19March_10AM_IST_V2.pdf",
+			"totalindividualstested": "12426",
+			"totalpositivecases": "168",
+			"totalsamplestested": "13316",
+			"updatetimestamp": "19/3/2020 10:00"
+		},
+		{
+			"source": "ICMR_website_update_19March_6PM_IST.pdf",
+			"totalindividualstested": "13285",
+			"totalpositivecases": "182",
+			"totalsamplestested": "14175",
+			"updatetimestamp": "19/3/2020 18:00"
+		},
+		{
+			"source": "ICMR_website_update_20March_10AM_IST.pdf",
+			"totalindividualstested": "13486",
+			"totalpositivecases": "206",
+			"totalsamplestested": "14376",
+			"updatetimestamp": "20/3/2020 10:00"
+		},
+		{
+			"source": "ICMR_website_update_20March_6PM_IST.pdf",
+			"totalindividualstested": "14514",
+			"totalpositivecases": "236",
+			"totalsamplestested": "15404",
+			"updatetimestamp": "20/3/2020 18:00"
+		},
+		{
+			"source": "ICMR_website_update_21March_10AM_IST.pdf",
+			"totalindividualstested": "14811",
+			"totalpositivecases": "271",
+			"totalsamplestested": "15701",
+			"updatetimestamp": "21/3/2020 10:00"
+		},
+		{
+			"source": "ICMR_website_update_21March_6PM_IST.pdf",
+			"totalindividualstested": "16021",
+			"totalpositivecases": "315",
+			"totalsamplestested": "16911",
+			"updatetimestamp": "21/3/2020 18:00"
+		},
+		{
+			"source": "ICMR_website_update_22March_10AM_IST.pdf",
+			"totalindividualstested": "16109",
+			"totalpositivecases": "341",
+			"totalsamplestested": "16999",
+			"updatetimestamp": "22/3/2020 10:00"
+		},
+		{
+			"source": "ICMR_website_update_22March_6PM_IST.pdf",
+			"totalindividualstested": "17237",
+			"totalpositivecases": "396",
+			"totalsamplestested": "18127",
+			"updatetimestamp": "22/3/2020 18:00"
+		},
+		{
+			"source": "ICMR_website_update_23March_10AM_IST.pdf",
+			"totalindividualstested": "17493",
+			"totalpositivecases": "415",
+			"totalsamplestested": "18383",
+			"updatetimestamp": "23/3/2020 10:00"
 		}
 	]
 }

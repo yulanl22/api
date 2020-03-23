@@ -6524,7 +6524,7 @@
 			"agebracket": "57",
 			"backupnotes": "No Travel History, Details awaited",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Deceased",
 			"dateannounced": "21/03/2020",
 			"detectedcity": "Dum Dum",
 			"detecteddistrict": "North Kolkata",
@@ -6538,7 +6538,7 @@
 			"source2": "https://economictimes.indiatimes.com/news/politics-and-nation/covid-19-man-with-no-foreign-travel-history-tests-positive-in-bengal/articleshow/74751265.cms",
 			"source3": "",
 			"statepatientnumber": "WB-P4",
-			"statuschangedate": "21/03/2020"
+			"statuschangedate": "23/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -7906,7 +7906,7 @@
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
-			"detectedcity": "Tiruneveli",
+			"detectedcity": "Tirunelveli",
 			"detecteddistrict": "Tiruneveli",
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
@@ -8692,7 +8692,7 @@
 			"estimatedonsetdate": "",
 			"gender": "M",
 			"nationality": "",
-			"notes": "Returned from Lodon",
+			"notes": "Returned from London",
 			"patientnumber": "435",
 			"source1": "https://twitter.com/IPRTelangana/status/1241985785764532227",
 			"source2": "",
