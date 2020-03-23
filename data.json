@@ -500,7 +500,7 @@
 		{
 			"confirmeddelta": "0",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 24, 2020 at 4:00 am",
+			"lastupdatedtime": "March 24, 2020 at 4:53 am",
 			"recovereddelta": "10",
 			"statesdelta": "0"
 		}
@@ -510,7 +510,7 @@
 			"active": "459",
 			"confirmed": "503",
 			"deaths": "9",
-			"lastupdatedtime": "March 24, 2020 at 4:00 am",
+			"lastupdatedtime": "March 24, 2020 at 4:53 am",
 			"recovered": "35",
 			"state": "Total"
 		},
