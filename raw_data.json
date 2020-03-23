@@ -8841,7 +8841,7 @@
 			"statuschangedate": "23/02/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "54",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -8850,9 +8850,9 @@
 			"detecteddistrict": "Kasargod",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Landed in Mangalore airport, had been to Kasturba Medical College Attavar",
 			"patientnumber": "443",
 			"source1": "https://twitter.com/ANI/status/1242069720276168705",
 			"source2": "",
