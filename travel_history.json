@@ -1461,11 +1461,11 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
-			"address": "Travelled by own car to Flat 1B Artech Square Kaithamukku, Pettah",
+			"accuracylocation": "Accurate",
+			"address": "Travelled by own car to Artech Square Kaithamukku, Pettah",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "113",
-			"latlong": "",
+			"latlong": "8.4901622,76.9322777",
 			"modeoftravel": "",
 			"pid": "P87",
 			"placename": "",
@@ -1474,11 +1474,11 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Travelled to General hospital, Trivandram by own car",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "114",
-			"latlong": "",
+			"latlong": "8.4954497,76.9390526",
 			"modeoftravel": "",
 			"pid": "P87",
 			"placename": "",
@@ -1487,11 +1487,11 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Walked to car parking area, General Hospital, Trivandram",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "115",
-			"latlong": "",
+			"latlong": "8.4954497,76.9390526",
 			"modeoftravel": "",
 			"pid": "P87",
 			"placename": "",
@@ -1500,11 +1500,11 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Walked to OP ticket counter walking area GH Trivandram",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "116",
-			"latlong": "",
+			"latlong": "8.4954497,76.9390526",
 			"modeoftravel": "",
 			"pid": "P87",
 			"placename": "",
@@ -1513,11 +1513,11 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "COVID 19 OP Walking area",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "117",
-			"latlong": "",
+			"latlong": "8.4954497,76.9390526",
 			"modeoftravel": "",
 			"pid": "P87",
 			"placename": "",
@@ -1526,11 +1526,11 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Isolation ward",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "118",
-			"latlong": "",
+			"latlong": "8.4954497,76.9390526",
 			"modeoftravel": "",
 			"pid": "P87",
 			"placename": "",
@@ -1539,11 +1539,11 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
-			"address": "General hospital front gate by auto KL 01 CB 4026",
+			"accuracylocation": "Accurate",
+			"address": "General hospital front gate by auto",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "119",
-			"latlong": "",
+			"latlong": "8.4954497,76.9390526",
 			"modeoftravel": "",
 			"pid": "P87",
 			"placename": "",
@@ -1565,11 +1565,11 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Artech Square Security point",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "121",
-			"latlong": "",
+			"latlong": "8.4901622,76.9322777",
 			"modeoftravel": "",
 			"pid": "P87",
 			"placename": "",
@@ -1578,11 +1578,11 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
-			"address": "Flat 1B Artech Square",
+			"accuracylocation": "Accurate",
+			"address": "Artech Square",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "122",
-			"latlong": "",
+			"latlong": "8.4901622,76.9322777",
 			"modeoftravel": "",
 			"pid": "P87",
 			"placename": "",
@@ -1955,7 +1955,7 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Hotel Bismi, Kumarapuram",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "151",
@@ -1968,7 +1968,7 @@
 			"type": "placeVisit"
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Hotel Ambadi Kannan,Medical College Junction",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "152",
@@ -1981,11 +1981,11 @@
 			"type": "placeVisit"
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Hotel Bismi, Kumarapuram",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "153",
-			"latlong": "",
+			"latlong": "8.5150455, 76.927428",
 			"modeoftravel": "",
 			"pid": "P113",
 			"placename": "",
@@ -1994,11 +1994,11 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Hotel Thamarassery Churam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "154",
-			"latlong": "",
+			"latlong": "8.5201633,76.9273983",
 			"modeoftravel": "",
 			"pid": "P114",
 			"placename": "",
@@ -2007,7 +2007,7 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Margin free market,Kunnil,Medical College Junction",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "155",
@@ -2033,7 +2033,7 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Suresh Hotel, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "157",
