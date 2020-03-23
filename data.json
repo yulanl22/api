@@ -489,7 +489,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "35",
+			"confirmeddelta": "38",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "March 23, 2020 at 12:12 pm",
 			"recovereddelta": "0",
@@ -498,8 +498,8 @@
 	],
 	"statewise": [
 		{
-			"active": "407",
-			"confirmed": "437",
+			"active": "410",
+			"confirmed": "440",
 			"deaths": "7",
 			"lastupdatedtime": "March 23, 2020 at 12:12 pm",
 			"recovered": "23",
@@ -546,8 +546,8 @@
 			"state": "Delhi"
 		},
 		{
-			"active": "29",
-			"confirmed": "30",
+			"active": "32",
+			"confirmed": "33",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "1",
