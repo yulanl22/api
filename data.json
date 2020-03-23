@@ -489,7 +489,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "74",
+			"confirmeddelta": "83",
 			"deceaseddelta": "1",
 			"lastupdatedtime": "March 23, 2020 at 7:03 pm",
 			"recovereddelta": "2",
@@ -498,16 +498,16 @@
 	],
 	"statewise": [
 		{
-			"active": "443",
-			"confirmed": "476",
+			"active": "452",
+			"confirmed": "485",
 			"deaths": "8",
 			"lastupdatedtime": "March 23, 2020 at 7:03 pm",
 			"recovered": "25",
 			"state": "Total"
 		},
 		{
-			"active": "87",
-			"confirmed": "89",
+			"active": "95",
+			"confirmed": "97",
 			"deaths": "2",
 			"lastupdatedtime": "",
 			"recovered": "0",
@@ -522,8 +522,8 @@
 			"state": "Kerala"
 		},
 		{
-			"active": "21",
-			"confirmed": "30",
+			"active": "22",
+			"confirmed": "31",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "9",
