@@ -716,7 +716,7 @@
 			"type": "placeVisit"
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Shopping at Loyal City Supermarket",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "56",
@@ -729,7 +729,7 @@
 			"type": "placeVisit"
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Office - Dell, Divyasree Greens",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "57",
@@ -742,7 +742,7 @@
 			"type": "placeVisit"
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Cinema, Forum Value Mall",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "58",
@@ -755,7 +755,7 @@
 			"type": "placeVisit"
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Office - Dell, Divyasree Greens",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "59",
@@ -768,7 +768,7 @@
 			"type": "placeVisit"
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "RXDX Clinic for Checkup; Referred then to Manipal Hospital",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "60",
@@ -781,7 +781,7 @@
 			"type": "placeVisit"
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Approximate",
 			"address": "Home",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "61",
@@ -794,7 +794,7 @@
 			"type": "placeVisit"
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Mediwave Medical Store and Loyal City Supermarket",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "62",
@@ -807,7 +807,7 @@
 			"type": "placeVisit"
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Approximate",
 			"address": "Home",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "63",
@@ -820,7 +820,7 @@
 			"type": "placeVisit"
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Admitted to RGICD",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "64",
@@ -1318,11 +1318,11 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
-			"address": "Admitted at RGICE Hospital",
+			"accuracylocation": "Accurate",
+			"address": "Admitted to RGICD",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "102",
-			"latlong": "",
+			"latlong": "12.938365,77.5885142",
 			"modeoftravel": "",
 			"pid": "P42",
 			"placename": "",
@@ -1331,11 +1331,11 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Mumbai Airport from Greece",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "103",
-			"latlong": "",
+			"latlong": "19.0895646,72.8634257",
 			"modeoftravel": "",
 			"pid": "P73",
 			"placename": "",
@@ -1383,11 +1383,11 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Visited RGCID and sample was sent to NIV",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "107",
-			"latlong": "",
+			"latlong": "12.938365,77.5885142",
 			"modeoftravel": "",
 			"pid": "P73",
 			"placename": "",
@@ -1396,7 +1396,7 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Patient was shifted to Jayanagar General Hospital and admitted",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "108",
@@ -1448,11 +1448,11 @@
 			"type": ""
 		},
 		{
-			"accuracylocation": "",
+			"accuracylocation": "Accurate",
 			"address": "Trivandram International Airport",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "112",
-			"latlong": "",
+			"latlong": "8.4834254,76.9176307",
 			"modeoftravel": "",
 			"pid": "P87",
 			"placename": "",
