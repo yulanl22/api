@@ -3417,7 +3417,7 @@
 			"source1": "https://www.newindianexpress.com/cities/delhi/2020/mar/18/woman-tests-positive-for-covd-19-in-delhis-dilshad-garden-total-case-in-capital-at-9-2118395.html",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "DL-P10",
 			"statuschangedate": "18/03/2020"
 		},
 		{
@@ -8378,7 +8378,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "23/02/2020"
+			"statuschangedate": "22/02/2020"
 		},
 		{
 			"agebracket": "45",
@@ -8659,6 +8659,46 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "23/02/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "",
+			"detectedcity": "",
+			"detecteddistrict": "Mohali",
+			"detectedstate": "Punjab",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "Details awaited",
+			"patientnumber": "434",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": ""
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "",
+			"detectedcity": "",
+			"detecteddistrict": "Mohali",
+			"detectedstate": "Punjab",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "Details awaited",
+			"patientnumber": "435",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": ""
 		}
 	]
 }
