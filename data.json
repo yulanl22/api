@@ -217,11 +217,11 @@
 			"totalrecovered": "3"
 		},
 		{
-			"dailyconfirmed": "0",
+			"dailyconfirmed": "14",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "23 February ",
-			"totalconfirmed": "3",
+			"totalconfirmed": "17",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -230,7 +230,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "24 February ",
-			"totalconfirmed": "3",
+			"totalconfirmed": "17",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -239,7 +239,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "25 February ",
-			"totalconfirmed": "3",
+			"totalconfirmed": "17",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -248,7 +248,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "26 February ",
-			"totalconfirmed": "3",
+			"totalconfirmed": "17",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -257,7 +257,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "27 February ",
-			"totalconfirmed": "3",
+			"totalconfirmed": "17",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -266,7 +266,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "28 February ",
-			"totalconfirmed": "3",
+			"totalconfirmed": "17",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -275,7 +275,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "29 February ",
-			"totalconfirmed": "3",
+			"totalconfirmed": "17",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -284,7 +284,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "01 March ",
-			"totalconfirmed": "3",
+			"totalconfirmed": "17",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -293,7 +293,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "02 March ",
-			"totalconfirmed": "5",
+			"totalconfirmed": "19",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -302,7 +302,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "03 March ",
-			"totalconfirmed": "6",
+			"totalconfirmed": "20",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -311,7 +311,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "04 March ",
-			"totalconfirmed": "28",
+			"totalconfirmed": "42",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -320,7 +320,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "05 March ",
-			"totalconfirmed": "30",
+			"totalconfirmed": "44",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -329,7 +329,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "06 March ",
-			"totalconfirmed": "31",
+			"totalconfirmed": "45",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -338,7 +338,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "07 March ",
-			"totalconfirmed": "34",
+			"totalconfirmed": "48",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -347,7 +347,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "08 March ",
-			"totalconfirmed": "39",
+			"totalconfirmed": "53",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -356,7 +356,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "09 March ",
-			"totalconfirmed": "48",
+			"totalconfirmed": "62",
 			"totaldeceased": "0",
 			"totalrecovered": "3"
 		},
@@ -365,7 +365,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
 			"date": "10 March ",
-			"totalconfirmed": "63",
+			"totalconfirmed": "77",
 			"totaldeceased": "0",
 			"totalrecovered": "4"
 		},
@@ -374,7 +374,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "11 March ",
-			"totalconfirmed": "70",
+			"totalconfirmed": "84",
 			"totaldeceased": "0",
 			"totalrecovered": "4"
 		},
@@ -383,7 +383,7 @@
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "12 March ",
-			"totalconfirmed": "82",
+			"totalconfirmed": "96",
 			"totaldeceased": "1",
 			"totalrecovered": "4"
 		},
@@ -392,7 +392,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "6",
 			"date": "13 March ",
-			"totalconfirmed": "91",
+			"totalconfirmed": "105",
 			"totaldeceased": "1",
 			"totalrecovered": "10"
 		},
@@ -401,7 +401,7 @@
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "14 March ",
-			"totalconfirmed": "107",
+			"totalconfirmed": "121",
 			"totaldeceased": "2",
 			"totalrecovered": "10"
 		},
@@ -410,7 +410,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "3",
 			"date": "15 March ",
-			"totalconfirmed": "113",
+			"totalconfirmed": "127",
 			"totaldeceased": "2",
 			"totalrecovered": "13"
 		},
@@ -419,7 +419,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
 			"date": "16 March ",
-			"totalconfirmed": "127",
+			"totalconfirmed": "141",
 			"totaldeceased": "2",
 			"totalrecovered": "14"
 		},
@@ -428,7 +428,7 @@
 			"dailydeceased": "1",
 			"dailyrecovered": "1",
 			"date": "17 March ",
-			"totalconfirmed": "146",
+			"totalconfirmed": "160",
 			"totaldeceased": "3",
 			"totalrecovered": "15"
 		},
@@ -437,7 +437,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "18 March ",
-			"totalconfirmed": "171",
+			"totalconfirmed": "185",
 			"totaldeceased": "3",
 			"totalrecovered": "15"
 		},
@@ -446,7 +446,7 @@
 			"dailydeceased": "1",
 			"dailyrecovered": "5",
 			"date": "19 March ",
-			"totalconfirmed": "199",
+			"totalconfirmed": "213",
 			"totaldeceased": "4",
 			"totalrecovered": "20"
 		},
@@ -455,7 +455,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "3",
 			"date": "20 March ",
-			"totalconfirmed": "258",
+			"totalconfirmed": "272",
 			"totaldeceased": "4",
 			"totalrecovered": "23"
 		},
@@ -464,12 +464,12 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "21 March ",
-			"totalconfirmed": "334",
+			"totalconfirmed": "348",
 			"totaldeceased": "4",
 			"totalrecovered": "23"
 		},
 		{
-			"dailyconfirmed": "82",
+			"dailyconfirmed": "68",
 			"dailydeceased": "3",
 			"dailyrecovered": "0",
 			"date": "22 March ",
