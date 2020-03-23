@@ -8799,6 +8799,46 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "23/02/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "23/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "Gujarat",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "Details awaited",
+			"patientnumber": "441",
+			"source1": "https://twitter.com/GujHFWDept/status/1242055510532202497",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "23/02/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "23/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "Uttarakhand",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "One more person, who is under observation at Dehradun's Doon Hospita",
+			"patientnumber": "442",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "23/02/2020"
 		}
 	]
 }
