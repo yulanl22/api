@@ -1267,7 +1267,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "11/03/2020",
 			"detectedcity": "Janakpuri",
-			"detecteddistrict": "",
+			"detecteddistrict": "South West Delhi",
 			"detectedstate": "Delhi",
 			"estimatedonsetdate": "",
 			"gender": "M",
@@ -1417,7 +1417,7 @@
 			"source1": "https://www.indiatoday.in/amp/india/story/first-coronavirus-case-in-andhra-pradesh-as-man-who-returned-from-italy-tests-positive-1654837-2020-03-12",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P1",
 			"statuschangedate": "12/03/2020"
 		},
 		{
@@ -3517,7 +3517,7 @@
 			"source1": "https://twitter.com/pti_news/status/1240509308292362240?s=21",
 			"source2": "https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-reports-second-positive-case-of-covid-19/articleshow/74703260.cms",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P2",
 			"statuschangedate": "19/03/2020"
 		},
 		{
@@ -3917,7 +3917,7 @@
 			"source1": "https://twitter.com/xpressandhra/status/1240697530796523520",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P3",
 			"statuschangedate": "19/03/2020"
 		},
 		{
@@ -4467,7 +4467,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
 			"detectedcity": "Chandigarh",
-			"detecteddistrict": "",
+			"detecteddistrict": "Chandigarh",
 			"detectedstate": "Chandigarh",
 			"estimatedonsetdate": "",
 			"gender": "F",
@@ -4487,7 +4487,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
 			"detectedcity": "Chandigarh",
-			"detecteddistrict": "",
+			"detecteddistrict": "Chandigarh",
 			"detectedstate": "Chandigarh",
 			"estimatedonsetdate": "",
 			"gender": "M",
@@ -4507,7 +4507,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
 			"detectedcity": "Chandigarh",
-			"detecteddistrict": "",
+			"detecteddistrict": "Chandigarh",
 			"detectedstate": "Chandigarh",
 			"estimatedonsetdate": "",
 			"gender": "M",
@@ -4527,7 +4527,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
 			"detectedcity": "Chandigarh",
-			"detecteddistrict": "",
+			"detecteddistrict": "Chandigarh",
 			"detectedstate": "Chandigarh",
 			"estimatedonsetdate": "",
 			"gender": "F",
@@ -6597,7 +6597,7 @@
 			"source1": "https://twitter.com/THAndhra/status/1241410102717906945",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P4",
 			"statuschangedate": "21/03/2020"
 		},
 		{
@@ -6617,7 +6617,7 @@
 			"source1": "https://twitter.com/THAndhra/status/1241410102717906945",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P5",
 			"statuschangedate": "21/03/2020"
 		},
 		{
@@ -6686,8 +6686,8 @@
 			"contractedfromwhichpatientsuspected": "P172",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
-			"detectedcity": "",
-			"detecteddistrict": "",
+			"detectedcity": "Chandigarh",
+			"detecteddistrict": "Chandigarh",
 			"detectedstate": "Chandigarh",
 			"estimatedonsetdate": "",
 			"gender": "M",
