@@ -490,7 +490,7 @@
 	"key_values": [
 		{
 			"confirmeddelta": "68",
-			"deceaseddelta": "1",
+			"deceaseddelta": "2",
 			"lastupdatedtime": "March 23, 2020 at 6:20 pm",
 			"recovereddelta": "1",
 			"statesdelta": "0"
@@ -498,9 +498,9 @@
 	],
 	"statewise": [
 		{
-			"active": "438",
+			"active": "437",
 			"confirmed": "470",
-			"deaths": "8",
+			"deaths": "9",
 			"lastupdatedtime": "March 23, 2020 at 6:20 pm",
 			"recovered": "24",
 			"state": "Total"
@@ -554,9 +554,9 @@
 			"state": "Telangana"
 		},
 		{
-			"active": "25",
+			"active": "24",
 			"confirmed": "27",
-			"deaths": "1",
+			"deaths": "2",
 			"lastupdatedtime": "",
 			"recovered": "1",
 			"state": "Karnataka"
