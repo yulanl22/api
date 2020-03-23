@@ -8739,6 +8739,26 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "23/02/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "23/03/2020",
+			"detectedcity": "Palwal",
+			"detecteddistrict": "Palwal",
+			"detectedstate": "Haryana",
+			"estimatedonsetdate": "",
+			"gender": "M",
+			"nationality": "",
+			"notes": "Went to Dubai on 12th March Returned back on 18th",
+			"patientnumber": "438",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": ""
 		}
 	]
 }
