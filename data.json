@@ -489,19 +489,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "87",
+			"confirmeddelta": "91",
 			"deceaseddelta": "2",
-			"lastupdatedtime": "March 23, 2020 at 8:13 pm",
+			"lastupdatedtime": "March 23, 2020 at 9:04 pm",
 			"recovereddelta": "2",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "455",
-			"confirmed": "489",
+			"active": "459",
+			"confirmed": "493",
 			"deaths": "9",
-			"lastupdatedtime": "March 23, 2020 at 8:13 pm",
+			"lastupdatedtime": "March 23, 2020 at 9:04 pm",
 			"recovered": "25",
 			"state": "Total"
 		},
@@ -562,8 +562,8 @@
 			"state": "Gujarat"
 		},
 		{
-			"active": "26",
-			"confirmed": "29",
+			"active": "29",
+			"confirmed": "32",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "3",
@@ -626,8 +626,8 @@
 			"state": "Madhya Pradesh"
 		},
 		{
-			"active": "6",
-			"confirmed": "6",
+			"active": "7",
+			"confirmed": "7",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "0",
