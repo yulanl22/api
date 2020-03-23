@@ -522,30 +522,6 @@
 			"state": "Kerala"
 		},
 		{
-			"active": "23",
-			"confirmed": "32",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "9",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"active": "26",
-			"confirmed": "29",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "3",
-			"state": "Rajasthan"
-		},
-		{
-			"active": "24",
-			"confirmed": "30",
-			"deaths": "1",
-			"lastupdatedtime": "",
-			"recovered": "5",
-			"state": "Delhi"
-		},
-		{
 			"active": "32",
 			"confirmed": "33",
 			"deaths": "0",
@@ -562,12 +538,36 @@
 			"state": "Karnataka"
 		},
 		{
-			"active": "22",
-			"confirmed": "22",
+			"active": "23",
+			"confirmed": "32",
 			"deaths": "0",
 			"lastupdatedtime": "",
+			"recovered": "9",
+			"state": "Uttar Pradesh"
+		},
+		{
+			"active": "24",
+			"confirmed": "30",
+			"deaths": "1",
+			"lastupdatedtime": "",
+			"recovered": "5",
+			"state": "Delhi"
+		},
+		{
+			"active": "29",
+			"confirmed": "30",
+			"deaths": "1",
+			"lastupdatedtime": "",
 			"recovered": "0",
-			"state": "Haryana"
+			"state": "Gujarat"
+		},
+		{
+			"active": "26",
+			"confirmed": "29",
+			"deaths": "0",
+			"lastupdatedtime": "",
+			"recovered": "3",
+			"state": "Rajasthan"
 		},
 		{
 			"active": "22",
@@ -578,12 +578,12 @@
 			"state": "Punjab"
 		},
 		{
-			"active": "29",
-			"confirmed": "30",
-			"deaths": "1",
+			"active": "22",
+			"confirmed": "22",
+			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"state": "Gujarat"
+			"state": "Haryana"
 		},
 		{
 			"active": "13",
@@ -651,19 +651,19 @@
 		},
 		{
 			"active": "2",
-			"confirmed": "2",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Odisha"
-		},
-		{
-			"active": "2",
 			"confirmed": "3",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Himachal Pradesh"
+		},
+		{
+			"active": "2",
+			"confirmed": "2",
+			"deaths": "0",
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Odisha"
 		},
 		{
 			"active": "1",
