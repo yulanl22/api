@@ -888,6 +888,13 @@
 			"totalpositivecases": "415",
 			"totalsamplestested": "18383",
 			"updatetimestamp": "23/3/2020 10:00"
+		},
+		{
+			"source": "",
+			"totalindividualstested": "19817",
+			"totalpositivecases": "",
+			"totalsamplestested": "20707",
+			"updatetimestamp": "23/3/2020 20:00"
 		}
 	]
 }
