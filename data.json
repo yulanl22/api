@@ -469,11 +469,11 @@
 			"totalrecovered": "23"
 		},
 		{
-			"dailyconfirmed": "67",
+			"dailyconfirmed": "68",
 			"dailydeceased": "3",
 			"dailyrecovered": "0",
 			"date": "22 March ",
-			"totalconfirmed": "401",
+			"totalconfirmed": "402",
 			"totaldeceased": "7",
 			"totalrecovered": "23"
 		}
@@ -482,17 +482,17 @@
 		{
 			"confirmeddelta": "0",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 23, 2020 at 12:19 am",
+			"lastupdatedtime": "March 23, 2020 at 6:04 am",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "371",
-			"confirmed": "401",
+			"active": "372",
+			"confirmed": "402",
 			"deaths": "7",
-			"lastupdatedtime": "March 23, 2020 at 12:19 am",
+			"lastupdatedtime": "March 23, 2020 at 6:04 am",
 			"recovered": "23",
 			"state": "Total"
 		},
@@ -545,8 +545,8 @@
 			"state": "Karnataka"
 		},
 		{
-			"active": "25",
-			"confirmed": "28",
+			"active": "26",
+			"confirmed": "29",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "3",
