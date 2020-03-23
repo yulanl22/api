@@ -1,6 +1,7 @@
 {
 	"travel_history": [
 		{
+			"accuracylocation": "",
 			"address": "Hotel Aryas, Kuthattukulam, Muvattupuzha road",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "1",
@@ -13,6 +14,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Suresh Hotel Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "2",
@@ -25,6 +27,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Post Office Ranni Pazvangadi, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "3",
@@ -37,6 +40,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Knanaya Church, Pazvangadi Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "4",
@@ -49,6 +53,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Post Office Ranni Pazvangadi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "5",
@@ -61,6 +66,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Golde Emporium, New Hypermarket",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "6",
@@ -73,6 +79,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Muthoot mini supermarket, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "7",
@@ -85,6 +92,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Imperial Backers, Punalur",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "8",
@@ -97,6 +105,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Relative house, Manjar PO, Punalur",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "9",
@@ -109,6 +118,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "SBI/SBT Ranni, Thottamon",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "10",
@@ -121,6 +131,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "SBI/SBT Ranni, Thottamon",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "11",
@@ -133,6 +144,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Supreme Travels, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "12",
@@ -145,6 +157,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "UAE Exchange Pathanamthitta",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "13",
@@ -157,6 +170,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "SP Office, Pathanamthitta",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "14",
@@ -169,6 +183,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Royal Studio, Pathanamthitta",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "15",
@@ -181,6 +196,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Josco Jewellery, Pathanamthitta",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "16",
@@ -193,6 +209,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Ranni Gate Hotel, Bar",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "17",
@@ -205,6 +222,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Admitted to Hospital. Probably Pathanamthita General Hospital",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "18",
@@ -217,6 +235,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Kozhikode International Airport",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "19",
@@ -229,6 +248,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Indian Coffe House, Nuts street, Adakkatheru, Vadakara",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "20",
@@ -241,6 +261,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "General Hospital, Mahe",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "21",
@@ -253,6 +274,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Residence at palloor, Mahe",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "22",
@@ -265,6 +287,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Beach Hospital, Corona Ward, Kozhikkode",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "23",
@@ -277,6 +300,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Railway Station platform 4, Kozhikkode",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "24",
@@ -289,6 +313,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Railway Station Platform 1, Thalasserry",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "25",
@@ -301,6 +326,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Residence at palloor, Mahe",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "26",
@@ -313,6 +339,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "General Hospital , Mahe",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "27",
@@ -325,6 +352,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Arrival at Karipur airport  ",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "28",
@@ -337,6 +365,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Travel in an autocab and stopped outside relatives house at Shappinkunu",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "29",
@@ -349,6 +378,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Halt at relatives house, Mattukkulam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "30",
@@ -361,6 +391,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Travel and halt at relatives house at Santhinagar, Vaniyambalam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "31",
@@ -373,6 +404,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Continued travel and reached home Santhinagar, Vaniyambalam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "32",
@@ -385,6 +417,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Private Medicals near Shanthi Medicals,  Wandoor",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "33",
@@ -397,6 +430,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Nebulised at Micromax Private Lab Wandoor",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "34",
@@ -409,6 +443,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Nebulised at Micromax Private Lab Wandoor (2nd time)",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "35",
@@ -421,6 +456,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "VMB clinic Vaniyambalam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "36",
@@ -433,6 +469,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Stayed at home Santhinagar, Vaniyambalam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "37",
@@ -445,6 +482,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Tavel to Talook Hospital Wandoor for consultation",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "38",
@@ -457,6 +495,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Traveled back home",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "39",
@@ -469,6 +508,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Stayed at home Santhinagar, Vaniyambalam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "40",
@@ -481,6 +521,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Consultation at THQ Hospital Wandoor",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "41",
@@ -493,6 +534,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Reached home",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "42",
@@ -505,6 +547,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Admitted at Government Medical College, Manjeri",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "43",
@@ -517,6 +560,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Flight; USA to Bengaluru via Heathrow, London",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "44",
@@ -529,6 +573,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Bengaluru Airport to Residence",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "45",
@@ -541,6 +586,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "RGICD Visit to provide test samples",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "46",
@@ -553,6 +599,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Quarantined at Home",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "47",
@@ -565,6 +612,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Taken in ambulance to RGICD",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "48",
@@ -577,6 +625,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Travel from Austin, TX to New York (JFK)",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "49",
@@ -589,6 +638,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "JFK Airport, New York",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "50",
@@ -601,6 +651,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Travel from New York to Dubai",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "51",
@@ -613,6 +664,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Dubai Airport",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "52",
@@ -625,6 +677,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Travel from Dubai to Bengaluru",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "53",
@@ -637,6 +690,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "Approximate",
 			"address": "Travel from Bengaluru Airport to Residence",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "54",
@@ -649,6 +703,7 @@
 			"type": "travel"
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Lunch at Paradise Biriyani Restaurant",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "55",
@@ -661,6 +716,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Shopping at Loyal City Supermarket",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "56",
@@ -673,6 +729,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Office - Dell, Divyasree Greens",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "57",
@@ -685,6 +742,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Cinema, Forum Value Mall",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "58",
@@ -697,6 +755,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Office - Dell, Divyasree Greens",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "59",
@@ -709,6 +768,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "RXDX Clinic for Checkup; Referred then to Manipal Hospital",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "60",
@@ -721,6 +781,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Home",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "61",
@@ -733,6 +794,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Mediwave Medical Store and Loyal City Supermarket",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "62",
@@ -745,6 +807,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Home",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "63",
@@ -757,6 +820,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Admitted to RGICD",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "64",
@@ -769,6 +833,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "halt at Jathanickal Cherukulangara Bakery, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "65",
@@ -781,7 +846,8 @@
 			"type": "placevisit"
 		},
 		{
-			"_d180g": "76.7833664",
+			"_d2mkx": "76.7833664",
+			"accuracylocation": "",
 			"address": "halt at Marthoma Hospital, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "66",
@@ -794,6 +860,7 @@
 			"type": "placevisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "travel by Thachilethu Bus from Ranni to Kottayam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "67",
@@ -806,7 +873,8 @@
 			"type": "Travel"
 		},
 		{
-			"_d180g": "76.5225306",
+			"_d2mkx": "76.5225306",
+			"accuracylocation": "",
 			"address": "halt at Palathara Textiles, Kanjikuzhy, Kottayam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "68",
@@ -819,6 +887,7 @@
 			"type": "placevisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "travel by Mahiniyam bus from Kanjikuzhy to Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "69",
@@ -831,6 +900,7 @@
 			"type": "Travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Admitted to hospital",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "70",
@@ -843,6 +913,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "halt at Jathanickal Cherukulangara Bakery, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "71",
@@ -855,7 +926,8 @@
 			"type": "placevisit"
 		},
 		{
-			"_d180g": "76.7833664",
+			"_d2mkx": "76.7833664",
+			"accuracylocation": "Accurate",
 			"address": "halt at Marthoma Hospital, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "72",
@@ -868,6 +940,7 @@
 			"type": "placevisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "travel by Thachilethu Bus from Ranni to Kottayam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "73",
@@ -880,7 +953,8 @@
 			"type": "Travel"
 		},
 		{
-			"_d180g": "76.5225306",
+			"_d2mkx": "76.5225306",
+			"accuracylocation": "Accurate",
 			"address": "halt at Palathara Textiles, Kanjikuzhy, Kottayam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "74",
@@ -893,6 +967,7 @@
 			"type": "placevisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "travel by Mahiniyam bus from Kanjikuzhy to Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "75",
@@ -905,6 +980,7 @@
 			"type": "Travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Admitted to hospital",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "76",
@@ -917,6 +993,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Was at Hotel Aaryas on Kuthattukulum Muvattupuzha Road",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "77",
@@ -929,6 +1006,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Relative's house in Punalur",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "78",
@@ -941,6 +1019,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Shopping at Golden Hypermarket, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "79",
@@ -953,6 +1032,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Was at Marthoma Private clinic, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "80",
@@ -965,10 +1045,11 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Josco Jewellers Pathanamthitta",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "81",
-			"latlong": "",
+			"latlong": "9.2744739,76.7022866",
 			"modeoftravel": "",
 			"pid": "R2",
 			"placename": "",
@@ -977,10 +1058,11 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Hotel Rani Gate, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "82",
-			"latlong": "",
+			"latlong": "9.3862113,76.7863243",
 			"modeoftravel": "",
 			"pid": "R2",
 			"placename": "",
@@ -989,10 +1071,11 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "AM Bakers Kottayam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "83",
-			"latlong": "",
+			"latlong": "9.5923763,76.5199522",
 			"modeoftravel": "",
 			"pid": "R2",
 			"placename": "",
@@ -1001,10 +1084,11 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Approximate",
 			"address": "Dr. Vinod Mani's clinic, Chengalam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "84",
-			"latlong": "",
+			"latlong": "9.6163845,76.7004489",
 			"modeoftravel": "",
 			"pid": "R2",
 			"placename": "",
@@ -1013,10 +1097,11 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Admitted in Medical College hospital, Kottayam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "85",
-			"latlong": "",
+			"latlong": "9.6327636,76.5189227",
 			"modeoftravel": "",
 			"pid": "R3",
 			"placename": "",
@@ -1025,10 +1110,11 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Austin Airport US",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "86",
-			"latlong": "",
+			"latlong": "39.468877,-117.1982217",
 			"modeoftravel": "",
 			"pid": "P42",
 			"placename": "",
@@ -1037,10 +1123,11 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Place JFK - US, NewYork",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "87",
-			"latlong": "",
+			"latlong": "40.6413151,-73.7803278",
 			"modeoftravel": "",
 			"pid": "P42",
 			"placename": "",
@@ -1049,10 +1136,11 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Place Dubai",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "88",
-			"latlong": "",
+			"latlong": "25.2531793,55.3634841",
 			"modeoftravel": "",
 			"pid": "P42",
 			"placename": "",
@@ -1061,6 +1149,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Bengaluru Airport",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "89",
@@ -1073,10 +1162,11 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Approximate",
 			"address": "Place: Whitefield",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "90",
-			"latlong": "",
+			"latlong": "12.9645669,77.7190231",
 			"modeoftravel": "",
 			"pid": "P42",
 			"placename": "",
@@ -1085,10 +1175,11 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Hotel Paradise Biryani",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "91",
-			"latlong": "",
+			"latlong": "12.9572489,77.7428406",
 			"modeoftravel": "",
 			"pid": "P42",
 			"placename": "",
@@ -1097,6 +1188,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Place Loyal City Super Market",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "92",
@@ -1109,6 +1201,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Office: DELL Divya Shree Gardens",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "93",
@@ -1121,6 +1214,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Movie theatre Forum Value Mall",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "94",
@@ -1133,6 +1227,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "DELL Divyashree Gardens",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "95",
@@ -1145,6 +1240,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "RXDX Clinic",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "96",
@@ -1157,6 +1253,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Referred to Manipal Hospital",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "97",
@@ -1169,10 +1266,11 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Approximate",
 			"address": "Home, Whitefield",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "98",
-			"latlong": "",
+			"latlong": "12.9645669,77.7190231",
 			"modeoftravel": "",
 			"pid": "P42",
 			"placename": "",
@@ -1181,10 +1279,11 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Approximate",
 			"address": "Home, Whitefield",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "99",
-			"latlong": "",
+			"latlong": "12.9645669,77.7190231",
 			"modeoftravel": "",
 			"pid": "P42",
 			"placename": "",
@@ -1193,6 +1292,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Accurate",
 			"address": "Place: Medway Medical store and Loyal City Market",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "100",
@@ -1205,10 +1305,11 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "Approximate",
 			"address": "Home, Whitefield",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "101",
-			"latlong": "",
+			"latlong": "12.9645669,77.7190231",
 			"modeoftravel": "",
 			"pid": "P42",
 			"placename": "",
@@ -1217,6 +1318,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Admitted at RGICE Hospital",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "102",
@@ -1229,6 +1331,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Mumbai Airport from Greece",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "103",
@@ -1241,6 +1344,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Mumbai Home",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "104",
@@ -1253,6 +1357,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Place: Bangalore. Travelled in taxi and reahed home",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "105",
@@ -1265,6 +1370,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Home",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "106",
@@ -1277,6 +1383,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Visited RGCID and sample was sent to NIV",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "107",
@@ -1289,6 +1396,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Patient was shifted to Jayanagar General Hospital and admitted",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "108",
@@ -1301,6 +1409,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "BBMP surveillance team is doing surveillance",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "109",
@@ -1313,6 +1422,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "London Flight No. GF2",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "110",
@@ -1325,6 +1435,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Bahrain Flight No. GF0060",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "111",
@@ -1337,6 +1448,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Trivandram International Airport",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "112",
@@ -1349,6 +1461,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Travelled by own car to Flat 1B Artech Square Kaithamukku, Pettah",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "113",
@@ -1361,6 +1474,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Travelled to General hospital, Trivandram by own car",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "114",
@@ -1373,6 +1487,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Walked to car parking area, General Hospital, Trivandram",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "115",
@@ -1385,6 +1500,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Walked to OP ticket counter walking area GH Trivandram",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "116",
@@ -1397,6 +1513,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "COVID 19 OP Walking area",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "117",
@@ -1409,6 +1526,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Isolation ward",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "118",
@@ -1421,6 +1539,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "General hospital front gate by auto KL 01 CB 4026",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "119",
@@ -1433,6 +1552,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "2 shops at Kaithamukku Opp.Co-operative bank",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "120",
@@ -1445,6 +1565,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Artech Square Security point",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "121",
@@ -1457,6 +1578,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Flat 1B Artech Square",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "122",
@@ -1469,6 +1591,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "reached Medical college hospital isolation ward through ambulance",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "123",
@@ -1481,6 +1604,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Flight No: SG54 SPICE JET,Calicut Airport",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "124",
@@ -1493,6 +1617,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Hotel Malabar Plaza\n(Near Ramanattukara)",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "125",
@@ -1505,6 +1630,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Travel on road by \ntaxi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "126",
@@ -1517,6 +1643,7 @@
 			"type": "Travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Patient Home \n( Home quarantine)",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "127",
@@ -1529,6 +1656,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Private Consultation \n(Dr Home) \nLocation: Mathil",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "128",
@@ -1541,6 +1669,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "On road by private car",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "129",
@@ -1553,6 +1682,7 @@
 			"type": "Travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Casuality,GMC Kannur",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "130",
@@ -1565,6 +1695,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Isolation unit, GMC Kannur",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "131",
@@ -1577,6 +1708,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Hospital Isolation, GMC Kannur",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "132",
@@ -1589,6 +1721,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Hospital Isolation, GMC Kannur",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "133",
@@ -1601,6 +1734,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Hospital Isolation, GMC Kannur",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "134",
@@ -1613,6 +1747,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Travel by private \ncar",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "135",
@@ -1625,6 +1760,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Patient reached his Home \n(Isolation)",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "136",
@@ -1637,6 +1773,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Strict Home isolation",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "137",
@@ -1649,6 +1786,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Strict Home isolation",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "138",
@@ -1661,6 +1799,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Travelling in \nAmbulance \nby road",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "139",
@@ -1673,6 +1812,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Patient reached Isolation ward, GMC Kannur",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "140",
@@ -1685,6 +1825,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Bangalore Airport - Came from USA through London,Heathrow",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "141",
@@ -1697,6 +1838,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "HOME",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "142",
@@ -1709,6 +1851,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Visited RGICD at 02:30pm and sample was collected and sent to NIV Bangalore",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "143",
@@ -1721,6 +1864,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Whole day he was under home quarantine",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "144",
@@ -1733,6 +1877,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Travlled through Ambulance and got admitted to RGICD,Bangalore",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "145",
@@ -1745,6 +1890,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Hyderabad airport and travelled to Kalburgi.",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "146",
@@ -1757,6 +1903,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Had fever and family physician visited and gave treatment",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "147",
@@ -1769,6 +1916,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Treated at home by family doctor then shifted to private hospital and got admitted,\nSample was collected and was sent to VRDL,BMC & RI\nPatient was discharged against medical advise at 10:00 PM",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "148",
@@ -1781,6 +1929,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Arrived at Trivandrum\nFlight QR506\nDoha to TVM",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "149",
@@ -1793,6 +1942,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Ulloor Gardens",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "150",
@@ -1805,6 +1955,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Hotel Bismi, Kumarapuram",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "151",
@@ -1817,6 +1968,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Hotel Ambadi Kannan,Medical College Junction",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "152",
@@ -1829,6 +1981,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Hotel Bismi, Kumarapuram",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "153",
@@ -1841,6 +1994,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Hotel Thamarassery Churam",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "154",
@@ -1853,6 +2007,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Margin free market,Kunnil,Medical College Junction",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "155",
@@ -1865,6 +2020,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Hotel Kochi Pedia",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "156",
@@ -1877,6 +2033,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Suresh Hotel, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "157",
@@ -1889,6 +2046,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Mini Shopee, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "158",
@@ -1901,6 +2059,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "HP Petrol Pump, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "159",
@@ -1913,6 +2072,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Ittiyapara Bus Stand, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "160",
@@ -1925,6 +2085,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Post Office, Ranni, Pazhavangadi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "161",
@@ -1937,6 +2098,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Knanaya Church, Ranni, Pazhavangadi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "162",
@@ -1949,6 +2111,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Post Office, Ranni, Pazhavangadi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "163",
@@ -1961,6 +2124,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Golden Emporium, New Hypermarket, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "164",
@@ -1973,6 +2137,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Mini Shopee, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "165",
@@ -1985,6 +2150,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Imperial Bakery, Punalur",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "166",
@@ -1997,6 +2163,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Maniyar, Punalur",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "167",
@@ -2009,6 +2176,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Mini Shopee, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "168",
@@ -2021,6 +2189,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "SBI/SBT, Ranni, Thottamon",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "169",
@@ -2033,6 +2202,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "ESAF Bank, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "170",
@@ -2045,6 +2215,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Grama Panchayat, Ranni, Pazhavangadi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "171",
@@ -2057,6 +2228,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "SBI/SBT, Ranni, Thottamon",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "172",
@@ -2069,6 +2241,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Grand Bakery, Ranni, Ittypara",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "173",
@@ -2081,6 +2254,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "SBI/SBT, Ranni, Thottamon",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "174",
@@ -2093,6 +2267,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Supreme Travels, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "175",
@@ -2105,6 +2280,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Marthoma Hospital, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "176",
@@ -2117,6 +2293,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Baby Palace, Ranni, Ittiyapara",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "177",
@@ -2129,6 +2306,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Unimoni/ UAE Exchange, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "178",
@@ -2141,6 +2319,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "SP Office, Pathanamthitta",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "179",
@@ -2153,6 +2332,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Royal Studio, Pathanamthitta",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "180",
@@ -2165,6 +2345,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Josco Jewlerry",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "181",
@@ -2177,6 +2358,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Ranni Gate Hospital",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "182",
@@ -2189,6 +2371,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Hotel Aryas, Kuthattukulam, Muvattupuzha Road",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "183",
@@ -2201,6 +2384,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Suresh Hotel, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "184",
@@ -2213,6 +2397,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Mini Shopee, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "185",
@@ -2225,6 +2410,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "HP Petrol Pump, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "186",
@@ -2237,6 +2423,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Ittiyapara Bus Stand, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "187",
@@ -2249,6 +2436,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Post Office, Ranni, Pazhavangadi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "188",
@@ -2261,6 +2449,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Knanaya Church, Ranni, Pazhavangadi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "189",
@@ -2273,6 +2462,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Post Office, Ranni, Pazhavangadi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "190",
@@ -2285,6 +2475,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Golden Emporium, New Hypermarket, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "191",
@@ -2297,6 +2488,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Mini Shopee, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "192",
@@ -2309,6 +2501,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Imperial Bakery, Punalur",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "193",
@@ -2321,6 +2514,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Maniyar, Punalur",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "194",
@@ -2333,6 +2527,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Mini Shopee, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "195",
@@ -2345,6 +2540,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "SBI/SBT, Ranni, Thottamon",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "196",
@@ -2357,6 +2553,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "ESAF Bank, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "197",
@@ -2369,6 +2566,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Grama Panchayat, Ranni, Pazhavangadi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "198",
@@ -2381,6 +2579,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "SBI/SBT, Ranni, Thottamon",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "199",
@@ -2393,6 +2592,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Grand Bakery, Ranni, Ittypara",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "200",
@@ -2405,6 +2605,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "SBI/SBT, Ranni, Thottamon",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "201",
@@ -2417,6 +2618,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Supreme Travels, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "202",
@@ -2429,6 +2631,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Marthoma Hospital, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "203",
@@ -2441,6 +2644,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Baby Palace, Ranni, Ittiyapara",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "204",
@@ -2453,6 +2657,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Unimoni/ UAE Exchange, Ranni",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "205",
@@ -2465,6 +2670,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "SP Office, Pathanamthitta",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "206",
@@ -2477,6 +2683,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Royal Studio, Pathanamthitta",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "207",
@@ -2489,6 +2696,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Josco Jewlerry",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "208",
@@ -2501,6 +2709,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Ranni Gate Hospital",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "209",
@@ -2513,6 +2722,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Met father at Fathers House Near KNZ Function hall, Kalaburagi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "210",
@@ -2525,6 +2735,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Stayed at own house Fort",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "211",
@@ -2537,6 +2748,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Met father at Fathers House Near KNZ Function hall, Kalaburagi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "212",
@@ -2549,6 +2761,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Stayed at own house Fort",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "213",
@@ -2561,6 +2774,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Met father at Fathers House Near KNZ Function hall, Kalaburagi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "214",
@@ -2573,6 +2787,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Stayed at own house Fort",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "215",
@@ -2585,6 +2800,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Accompanied patient 6 (father) in ambulance during his illness from Hyderabad to Kalaburagi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "216",
@@ -2597,6 +2813,7 @@
 			"type": "Travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "stayed at fathers house Near KNZ Function Hall, Kalaburagi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "217",
@@ -2609,6 +2826,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Admitted to ESI Hospital Kalaburagi",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "218",
@@ -2621,6 +2839,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Arrival at Nedumbassery Airport by AirIndia Flight no AI964 (JEDDAH-KOCHI)",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "219",
@@ -2633,6 +2852,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Started travel from Airport in Benzy travels bus with approximate 40 Travellers",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "220",
@@ -2645,6 +2865,7 @@
 			"type": "Travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Reached Busstop near Hajj House Karipur",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "221",
@@ -2657,6 +2878,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Travel to home",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "222",
@@ -2669,6 +2891,7 @@
 			"type": "Travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Reached home at Chemrakkattil Vellari, Areakode",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "223",
@@ -2681,6 +2904,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Consultation at Areecode Thaluk Hospital",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "224",
@@ -2693,6 +2917,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Return Home",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "225",
@@ -2705,6 +2930,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Admitted at Government Medical college, Manjeri",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "226",
@@ -2717,6 +2943,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Reached Kempegowda Intl Airport by Indigo Flight no 6E96(Dubai - Banglore)",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "227",
@@ -2729,6 +2956,7 @@
 			"type": "Travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Took KSRTC Rajahamsa Bus(KA 19 F 3170) from Satellite Bus Stand to Madikeri (via Virajpet and Muranad)",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "228",
@@ -2741,6 +2969,7 @@
 			"type": "Travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Tested COVID-19 positive in Kodagu",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "229",
@@ -2753,6 +2982,7 @@
 			"type": ""
 		},
 		{
+			"accuracylocation": "",
 			"address": "Travel from airport to Paradie Biryani Whitefield",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "230",
@@ -2765,6 +2995,7 @@
 			"type": "Travel"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Paradise Biryani, Whitefield",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "231",
@@ -2777,6 +3008,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Met friend in her apartment",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "232",
@@ -2789,6 +3021,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Walk in apartment with friend",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "233",
@@ -2801,6 +3034,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Movie at Forum Valley Mall",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "234",
@@ -2813,6 +3047,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Walk in apartment with friend",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "235",
@@ -2825,6 +3060,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Walk in apartment with friend",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "236",
@@ -2837,6 +3073,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Bought medicine at Mediwave",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "237",
@@ -2849,6 +3086,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Met Dhobi in apartment",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "238",
@@ -2861,6 +3099,7 @@
 			"type": "placeVisit"
 		},
 		{
+			"accuracylocation": "",
 			"address": "Admitted in RJICD",
 			"datasource": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"entryid": "239",
