@@ -489,19 +489,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "31",
+			"confirmeddelta": "34",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 23, 2020 at 11:08 am",
+			"lastupdatedtime": "March 23, 2020 at 12:18 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "403",
-			"confirmed": "433",
+			"active": "406",
+			"confirmed": "436",
 			"deaths": "7",
-			"lastupdatedtime": "March 23, 2020 at 11:08 am",
+			"lastupdatedtime": "March 23, 2020 at 12:18 pm",
 			"recovered": "23",
 			"state": "Total"
 		},
@@ -546,8 +546,8 @@
 			"state": "Delhi"
 		},
 		{
-			"active": "26",
-			"confirmed": "27",
+			"active": "29",
+			"confirmed": "30",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "1",
