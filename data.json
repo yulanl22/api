@@ -489,19 +489,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "100",
+			"confirmeddelta": "101",
 			"deceaseddelta": "2",
-			"lastupdatedtime": "March 23, 2020 at 9:07 pm",
+			"lastupdatedtime": "March 23, 2020 at 10:17 pm",
 			"recovereddelta": "2",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "468",
-			"confirmed": "502",
+			"active": "469",
+			"confirmed": "503",
 			"deaths": "9",
-			"lastupdatedtime": "March 23, 2020 at 9:07 pm",
+			"lastupdatedtime": "March 23, 2020 at 10:17 pm",
 			"recovered": "25",
 			"state": "Total"
 		},
@@ -666,8 +666,8 @@
 			"state": "Odisha"
 		},
 		{
-			"active": "1",
-			"confirmed": "2",
+			"active": "2",
+			"confirmed": "3",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
