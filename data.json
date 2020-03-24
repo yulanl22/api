@@ -487,11 +487,11 @@
 			"totalrecovered": "25"
 		},
 		{
-			"dailyconfirmed": "61",
+			"dailyconfirmed": "62",
 			"dailydeceased": "1",
 			"dailyrecovered": "15",
 			"date": "24 March ",
-			"totalconfirmed": "566",
+			"totalconfirmed": "567",
 			"totaldeceased": "10",
 			"totalrecovered": "40"
 		},
@@ -509,17 +509,17 @@
 		{
 			"confirmeddelta": "0",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 24, 2020 at 10:07 pm",
+			"lastupdatedtime": "March 25, 2020 at 4:04 am",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "516",
-			"confirmed": "566",
+			"active": "517",
+			"confirmed": "567",
 			"deaths": "10",
-			"lastupdatedtime": "March 24, 2020 at 10:07 pm",
+			"lastupdatedtime": "March 25, 2020 at 4:04 am",
 			"recovered": "40",
 			"state": "Total"
 		},
@@ -564,8 +564,8 @@
 			"state": "Uttar Pradesh"
 		},
 		{
-			"active": "32",
-			"confirmed": "33",
+			"active": "33",
+			"confirmed": "34",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
