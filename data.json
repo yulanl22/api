@@ -508,7 +508,7 @@
 	"key_values": [
 		{
 			"confirmeddelta": "0",
-			"deceaseddelta": "1",
+			"deceaseddelta": "0",
 			"lastupdatedtime": "March 24, 2020 at 10:07 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
@@ -516,9 +516,9 @@
 	],
 	"statewise": [
 		{
-			"active": "515",
+			"active": "516",
 			"confirmed": "566",
-			"deaths": "11",
+			"deaths": "10",
 			"lastupdatedtime": "March 24, 2020 at 10:07 pm",
 			"recovered": "40",
 			"state": "Total"
@@ -532,9 +532,9 @@
 			"state": "Kerala"
 		},
 		{
-			"active": "104",
+			"active": "105",
 			"confirmed": "107",
-			"deaths": "3",
+			"deaths": "2",
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Maharashtra"
@@ -564,20 +564,20 @@
 			"state": "Uttar Pradesh"
 		},
 		{
-			"active": "29",
-			"confirmed": "32",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "3",
-			"state": "Rajasthan"
-		},
-		{
 			"active": "32",
 			"confirmed": "33",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Gujarat"
+		},
+		{
+			"active": "29",
+			"confirmed": "32",
+			"deaths": "0",
+			"lastupdatedtime": "",
+			"recovered": "3",
+			"state": "Rajasthan"
 		},
 		{
 			"active": "23",
@@ -588,20 +588,20 @@
 			"state": "Delhi"
 		},
 		{
-			"active": "28",
-			"confirmed": "29",
-			"deaths": "1",
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Punjab"
-		},
-		{
 			"active": "19",
 			"confirmed": "30",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "11",
 			"state": "Haryana"
+		},
+		{
+			"active": "28",
+			"confirmed": "29",
+			"deaths": "1",
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Punjab"
 		},
 		{
 			"active": "16",

@@ -764,20 +764,13 @@
         "recovered": 0
       },
       "Gandhinagar": {
-        "active": 4,
-        "confirmed": 4,
+        "active": 5,
+        "confirmed": 5,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Kutch": {
-        "active": 1,
-        "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
-      "Unknown": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
