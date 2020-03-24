@@ -498,19 +498,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "0",
+			"confirmeddelta": "1",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 24, 2020 at 8:08 am",
+			"lastupdatedtime": "March 24, 2020 at 9:17 am",
 			"recovereddelta": "10",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "461",
-			"confirmed": "505",
+			"active": "462",
+			"confirmed": "506",
 			"deaths": "9",
-			"lastupdatedtime": "March 24, 2020 at 8:08 am",
+			"lastupdatedtime": "March 24, 2020 at 9:17 am",
 			"recovered": "35",
 			"state": "Total"
 		},
@@ -755,8 +755,8 @@
 			"state": "Jharkhand"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "0",

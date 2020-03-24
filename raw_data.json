@@ -10099,6 +10099,26 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "23/02/2020"
+		},
+		{
+			"agebracket": "23",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "24/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "Manipur",
+			"estimatedonsetdate": "",
+			"gender": "F",
+			"nationality": "",
+			"notes": "Travelled from London",
+			"patientnumber": "506",
+			"source1": "https://twitter.com/the_hindu/status/1242295023657308160",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "24/03/2020"
 		}
 	]
 }
