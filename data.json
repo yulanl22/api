@@ -498,19 +498,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "27",
+			"confirmeddelta": "29",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 24, 2020 at 2:32 pm",
+			"lastupdatedtime": "March 24, 2020 at 3:04 pm",
 			"recovereddelta": "12",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "486",
-			"confirmed": "532",
+			"active": "488",
+			"confirmed": "534",
 			"deaths": "9",
-			"lastupdatedtime": "March 24, 2020 at 2:32 pm",
+			"lastupdatedtime": "March 24, 2020 at 3:04 pm",
 			"recovered": "37",
 			"state": "Total"
 		},
@@ -643,8 +643,8 @@
 			"state": "Andhra Pradesh"
 		},
 		{
-			"active": "4",
-			"confirmed": "4",
+			"active": "6",
+			"confirmed": "6",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "0",
