@@ -10561,23 +10561,23 @@
 			"statuschangedate": "24/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "47",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "24/03/2020",
-			"detectedcity": "Singasandra",
+			"detectedcity": "Kasaragod",
 			"detecteddistrict": "Bengaluru",
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "From the state of Kerala. With a Travel History to Dubai and Arrived in Mangaluru by Air India Express at 5am on Mar 19",
 			"patientnumber": "529",
 			"source1": "https://twitter.com/BBMPCOMM/status/1242350440580124673",
-			"source2": "",
-			"source3": "",
-			"statepatientnumber": "",
+			"source2": "State Health Bulletin",
+			"source3": "https://indianexpress.com/article/cities/bangalore/coronavirus-in-karnataka-38-cases-so-far-bengaluru-uses-drones-to-spray-disinfectants-6329577/",
+			"statepatientnumber": "KA-P39",
 			"statuschangedate": "24/03/2020"
 		},
 		{
@@ -11155,9 +11155,9 @@
 			"notes": "From the state of Kerala. With a Travel History to Saudi Arabia and Arrived in Mangaluru. Date of arrival is not known.",
 			"patientnumber": "558",
 			"source1": "https://twitter.com/ANI/status/1242444608149139457",
-			"source2": "",
+			"source2": "State Health Bulletin",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "KA-P40",
 			"statuschangedate": "24/03/2020"
 		},
 		{
@@ -11175,9 +11175,9 @@
 			"notes": "From the state of Kerala. With a Travel History to Dubai and Arrived in Mangaluru on Mar 20",
 			"patientnumber": "559",
 			"source1": "https://twitter.com/ANI/status/1242444608149139457",
-			"source2": "",
+			"source2": "State Health Bulletin",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "KA-P41",
 			"statuschangedate": "24/03/2020"
 		},
 		{
