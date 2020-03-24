@@ -10537,7 +10537,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1242353133994438658?s=19",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "TS-P34",
 			"statuschangedate": "24/03/2020"
 		},
 		{
@@ -10557,7 +10557,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1242353133994438658?s=19",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "TS-P35",
 			"statuschangedate": "24/03/2020"
 		},
 		{
@@ -10577,7 +10577,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1242353133994438658?s=19",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "TS-P36",
 			"statuschangedate": "24/03/2020"
 		},
 		{
@@ -11301,24 +11301,24 @@
 			"statuschangedate": "24/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "64",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
-			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"contractedfromwhichpatientsuspected": "P369",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "24/03/2020",
+			"detectedcity": "Manikonda",
+			"detecteddistrict": "Hyderabad",
+			"detectedstate": "Telangana",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
-			"notes": "",
+			"notes": "Contact with TS-P25",
 			"patientnumber": "566",
-			"source1": "",
+			"source1": "https://twitter.com/IPRTelangana/status/1242490062907912192",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statepatientnumber": "TS-P37",
+			"statuschangedate": "24/03/2020"
 		},
 		{
 			"agebracket": "",
