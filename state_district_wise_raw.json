@@ -134,6 +134,13 @@
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
+      },
+      "Unknown": {
+        "active": 3,
+        "confirmed": 3,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
       }
     }
   },
@@ -310,8 +317,8 @@
   "Tamil Nadu": {
     "districtData": {
       "Chennai": {
-        "active": 4,
-        "confirmed": 5,
+        "active": 7,
+        "confirmed": 8,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1
@@ -370,8 +377,8 @@
         "recovered": 0
       },
       "Srinagar": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -381,8 +388,8 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "active": 20,
-        "confirmed": 23,
+        "active": 22,
+        "confirmed": 25,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 3
@@ -402,8 +409,8 @@
         "recovered": 0
       },
       "Chikkaballapura": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -423,15 +430,15 @@
         "recovered": 0
       },
       "Uttara Kannada": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
-      "Unknown": {
-        "active": 4,
-        "confirmed": 4,
+      "Dakshina Kannada": {
+        "active": 1,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -633,8 +640,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -687,8 +694,8 @@
         "recovered": 0
       },
       "Surat": {
-        "active": 3,
-        "confirmed": 4,
+        "active": 4,
+        "confirmed": 5,
         "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
@@ -708,8 +715,8 @@
         "recovered": 0
       },
       "Gandhinagar": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 4,
+        "confirmed": 4,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -722,8 +729,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 2,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -786,7 +793,7 @@
   },
   "Manipur": {
     "districtData": {
-      "Unknown": {
+      "Imphal West": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
@@ -799,7 +806,7 @@
     "districtData": {
       "Unknown": {
         "active": 0,
-        "confirmed": 7,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
