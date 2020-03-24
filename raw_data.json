@@ -10341,7 +10341,7 @@
 			"statuschangedate": "23/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "65",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -10350,7 +10350,7 @@
 			"detecteddistrict": "Surat",
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "Travelled from Saudi Arabia, More details awaited",
 			"patientnumber": "518",
