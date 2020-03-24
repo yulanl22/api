@@ -253,8 +253,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 9,
-        "confirmed": 10,
+        "active": 8,
+        "confirmed": 9,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1
@@ -288,8 +288,8 @@
         "recovered": 0
       },
       "Gautam Buddh Nagar": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
