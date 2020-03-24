@@ -4352,7 +4352,7 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "India",
-			"notes": "Doctor",
+			"notes": "Doctor, Had a guest who returned from Saudi Arabia",
 			"patientnumber": "218",
 			"source1": "https://timesofindia.indiatimes.com/city/mumbai/live-updates-coronavirus-in-india-maharashtra-punjab-delhi-telangana-karnataka-kerala/liveblog/74722161.cms",
 			"source2": "",
@@ -4363,7 +4363,7 @@
 		{
 			"agebracket": "",
 			"backupnotes": "Doctor",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "P218",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
 			"detectedcity": "Bhilwara",
@@ -4375,7 +4375,7 @@
 			"notes": "Doctor",
 			"patientnumber": "219",
 			"source1": "https://timesofindia.indiatimes.com/city/mumbai/live-updates-coronavirus-in-india-maharashtra-punjab-delhi-telangana-karnataka-kerala/liveblog/74722161.cms",
-			"source2": "",
+			"source2": "https://www.bhaskar.com/rajasthan/jaipur/news/bhilwara-jaipur-coronavirus-covid-19-positive-case-updates-rajasthan-reports-5-more-news-cases-corona-total-cases-latest-news-127030101.html",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "20/03/2020"
