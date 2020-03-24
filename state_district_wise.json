@@ -142,9 +142,16 @@
         "lastupdatedtime": "",
         "recovered": 0
       },
+      "Ranga Reddy": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
       "Unknown": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 2,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
