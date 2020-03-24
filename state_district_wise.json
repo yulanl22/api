@@ -622,6 +622,13 @@
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
+      },
+      "Unknown": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
       }
     }
   },

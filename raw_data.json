@@ -11219,6 +11219,26 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "24/03/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "Andhra Pradesh",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "Details awaited, Matched to MOHFW for 8th case",
+			"patientnumber": "",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": ""
 		}
 	]
 }
