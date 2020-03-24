@@ -547,8 +547,8 @@
 			"state": "Telangana"
 		},
 		{
-			"active": "23",
-			"confirmed": "34",
+			"active": "24",
+			"confirmed": "35",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "11",
@@ -571,8 +571,8 @@
 			"state": "Gujarat"
 		},
 		{
-			"active": "25",
-			"confirmed": "32",
+			"active": "24",
+			"confirmed": "31",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "6",
