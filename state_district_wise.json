@@ -214,8 +214,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 8,
-        "confirmed": 8,
+        "active": 10,
+        "confirmed": 10,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -862,7 +862,7 @@
     "districtData": {
       "Unknown": {
         "active": 0,
-        "confirmed": 11,
+        "confirmed": 9,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
