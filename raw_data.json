@@ -5881,7 +5881,7 @@
 			"statuschangedate": "22/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "26",
 			"backupnotes": "Details awaited",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -5890,9 +5890,9 @@
 			"detecteddistrict": "Gandhinagar",
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "India",
-			"notes": "Details awaited",
+			"notes": "Travelled from Dubai",
 			"patientnumber": "295",
 			"source1": "https://twitter.com/ANI/status/1241292573584441345",
 			"source2": "https://www.thehindu.com/news/national/coronavirus-jump-in-covid-19-cases-in-gujarat/article31130224.ece",
@@ -10035,10 +10035,10 @@
 			"notes": "Annanagar at Rajaji Hosp. No mention of travel history.",
 			"patientnumber": "502",
 			"source1": "https://twitter.com/Vijayabaskarofl/status/1242122022022340610",
-			"source2": "",
+			"source2": "https://twitter.com/Vijayabaskarofl/status/1242549748352966656?s=20",
 			"source3": "",
 			"statepatientnumber": "TN-P12",
-			"statuschangedate": "23/03/2020"
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "24",
