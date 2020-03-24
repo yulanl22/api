@@ -97,8 +97,8 @@
         "recovered": 1
       },
       "Unknown": {
-        "active": 26,
-        "confirmed": 27,
+        "active": 25,
+        "confirmed": 26,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -189,8 +189,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 2,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
