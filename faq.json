@@ -1,0 +1,14 @@
+{
+	"faq": [
+		{
+			"answer": "MoH updates the data at a scheduled time and we update them based on State Press Bulletin and Reliable news channel.",
+			"qno": "1",
+			"question": "Why does covid19india.org have more postive count than MoH?"
+		},
+		{
+			"answer": "Because it affects all of us. Today it's someone else who is getting infected. Tomorrow it will be us. We need to prevent the spread. We need to document the data so that people with knowledge are able to map the data.",
+			"qno": "2",
+			"question": "Why are you guys putting in time and resources to do this while not gaining a single penny from it?"
+		}
+	]
+}

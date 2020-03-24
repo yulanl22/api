@@ -498,19 +498,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "14",
+			"confirmeddelta": "17",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 24, 2020 at 10:13 am",
+			"lastupdatedtime": "March 24, 2020 at 10:12 am",
 			"recovereddelta": "12",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "473",
-			"confirmed": "519",
+			"active": "476",
+			"confirmed": "522",
 			"deaths": "9",
-			"lastupdatedtime": "March 24, 2020 at 10:13 am",
+			"lastupdatedtime": "March 24, 2020 at 10:12 am",
 			"recovered": "37",
 			"state": "Total"
 		},
@@ -531,14 +531,6 @@
 			"state": "Kerala"
 		},
 		{
-			"active": "32",
-			"confirmed": "33",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "1",
-			"state": "Telangana"
-		},
-		{
 			"active": "34",
 			"confirmed": "37",
 			"deaths": "1",
@@ -555,20 +547,12 @@
 			"state": "Uttar Pradesh"
 		},
 		{
-			"active": "24",
-			"confirmed": "31",
-			"deaths": "1",
+			"active": "32",
+			"confirmed": "33",
+			"deaths": "0",
 			"lastupdatedtime": "",
-			"recovered": "6",
-			"state": "Delhi"
-		},
-		{
-			"active": "29",
-			"confirmed": "30",
-			"deaths": "1",
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Gujarat"
+			"recovered": "1",
+			"state": "Telangana"
 		},
 		{
 			"active": "30",
@@ -579,12 +563,20 @@
 			"state": "Rajasthan"
 		},
 		{
-			"active": "22",
-			"confirmed": "23",
+			"active": "24",
+			"confirmed": "31",
+			"deaths": "1",
+			"lastupdatedtime": "",
+			"recovered": "6",
+			"state": "Delhi"
+		},
+		{
+			"active": "32",
+			"confirmed": "33",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"state": "Punjab"
+			"state": "Gujarat"
 		},
 		{
 			"active": "17",
@@ -593,6 +585,14 @@
 			"lastupdatedtime": "",
 			"recovered": "11",
 			"state": "Haryana"
+		},
+		{
+			"active": "22",
+			"confirmed": "23",
+			"deaths": "1",
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Punjab"
 		},
 		{
 			"active": "13",
@@ -668,19 +668,19 @@
 		},
 		{
 			"active": "2",
-			"confirmed": "2",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Odisha"
-		},
-		{
-			"active": "2",
 			"confirmed": "3",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Bihar"
+		},
+		{
+			"active": "2",
+			"confirmed": "2",
+			"deaths": "0",
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Odisha"
 		},
 		{
 			"active": "1",
@@ -697,6 +697,14 @@
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Chhattisgarh"
+		},
+		{
+			"active": "1",
+			"confirmed": "1",
+			"deaths": "0",
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Manipur"
 		},
 		{
 			"active": "0",
@@ -753,14 +761,6 @@
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Jharkhand"
-		},
-		{
-			"active": "1",
-			"confirmed": "1",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Manipur"
 		},
 		{
 			"active": "0",
