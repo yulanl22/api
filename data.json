@@ -478,11 +478,11 @@
 			"totalrecovered": "23"
 		},
 		{
-			"dailyconfirmed": "101",
+			"dailyconfirmed": "102",
 			"dailydeceased": "2",
 			"dailyrecovered": "2",
 			"date": "23 March ",
-			"totalconfirmed": "503",
+			"totalconfirmed": "504",
 			"totaldeceased": "9",
 			"totalrecovered": "25"
 		},
@@ -500,17 +500,17 @@
 		{
 			"confirmeddelta": "0",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 24, 2020 at 4:53 am",
+			"lastupdatedtime": "March 24, 2020 at 5:12 am",
 			"recovereddelta": "10",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "459",
-			"confirmed": "503",
+			"active": "460",
+			"confirmed": "504",
 			"deaths": "9",
-			"lastupdatedtime": "March 24, 2020 at 4:53 am",
+			"lastupdatedtime": "March 24, 2020 at 5:12 am",
 			"recovered": "35",
 			"state": "Total"
 		},
@@ -547,8 +547,8 @@
 			"state": "Karnataka"
 		},
 		{
-			"active": "23",
-			"confirmed": "32",
+			"active": "24",
+			"confirmed": "33",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "9",
@@ -890,9 +890,9 @@
 			"updatetimestamp": "23/3/2020 10:00"
 		},
 		{
-			"source": "",
+			"source": "ICMR_website_update_23March_8PM_IST.pdf",
 			"totalindividualstested": "19817",
-			"totalpositivecases": "",
+			"totalpositivecases": "471",
 			"totalsamplestested": "20707",
 			"updatetimestamp": "23/3/2020 20:00"
 		}
