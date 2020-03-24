@@ -492,7 +492,7 @@
 			"dailyrecovered": "15",
 			"date": "24 March ",
 			"totalconfirmed": "566",
-			"totaldeceased": "",
+			"totaldeceased": "10",
 			"totalrecovered": "40"
 		}
 	],
@@ -507,9 +507,9 @@
 	],
 	"statewise": [
 		{
-			"active": "516",
+			"active": "515",
 			"confirmed": "566",
-			"deaths": "10",
+			"deaths": "11",
 			"lastupdatedtime": "March 24, 2020 at 10:07 pm",
 			"recovered": "40",
 			"state": "Total"
@@ -595,9 +595,9 @@
 			"state": "Haryana"
 		},
 		{
-			"active": "17",
+			"active": "16",
 			"confirmed": "18",
-			"deaths": "0",
+			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "1",
 			"state": "Tamil Nadu"
