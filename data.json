@@ -498,7 +498,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "21",
+			"confirmeddelta": "24",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "March 24, 2020 at 10:54 am",
 			"recovereddelta": "12",
@@ -507,8 +507,8 @@
 	],
 	"statewise": [
 		{
-			"active": "480",
-			"confirmed": "526",
+			"active": "483",
+			"confirmed": "529",
 			"deaths": "9",
 			"lastupdatedtime": "March 24, 2020 at 10:54 am",
 			"recovered": "37",
@@ -547,8 +547,8 @@
 			"state": "Uttar Pradesh"
 		},
 		{
-			"active": "32",
-			"confirmed": "33",
+			"active": "35",
+			"confirmed": "36",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "1",
