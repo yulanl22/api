@@ -30,11 +30,11 @@
         "recovered": 0
       },
       "Kannur": {
-        "active": 14,
+        "active": 13,
         "confirmed": 14,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 0
+        "recovered": 1
       },
       "Ernakulam": {
         "active": 16,
@@ -338,15 +338,15 @@
   "Tamil Nadu": {
     "districtData": {
       "Chennai": {
-        "active": 7,
-        "confirmed": 8,
+        "active": 10,
+        "confirmed": 11,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1
       },
       "Unknown": {
         "active": 1,
-        "confirmed": 4,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
