@@ -500,7 +500,7 @@
 		{
 			"confirmeddelta": "57",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 24, 2020 at 6:50 pm",
+			"lastupdatedtime": "March 24, 2020 at 6:03 pm",
 			"recovereddelta": "15",
 			"statesdelta": "0"
 		}
@@ -510,17 +510,9 @@
 			"active": "513",
 			"confirmed": "562",
 			"deaths": "9",
-			"lastupdatedtime": "March 24, 2020 at 6:50 pm",
+			"lastupdatedtime": "March 24, 2020 at 6:03 pm",
 			"recovered": "40",
 			"state": "Total"
-		},
-		{
-			"active": "105",
-			"confirmed": "107",
-			"deaths": "2",
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Maharashtra"
 		},
 		{
 			"active": "107",
@@ -531,20 +523,20 @@
 			"state": "Kerala"
 		},
 		{
+			"active": "105",
+			"confirmed": "107",
+			"deaths": "2",
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Maharashtra"
+		},
+		{
 			"active": "35",
 			"confirmed": "39",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "3",
 			"state": "Karnataka"
-		},
-		{
-			"active": "23",
-			"confirmed": "34",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "11",
-			"state": "Uttar Pradesh"
 		},
 		{
 			"active": "35",
@@ -555,20 +547,20 @@
 			"state": "Telangana"
 		},
 		{
+			"active": "23",
+			"confirmed": "34",
+			"deaths": "0",
+			"lastupdatedtime": "",
+			"recovered": "11",
+			"state": "Uttar Pradesh"
+		},
+		{
 			"active": "30",
 			"confirmed": "33",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "3",
 			"state": "Rajasthan"
-		},
-		{
-			"active": "25",
-			"confirmed": "32",
-			"deaths": "1",
-			"lastupdatedtime": "",
-			"recovered": "6",
-			"state": "Delhi"
 		},
 		{
 			"active": "32",
@@ -579,12 +571,12 @@
 			"state": "Gujarat"
 		},
 		{
-			"active": "17",
-			"confirmed": "28",
-			"deaths": "0",
+			"active": "25",
+			"confirmed": "32",
+			"deaths": "1",
 			"lastupdatedtime": "",
-			"recovered": "11",
-			"state": "Haryana"
+			"recovered": "6",
+			"state": "Delhi"
 		},
 		{
 			"active": "28",
@@ -595,12 +587,12 @@
 			"state": "Punjab"
 		},
 		{
-			"active": "13",
-			"confirmed": "13",
+			"active": "17",
+			"confirmed": "28",
 			"deaths": "0",
 			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Ladakh"
+			"recovered": "11",
+			"state": "Haryana"
 		},
 		{
 			"active": "14",
@@ -611,12 +603,28 @@
 			"state": "Tamil Nadu"
 		},
 		{
+			"active": "13",
+			"confirmed": "13",
+			"deaths": "0",
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Ladakh"
+		},
+		{
 			"active": "8",
 			"confirmed": "9",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "West Bengal"
+		},
+		{
+			"active": "8",
+			"confirmed": "8",
+			"deaths": "0",
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Andhra Pradesh"
 		},
 		{
 			"active": "7",
@@ -633,14 +641,6 @@
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Madhya Pradesh"
-		},
-		{
-			"active": "8",
-			"confirmed": "8",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Andhra Pradesh"
 		},
 		{
 			"active": "6",
