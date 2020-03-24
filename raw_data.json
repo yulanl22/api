@@ -9741,7 +9741,7 @@
 			"statuschangedate": "23/02/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "2",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "P182",
 			"currentstatus": "Hospitalized",
@@ -9752,10 +9752,10 @@
 			"estimatedonsetdate": "",
 			"gender": "M",
 			"nationality": "Indian",
-			"notes": "Grandson of earlier case from SBS Nagar, Possibly P182",
+			"notes": "Grand son of P182",
 			"patientnumber": "488",
 			"source1": "https://dronamaps.com/corona.html#/",
-			"source2": "https://web.telegram.org/170472fe-dd0e-46b8-979a-6e783f27dd06",
+			"source2": "https://twitter.com/ThePuneMirror/status/1242109593737547776?s=20",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "23/02/2020"
