@@ -10084,7 +10084,7 @@
 			"agebracket": "41",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "23/03/2020",
 			"detectedcity": "Kaushambi",
 			"detecteddistrict": "Ghaziabad",
@@ -10092,13 +10092,13 @@
 			"estimatedonsetdate": "",
 			"gender": "M",
 			"nationality": "",
-			"notes": "",
-			"patientnumber": "",
-			"source1": "",
+			"notes": "Doctor, Travelled from France on 13th Mar",
+			"patientnumber": "505",
+			"source1": "https://www.hindustantimes.com/cities/ghaziabad-doctor-returned-from-france-found-positive-for-coronavirus-six-highrises-in-kaushambi-sanitised/story-oXl35rS6I7ANWEcfCuZ4aK.html",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "23/02/2020"
 		}
 	]
 }
