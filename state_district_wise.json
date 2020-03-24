@@ -122,8 +122,8 @@
   "Telangana": {
     "districtData": {
       "Hyderabad": {
-        "active": 29,
-        "confirmed": 30,
+        "active": 30,
+        "confirmed": 31,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1
@@ -143,13 +143,6 @@
         "recovered": 0
       },
       "Ranga Reddy": {
-        "active": 1,
-        "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
-      "Unknown": {
         "active": 2,
         "confirmed": 2,
         "deaths": 0,
