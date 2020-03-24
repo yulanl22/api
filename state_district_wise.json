@@ -757,8 +757,8 @@
         "recovered": 0
       },
       "Vadodara": {
-        "active": 6,
-        "confirmed": 6,
+        "active": 7,
+        "confirmed": 7,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -778,8 +778,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
