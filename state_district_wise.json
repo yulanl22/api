@@ -548,6 +548,13 @@
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
+      },
+      "Jalandhar": {
+        "active": 3,
+        "confirmed": 3,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
       }
     }
   },
@@ -806,7 +813,7 @@
     "districtData": {
       "Unknown": {
         "active": 0,
-        "confirmed": 2,
+        "confirmed": 12,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
