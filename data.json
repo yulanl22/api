@@ -498,7 +498,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "26",
+			"confirmeddelta": "27",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "March 24, 2020 at 2:05 pm",
 			"recovereddelta": "12",
@@ -507,8 +507,8 @@
 	],
 	"statewise": [
 		{
-			"active": "485",
-			"confirmed": "531",
+			"active": "486",
+			"confirmed": "532",
 			"deaths": "9",
 			"lastupdatedtime": "March 24, 2020 at 2:05 pm",
 			"recovered": "37",
@@ -611,8 +611,8 @@
 			"state": "Tamil Nadu"
 		},
 		{
-			"active": "7",
-			"confirmed": "8",
+			"active": "8",
+			"confirmed": "9",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
