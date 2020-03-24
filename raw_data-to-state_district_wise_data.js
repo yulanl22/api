@@ -40,7 +40,7 @@ try {
   
   }, {});
   
-  fs.writeFileSync('state_district_wise_raw.json', JSON.stringify(StateDistrictWiseData, null, 2));
+  fs.writeFileSync('state_district_wise.json', JSON.stringify(StateDistrictWiseData, null, 2));
   console.log('Starting district wise data processing ...done');
 } catch(err) {
   console.log('Error processing district wise data', err);
