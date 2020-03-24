@@ -10861,24 +10861,24 @@
 			"statuschangedate": "24/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "47",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
-			"detectedcity": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "24/03/2020",
+			"detectedcity": "Noida",
 			"detecteddistrict": "",
-			"detectedstate": "",
+			"detectedstate": "Delhi",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
-			"notes": "",
+			"notes": "No travel history",
 			"patientnumber": "544",
-			"source1": "",
+			"source1": "https://mobile.twitter.com/PTI_News/status/1242393507890749440",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "24/03/2020"
 		},
 		{
 			"agebracket": "",

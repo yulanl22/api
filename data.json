@@ -498,19 +498,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "38",
+			"confirmeddelta": "39",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 24, 2020 at 4:10 pm",
+			"lastupdatedtime": "March 24, 2020 at 4:12 pm",
 			"recovereddelta": "12",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "497",
-			"confirmed": "543",
+			"active": "498",
+			"confirmed": "544",
 			"deaths": "9",
-			"lastupdatedtime": "March 24, 2020 at 4:10 pm",
+			"lastupdatedtime": "March 24, 2020 at 4:12 pm",
 			"recovered": "37",
 			"state": "Total"
 		},
@@ -563,8 +563,8 @@
 			"state": "Rajasthan"
 		},
 		{
-			"active": "24",
-			"confirmed": "31",
+			"active": "25",
+			"confirmed": "32",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "6",
