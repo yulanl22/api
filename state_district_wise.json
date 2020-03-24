@@ -90,8 +90,8 @@
         "recovered": 1
       },
       "Unknown": {
-        "active": 26,
-        "confirmed": 27,
+        "active": 27,
+        "confirmed": 28,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -107,13 +107,6 @@
         "active": 1,
         "confirmed": 2,
         "deaths": 1,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
-      "Gautam Buddha Nagar": {
-        "active": 1,
-        "confirmed": 1,
-        "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       }
@@ -511,8 +504,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 56,
-        "confirmed": 57,
+        "active": 60,
+        "confirmed": 61,
         "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
@@ -527,20 +520,6 @@
       "Satara": {
         "active": 2,
         "confirmed": 2,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
-      "Mumbai Suburban": {
-        "active": 4,
-        "confirmed": 4,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
-      "Mumbai City": {
-        "active": 1,
-        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -841,7 +820,7 @@
     "districtData": {
       "Unknown": {
         "active": 0,
-        "confirmed": 4,
+        "confirmed": 5,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
