@@ -498,25 +498,25 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "32",
+			"confirmeddelta": "38",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 24, 2020 at 4:04 pm",
+			"lastupdatedtime": "March 24, 2020 at 4:10 pm",
 			"recovereddelta": "12",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "491",
-			"confirmed": "537",
+			"active": "497",
+			"confirmed": "543",
 			"deaths": "9",
-			"lastupdatedtime": "March 24, 2020 at 4:04 pm",
+			"lastupdatedtime": "March 24, 2020 at 4:10 pm",
 			"recovered": "37",
 			"state": "Total"
 		},
 		{
-			"active": "99",
-			"confirmed": "101",
+			"active": "105",
+			"confirmed": "107",
 			"deaths": "2",
 			"lastupdatedtime": "",
 			"recovered": "0",
