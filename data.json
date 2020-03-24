@@ -498,20 +498,20 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "5",
+			"confirmeddelta": "12",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "March 24, 2020 at 10:12 am",
-			"recovereddelta": "10",
+			"recovereddelta": "11",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "466",
-			"confirmed": "510",
+			"active": "472",
+			"confirmed": "517",
 			"deaths": "9",
 			"lastupdatedtime": "March 24, 2020 at 10:12 am",
-			"recovered": "35",
+			"recovered": "36",
 			"state": "Total"
 		},
 		{
@@ -539,8 +539,8 @@
 			"state": "Telangana"
 		},
 		{
-			"active": "30",
-			"confirmed": "33",
+			"active": "34",
+			"confirmed": "37",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "2",
@@ -556,10 +556,10 @@
 		},
 		{
 			"active": "24",
-			"confirmed": "30",
+			"confirmed": "31",
 			"deaths": "1",
 			"lastupdatedtime": "",
-			"recovered": "5",
+			"recovered": "6",
 			"state": "Delhi"
 		},
 		{
@@ -571,8 +571,8 @@
 			"state": "Gujarat"
 		},
 		{
-			"active": "29",
-			"confirmed": "32",
+			"active": "30",
+			"confirmed": "33",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "3",
@@ -627,8 +627,8 @@
 			"state": "Chandigarh"
 		},
 		{
-			"active": "6",
-			"confirmed": "6",
+			"active": "7",
+			"confirmed": "7",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "0",
