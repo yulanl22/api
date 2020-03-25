@@ -12981,23 +12981,23 @@
 			"statuschangedate": "25/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "22",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "25/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
+			"detecteddistrict": "Vijayawada",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
-			"nationality": "",
-			"notes": "From MoH",
+			"gender": "M",
+			"nationality": "India",
+			"notes": "Travelled from Washington, USA to Delhi on 20.03.2020, Delhi to Vijayawada on 22.03.2020. Hospitalised on 23.03.2020",
 			"patientnumber": "650",
-			"source1": "",
+			"source1": "https://twitter.com/ArogyaAndhra/status/1242855271216619522?s=20",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P9",
 			"statuschangedate": "25/03/2020"
 		},
 		{
@@ -13058,6 +13058,26 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TN-P26",
+			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "52",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Guntur",
+			"detectedstate": "Andhra Pradesh",
+			"estimatedonsetdate": "",
+			"gender": "M",
+			"nationality": "India",
+			"notes": "",
+			"patientnumber": "654",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "AP-P10",
 			"statuschangedate": "25/03/2020"
 		}
 	]

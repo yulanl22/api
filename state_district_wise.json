@@ -728,7 +728,14 @@
         "lastupdatedtime": "",
         "recovered": 0
       },
-      "Unknown": {
+      "Vijayawada": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Guntur": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,

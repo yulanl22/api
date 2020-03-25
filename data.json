@@ -496,11 +496,11 @@
 			"totalrecovered": "40"
 		},
 		{
-			"dailyconfirmed": "82",
+			"dailyconfirmed": "83",
 			"dailydeceased": "2",
 			"dailyrecovered": "3",
 			"date": "25 March ",
-			"totalconfirmed": "653",
+			"totalconfirmed": "654",
 			"totaldeceased": "12",
 			"totalrecovered": "43"
 		},
@@ -526,12 +526,12 @@
 	],
 	"statewise": [
 		{
-			"active": "598",
-			"confirmed": "653",
+			"active": "599",
+			"confirmed": "654",
 			"deaths": "12",
 			"delta": {
-				"active": 81,
-				"confirmed": 82,
+				"active": 82,
+				"confirmed": 83,
 				"deaths": 1,
 				"recovered": 0
 			},
@@ -722,12 +722,12 @@
 			"state": "West Bengal"
 		},
 		{
-			"active": "8",
-			"confirmed": "9",
+			"active": "9",
+			"confirmed": "10",
 			"deaths": "0",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 2,
+				"confirmed": 2,
 				"deaths": 0,
 				"recovered": 0
 			},
