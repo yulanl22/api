@@ -507,9 +507,9 @@
 	],
 	"key_values": [
 		{
-			"_ciyn3": "640",
-			"_ckd7g": "25/03/2020 20:13:21",
-			"confirmeddelta": "71",
+			"_ciyn3": "641",
+			"_ckd7g": "25/03/2020 20:34:40",
+			"confirmeddelta": "74",
 			"deceaseddelta": "1",
 			"lastupdatedtime": "March 25, 2020 at 8:03 pm",
 			"recovereddelta": "3",
@@ -518,8 +518,8 @@
 	],
 	"statewise": [
 		{
-			"active": "588",
-			"confirmed": "642",
+			"active": "591",
+			"confirmed": "645",
 			"deaths": "11",
 			"lastupdatedtime": "March 25, 2020 at 8:03 pm",
 			"recovered": "43",
@@ -566,8 +566,8 @@
 			"state": "Gujarat"
 		},
 		{
-			"active": "24",
-			"confirmed": "35",
+			"active": "27",
+			"confirmed": "38",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "11",
