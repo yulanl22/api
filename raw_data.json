@@ -4747,7 +4747,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
 			"detectedcity": "Panipat",
-			"detecteddistrict": "",
+			"detecteddistrict": "Panipat",
 			"detectedstate": "Haryana",
 			"estimatedonsetdate": "",
 			"gender": "M",
@@ -11286,8 +11286,8 @@
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "24/03/2020",
-			"detectedcity": "",
-			"detecteddistrict": "",
+			"detectedcity": "Panipat",
+			"detecteddistrict": "Panipat",
 			"detectedstate": "Haryana",
 			"estimatedonsetdate": "",
 			"gender": "",
@@ -11521,10 +11521,10 @@
 			"statuschangedate": "25/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "65",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Deceased",
 			"dateannounced": "25/03/2020",
 			"detectedcity": "Ujjain",
 			"detecteddistrict": "",
@@ -11536,7 +11536,7 @@
 			"patientnumber": "577",
 			"source1": "https://twitter.com/PTI_News/status/1242660625228021762",
 			"source2": "https://dbpost.com/mp-coronavirus-cases-updates-14-cases-of-covid-19-in-state-4-fresh-cases-in-indore-and-one-in-ujjain/",
-			"source3": "",
+			"source3": "https://twitter.com/the_hindu/status/1242802581669179393",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020"
 		},
@@ -12138,7 +12138,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12158,7 +12158,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12178,7 +12178,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12198,7 +12198,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12218,7 +12218,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12238,7 +12238,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12258,7 +12258,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12278,7 +12278,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12298,7 +12298,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12318,7 +12318,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12338,7 +12338,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12358,7 +12358,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12378,7 +12378,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12398,7 +12398,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "22",
@@ -12418,7 +12418,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "23",
@@ -12438,7 +12438,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "37",
@@ -12458,7 +12458,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12478,7 +12478,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12498,7 +12498,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12518,7 +12518,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12538,7 +12538,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12558,7 +12558,187 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Bengaluru",
+			"detectedstate": "Karnataka",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "629",
+			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Bengaluru",
+			"detectedstate": "Karnataka",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "630",
+			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Bengaluru",
+			"detectedstate": "Karnataka",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "631",
+			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Bengaluru",
+			"detectedstate": "Karnataka",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "632",
+			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Bengaluru",
+			"detectedstate": "Karnataka",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "633",
+			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "63",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Bengaluru",
+			"detectedstate": "Karnataka",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "634",
+			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "69",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Bengaluru",
+			"detectedstate": "Karnataka",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "635",
+			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "9",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Bengaluru",
+			"detectedstate": "Karnataka",
+			"estimatedonsetdate": "",
+			"gender": "F",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "636",
+			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "7",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Bengaluru",
+			"detectedstate": "Karnataka",
+			"estimatedonsetdate": "",
+			"gender": "F",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "637",
+			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "25/03/2020"
 		}
 	]
 }

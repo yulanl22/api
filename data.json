@@ -507,19 +507,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "57",
-			"deceaseddelta": "0",
-			"lastupdatedtime": "March 25, 2020 at 6:03 pm",
+			"confirmeddelta": "66",
+			"deceaseddelta": "1",
+			"lastupdatedtime": "March 25, 2020 at 6:05 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "578",
-			"confirmed": "628",
-			"deaths": "10",
-			"lastupdatedtime": "March 25, 2020 at 6:03 pm",
+			"active": "586",
+			"confirmed": "637",
+			"deaths": "11",
+			"lastupdatedtime": "March 25, 2020 at 6:05 pm",
 			"recovered": "40",
 			"state": "Total"
 		},
@@ -540,8 +540,8 @@
 			"state": "Maharashtra"
 		},
 		{
-			"active": "38",
-			"confirmed": "42",
+			"active": "47",
+			"confirmed": "51",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "3",
@@ -644,9 +644,9 @@
 			"state": "Chandigarh"
 		},
 		{
-			"active": "15",
+			"active": "14",
 			"confirmed": "15",
-			"deaths": "0",
+			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Madhya Pradesh"
