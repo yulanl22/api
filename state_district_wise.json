@@ -641,8 +641,8 @@
         "recovered": 0
       },
       "Hoshiarpur": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -655,8 +655,15 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 3,
+        "confirmed": 3,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Ludhiana": {
+        "active": 1,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -789,21 +796,14 @@
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
-      },
-      "Unknown": {
-        "active": 1,
-        "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
       }
     }
   },
   "Chhattisgarh": {
     "districtData": {
       "Unknown": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0

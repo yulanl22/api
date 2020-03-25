@@ -508,7 +508,7 @@
 	"key_values": [
 		{
 			"_ciyn3": "640",
-			"confirmeddelta": "70",
+			"confirmeddelta": "71",
 			"deceaseddelta": "1",
 			"lastupdatedtime": "March 25, 2020 at 7:09 pm",
 			"recovereddelta": "0",
@@ -517,8 +517,8 @@
 	],
 	"statewise": [
 		{
-			"active": "590",
-			"confirmed": "641",
+			"active": "591",
+			"confirmed": "642",
 			"deaths": "11",
 			"lastupdatedtime": "March 25, 2020 at 7:09 pm",
 			"recovered": "40",
@@ -637,8 +637,8 @@
 			"state": "Andhra Pradesh"
 		},
 		{
-			"active": "8",
-			"confirmed": "8",
+			"active": "7",
+			"confirmed": "7",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "0",
@@ -701,8 +701,8 @@
 			"state": "Puducherry"
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "3",
+			"confirmed": "3",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "0",
