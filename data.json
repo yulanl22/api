@@ -507,26 +507,25 @@
 	],
 	"key_values": [
 		{
-			"_ciyn3": "645",
-			"confirmeddelta": "74",
+			"confirmeddelta": "75",
 			"deceaseddelta": "1",
-			"lastupdatedtime": "25/45/2020 20:45:23",
+			"lastupdatedtime": "25/03/2020 08:19:05 pm",
 			"recovereddelta": "3",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "591",
-			"confirmed": "645",
+			"active": "592",
+			"confirmed": "646",
 			"deaths": "11",
-			"lastupdatedtime": "25/45/2020 20:45:23",
+			"lastupdatedtime": "25/03/2020 08:19:05 pm",
 			"recovered": "43",
 			"state": "Total"
 		},
 		{
-			"active": "114",
-			"confirmed": "118",
+			"active": "115",
+			"confirmed": "119",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "4",
