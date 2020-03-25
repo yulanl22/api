@@ -487,11 +487,11 @@
 			"totalrecovered": "25"
 		},
 		{
-			"dailyconfirmed": "64",
+			"dailyconfirmed": "66",
 			"dailydeceased": "1",
 			"dailyrecovered": "15",
 			"date": "24 March ",
-			"totalconfirmed": "569",
+			"totalconfirmed": "571",
 			"totaldeceased": "10",
 			"totalrecovered": "40"
 		},
@@ -516,8 +516,8 @@
 	],
 	"statewise": [
 		{
-			"active": "520",
-			"confirmed": "570",
+			"active": "522",
+			"confirmed": "572",
 			"deaths": "10",
 			"lastupdatedtime": "March 25, 2020 at 5:19 am",
 			"recovered": "40",
@@ -548,8 +548,8 @@
 			"state": "Karnataka"
 		},
 		{
-			"active": "36",
-			"confirmed": "37",
+			"active": "38",
+			"confirmed": "39",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "1",
