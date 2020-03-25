@@ -51,11 +51,11 @@
         "recovered": 0
       },
       "Thiruvananthapuram": {
-        "active": 4,
+        "active": 3,
         "confirmed": 4,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 0
+        "recovered": 1
       },
       "Idukki": {
         "active": 2,

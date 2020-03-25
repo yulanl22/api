@@ -1684,7 +1684,7 @@
 			"agebracket": "",
 			"backupnotes": "Italian national stayed in a resort at Varkala",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "13/03/2020",
 			"detectedcity": "Varkala",
 			"detecteddistrict": "Thiruvananthapuram",
@@ -1696,9 +1696,9 @@
 			"patientnumber": "85",
 			"source1": "https://english.manoramaonline.com/news/kerala/2020/03/13/coronavirus-covid19-cases-kerala-pinarayi-vijayan-italian-kollam.html",
 			"source2": "https://www.thehindu.com/news/national/kerala/coronavirus-thiruvananthapuram-officials-release-travel-history-of-two-who-tested-positive/article31068119.ece",
-			"source3": "",
+			"source3": "http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_24032020-1.pdf",
 			"statepatientnumber": "KL-TV-R3",
-			"statuschangedate": "13/03/2020"
+			"statuschangedate": "24/03/2020"
 		},
 		{
 			"agebracket": "",
