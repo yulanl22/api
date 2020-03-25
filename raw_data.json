@@ -10023,7 +10023,7 @@
 		{
 			"agebracket": "54",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "P301, P302",
 			"currentstatus": "Deceased",
 			"dateannounced": "23/03/2020",
 			"detectedcity": "Madurai",
@@ -10032,7 +10032,7 @@
 			"estimatedonsetdate": "",
 			"gender": "M",
 			"nationality": "",
-			"notes": "Annanagar at Rajaji Hosp. No mention of travel history.",
+			"notes": "Annanagar at Rajaji Hosp. No mention of travel history. Came in contact with some Thailand nationals who were on tour in the state.",
 			"patientnumber": "502",
 			"source1": "https://twitter.com/Vijayabaskarofl/status/1242122022022340610",
 			"source2": "https://www.oneindia.com/india/coronavirus-india-s-death-toll-rises-to-11-as-tamil-nadu-records-first-fatality-3057978.html",
