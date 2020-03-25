@@ -508,21 +508,21 @@
 	"key_values": [
 		{
 			"_ciyn3": "640",
-			"_ckd7g": "25/23/2020 23:23:37",
+			"_ckd7g": "25/02/2020 20:14:13",
 			"confirmeddelta": "71",
 			"deceaseddelta": "1",
 			"lastupdatedtime": "March 25, 2020 at 7:09 pm",
-			"recovereddelta": "0",
+			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "591",
+			"active": "590",
 			"confirmed": "642",
 			"deaths": "11",
 			"lastupdatedtime": "March 25, 2020 at 7:09 pm",
-			"recovered": "40",
+			"recovered": "41",
 			"state": "Total"
 		},
 		{
@@ -654,11 +654,11 @@
 			"state": "Madhya Pradesh"
 		},
 		{
-			"active": "11",
+			"active": "10",
 			"confirmed": "11",
 			"deaths": "0",
 			"lastupdatedtime": "",
-			"recovered": "0",
+			"recovered": "1",
 			"state": "Jammu and Kashmir"
 		},
 		{
