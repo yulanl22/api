@@ -508,7 +508,7 @@
 	"key_values": [
 		{
 			"_ciyn3": "645",
-			"confirmeddelta": "74",
+			"confirmeddelta": "76",
 			"deceaseddelta": "1",
 			"lastupdatedtime": "March 25, 2020 at 9:00 pm",
 			"recovereddelta": "3",
@@ -517,12 +517,12 @@
 	],
 	"statewise": [
 		{
-			"active": "591",
-			"confirmed": "645",
+			"active": "593",
+			"confirmed": "647",
 			"deaths": "11",
 			"delta": {
-				"active": 73,
-				"confirmed": 74,
+				"active": 75,
+				"confirmed": 76,
 				"deaths": 1,
 				"recovered": 0
 			},
@@ -573,12 +573,12 @@
 			"state": "Karnataka"
 		},
 		{
-			"active": "38",
-			"confirmed": "39",
+			"active": "40",
+			"confirmed": "41",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 2,
+				"confirmed": 2,
 				"deaths": 0,
 				"recovered": 0
 			},

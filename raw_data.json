@@ -12899,6 +12899,46 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "43",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "Telangana",
+			"estimatedonsetdate": "",
+			"gender": "F",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "646",
+			"source1": "https://twitter.com/TelanganaHealth/status/1242852870526922752",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "TS-P39",
+			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "3",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "Telangana",
+			"estimatedonsetdate": "",
+			"gender": "M",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "647",
+			"source1": "https://twitter.com/TelanganaHealth/status/1242852870526922752",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "TS-P40",
+			"statuschangedate": "25/03/2020"
 		}
 	]
 }
