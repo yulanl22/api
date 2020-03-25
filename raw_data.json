@@ -11383,7 +11383,7 @@
 		{
 			"agebracket": "57",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "P370",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "24/03/2020",
 			"detectedcity": "",
@@ -11395,15 +11395,15 @@
 			"notes": "Contact with TS-P26",
 			"patientnumber": "570",
 			"source1": "https://twitter.com/RishikaSadam/status/1242519487997284352/photo/1",
-			"source2": "",
+			"source2": "https://twitter.com/IPRTelangana/status/1242624185131622400",
 			"source3": "",
 			"statepatientnumber": "TS-P38",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "P370",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "24/03/2020",
 			"detectedcity": "",
@@ -11415,10 +11415,10 @@
 			"notes": "Contact with TS-P26",
 			"patientnumber": "571",
 			"source1": "https://twitter.com/RishikaSadam/status/1242519487997284352/photo/1",
-			"source2": "",
+			"source2": "https://twitter.com/IPRTelangana/status/1242624185131622400",
 			"source3": "",
 			"statepatientnumber": "TS-P39",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
