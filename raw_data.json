@@ -12016,7 +12016,7 @@
 			"patientnumber": "601",
 			"source1": "https://www.deccanherald.com/state/mangaluru/34-year-old-man-tests-positive-for-covid-19-in-udupi-817473.html",
 			"source2": "https://www.thehindu.com/news/national/karnataka/coronavirus-udupi-records-first-positive-case/article31161050.ece",
-			"source3": "",
+			"source3": "State Health Bulletin",
 			"statepatientnumber": "KA-P51",
 			"statuschangedate": "25/03/2020"
 		},
@@ -12575,7 +12575,7 @@
 			"notes": "Travel history to Guyana and arrived in Bangalore via Delhi on Mar 20",
 			"patientnumber": "629",
 			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
-			"source2": "",
+			"source2": "State Health Bulletin",
 			"source3": "",
 			"statepatientnumber": "KA-P42",
 			"statuschangedate": "25/03/2020"
@@ -12595,7 +12595,7 @@
 			"notes": "Travel History to Brazil, Argentina and arrived in Bangalore on Mar 19",
 			"patientnumber": "630",
 			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
-			"source2": "",
+			"source2": "State Health Bulletin",
 			"source3": "",
 			"statepatientnumber": "KA-P43",
 			"statuschangedate": "25/03/2020"
@@ -12615,7 +12615,7 @@
 			"notes": "Travel History to Brazil, Argentina and arrived in Bangalore on Mar 19. Wife of P630",
 			"patientnumber": "631",
 			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
-			"source2": "",
+			"source2": "State Health Bulletin",
 			"source3": "",
 			"statepatientnumber": "KA-P44",
 			"statuschangedate": "25/03/2020"
@@ -12635,7 +12635,7 @@
 			"notes": "Travel History to Spain and arrived in Bangalore via Dubai on Mar 14",
 			"patientnumber": "632",
 			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
-			"source2": "",
+			"source2": "State Health Bulletin",
 			"source3": "",
 			"statepatientnumber": "KA-P45",
 			"statuschangedate": "25/03/2020"
@@ -12655,7 +12655,7 @@
 			"notes": "Travel History to Spain and arrived in Bangalore via Dubai on Mar 14. Travelled with P632",
 			"patientnumber": "633",
 			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
-			"source2": "",
+			"source2": "State Health Bulletin",
 			"source3": "",
 			"statepatientnumber": "KA-P46",
 			"statuschangedate": "25/03/2020"
@@ -12675,7 +12675,7 @@
 			"notes": "Travel History to Athens and London and arrived in Bangalore on Mar 18.",
 			"patientnumber": "634",
 			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
-			"source2": "",
+			"source2": "State Health Bulletin",
 			"source3": "",
 			"statepatientnumber": "KA-P47",
 			"statuschangedate": "25/03/2020"
@@ -12695,7 +12695,7 @@
 			"notes": "Travel History to Athens and London and arrived in Bangalore on Mar 18. Husband of P634",
 			"patientnumber": "635",
 			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
-			"source2": "",
+			"source2": "State Health Bulletin",
 			"source3": "",
 			"statepatientnumber": "KA-P48",
 			"statuschangedate": "25/03/2020"
@@ -12715,7 +12715,7 @@
 			"notes": "Details awaited",
 			"patientnumber": "636",
 			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
-			"source2": "",
+			"source2": "State Health Bulletin",
 			"source3": "",
 			"statepatientnumber": "KA-P49",
 			"statuschangedate": "25/03/2020"
@@ -12735,7 +12735,7 @@
 			"notes": "Details awaited",
 			"patientnumber": "637",
 			"source1": "https://twitter.com/DHFWKA/status/1242804663147266048",
-			"source2": "",
+			"source2": "State Health Bulletin",
 			"source3": "",
 			"statepatientnumber": "KA-P50",
 			"statuschangedate": "25/03/2020"
@@ -12799,6 +12799,26 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "Chandigarh",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "Details Awaited",
+			"patientnumber": "641",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": ""
 		}
 	]
 }
