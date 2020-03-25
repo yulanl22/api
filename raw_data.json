@@ -11707,7 +11707,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "25/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
+			"detecteddistrict": "Bhopal",
 			"detectedstate": "Madhya Pradesh",
 			"estimatedonsetdate": "",
 			"gender": "",
@@ -12054,11 +12054,11 @@
 			"nationality": "",
 			"notes": "Details awaited",
 			"patientnumber": "603",
-			"source1": "",
+			"source1": "https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-coronavirus-count-touches-9-curfew-in-gwalior/articleshow/74802791.cms",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "24/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12078,7 +12078,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12098,7 +12098,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12118,7 +12118,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
