@@ -8584,7 +8584,7 @@
 			"agebracket": "85",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Deceased",
 			"dateannounced": "23/03/2020",
 			"detectedcity": "Ahmedabad",
 			"detecteddistrict": "Ahmedabad",
@@ -8592,13 +8592,13 @@
 			"estimatedonsetdate": "",
 			"gender": "F",
 			"nationality": "",
-			"notes": "Travelled from Saudi Arabia",
+			"notes": "Travelled from Saudi Arabia. She was suffering from many complications.",
 			"patientnumber": "430",
 			"source1": "https://twitter.com/PTI_News/status/1241956921332002820?s=20",
-			"source2": "",
+			"source2": "https://twitter.com/MoHFW_GUJARAT/status/1242857603211972609?s=20",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "23/03/2020"
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",

@@ -848,9 +848,9 @@
         "recovered": 0
       },
       "Ahmedabad": {
-        "active": 14,
+        "active": 13,
         "confirmed": 14,
-        "deaths": 0,
+        "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
       },

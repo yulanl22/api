@@ -496,10 +496,19 @@
 			"totalrecovered": "40"
 		},
 		{
+			"dailyconfirmed": "82",
+			"dailydeceased": "2",
+			"dailyrecovered": "3",
+			"date": "25 March ",
+			"totalconfirmed": "653",
+			"totaldeceased": "12",
+			"totalrecovered": "43"
+		},
+		{
 			"dailyconfirmed": "",
 			"dailydeceased": "",
 			"dailyrecovered": "",
-			"date": "25 March ",
+			"date": "26 March ",
 			"totalconfirmed": "",
 			"totaldeceased": "",
 			"totalrecovered": ""
@@ -507,19 +516,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "82",
+			"confirmeddelta": "0",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "1",
+			"deceaseddelta": "0",
 			"lastupdatedtime": "March 25, 2020 at 9:00 pm",
-			"recovereddelta": "3",
+			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "599",
+			"active": "598",
 			"confirmed": "653",
-			"deaths": "11",
+			"deaths": "12",
 			"delta": {
 				"active": 81,
 				"confirmed": 82,
@@ -587,9 +596,9 @@
 			"state": "Telangana"
 		},
 		{
-			"active": "37",
+			"active": "36",
 			"confirmed": "38",
-			"deaths": "1",
+			"deaths": "2",
 			"delta": {
 				"active": 2,
 				"confirmed": 2,
