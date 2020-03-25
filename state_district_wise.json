@@ -465,8 +465,8 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "active": 31,
-        "confirmed": 34,
+        "active": 30,
+        "confirmed": 33,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 3
@@ -528,6 +528,13 @@
         "recovered": 0
       },
       "Udupi": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Chitradurga": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
