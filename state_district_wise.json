@@ -65,8 +65,8 @@
         "recovered": 0
       },
       "Malappuram": {
-        "active": 4,
-        "confirmed": 4,
+        "active": 5,
+        "confirmed": 5,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -79,8 +79,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 5,
-        "confirmed": 6,
+        "active": 4,
+        "confirmed": 4,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0

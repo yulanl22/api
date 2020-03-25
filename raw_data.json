@@ -11027,7 +11027,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "24/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
+			"detecteddistrict": "Malappuram",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
 			"gender": "",
@@ -12332,7 +12332,7 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Travelled from Dubai",
 			"patientnumber": "617",
 			"source1": "https://english.mathrubhumi.com/news/kerala/9-new-covid-19-positive-cases-in-kerala-112-under-treatment-1.4643353",
 			"source2": "",
@@ -12818,7 +12818,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "CH-P2",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12838,7 +12838,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "CH-P3",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12858,7 +12858,7 @@
 			"source2": "https://timesofindia.indiatimes.com/city/agra/three-tested-positive-at-aligarhs-jnmc/articleshow/74799052.cms?from=mdr",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12878,7 +12878,7 @@
 			"source2": "https://timesofindia.indiatimes.com/city/agra/three-tested-positive-at-aligarhs-jnmc/articleshow/74799052.cms?from=mdr",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12898,27 +12898,7 @@
 			"source2": "https://timesofindia.indiatimes.com/city/agra/three-tested-positive-at-aligarhs-jnmc/articleshow/74799052.cms?from=mdr",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
-		},
-		{
-			"agebracket": "",
-			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "25/03/2020",
-			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "Kerala",
-			"estimatedonsetdate": "",
-			"gender": "",
-			"nationality": "",
-			"notes": "",
-			"patientnumber": "",
-			"source1": "",
-			"source2": "",
-			"source3": "",
-			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		}
 	]
 }
