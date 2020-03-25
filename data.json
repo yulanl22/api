@@ -508,21 +508,21 @@
 	"key_values": [
 		{
 			"_ciyn3": "640",
-			"_ckd7g": "25/02/2020 20:14:13",
+			"_ckd7g": "25/09/2020 20:11:42",
 			"confirmeddelta": "71",
 			"deceaseddelta": "1",
-			"lastupdatedtime": "March 25, 2020 at 7:09 pm",
-			"recovereddelta": "1",
+			"lastupdatedtime": "March 25, 2020 at 8:03 pm",
+			"recovereddelta": "3",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "590",
+			"active": "588",
 			"confirmed": "642",
 			"deaths": "11",
-			"lastupdatedtime": "March 25, 2020 at 7:09 pm",
-			"recovered": "41",
+			"lastupdatedtime": "March 25, 2020 at 8:03 pm",
+			"recovered": "43",
 			"state": "Total"
 		},
 		{
@@ -534,11 +534,11 @@
 			"state": "Kerala"
 		},
 		{
-			"active": "120",
+			"active": "119",
 			"confirmed": "122",
 			"deaths": "2",
 			"lastupdatedtime": "",
-			"recovered": "0",
+			"recovered": "1",
 			"state": "Maharashtra"
 		},
 		{
@@ -630,11 +630,11 @@
 			"state": "West Bengal"
 		},
 		{
-			"active": "8",
+			"active": "7",
 			"confirmed": "8",
 			"deaths": "0",
 			"lastupdatedtime": "",
-			"recovered": "0",
+			"recovered": "1",
 			"state": "Andhra Pradesh"
 		},
 		{
