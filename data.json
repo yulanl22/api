@@ -507,11 +507,10 @@
 	],
 	"key_values": [
 		{
-			"_ciyn3": "641",
-			"_ckd7g": "25/03/2020 20:34:40",
+			"_ciyn3": "645",
 			"confirmeddelta": "74",
 			"deceaseddelta": "1",
-			"lastupdatedtime": "March 25, 2020 at 8:03 pm",
+			"lastupdatedtime": "25/45/2020 20:45:23",
 			"recovereddelta": "3",
 			"statesdelta": "0"
 		}
@@ -521,7 +520,7 @@
 			"active": "591",
 			"confirmed": "645",
 			"deaths": "11",
-			"lastupdatedtime": "March 25, 2020 at 8:03 pm",
+			"lastupdatedtime": "25/45/2020 20:45:23",
 			"recovered": "43",
 			"state": "Total"
 		},
