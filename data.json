@@ -496,11 +496,11 @@
 			"totalrecovered": "40"
 		},
 		{
-			"dailyconfirmed": "83",
+			"dailyconfirmed": "86",
 			"dailydeceased": "2",
 			"dailyrecovered": "3",
 			"date": "25 March ",
-			"totalconfirmed": "654",
+			"totalconfirmed": "657",
 			"totaldeceased": "12",
 			"totalrecovered": "43"
 		},
@@ -516,7 +516,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "0",
+			"confirmeddelta": "-1",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "March 25, 2020 at 9:00 pm",
@@ -526,12 +526,12 @@
 	],
 	"statewise": [
 		{
-			"active": "599",
-			"confirmed": "654",
+			"active": "601",
+			"confirmed": "656",
 			"deaths": "12",
 			"delta": {
-				"active": 82,
-				"confirmed": 83,
+				"active": 84,
+				"confirmed": 85,
 				"deaths": 1,
 				"recovered": 0
 			},
@@ -932,12 +932,12 @@
 			"state": "Tripura"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "2",
+			"confirmed": "2",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 2,
+				"confirmed": 2,
 				"deaths": 0,
 				"recovered": 0
 			},

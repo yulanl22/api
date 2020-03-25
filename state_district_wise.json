@@ -981,6 +981,24 @@
       }
     }
   },
+  "Goa": {
+    "districtData": {
+      "Goa": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "g": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      }
+    }
+  },
   "Unknown": {
     "districtData": {
       "Unknown": {
