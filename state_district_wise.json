@@ -814,8 +814,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 6,
+        "confirmed": 6,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -845,17 +845,6 @@
       "Imphal West": {
         "active": 1,
         "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "active": 0,
-        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
