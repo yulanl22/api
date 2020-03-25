@@ -72,15 +72,15 @@
         "recovered": 0
       },
       "Kozhikode": {
-        "active": 4,
-        "confirmed": 4,
+        "active": 5,
+        "confirmed": 5,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Unknown": {
-        "active": 9,
-        "confirmed": 9,
+        "active": 8,
+        "confirmed": 8,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
