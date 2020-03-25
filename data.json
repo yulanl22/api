@@ -507,7 +507,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "0",
+			"confirmeddelta": "1",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "March 25, 2020 at 5:19 am",
 			"recovereddelta": "0",
@@ -516,8 +516,8 @@
 	],
 	"statewise": [
 		{
-			"active": "519",
-			"confirmed": "569",
+			"active": "520",
+			"confirmed": "570",
 			"deaths": "10",
 			"lastupdatedtime": "March 25, 2020 at 5:19 am",
 			"recovered": "40",
@@ -676,8 +676,8 @@
 			"state": "Himachal Pradesh"
 		},
 		{
-			"active": "2",
-			"confirmed": "3",
+			"active": "3",
+			"confirmed": "4",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
