@@ -11639,6 +11639,46 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "",
+			"dateannounced": "",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "",
+			"source1": "https://twitter.com/MoHFW_GUJARAT/status/1242679908595314688",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": ""
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "",
+			"dateannounced": "",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "",
+			"source1": "https://twitter.com/MoHFW_GUJARAT/status/1242679908595314688",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": ""
 		}
 	]
 }
