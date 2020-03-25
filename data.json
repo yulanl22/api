@@ -507,19 +507,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "6",
+			"confirmeddelta": "11",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 25, 2020 at 5:19 am",
+			"lastupdatedtime": "March 25, 2020 at 10:15 am",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "527",
-			"confirmed": "577",
+			"active": "532",
+			"confirmed": "582",
 			"deaths": "10",
-			"lastupdatedtime": "March 25, 2020 at 5:19 am",
+			"lastupdatedtime": "March 25, 2020 at 10:15 am",
 			"recovered": "40",
 			"state": "Total"
 		},
@@ -532,8 +532,8 @@
 			"state": "Kerala"
 		},
 		{
-			"active": "105",
-			"confirmed": "107",
+			"active": "110",
+			"confirmed": "112",
 			"deaths": "2",
 			"lastupdatedtime": "",
 			"recovered": "0",
