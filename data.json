@@ -507,19 +507,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "16",
+			"confirmeddelta": "24",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "March 25, 2020 at 12:14 pm",
+			"lastupdatedtime": "March 25, 2020 at 1:08 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "537",
-			"confirmed": "587",
+			"active": "545",
+			"confirmed": "595",
 			"deaths": "10",
-			"lastupdatedtime": "March 25, 2020 at 12:14 pm",
+			"lastupdatedtime": "March 25, 2020 at 1:08 pm",
 			"recovered": "40",
 			"state": "Total"
 		},
@@ -532,8 +532,8 @@
 			"state": "Kerala"
 		},
 		{
-			"active": "110",
-			"confirmed": "112",
+			"active": "114",
+			"confirmed": "116",
 			"deaths": "2",
 			"lastupdatedtime": "",
 			"recovered": "0",
@@ -572,8 +572,8 @@
 			"state": "Uttar Pradesh"
 		},
 		{
-			"active": "29",
-			"confirmed": "32",
+			"active": "33",
+			"confirmed": "36",
 			"deaths": "0",
 			"lastupdatedtime": "",
 			"recovered": "3",
