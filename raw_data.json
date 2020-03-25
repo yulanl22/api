@@ -10361,7 +10361,7 @@
 			"statuschangedate": "24/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "53",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "P295",
 			"currentstatus": "Hospitalized",
@@ -10381,7 +10381,7 @@
 			"statuschangedate": "24/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "54",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "P295",
 			"currentstatus": "Hospitalized",
@@ -11341,7 +11341,7 @@
 			"statuschangedate": ""
 		},
 		{
-			"agebracket": "32",
+			"agebracket": "36",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -11361,7 +11361,7 @@
 			"statuschangedate": ""
 		},
 		{
-			"agebracket": "66",
+			"agebracket": "75",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -11370,7 +11370,7 @@
 			"detecteddistrict": "Rajkot",
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
-			"gender": "M",
+			"gender": "F",
 			"nationality": "",
 			"notes": "Travelled from Saudi Arabia",
 			"patientnumber": "569",

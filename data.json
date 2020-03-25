@@ -556,20 +556,20 @@
 			"state": "Telangana"
 		},
 		{
-			"active": "24",
-			"confirmed": "35",
-			"deaths": "0",
-			"lastupdatedtime": "",
-			"recovered": "11",
-			"state": "Uttar Pradesh"
-		},
-		{
 			"active": "35",
 			"confirmed": "36",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Gujarat"
+		},
+		{
+			"active": "24",
+			"confirmed": "35",
+			"deaths": "0",
+			"lastupdatedtime": "",
+			"recovered": "11",
+			"state": "Uttar Pradesh"
 		},
 		{
 			"active": "29",
