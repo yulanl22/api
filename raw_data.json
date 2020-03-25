@@ -12958,7 +12958,7 @@
 			"source2": "https://www.indiatv.in/india/national-coronavirus-6-new-positive-cases-in-24-hours-in-rajasthan-total-patients-38-698186",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -12978,7 +12978,27 @@
 			"source2": "https://www.indiatv.in/india/national-coronavirus-6-new-positive-cases-in-24-hours-in-rajasthan-total-patients-38-698186",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "Andhra Pradesh",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "From MoH",
+			"patientnumber": "650",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "25/03/2020"
 		}
 	]
 }

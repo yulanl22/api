@@ -507,7 +507,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "78",
+			"confirmeddelta": "79",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "1",
 			"lastupdatedtime": "March 25, 2020 at 9:00 pm",
@@ -517,12 +517,12 @@
 	],
 	"statewise": [
 		{
-			"active": "595",
-			"confirmed": "649",
+			"active": "596",
+			"confirmed": "650",
 			"deaths": "11",
 			"delta": {
-				"active": 77,
-				"confirmed": 78,
+				"active": 78,
+				"confirmed": 79,
 				"deaths": 1,
 				"recovered": 0
 			},
@@ -713,12 +713,12 @@
 			"state": "West Bengal"
 		},
 		{
-			"active": "7",
-			"confirmed": "8",
+			"active": "8",
+			"confirmed": "9",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
