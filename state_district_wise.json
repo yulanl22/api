@@ -228,15 +228,15 @@
         "recovered": 0
       },
       "Faridabad": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Unknown": {
-        "active": 10,
-        "confirmed": 10,
+        "active": 8,
+        "confirmed": 8,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -256,6 +256,13 @@
         "recovered": 0
       },
       "Palwal": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Guragon": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
