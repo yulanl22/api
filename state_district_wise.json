@@ -16,15 +16,15 @@
         "recovered": 1
       },
       "Kasaragod": {
-        "active": 38,
-        "confirmed": 39,
+        "active": 39,
+        "confirmed": 40,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1
       },
       "Pathanamthitta": {
-        "active": 10,
-        "confirmed": 10,
+        "active": 12,
+        "confirmed": 12,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -37,8 +37,8 @@
         "recovered": 1
       },
       "Ernakulam": {
-        "active": 16,
-        "confirmed": 16,
+        "active": 19,
+        "confirmed": 19,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -58,8 +58,8 @@
         "recovered": 0
       },
       "Idukki": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -80,14 +80,14 @@
       },
       "Unknown": {
         "active": 5,
-        "confirmed": 14,
+        "confirmed": 5,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Palakkad": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -128,6 +128,13 @@
         "active": 1,
         "confirmed": 2,
         "deaths": 1,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Delhi": {
+        "active": 5,
+        "confirmed": 5,
+        "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       }
@@ -412,8 +419,8 @@
   "Jammu and Kashmir": {
     "districtData": {
       "Unknown": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -567,8 +574,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 74,
-        "confirmed": 75,
+        "active": 75,
+        "confirmed": 76,
         "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
