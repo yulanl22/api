@@ -516,7 +516,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "-1",
+			"confirmeddelta": "0",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "March 25, 2020 at 9:00 pm",
@@ -526,12 +526,12 @@
 	],
 	"statewise": [
 		{
-			"active": "601",
-			"confirmed": "656",
+			"active": "602",
+			"confirmed": "657",
 			"deaths": "12",
 			"delta": {
-				"active": 84,
-				"confirmed": 85,
+				"active": 85,
+				"confirmed": 86,
 				"deaths": 1,
 				"recovered": 0
 			},
@@ -932,12 +932,12 @@
 			"state": "Tripura"
 		},
 		{
-			"active": "2",
-			"confirmed": "2",
+			"active": "3",
+			"confirmed": "3",
 			"deaths": "0",
 			"delta": {
-				"active": 2,
-				"confirmed": 2,
+				"active": 3,
+				"confirmed": 3,
 				"deaths": 0,
 				"recovered": 0
 			},

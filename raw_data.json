@@ -13107,7 +13107,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "25/03/2020",
 			"detectedcity": "Goa",
-			"detecteddistrict": "g",
+			"detecteddistrict": "Goa",
 			"detectedstate": "Goa",
 			"estimatedonsetdate": "",
 			"gender": "M",
@@ -13124,21 +13124,21 @@
 			"agebracket": "55",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "25/03/2020",
-			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detectedcity": "Goa",
+			"detecteddistrict": "Goa",
+			"detectedstate": "Goa",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
-			"notes": "",
+			"nationality": "India",
+			"notes": "Travel History to US",
 			"patientnumber": "657",
-			"source1": "",
+			"source1": "UT Health Bulletin",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "GO-P3",
-			"statuschangedate": ""
+			"statuschangedate": "25/03/2020"
 		}
 	]
 }
