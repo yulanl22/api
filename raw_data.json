@@ -12939,6 +12939,46 @@
 			"source3": "",
 			"statepatientnumber": "TS-P41",
 			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "Bhilwara",
+			"detecteddistrict": "Bhilwara",
+			"detectedstate": "Rajasthan",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "India",
+			"notes": "",
+			"patientnumber": "648",
+			"source1": "https://www.outlookindia.com/newsscroll/six-fresh-covid19-cases-reported-in-rajasthan/1780122",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": ""
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "Jhunjhunu",
+			"detecteddistrict": "Jhunjhunu",
+			"detectedstate": "Rajasthan",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "India",
+			"notes": "",
+			"patientnumber": "649",
+			"source1": "https://www.outlookindia.com/newsscroll/six-fresh-covid19-cases-reported-in-rajasthan/1780122",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": ""
 		}
 	]
 }

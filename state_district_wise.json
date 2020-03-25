@@ -189,15 +189,15 @@
         "recovered": 3
       },
       "Jhunjhunu": {
-        "active": 4,
-        "confirmed": 4,
+        "active": 5,
+        "confirmed": 5,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Bhilwara": {
-        "active": 11,
-        "confirmed": 11,
+        "active": 12,
+        "confirmed": 12,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
