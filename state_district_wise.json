@@ -648,8 +648,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 5,
+        "confirmed": 5,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0

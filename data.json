@@ -507,19 +507,19 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "66",
+			"confirmeddelta": "68",
 			"deceaseddelta": "1",
-			"lastupdatedtime": "March 25, 2020 at 6:05 pm",
+			"lastupdatedtime": "March 25, 2020 at 7:11 pm",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "586",
-			"confirmed": "637",
+			"active": "588",
+			"confirmed": "639",
 			"deaths": "11",
-			"lastupdatedtime": "March 25, 2020 at 6:05 pm",
+			"lastupdatedtime": "March 25, 2020 at 7:11 pm",
 			"recovered": "40",
 			"state": "Total"
 		},
@@ -596,8 +596,8 @@
 			"state": "Haryana"
 		},
 		{
-			"active": "28",
-			"confirmed": "29",
+			"active": "30",
+			"confirmed": "31",
 			"deaths": "1",
 			"lastupdatedtime": "",
 			"recovered": "0",
