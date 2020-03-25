@@ -821,8 +821,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 6,
-        "confirmed": 6,
+        "active": 8,
+        "confirmed": 8,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -850,6 +850,17 @@
   "Manipur": {
     "districtData": {
       "Imphal West": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      }
+    }
+  },
+  "Mizoram": {
+    "districtData": {
+      "Unknown": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
