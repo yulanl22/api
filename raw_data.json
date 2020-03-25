@@ -10955,7 +10955,7 @@
 			"notes": "Travelled from Dubai",
 			"patientnumber": "548",
 			"source1": "https://www.livemint.com/news/india/kerala-reports-14-new-corona-cases-state-tally-at-105-11585058837568.html",
-			"source2": "",
+			"source2": "https://www.facebook.com/CollectorKKD/posts/2597771657126265",
 			"source3": "",
 			"statepatientnumber": "KL-KZ-P5",
 			"statuschangedate": "24/03/2020"
@@ -10967,15 +10967,15 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "24/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
+			"detecteddistrict": "Kozhikode",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "Travelled from Dubai",
+			"notes": "Travelled from Dubai, Native of Kasargod",
 			"patientnumber": "549",
 			"source1": "https://www.livemint.com/news/india/kerala-reports-14-new-corona-cases-state-tally-at-105-11585058837568.html",
-			"source2": "",
+			"source2": "https://www.facebook.com/CollectorKKD/posts/2597771657126265",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "24/03/2020"
@@ -11899,6 +11899,26 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/03/2020",
+			"detectedcity": "Ludhiana",
+			"detecteddistrict": "",
+			"detectedstate": "Punjab",
+			"estimatedonsetdate": "",
+			"gender": "F",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "596",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": ""
 		}
 	]
 }
