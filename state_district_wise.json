@@ -835,15 +835,15 @@
         "recovered": 0
       },
       "Bhopal": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Unknown": {
         "active": 8,
-        "confirmed": 9,
+        "confirmed": 8,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
