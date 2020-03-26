@@ -3,7 +3,7 @@
     "districtData": {
       "Thrissur": {
         "active": 1,
-        "confirmed": 3,
+        "confirmed": 5,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 2
@@ -17,7 +17,7 @@
       },
       "Kasaragod": {
         "active": 42,
-        "confirmed": 43,
+        "confirmed": 46,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1
@@ -31,7 +31,7 @@
       },
       "Kannur": {
         "active": 13,
-        "confirmed": 14,
+        "confirmed": 23,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1
@@ -59,14 +59,14 @@
       },
       "Idukki": {
         "active": 2,
-        "confirmed": 2,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Malappuram": {
         "active": 5,
-        "confirmed": 5,
+        "confirmed": 8,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -80,7 +80,7 @@
       },
       "Unknown": {
         "active": 3,
-        "confirmed": 13,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -88,6 +88,13 @@
       "Palakkad": {
         "active": 3,
         "confirmed": 3,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Wayanad": {
+        "active": 0,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -1060,17 +1067,6 @@
       "Unknown": {
         "active": 1,
         "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "active": 0,
-        "confirmed": 6,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
