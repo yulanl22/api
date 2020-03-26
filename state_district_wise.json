@@ -676,8 +676,8 @@
         "recovered": 0
       },
       "Shaheed Bhagat Singh Nagar": {
-        "active": 14,
-        "confirmed": 15,
+        "active": 15,
+        "confirmed": 16,
         "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
@@ -697,15 +697,15 @@
         "recovered": 0
       },
       "Jalandhar": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Unknown": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
