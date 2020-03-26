@@ -516,7 +516,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "61",
+			"confirmeddelta": "62",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "2",
 			"lastupdatedtime": "26/03/2020 19:26:24",
@@ -526,8 +526,8 @@
 	],
 	"statewise": [
 		{
-			"active": "660",
-			"confirmed": "718",
+			"active": "661",
+			"confirmed": "719",
 			"deaths": "13",
 			"delta": {
 				"active": 60,
@@ -778,8 +778,8 @@
 			"state": "Chandigarh"
 		},
 		{
-			"active": "5",
-			"confirmed": "6",
+			"active": "6",
+			"confirmed": "7",
 			"deaths": "1",
 			"delta": {
 				"active": 2,

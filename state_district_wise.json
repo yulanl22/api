@@ -1022,7 +1022,7 @@
       },
       "Unknown": {
         "active": 2,
-        "confirmed": 2,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0

@@ -14359,6 +14359,26 @@
 			"source3": "",
 			"statepatientnumber": "TN-P29",
 			"statuschangedate": "26/03/2020"
+		},
+		{
+			"agebracket": "20",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "",
+			"dateannounced": "26/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "Bihar",
+			"estimatedonsetdate": "",
+			"gender": "M",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "719",
+			"source1": "https://twitter.com/ANI/status/1243178927452868617",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "26/03/2020"
 		}
 	]
 }
