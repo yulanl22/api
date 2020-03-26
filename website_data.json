@@ -76,7 +76,7 @@
 			"numberoftimes": "1"
 		},
 		{
-			"banner": "Wash your hands often. Keep the virus at bay.",
+			"banner": "Wash your hands with soap and water often. Keep the virus at bay.",
 			"id": "16",
 			"numberoftimes": "1"
 		},
@@ -96,9 +96,9 @@
 			"numberoftimes": "1"
 		},
 		{
-			"banner": "Talk to your loved ones",
+			"banner": "Call up your loved ones during the lockdown, support each other through these times.",
 			"id": "20",
-			"numberoftimes": ""
+			"numberoftimes": "1"
 		}
 	]
 }
