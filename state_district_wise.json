@@ -203,15 +203,15 @@
   "Rajasthan": {
     "districtData": {
       "Jaipur": {
-        "active": 7,
-        "confirmed": 10,
+        "active": 8,
+        "confirmed": 11,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 3
       },
       "Jhunjhunu": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 6,
+        "confirmed": 6,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -231,8 +231,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 4,
-        "confirmed": 4,
+        "active": 2,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -514,9 +514,9 @@
         "recovered": 0
       },
       "Chikkaballapura": {
-        "active": 2,
+        "active": 3,
         "confirmed": 4,
-        "deaths": 2,
+        "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
       },
