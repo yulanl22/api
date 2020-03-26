@@ -516,26 +516,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "21",
+			"confirmeddelta": "23",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "1",
-			"lastupdatedtime": "26/03/2020 12:38:25",
+			"lastupdatedtime": "26/03/2020 13:13:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "623",
-			"confirmed": "678",
+			"active": "625",
+			"confirmed": "680",
 			"deaths": "12",
 			"delta": {
-				"active": 21,
-				"confirmed": 21,
+				"active": 23,
+				"confirmed": 23,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 12:38:25",
+			"lastupdatedtime": "26/03/2020 13:13:24",
 			"recovered": "43",
 			"state": "Total"
 		},
@@ -792,16 +792,16 @@
 			"state": "Uttarakhand"
 		},
 		{
-			"active": "3",
-			"confirmed": "4",
+			"active": "5",
+			"confirmed": "6",
 			"deaths": "1",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 2,
+				"confirmed": 2,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 07:19:29",
+			"lastupdatedtime": "26/03/2020 13:13:25",
 			"recovered": "0",
 			"state": "Bihar"
 		},
