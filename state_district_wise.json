@@ -113,7 +113,7 @@
         "confirmed": 2,
         "lastupdatedtime": ""
       },
-      "Medchal": {
+      "Medchal Malkajgiri": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
@@ -649,7 +649,7 @@
   },
   "Andaman and Nicobar Islands": {
     "districtData": {
-      "Unknown": {
+      "South Andaman": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
