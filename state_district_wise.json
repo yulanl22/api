@@ -556,15 +556,8 @@
         "recovered": 0
       },
       "Dakshina Kannada": {
-        "active": 3,
-        "confirmed": 3,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
-      "Kasaragod": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 4,
+        "confirmed": 4,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
