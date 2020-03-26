@@ -530,9 +530,9 @@
 			"confirmed": "722",
 			"deaths": "16",
 			"delta": {
-				"active": 64,
-				"confirmed": 65,
-				"deaths": 1,
+				"active": 0,
+				"confirmed": 0,
+				"deaths": 0,
 				"recovered": 0
 			},
 			"lastupdatedtime": "26/03/2020 22:57:24",
@@ -544,8 +544,8 @@
 			"confirmed": "137",
 			"deaths": "0",
 			"delta": {
-				"active": 19,
-				"confirmed": 19,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -558,8 +558,8 @@
 			"confirmed": "125",
 			"deaths": "3",
 			"delta": {
-				"active": 3,
-				"confirmed": 3,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -572,9 +572,9 @@
 			"confirmed": "55",
 			"deaths": "2",
 			"delta": {
-				"active": 3,
-				"confirmed": 4,
-				"deaths": 1,
+				"active": 0,
+				"confirmed": 0,
+				"deaths": 0,
 				"recovered": 0
 			},
 			"lastupdatedtime": "26/03/2020 16:48:24",
@@ -586,8 +586,8 @@
 			"confirmed": "44",
 			"deaths": "0",
 			"delta": {
-				"active": 3,
-				"confirmed": 3,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -600,8 +600,8 @@
 			"confirmed": "43",
 			"deaths": "3",
 			"delta": {
-				"active": 5,
-				"confirmed": 5,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -614,8 +614,8 @@
 			"confirmed": "42",
 			"deaths": "0",
 			"delta": {
-				"active": 4,
-				"confirmed": 4,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -628,8 +628,8 @@
 			"confirmed": "40",
 			"deaths": "0",
 			"delta": {
-				"active": 2,
-				"confirmed": 2,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -642,8 +642,8 @@
 			"confirmed": "36",
 			"deaths": "1",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -656,8 +656,8 @@
 			"confirmed": "33",
 			"deaths": "1",
 			"delta": {
-				"active": 2,
-				"confirmed": 2,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -670,8 +670,8 @@
 			"confirmed": "32",
 			"deaths": "0",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -684,8 +684,8 @@
 			"confirmed": "29",
 			"deaths": "1",
 			"delta": {
-				"active": 3,
-				"confirmed": 3,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -698,8 +698,8 @@
 			"confirmed": "20",
 			"deaths": "1",
 			"delta": {
-				"active": 5,
-				"confirmed": 5,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -726,8 +726,8 @@
 			"confirmed": "14",
 			"deaths": "1",
 			"delta": {
-				"active": 3,
-				"confirmed": 3,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -740,8 +740,8 @@
 			"confirmed": "11",
 			"deaths": "0",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -754,8 +754,8 @@
 			"confirmed": "10",
 			"deaths": "1",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -782,8 +782,8 @@
 			"confirmed": "7",
 			"deaths": "1",
 			"delta": {
-				"active": 3,
-				"confirmed": 3,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -796,8 +796,8 @@
 			"confirmed": "6",
 			"deaths": "0",
 			"delta": {
-				"active": 3,
-				"confirmed": 3,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -852,8 +852,8 @@
 			"confirmed": "3",
 			"deaths": "0",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -908,8 +908,8 @@
 			"confirmed": "1",
 			"deaths": "0",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
