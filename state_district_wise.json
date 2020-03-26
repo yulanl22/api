@@ -507,8 +507,8 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "active": 32,
-        "confirmed": 35,
+        "active": 31,
+        "confirmed": 34,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 3
@@ -556,15 +556,15 @@
         "recovered": 0
       },
       "Dakshina Kannada": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Kasaragod": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
