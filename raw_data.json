@@ -787,7 +787,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "09/03/2020",
 			"detectedcity": "Tri Nagar",
-			"detecteddistrict": "",
+			"detecteddistrict": "Delhi",
 			"detectedstate": "Delhi",
 			"estimatedonsetdate": "",
 			"gender": "F",
@@ -2547,7 +2547,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
 			"detectedcity": "Delhi",
-			"detecteddistrict": "",
+			"detecteddistrict": "Delhi",
 			"detectedstate": "Delhi",
 			"estimatedonsetdate": "",
 			"gender": "",
@@ -2567,7 +2567,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/03/2020",
 			"detectedcity": "Delhi",
-			"detecteddistrict": "",
+			"detecteddistrict": "Delhi",
 			"detectedstate": "Delhi",
 			"estimatedonsetdate": "",
 			"gender": "",
@@ -2587,7 +2587,7 @@
 			"currentstatus": "Migrated",
 			"dateannounced": "17/03/2020",
 			"detectedcity": "Saket",
-			"detecteddistrict": "",
+			"detecteddistrict": "South Delhi",
 			"detectedstate": "Delhi",
 			"estimatedonsetdate": "",
 			"gender": "",
@@ -3927,7 +3927,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
 			"detectedcity": "Rana Pratap Bagh",
-			"detecteddistrict": "",
+			"detecteddistrict": "North Delhi",
 			"detectedstate": "Delhi",
 			"estimatedonsetdate": "",
 			"gender": "F",
@@ -3967,7 +3967,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/03/2020",
 			"detectedcity": "Gautam Puri",
-			"detecteddistrict": "",
+			"detecteddistrict": "Delhi",
 			"detectedstate": "Delhi",
 			"estimatedonsetdate": "",
 			"gender": "M",
@@ -4067,7 +4067,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
 			"detectedcity": "Jahangirpuri",
-			"detecteddistrict": "",
+			"detecteddistrict": "North West Delhi",
 			"detectedstate": "Delhi",
 			"estimatedonsetdate": "",
 			"gender": "M",
@@ -4087,7 +4087,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/03/2020",
 			"detectedcity": "Jahangirpuri",
-			"detecteddistrict": "",
+			"detecteddistrict": "North West Delhi",
 			"detectedstate": "Delhi",
 			"estimatedonsetdate": "",
 			"gender": "F",
@@ -13043,7 +13043,7 @@
 		{
 			"agebracket": "63",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "P596",
+			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "25/03/2020",
 			"detectedcity": "Perundurai",
@@ -14338,7 +14338,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TN-P28",
-			"statuschangedate": ""
+			"statuschangedate": "26/03/2020"
 		},
 		{
 			"agebracket": "65",
@@ -14358,7 +14358,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "TN-P29",
-			"statuschangedate": ""
+			"statuschangedate": "26/03/2020"
 		}
 	]
 }

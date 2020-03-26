@@ -124,16 +124,16 @@
         "lastupdatedtime": "",
         "recovered": 1
       },
-      "Unknown": {
-        "active": 20,
-        "confirmed": 21,
+      "Delhi": {
+        "active": 11,
+        "confirmed": 11,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
-      "Delhi": {
-        "active": 7,
-        "confirmed": 7,
+      "South Delhi": {
+        "active": 0,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -145,16 +145,23 @@
         "lastupdatedtime": "",
         "recovered": 0
       },
-      "North West Delhi": {
-        "active": 1,
-        "confirmed": 1,
+      "North Delhi": {
+        "active": 2,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
-      "North Delhi": {
-        "active": 1,
-        "confirmed": 1,
+      "North West Delhi": {
+        "active": 3,
+        "confirmed": 3,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Unknown": {
+        "active": 13,
+        "confirmed": 13,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
