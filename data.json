@@ -540,20 +540,6 @@
 			"state": "Total"
 		},
 		{
-			"active": "114",
-			"confirmed": "118",
-			"deaths": "0",
-			"delta": {
-				"active": 0,
-				"confirmed": 0,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "",
-			"recovered": "4",
-			"state": "Kerala"
-		},
-		{
 			"active": "119",
 			"confirmed": "122",
 			"deaths": "2",
@@ -566,6 +552,20 @@
 			"lastupdatedtime": "",
 			"recovered": "1",
 			"state": "Maharashtra"
+		},
+		{
+			"active": "114",
+			"confirmed": "118",
+			"deaths": "0",
+			"delta": {
+				"active": 0,
+				"confirmed": 0,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "",
+			"recovered": "4",
+			"state": "Kerala"
 		},
 		{
 			"active": "47",
@@ -694,62 +694,6 @@
 			"state": "Tamil Nadu"
 		},
 		{
-			"active": "13",
-			"confirmed": "13",
-			"deaths": "0",
-			"delta": {
-				"active": 0,
-				"confirmed": 0,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Ladakh"
-		},
-		{
-			"active": "8",
-			"confirmed": "9",
-			"deaths": "1",
-			"delta": {
-				"active": 0,
-				"confirmed": 0,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "West Bengal"
-		},
-		{
-			"active": "9",
-			"confirmed": "10",
-			"deaths": "0",
-			"delta": {
-				"active": 0,
-				"confirmed": 0,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "",
-			"recovered": "1",
-			"state": "Andhra Pradesh"
-		},
-		{
-			"active": "7",
-			"confirmed": "7",
-			"deaths": "0",
-			"delta": {
-				"active": 0,
-				"confirmed": 0,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Chandigarh"
-		},
-		{
 			"active": "14",
 			"confirmed": "15",
 			"deaths": "1",
@@ -762,6 +706,20 @@
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Madhya Pradesh"
+		},
+		{
+			"active": "13",
+			"confirmed": "13",
+			"deaths": "0",
+			"delta": {
+				"active": 0,
+				"confirmed": 0,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Ladakh"
 		},
 		{
 			"active": "10",
@@ -778,6 +736,48 @@
 			"state": "Jammu and Kashmir"
 		},
 		{
+			"active": "9",
+			"confirmed": "10",
+			"deaths": "0",
+			"delta": {
+				"active": 0,
+				"confirmed": 0,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "",
+			"recovered": "1",
+			"state": "Andhra Pradesh"
+		},
+		{
+			"active": "8",
+			"confirmed": "9",
+			"deaths": "1",
+			"delta": {
+				"active": 0,
+				"confirmed": 0,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "West Bengal"
+		},
+		{
+			"active": "7",
+			"confirmed": "7",
+			"deaths": "0",
+			"delta": {
+				"active": 0,
+				"confirmed": 0,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Chandigarh"
+		},
+		{
 			"active": "5",
 			"confirmed": "5",
 			"deaths": "0",
@@ -790,6 +790,20 @@
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Uttarakhand"
+		},
+		{
+			"active": "3",
+			"confirmed": "4",
+			"deaths": "1",
+			"delta": {
+				"active": 0,
+				"confirmed": 0,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Bihar"
 		},
 		{
 			"active": "2",
@@ -807,8 +821,8 @@
 		},
 		{
 			"active": "3",
-			"confirmed": "4",
-			"deaths": "1",
+			"confirmed": "3",
+			"deaths": "0",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
@@ -817,7 +831,21 @@
 			},
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"state": "Bihar"
+			"state": "Chhattisgarh"
+		},
+		{
+			"active": "3",
+			"confirmed": "3",
+			"deaths": "0",
+			"delta": {
+				"active": 0,
+				"confirmed": 0,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "",
+			"recovered": "0",
+			"state": "Goa"
 		},
 		{
 			"active": "2",
@@ -848,8 +876,8 @@
 			"state": "Puducherry"
 		},
 		{
-			"active": "3",
-			"confirmed": "3",
+			"active": "1",
+			"confirmed": "1",
 			"deaths": "0",
 			"delta": {
 				"active": 0,
@@ -859,7 +887,7 @@
 			},
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"state": "Chhattisgarh"
+			"state": "Manipur"
 		},
 		{
 			"active": "1",
@@ -873,7 +901,7 @@
 			},
 			"lastupdatedtime": "",
 			"recovered": "0",
-			"state": "Manipur"
+			"state": "Mizoram"
 		},
 		{
 			"active": "0",
@@ -932,20 +960,6 @@
 			"state": "Tripura"
 		},
 		{
-			"active": "3",
-			"confirmed": "3",
-			"deaths": "0",
-			"delta": {
-				"active": 0,
-				"confirmed": 0,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Goa"
-		},
-		{
 			"active": "0",
 			"confirmed": "0",
 			"deaths": "0",
@@ -972,20 +986,6 @@
 			"lastupdatedtime": "",
 			"recovered": "0",
 			"state": "Jharkhand"
-		},
-		{
-			"active": "1",
-			"confirmed": "1",
-			"deaths": "0",
-			"delta": {
-				"active": 0,
-				"confirmed": 0,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "",
-			"recovered": "0",
-			"state": "Mizoram"
 		},
 		{
 			"active": "0",
