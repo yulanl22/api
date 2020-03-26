@@ -701,8 +701,8 @@
         "recovered": 0
       },
       "Krishna": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -715,13 +715,6 @@
         "recovered": 0
       },
       "Chitoor": {
-        "active": 1,
-        "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
-      "Vijayawada": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
@@ -983,7 +976,7 @@
   },
   "Goa": {
     "districtData": {
-      "Goa": {
+      "North Goa": {
         "active": 3,
         "confirmed": 3,
         "deaths": 0,
