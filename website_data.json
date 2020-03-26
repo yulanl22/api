@@ -78,6 +78,26 @@
 		{
 			"banner": "Wash your hands often. Keep the virus at bay.",
 			"id": "16",
+			"numberoftimes": "1"
+		},
+		{
+			"banner": "The hot weather will not stop the virus! You can! Stay home, stay safe.",
+			"id": "17",
+			"numberoftimes": "1"
+		},
+		{
+			"banner": "Help the medical fraternity by staying at home! ",
+			"id": "18",
+			"numberoftimes": "1"
+		},
+		{
+			"banner": "Avoid going out during the lockdown. Help break the chain of spread.",
+			"id": "19",
+			"numberoftimes": "1"
+		},
+		{
+			"banner": "Talk to your loved ones",
+			"id": "20",
 			"numberoftimes": ""
 		}
 	]
