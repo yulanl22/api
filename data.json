@@ -516,7 +516,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "38",
+			"confirmeddelta": "40",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "2",
 			"lastupdatedtime": "26/03/2020 17:14:24",
@@ -526,12 +526,12 @@
 	],
 	"statewise": [
 		{
-			"active": "637",
-			"confirmed": "695",
+			"active": "639",
+			"confirmed": "697",
 			"deaths": "13",
 			"delta": {
-				"active": 37,
-				"confirmed": 38,
+				"active": 39,
+				"confirmed": 40,
 				"deaths": 1,
 				"recovered": 0
 			},
@@ -722,12 +722,12 @@
 			"state": "Ladakh"
 		},
 		{
-			"active": "10",
-			"confirmed": "11",
+			"active": "12",
+			"confirmed": "13",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 2,
+				"confirmed": 2,
 				"deaths": 0,
 				"recovered": 0
 			},
