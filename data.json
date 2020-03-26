@@ -540,12 +540,12 @@
 			"state": "Total"
 		},
 		{
-			"active": "120",
-			"confirmed": "123",
+			"active": "121",
+			"confirmed": "124",
 			"deaths": "2",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 2,
+				"confirmed": 2,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -694,12 +694,12 @@
 			"state": "Tamil Nadu"
 		},
 		{
-			"active": "21",
-			"confirmed": "21",
+			"active": "20",
+			"confirmed": "20",
 			"deaths": "0",
 			"delta": {
-				"active": 6,
-				"confirmed": 6,
+				"active": 5,
+				"confirmed": 5,
 				"deaths": 0,
 				"recovered": 0
 			},

@@ -588,8 +588,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 76,
-        "confirmed": 77,
+        "active": 77,
+        "confirmed": 78,
         "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
@@ -905,8 +905,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 12,
-        "confirmed": 12,
+        "active": 11,
+        "confirmed": 11,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
