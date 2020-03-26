@@ -14379,6 +14379,26 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020"
+		},
+		{
+			"agebracket": "29",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "26/03/2020",
+			"detectedcity": "Vijayawada",
+			"detecteddistrict": "Krishna",
+			"detectedstate": "Andhra Pradesh",
+			"estimatedonsetdate": "",
+			"gender": "M",
+			"nationality": "",
+			"notes": "Details Awaited",
+			"patientnumber": "720",
+			"source1": "https://twitter.com/ArogyaAndhra/status/1243201529005268994",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "AP-P11",
+			"statuschangedate": "26/03/2020"
 		}
 	]
 }
