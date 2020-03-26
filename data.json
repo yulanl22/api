@@ -497,11 +497,11 @@
 		},
 		{
 			"dailyconfirmed": "86",
-			"dailydeceased": "2",
+			"dailydeceased": "1",
 			"dailyrecovered": "3",
 			"date": "25 March ",
 			"totalconfirmed": "657",
-			"totaldeceased": "12",
+			"totaldeceased": "11",
 			"totalrecovered": "43"
 		},
 		{
@@ -518,7 +518,7 @@
 		{
 			"confirmeddelta": "8",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "-1",
+			"deceaseddelta": "0",
 			"lastupdatedtime": "26/03/2020 07:19:29",
 			"recovereddelta": "0",
 			"statesdelta": "0"
