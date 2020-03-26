@@ -249,8 +249,8 @@
         "recovered": 0
       },
       "Panipat": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -494,8 +494,8 @@
       },
       "Chikkaballapura": {
         "active": 2,
-        "confirmed": 3,
-        "deaths": 1,
+        "confirmed": 4,
+        "deaths": 2,
         "lastupdatedtime": "",
         "recovered": 0
       },
@@ -549,8 +549,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 2,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -1028,7 +1028,7 @@
     "districtData": {
       "Unknown": {
         "active": 0,
-        "confirmed": 20,
+        "confirmed": 19,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
