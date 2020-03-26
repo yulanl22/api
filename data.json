@@ -1163,6 +1163,13 @@
 			"totalpositivecases": "539",
 			"totalsamplestested": "22928",
 			"updatetimestamp": "25/3/2020 10:00"
+		},
+		{
+			"source": "ICMR_website_update_25March_8PM_IST.pdf",
+			"totalindividualstested": "24254",
+			"totalpositivecases": "581",
+			"totalsamplestested": "25144",
+			"updatetimestamp": "25/3/2020 20:00"
 		}
 	]
 }
