@@ -518,7 +518,7 @@
 		{
 			"confirmeddelta": "8",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "0",
+			"deceaseddelta": "1",
 			"lastupdatedtime": "26/03/2020 07:19:29",
 			"recovereddelta": "0",
 			"statesdelta": "0"
@@ -526,9 +526,9 @@
 	],
 	"statewise": [
 		{
-			"active": "611",
+			"active": "610",
 			"confirmed": "665",
-			"deaths": "11",
+			"deaths": "12",
 			"delta": {
 				"active": 8,
 				"confirmed": 8,
@@ -694,9 +694,9 @@
 			"state": "Tamil Nadu"
 		},
 		{
-			"active": "20",
+			"active": "19",
 			"confirmed": "20",
-			"deaths": "0",
+			"deaths": "1",
 			"delta": {
 				"active": 5,
 				"confirmed": 5,
