@@ -80,7 +80,7 @@
       },
       "Unknown": {
         "active": 3,
-        "confirmed": 3,
+        "confirmed": 13,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -461,8 +461,8 @@
   "Jammu and Kashmir": {
     "districtData": {
       "Unknown": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -475,8 +475,8 @@
         "recovered": 0
       },
       "Srinagar": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 5,
+        "confirmed": 5,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -1070,7 +1070,7 @@
     "districtData": {
       "Unknown": {
         "active": 0,
-        "confirmed": 16,
+        "confirmed": 6,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
