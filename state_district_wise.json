@@ -401,8 +401,8 @@
   "Tamil Nadu": {
     "districtData": {
       "Chennai": {
-        "active": 12,
-        "confirmed": 13,
+        "active": 14,
+        "confirmed": 15,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1
@@ -449,7 +449,7 @@
         "lastupdatedtime": "",
         "recovered": 0
       },
-      "Ranipet": {
+      "Vellore": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
