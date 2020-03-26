@@ -830,8 +830,8 @@
     "districtData": {
       "Kolkata": {
         "active": 4,
-        "confirmed": 4,
-        "deaths": 0,
+        "confirmed": 5,
+        "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
       },
@@ -846,13 +846,6 @@
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
-      "North Kolkata": {
-        "active": 0,
-        "confirmed": 1,
-        "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
       }
