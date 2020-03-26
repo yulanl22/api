@@ -72,8 +72,8 @@
         "recovered": 0
       },
       "Kozhikode": {
-        "active": 6,
-        "confirmed": 6,
+        "active": 5,
+        "confirmed": 5,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -93,8 +93,8 @@
         "recovered": 0
       },
       "Kasargod": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -228,8 +228,8 @@
   "Haryana": {
     "districtData": {
       "Gurugram": {
-        "active": 17,
-        "confirmed": 17,
+        "active": 24,
+        "confirmed": 24,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -255,7 +255,7 @@
         "lastupdatedtime": "",
         "recovered": 0
       },
-      "Sonipat": {
+      "Sonepat": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
@@ -263,20 +263,6 @@
         "recovered": 0
       },
       "Palwal": {
-        "active": 1,
-        "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
-      "Unknown": {
-        "active": 6,
-        "confirmed": 6,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
-      "Guragon": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
