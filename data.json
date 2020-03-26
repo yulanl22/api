@@ -519,14 +519,14 @@
 			"confirmeddelta": "63",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
-			"lastupdatedtime": "26/03/2020 21:18:47",
-			"recovereddelta": "2",
+			"lastupdatedtime": "26/03/2020 21:52:24",
+			"recovereddelta": "7",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "660",
+			"active": "655",
 			"confirmed": "720",
 			"deaths": "15",
 			"delta": {
@@ -535,12 +535,12 @@
 				"deaths": 1,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 21:18:47",
-			"recovered": "45",
+			"lastupdatedtime": "26/03/2020 21:52:24",
+			"recovered": "50",
 			"state": "Total"
 		},
 		{
-			"active": "131",
+			"active": "126",
 			"confirmed": "137",
 			"deaths": "0",
 			"delta": {
@@ -549,8 +549,8 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 18:16:24",
-			"recovered": "6",
+			"lastupdatedtime": "26/03/2020 21:52:24",
+			"recovered": "11",
 			"state": "Kerala"
 		},
 		{
