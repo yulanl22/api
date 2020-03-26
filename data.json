@@ -518,24 +518,24 @@
 		{
 			"confirmeddelta": "63",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "4",
-			"lastupdatedtime": "26/03/2020 21:52:24",
+			"deceaseddelta": "5",
+			"lastupdatedtime": "26/03/2020 22:27:26",
 			"recovereddelta": "7",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "655",
+			"active": "654",
 			"confirmed": "720",
-			"deaths": "15",
+			"deaths": "16",
 			"delta": {
 				"active": 62,
 				"confirmed": 63,
 				"deaths": 1,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 21:52:24",
+			"lastupdatedtime": "26/03/2020 22:27:26",
 			"recovered": "50",
 			"state": "Total"
 		},
@@ -722,16 +722,16 @@
 			"state": "Ladakh"
 		},
 		{
-			"active": "12",
+			"active": "11",
 			"confirmed": "13",
-			"deaths": "0",
+			"deaths": "1",
 			"delta": {
 				"active": 2,
 				"confirmed": 2,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 17:58:25",
+			"lastupdatedtime": "26/03/2020 22:27:28",
 			"recovered": "1",
 			"state": "Jammu and Kashmir"
 		},
