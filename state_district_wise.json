@@ -30,18 +30,18 @@
         "recovered": 0
       },
       "Kannur": {
-        "active": 22,
+        "active": 21,
         "confirmed": 23,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 1
+        "recovered": 2
       },
       "Ernakulam": {
-        "active": 19,
+        "active": 15,
         "confirmed": 19,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 0
+        "recovered": 4
       },
       "Kottayam": {
         "active": 3,
