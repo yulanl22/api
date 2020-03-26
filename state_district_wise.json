@@ -16,8 +16,8 @@
         "recovered": 1
       },
       "Kasaragod": {
-        "active": 45,
-        "confirmed": 46,
+        "active": 47,
+        "confirmed": 48,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1
@@ -78,9 +78,9 @@
         "lastupdatedtime": "",
         "recovered": 0
       },
-      "Unknown": {
-        "active": 3,
-        "confirmed": 3,
+      "Thiruvanathapuram": {
+        "active": 1,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
