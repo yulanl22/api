@@ -30,7 +30,7 @@
         "lastupdatedtime": ""
       },
       "Thiruvananthapuram": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": ""
       },
       "Idukki": {
@@ -43,10 +43,6 @@
       },
       "Kozhikode": {
         "confirmed": 5,
-        "lastupdatedtime": ""
-      },
-      "Thiruvanathapuram": {
-        "confirmed": 1,
         "lastupdatedtime": ""
       },
       "Palakkad": {
@@ -134,11 +130,11 @@
         "lastupdatedtime": ""
       },
       "Bhilwara": {
-        "confirmed": 15,
+        "confirmed": 17,
         "lastupdatedtime": ""
       },
       "Jodhpur": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": ""
       },
       "Unknown": {
@@ -486,7 +482,7 @@
         "lastupdatedtime": ""
       },
       "Khordha": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": ""
       }
     }
@@ -651,6 +647,14 @@
     "districtData": {
       "Unknown": {
         "confirmed": 1,
+        "lastupdatedtime": ""
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 7,
         "lastupdatedtime": ""
       }
     }
