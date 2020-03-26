@@ -143,8 +143,8 @@
   "Telangana": {
     "districtData": {
       "Hyderabad": {
-        "active": 30,
-        "confirmed": 31,
+        "active": 31,
+        "confirmed": 32,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1
@@ -171,8 +171,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
