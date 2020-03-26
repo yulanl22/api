@@ -609,8 +609,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 77,
-        "confirmed": 78,
+        "active": 78,
+        "confirmed": 79,
         "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
@@ -736,13 +736,6 @@
         "recovered": 0
       },
       "Guntur": {
-        "active": 1,
-        "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
-      "Unknown": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,

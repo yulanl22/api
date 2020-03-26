@@ -519,7 +519,7 @@
 			"confirmeddelta": "36",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "1",
-			"lastupdatedtime": "26/03/2020 15:03:24",
+			"lastupdatedtime": "26/03/2020 15:17:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
@@ -535,21 +535,21 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 15:03:24",
+			"lastupdatedtime": "26/03/2020 15:17:24",
 			"recovered": "43",
 			"state": "Total"
 		},
 		{
-			"active": "121",
-			"confirmed": "124",
+			"active": "122",
+			"confirmed": "125",
 			"deaths": "2",
 			"delta": {
-				"active": 2,
-				"confirmed": 2,
+				"active": 3,
+				"confirmed": 3,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 07:19:29",
+			"lastupdatedtime": "26/03/2020 15:20:23",
 			"recovered": "1",
 			"state": "Maharashtra"
 		},
@@ -736,16 +736,16 @@
 			"state": "Jammu and Kashmir"
 		},
 		{
-			"active": "10",
-			"confirmed": "11",
+			"active": "9",
+			"confirmed": "10",
 			"deaths": "0",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 15:03:25",
+			"lastupdatedtime": "26/03/2020 15:20:24",
 			"recovered": "1",
 			"state": "Andhra Pradesh"
 		},
