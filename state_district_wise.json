@@ -816,8 +816,22 @@
   "Chhattisgarh": {
     "districtData": {
       "Unknown": {
-        "active": 6,
-        "confirmed": 6,
+        "active": 4,
+        "confirmed": 4,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Rajnandgaon": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Raipur": {
+        "active": 1,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
