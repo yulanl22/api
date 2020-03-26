@@ -493,9 +493,9 @@
         "recovered": 0
       },
       "Chikkaballapura": {
-        "active": 3,
+        "active": 2,
         "confirmed": 3,
-        "deaths": 0,
+        "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
       },
