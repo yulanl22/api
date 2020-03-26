@@ -2,7 +2,7 @@
   "Kerala": {
     "districtData": {
       "Thrissur": {
-        "active": 1,
+        "active": 3,
         "confirmed": 5,
         "deaths": 0,
         "lastupdatedtime": "",
@@ -16,7 +16,7 @@
         "recovered": 1
       },
       "Kasaragod": {
-        "active": 42,
+        "active": 45,
         "confirmed": 46,
         "deaths": 0,
         "lastupdatedtime": "",
@@ -30,7 +30,7 @@
         "recovered": 0
       },
       "Kannur": {
-        "active": 13,
+        "active": 22,
         "confirmed": 23,
         "deaths": 0,
         "lastupdatedtime": "",
@@ -58,14 +58,14 @@
         "recovered": 1
       },
       "Idukki": {
-        "active": 2,
+        "active": 3,
         "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Malappuram": {
-        "active": 5,
+        "active": 8,
         "confirmed": 8,
         "deaths": 0,
         "lastupdatedtime": "",
@@ -93,7 +93,7 @@
         "recovered": 0
       },
       "Wayanad": {
-        "active": 0,
+        "active": 1,
         "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
