@@ -2,7 +2,7 @@
   "Kerala": {
     "districtData": {
       "Thrissur": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": ""
       },
       "Alappuzha": {
@@ -10,7 +10,7 @@
         "lastupdatedtime": ""
       },
       "Kasaragod": {
-        "confirmed": 48,
+        "confirmed": 82,
         "lastupdatedtime": ""
       },
       "Pathanamthitta": {
@@ -18,7 +18,7 @@
         "lastupdatedtime": ""
       },
       "Kannur": {
-        "confirmed": 23,
+        "confirmed": 25,
         "lastupdatedtime": ""
       },
       "Ernakulam": {
@@ -42,7 +42,7 @@
         "lastupdatedtime": ""
       },
       "Kozhikode": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": ""
       },
       "Palakkad": {
@@ -50,6 +50,10 @@
         "lastupdatedtime": ""
       },
       "Wayanad": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Kollam": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
@@ -422,11 +426,11 @@
         "lastupdatedtime": ""
       },
       "Shaheed Bhagat Singh Nagar": {
-        "confirmed": 16,
+        "confirmed": 19,
         "lastupdatedtime": ""
       },
       "Sahibzada Ajit Singh Nagar": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": ""
       },
       "Hoshiarpur": {
@@ -434,11 +438,11 @@
         "lastupdatedtime": ""
       },
       "Jalandhar": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 7,
+        "confirmed": 3,
         "lastupdatedtime": ""
       },
       "Ludhiana": {
@@ -678,7 +682,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 96,
+        "confirmed": 56,
         "lastupdatedtime": ""
       }
     }
