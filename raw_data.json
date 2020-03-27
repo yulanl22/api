@@ -1018,7 +1018,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P2",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "24/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -1044,7 +1044,7 @@
 			"agebracket": "13",
 			"backupnotes": "Daughter of P51 and P52",
 			"contractedfromwhichpatientsuspected": "P51",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "10/03/2020",
 			"detectedcity": "Bengaluru",
 			"detecteddistrict": "Bengaluru",
@@ -1058,7 +1058,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P4",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "24/03/2020"
 		},
 		{
 			"agebracket": "",
