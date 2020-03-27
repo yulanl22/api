@@ -242,7 +242,7 @@
         "lastupdatedtime": ""
       },
       "Erode": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": ""
       },
       "Coimbatore": {
@@ -270,10 +270,6 @@
         "lastupdatedtime": ""
       },
       "Tiruchirappalli": {
-        "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
