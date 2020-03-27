@@ -346,7 +346,7 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 25,
+        "confirmed": 26,
         "lastupdatedtime": ""
       },
       "Mumbai": {
@@ -374,7 +374,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 75,
+        "confirmed": 70,
         "lastupdatedtime": ""
       },
       "Ratnagiri": {
@@ -386,11 +386,15 @@
         "lastupdatedtime": ""
       },
       "Sangli": {
-        "confirmed": 9,
+        "confirmed": 12,
         "lastupdatedtime": ""
       },
       "Satara": {
         "confirmed": 2,
+        "lastupdatedtime": ""
+      },
+      "Kolhapur": {
+        "confirmed": 1,
         "lastupdatedtime": ""
       }
     }
