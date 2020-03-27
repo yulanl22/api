@@ -15132,7 +15132,7 @@
 			"estimatedonsetdate": "",
 			"gender": "F",
 			"nationality": "",
-			"notes": "Contact of KA-P25 ",
+			"notes": "Contact of KA-P25 (Domestic Worker)",
 			"patientnumber": "757",
 			"source1": "https://twitter.com/IEBengaluru/status/1243465187069284352/photo/1",
 			"source2": "",
@@ -15172,7 +15172,7 @@
 			"estimatedonsetdate": "",
 			"gender": "F",
 			"nationality": "",
-			"notes": "Contact of KA-P25 ",
+			"notes": "Contact of KA-P25 (Domestic Worker)",
 			"patientnumber": "760",
 			"source1": "https://twitter.com/IEBengaluru/status/1243465187069284352/photo/1",
 			"source2": "",
@@ -15212,13 +15212,13 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
-			"patientnumber": "",
-			"source1": "",
+			"notes": "Foreign travel history (details awaited)",
+			"patientnumber": "762",
+			"source1": "https://english.mathrubhumi.com/news/kerala/malappuram-native-tests-ve-for-coronavirus-in-thiruvananthapuram-total-cases-rise-to-127-1.4647720",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "27/03/2020"
 		}
 	]
 }
