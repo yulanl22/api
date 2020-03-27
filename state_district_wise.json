@@ -374,7 +374,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 65,
+        "confirmed": 75,
         "lastupdatedtime": ""
       },
       "Ratnagiri": {
@@ -477,12 +477,8 @@
   },
   "Odisha": {
     "districtData": {
-      "Unknown": {
-        "confirmed": 1,
-        "lastupdatedtime": ""
-      },
       "Khordha": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": ""
       }
     }
@@ -662,7 +658,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 6,
+        "confirmed": 1,
         "lastupdatedtime": ""
       }
     }
