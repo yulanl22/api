@@ -138,7 +138,7 @@
         "lastupdatedtime": ""
       },
       "Bhilwara": {
-        "confirmed": 19,
+        "confirmed": 17,
         "lastupdatedtime": ""
       },
       "Jodhpur": {
@@ -691,14 +691,6 @@
       },
       "Unknown": {
         "confirmed": 4,
-        "lastupdatedtime": ""
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "confirmed": 11,
         "lastupdatedtime": ""
       }
     }
