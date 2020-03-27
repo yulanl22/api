@@ -116,6 +116,10 @@
       "Medchal Malkajgiri": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 10,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -286,7 +290,7 @@
         "lastupdatedtime": ""
       },
       "Srinagar": {
-        "confirmed": 5,
+        "confirmed": 9,
         "lastupdatedtime": ""
       },
       "Bandipore": {
@@ -670,7 +674,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 20,
+        "confirmed": 6,
         "lastupdatedtime": ""
       }
     }
