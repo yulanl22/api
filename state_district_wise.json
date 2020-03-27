@@ -98,7 +98,7 @@
   "Telangana": {
     "districtData": {
       "Hyderabad": {
-        "confirmed": 35,
+        "confirmed": 36,
         "lastupdatedtime": ""
       },
       "Karimnagar": {
@@ -278,7 +278,7 @@
   "Jammu and Kashmir": {
     "districtData": {
       "Unknown": {
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": ""
       },
       "Jammu": {
@@ -648,13 +648,17 @@
       "South Andaman": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
       }
     }
   },
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 8,
+        "confirmed": 7,
         "lastupdatedtime": ""
       }
     }

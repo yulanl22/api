@@ -505,11 +505,11 @@
 			"totalrecovered": "43"
 		},
 		{
-			"dailyconfirmed": "65",
+			"dailyconfirmed": "66",
 			"dailydeceased": "5",
 			"dailyrecovered": "7",
 			"date": "26 March ",
-			"totalconfirmed": "722",
+			"totalconfirmed": "723",
 			"totaldeceased": "16",
 			"totalrecovered": "50"
 		},
@@ -528,15 +528,15 @@
 			"confirmeddelta": "1",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "26/03/2020 22:57:24",
+			"lastupdatedtime": "27/03/2020 09:32:23",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "657",
-			"confirmed": "723",
+			"active": "658",
+			"confirmed": "724",
 			"deaths": "16",
 			"delta": {
 				"active": 1,
@@ -544,7 +544,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 22:57:24",
+			"lastupdatedtime": "27/03/2020 09:32:23",
 			"recovered": "50",
 			"state": "Total"
 		},
@@ -591,8 +591,8 @@
 			"state": "Karnataka"
 		},
 		{
-			"active": "43",
-			"confirmed": "44",
+			"active": "44",
+			"confirmed": "45",
 			"deaths": "0",
 			"delta": {
 				"active": 0,
@@ -600,7 +600,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 14:25:24",
+			"lastupdatedtime": "27/03/2020 09:32:24",
 			"recovered": "1",
 			"state": "Telangana"
 		},
@@ -731,16 +731,16 @@
 			"state": "Ladakh"
 		},
 		{
-			"active": "13",
-			"confirmed": "15",
+			"active": "12",
+			"confirmed": "14",
 			"deaths": "1",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 22:57:25",
+			"lastupdatedtime": "27/03/2020 09:32:25",
 			"recovered": "1",
 			"state": "Jammu and Kashmir"
 		},
@@ -913,16 +913,16 @@
 			"state": "Mizoram"
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "2",
+			"confirmed": "2",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 13:41:25",
+			"lastupdatedtime": "27/03/2020 09:32:26",
 			"recovered": "0",
 			"state": "Andaman and Nicobar Islands"
 		},
