@@ -514,22 +514,22 @@
 			"totalrecovered": "50"
 		},
 		{
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
+			"dailyconfirmed": "151",
+			"dailydeceased": "3",
+			"dailyrecovered": "25",
 			"date": "27 March ",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
+			"totalconfirmed": "886",
+			"totaldeceased": "19",
+			"totalrecovered": "75"
 		}
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "151",
+			"confirmeddelta": "0",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "3",
-			"lastupdatedtime": "27/03/2020 23:32:24",
-			"recovereddelta": "25",
+			"deceaseddelta": "0",
+			"lastupdatedtime": "28/03/2020 00:07:25",
+			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
@@ -544,7 +544,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "27/03/2020 23:32:24",
+			"lastupdatedtime": "28/03/2020 00:07:25",
 			"recovered": "75",
 			"state": "Total"
 		},
@@ -712,7 +712,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "27/03/2020 22:37:25",
+			"lastupdatedtime": "28/03/2020 00:07:26",
 			"recovered": "0",
 			"state": "Madhya Pradesh"
 		},
