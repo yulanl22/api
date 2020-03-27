@@ -529,13 +529,13 @@
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "28/03/2020 00:07:25",
-			"recovereddelta": "0",
+			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "792",
+			"active": "791",
 			"confirmed": "886",
 			"deaths": "19",
 			"delta": {
@@ -545,7 +545,7 @@
 				"recovered": 0
 			},
 			"lastupdatedtime": "28/03/2020 00:07:25",
-			"recovered": "75",
+			"recovered": "76",
 			"state": "Total"
 		},
 		{
@@ -675,7 +675,7 @@
 			"state": "Punjab"
 		},
 		{
-			"active": "36",
+			"active": "35",
 			"confirmed": "38",
 			"deaths": "1",
 			"delta": {
@@ -685,7 +685,7 @@
 				"recovered": 0
 			},
 			"lastupdatedtime": "27/03/2020 21:39:22",
-			"recovered": "1",
+			"recovered": "2",
 			"state": "Tamil Nadu"
 		},
 		{
