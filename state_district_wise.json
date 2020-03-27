@@ -354,7 +354,7 @@
         "lastupdatedtime": ""
       },
       "Nagpur": {
-        "confirmed": 4,
+        "confirmed": 8,
         "lastupdatedtime": ""
       },
       "Thane": {
@@ -374,7 +374,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 70,
+        "confirmed": 65,
         "lastupdatedtime": ""
       },
       "Ratnagiri": {
@@ -394,6 +394,10 @@
         "lastupdatedtime": ""
       },
       "Kolhapur": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Gondia": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
