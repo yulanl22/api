@@ -4921,10 +4921,10 @@
 			"statuschangedate": "20/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "32",
 			"backupnotes": "Returned from Singapore",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "20/03/2020",
 			"detectedcity": "Kangra",
 			"detecteddistrict": "Kangra",
@@ -4938,7 +4938,7 @@
 			"source2": "https://twitter.com/PIBShimla/status/1241021507138011136",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020"
+			"statuschangedate": "27/03/2020"
 		},
 		{
 			"agebracket": "59",
