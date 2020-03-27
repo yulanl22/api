@@ -198,7 +198,7 @@
         "lastupdatedtime": ""
       },
       "Gautam Buddha Nagar": {
-        "confirmed": 13,
+        "confirmed": 16,
         "lastupdatedtime": ""
       },
       "Moradabad": {
@@ -306,7 +306,7 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 34,
+        "confirmed": 38,
         "lastupdatedtime": ""
       },
       "Kalaburagi": {
@@ -343,10 +343,6 @@
       },
       "Chitradurga": {
         "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Bangalore": {
-        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Tumkur": {
