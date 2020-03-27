@@ -284,6 +284,10 @@
       "Tiruchirappalli": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 3,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -480,6 +484,10 @@
       "Guntur": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -542,15 +550,19 @@
   "Chhattisgarh": {
     "districtData": {
       "Raipur": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": ""
       },
       "Rajnandgaon": {
         "confirmed": 1,
         "lastupdatedtime": ""
       },
-      "Unknown": {
-        "confirmed": 3,
+      "Bilaspur": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Durg": {
+        "confirmed": 1,
         "lastupdatedtime": ""
       }
     }
@@ -690,7 +702,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 25,
+        "confirmed": 21,
         "lastupdatedtime": ""
       }
     }
