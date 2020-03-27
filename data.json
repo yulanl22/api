@@ -505,11 +505,11 @@
 			"totalrecovered": "43"
 		},
 		{
-			"dailyconfirmed": "66",
+			"dailyconfirmed": "69",
 			"dailydeceased": "5",
 			"dailyrecovered": "7",
 			"date": "26 March ",
-			"totalconfirmed": "723",
+			"totalconfirmed": "726",
 			"totaldeceased": "16",
 			"totalrecovered": "50"
 		},
@@ -525,26 +525,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "1",
+			"confirmeddelta": "3",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "27/03/2020 09:32:23",
+			"lastupdatedtime": "27/03/2020 09:42:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "658",
-			"confirmed": "724",
+			"active": "663",
+			"confirmed": "729",
 			"deaths": "16",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 3,
+				"confirmed": 3,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "27/03/2020 09:32:23",
+			"lastupdatedtime": "27/03/2020 09:42:24",
 			"recovered": "50",
 			"state": "Total"
 		},
@@ -600,7 +600,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "27/03/2020 09:32:24",
+			"lastupdatedtime": "27/03/2020 09:37:24",
 			"recovered": "1",
 			"state": "Telangana"
 		},
@@ -633,16 +633,16 @@
 			"state": "Uttar Pradesh"
 		},
 		{
-			"active": "37",
-			"confirmed": "40",
+			"active": "42",
+			"confirmed": "45",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 2,
+				"confirmed": 2,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 22:37:24",
+			"lastupdatedtime": "27/03/2020 09:42:25",
 			"recovered": "3",
 			"state": "Rajasthan"
 		},
@@ -740,7 +740,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "27/03/2020 09:32:25",
+			"lastupdatedtime": "27/03/2020 09:37:25",
 			"recovered": "1",
 			"state": "Jammu and Kashmir"
 		},
@@ -922,7 +922,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "27/03/2020 09:32:26",
+			"lastupdatedtime": "27/03/2020 09:37:26",
 			"recovered": "0",
 			"state": "Andaman and Nicobar Islands"
 		},

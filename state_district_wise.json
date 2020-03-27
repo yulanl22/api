@@ -130,7 +130,7 @@
         "lastupdatedtime": ""
       },
       "Bhilwara": {
-        "confirmed": 15,
+        "confirmed": 17,
         "lastupdatedtime": ""
       },
       "Jodhpur": {
@@ -138,7 +138,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 2,
+        "confirmed": 5,
         "lastupdatedtime": ""
       },
       "Pratapgarh ": {
@@ -658,7 +658,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 7,
+        "confirmed": 2,
         "lastupdatedtime": ""
       }
     }
