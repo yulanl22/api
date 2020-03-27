@@ -314,7 +314,7 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 39,
+        "confirmed": 38,
         "lastupdatedtime": ""
       },
       "Kalaburagi": {
@@ -342,7 +342,7 @@
         "lastupdatedtime": ""
       },
       "Dakshina Kannada": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": ""
       },
       "Udupi": {
@@ -354,6 +354,10 @@
         "lastupdatedtime": ""
       },
       "Tumkur": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Davangere": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
@@ -686,7 +690,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 42,
+        "confirmed": 41,
         "lastupdatedtime": ""
       }
     }
