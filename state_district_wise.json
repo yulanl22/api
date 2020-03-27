@@ -606,15 +606,11 @@
   "Bihar": {
     "districtData": {
       "Munger": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": ""
       },
       "Patna": {
         "confirmed": 4,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
-        "confirmed": 2,
         "lastupdatedtime": ""
       },
       "Siwan": {
