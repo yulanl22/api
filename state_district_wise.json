@@ -94,7 +94,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": ""
       }
     }
@@ -478,11 +478,7 @@
         "lastupdatedtime": ""
       },
       "Guntur": {
-        "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": ""
       }
     }
@@ -698,7 +694,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 21,
+        "confirmed": 20,
         "lastupdatedtime": ""
       }
     }
