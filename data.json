@@ -525,26 +525,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "128",
+			"confirmeddelta": "139",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
-			"lastupdatedtime": "27/03/2020 20:42:24",
+			"lastupdatedtime": "27/03/2020 21:02:25",
 			"recovereddelta": "24",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "770",
-			"confirmed": "863",
+			"active": "781",
+			"confirmed": "874",
 			"deaths": "19",
 			"delta": {
-				"active": 126,
-				"confirmed": 128,
+				"active": 137,
+				"confirmed": 139,
 				"deaths": 2,
 				"recovered": 0
 			},
-			"lastupdatedtime": "27/03/2020 20:42:24",
+			"lastupdatedtime": "27/03/2020 21:02:25",
 			"recovered": "74",
 			"state": "Total"
 		},
@@ -759,16 +759,16 @@
 			"state": "Andhra Pradesh"
 		},
 		{
-			"active": "9",
-			"confirmed": "10",
+			"active": "14",
+			"confirmed": "15",
 			"deaths": "1",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 5,
+				"confirmed": 5,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 07:19:29",
+			"lastupdatedtime": "27/03/2020 21:02:27",
 			"recovered": "0",
 			"state": "West Bengal"
 		},
@@ -801,16 +801,16 @@
 			"state": "Chandigarh"
 		},
 		{
-			"active": "6",
-			"confirmed": "6",
+			"active": "12",
+			"confirmed": "12",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 6,
+				"confirmed": 6,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 07:19:29",
+			"lastupdatedtime": "27/03/2020 21:02:27",
 			"recovered": "0",
 			"state": "Chhattisgarh"
 		},

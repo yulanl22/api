@@ -522,7 +522,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 4,
+        "confirmed": 9,
         "lastupdatedtime": ""
       },
       "North 24 Parganas": {
@@ -550,7 +550,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 3,
+        "confirmed": 9,
         "lastupdatedtime": ""
       }
     }
@@ -690,7 +690,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 41,
+        "confirmed": 30,
         "lastupdatedtime": ""
       }
     }
