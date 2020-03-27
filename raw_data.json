@@ -14904,21 +14904,21 @@
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "27/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detecteddistrict": "Visakhapatnam",
+			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Contact of AP-P7",
 			"patientnumber": "746",
-			"source1": "",
+			"source1": "https://twitter.com/ArogyaAndhra/status/1243417511212666880",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statepatientnumber": "AP-P12",
+			"statuschangedate": "27/03/2020"
 		}
 	]
 }

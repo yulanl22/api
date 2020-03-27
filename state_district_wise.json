@@ -446,7 +446,7 @@
         "lastupdatedtime": ""
       },
       "Visakhapatnam": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "East Godavari": {
@@ -657,14 +657,6 @@
         "confirmed": 1,
         "lastupdatedtime": ""
       },
-      "Unknown": {
-        "confirmed": 1,
-        "lastupdatedtime": ""
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
       "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": ""
