@@ -342,7 +342,7 @@
         "lastupdatedtime": ""
       },
       "Dakshina Kannada": {
-        "confirmed": 6,
+        "confirmed": 5,
         "lastupdatedtime": ""
       },
       "Udupi": {
@@ -377,8 +377,8 @@
         "confirmed": 4,
         "lastupdatedtime": ""
       },
-      "Ahmadnagar": {
-        "confirmed": 1,
+      "Ahmednagar": {
+        "confirmed": 2,
         "lastupdatedtime": ""
       },
       "Yavatmal": {
@@ -394,10 +394,6 @@
         "lastupdatedtime": ""
       },
       "Ratnagiri": {
-        "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Ahmednagar": {
         "confirmed": 1,
         "lastupdatedtime": ""
       },
@@ -690,7 +686,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 41,
+        "confirmed": 42,
         "lastupdatedtime": ""
       }
     }
