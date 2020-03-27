@@ -864,7 +864,7 @@
 			"agebracket": "",
 			"backupnotes": "Returned from Dubai on 1 March, Husband of P45",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "09/03/2020",
 			"detectedcity": "Pune",
 			"detecteddistrict": "Pune",
@@ -878,13 +878,13 @@
 			"source2": "https://www.firstpost.com/health/coronavirus-outbreak-latest-updates-covid-19-india-alert-novel-coronavirus-holi-2020-latest-news-today-8115121.html",
 			"source3": "https://www.thehindu.com/news/national/coronavirus-live-updates-march-9-2020/article31020875.ece",
 			"statepatientnumber": "",
-			"statuschangedate": "09/03/2020"
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "Returned from Dubai on 1 March, Wife of P44",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "09/03/2020",
 			"detectedcity": "Pune",
 			"detecteddistrict": "Pune",
@@ -898,7 +898,7 @@
 			"source2": "https://www.firstpost.com/health/coronavirus-outbreak-latest-updates-covid-19-india-alert-novel-coronavirus-holi-2020-latest-news-today-8115121.html",
 			"source3": "https://www.thehindu.com/news/national/coronavirus-live-updates-march-9-2020/article31020875.ece",
 			"statepatientnumber": "",
-			"statuschangedate": "09/03/2020"
+			"statuschangedate": "25/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -14903,7 +14903,7 @@
 		{
 			"agebracket": "",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "P493",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "27/03/2020",
 			"detectedcity": "",
@@ -14918,6 +14918,26 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "AP-P12",
+			"statuschangedate": "27/03/2020"
+		},
+		{
+			"agebracket": "35",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Deceased",
+			"dateannounced": "27/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Indore",
+			"detectedstate": "Madhya Pradesh",
+			"estimatedonsetdate": "",
+			"gender": "M",
+			"nationality": "",
+			"notes": "Details awaited",
+			"patientnumber": "747",
+			"source1": "https://www.indiatoday.in/india/story/madhya-pradesh-second-coronavirus-death-man-indore-covid19-1660040-2020-03-26",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020"
 		}
 	]
