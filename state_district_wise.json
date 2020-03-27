@@ -342,7 +342,7 @@
         "lastupdatedtime": ""
       },
       "Dakshina Kannada": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": ""
       },
       "Udupi": {
@@ -620,6 +620,10 @@
       "Shivpuri": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -686,7 +690,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 42,
+        "confirmed": 41,
         "lastupdatedtime": ""
       }
     }
