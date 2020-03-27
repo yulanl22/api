@@ -238,7 +238,7 @@
   "Tamil Nadu": {
     "districtData": {
       "Chennai": {
-        "confirmed": 15,
+        "confirmed": 17,
         "lastupdatedtime": ""
       },
       "Erode": {
@@ -258,7 +258,7 @@
         "lastupdatedtime": ""
       },
       "Madurai": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": ""
       },
       "Salem": {
@@ -270,6 +270,10 @@
         "lastupdatedtime": ""
       },
       "Tiruchirappalli": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
@@ -659,6 +663,14 @@
       },
       "Unknown": {
         "confirmed": 1,
+        "lastupdatedtime": ""
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 3,
         "lastupdatedtime": ""
       }
     }
