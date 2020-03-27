@@ -250,7 +250,7 @@
   "Tamil Nadu": {
     "districtData": {
       "Chennai": {
-        "confirmed": 17,
+        "confirmed": 19,
         "lastupdatedtime": ""
       },
       "Erode": {
@@ -274,7 +274,7 @@
         "lastupdatedtime": ""
       },
       "Salem": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": ""
       },
       "Vellore": {
@@ -283,10 +283,6 @@
       },
       "Tiruchirappalli": {
         "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
-        "confirmed": 3,
         "lastupdatedtime": ""
       }
     }

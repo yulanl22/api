@@ -528,7 +528,7 @@
 			"confirmeddelta": "142",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
-			"lastupdatedtime": "27/03/2020 21:38:23",
+			"lastupdatedtime": "27/03/2020 21:39:22",
 			"recovereddelta": "24",
 			"statesdelta": "0"
 		}
@@ -544,7 +544,7 @@
 				"deaths": 2,
 				"recovered": 0
 			},
-			"lastupdatedtime": "27/03/2020 21:38:23",
+			"lastupdatedtime": "27/03/2020 21:39:22",
 			"recovered": "74",
 			"state": "Total"
 		},
@@ -684,7 +684,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "27/03/2020 21:38:24",
+			"lastupdatedtime": "27/03/2020 21:39:22",
 			"recovered": "1",
 			"state": "Tamil Nadu"
 		},
@@ -754,7 +754,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "27/03/2020 21:38:25",
+			"lastupdatedtime": "27/03/2020 21:39:23",
 			"recovered": "1",
 			"state": "Andhra Pradesh"
 		},
