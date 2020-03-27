@@ -176,6 +176,10 @@
       "Palwal": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -674,7 +678,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 101,
+        "confirmed": 100,
         "lastupdatedtime": ""
       }
     }
