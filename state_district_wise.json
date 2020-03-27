@@ -118,7 +118,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 10,
+        "confirmed": 14,
         "lastupdatedtime": ""
       }
     }
@@ -674,7 +674,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 6,
+        "confirmed": 101,
         "lastupdatedtime": ""
       }
     }
