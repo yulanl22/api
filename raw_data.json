@@ -824,7 +824,7 @@
 			"agebracket": "",
 			"backupnotes": "Mindtree Employee, Returned from US via London",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "09/03/2020",
 			"detectedcity": "Bengaluru",
 			"detecteddistrict": "Bengaluru",
@@ -838,7 +838,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P1",
-			"statuschangedate": "09/03/2020"
+			"statuschangedate": "27/03/2020"
 		},
 		{
 			"agebracket": "3",
@@ -15078,7 +15078,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P56",
-			"statuschangedate": ""
+			"statuschangedate": "27/03/2020"
 		},
 		{
 			"agebracket": "20",
@@ -15098,7 +15098,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P57",
-			"statuschangedate": ""
+			"statuschangedate": "27/03/2020"
 		},
 		{
 			"agebracket": "25",
@@ -15118,7 +15118,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P58",
-			"statuschangedate": ""
+			"statuschangedate": "27/03/2020"
 		},
 		{
 			"agebracket": "35",
@@ -15138,7 +15138,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P59",
-			"statuschangedate": ""
+			"statuschangedate": "27/03/2020"
 		},
 		{
 			"agebracket": "60",
@@ -15158,7 +15158,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P60",
-			"statuschangedate": ""
+			"statuschangedate": "27/03/2020"
 		},
 		{
 			"agebracket": "33",
@@ -15178,7 +15178,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P61",
-			"statuschangedate": ""
+			"statuschangedate": "27/03/2020"
 		},
 		{
 			"agebracket": "22",
@@ -15198,7 +15198,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P62",
-			"statuschangedate": ""
+			"statuschangedate": "27/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -15233,8 +15233,8 @@
 			"gender": "F",
 			"nationality": "",
 			"notes": "Details Awaited",
-			"patientnumber": "",
-			"source1": "",
+			"patientnumber": "763",
+			"source1": "https://twitter.com/PTI_News/status/1243468436153331712",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
@@ -15253,8 +15253,8 @@
 			"gender": "M",
 			"nationality": "",
 			"notes": "Details Awaited",
-			"patientnumber": "",
-			"source1": "",
+			"patientnumber": "764",
+			"source1": "https://twitter.com/PTI_News/status/1243468436153331712",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
@@ -15273,8 +15273,8 @@
 			"gender": "",
 			"nationality": "",
 			"notes": "Details Awaited",
-			"patientnumber": "",
-			"source1": "",
+			"patientnumber": "765",
+			"source1": "https://twitter.com/PTI_News/status/1243468436153331712",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
