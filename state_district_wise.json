@@ -52,10 +52,6 @@
       "Wayanad": {
         "confirmed": 1,
         "lastupdatedtime": ""
-      },
-      "Thiruvanathapuram": {
-        "confirmed": 1,
-        "lastupdatedtime": ""
       }
     }
   },
@@ -394,7 +390,7 @@
         "lastupdatedtime": ""
       },
       "Sangli": {
-        "confirmed": 12,
+        "confirmed": 24,
         "lastupdatedtime": ""
       },
       "Satara": {
