@@ -17698,7 +17698,47 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "27/03/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "P531",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "27/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Rajouri",
+			"detectedstate": "Jammu and Kashmir",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "Contact history with P531",
+			"patientnumber": "886",
+			"source1": "https://twitter.com/kansalrohit69/status/1243598931407319041?s=19",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "27/03/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "27/03/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Rajouri",
+			"detectedstate": "Jammu and Kashmir",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "Family member of Someone from 27th March",
+			"patientnumber": "887",
+			"source1": "https://twitter.com/kansalrohit69/status/1243598931407319041?s=19",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "27/03/2020"
 		}
 	]
 }
