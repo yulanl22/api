@@ -17041,7 +17041,7 @@
 			"statuschangedate": "27/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "23",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "P681",
 			"currentstatus": "Hospitalized",
@@ -17061,7 +17061,7 @@
 			"statuschangedate": "27/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "64",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "P681",
 			"currentstatus": "Hospitalized",
@@ -17204,21 +17204,21 @@
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "27/03/2020",
-			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detectedcity": "Bengaluru",
+			"detecteddistrict": "Bengaluru",
+			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Travel history to France",
 			"patientnumber": "861",
-			"source1": "",
+			"source1": "https://twitter.com/sriramulubjp/status/1243522834963394565",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "27/03/2020"
 		},
 		{
 			"agebracket": "",
