@@ -146,7 +146,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 5,
+        "confirmed": 10,
         "lastupdatedtime": ""
       },
       "Pratapgarh ": {
@@ -690,7 +690,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 30,
+        "confirmed": 25,
         "lastupdatedtime": ""
       }
     }
