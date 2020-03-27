@@ -17561,24 +17561,24 @@
 			"statuschangedate": "27/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "22",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "27/03/2020",
 			"detectedcity": "",
 			"detecteddistrict": "",
-			"detectedstate": "",
+			"detectedstate": "Chandigarh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "",
+			"notes": "Travelled from Dubai. Remained home-quarantined for 14 days but developed fever on the 15th day",
 			"patientnumber": "879",
-			"source1": "",
-			"source2": "",
+			"source1": "https://twitter.com/ANI/status/1243550699939495940?s=19",
+			"source2": "https://m.economictimes.com/news/politics-and-nation/unusual-trend-chandigarh-man-shows-symptoms-on-15th-day-tests-corona-positive/amp_articleshow/74851824.cms",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "27/03/2020"
 		},
 		{
 			"agebracket": "",
