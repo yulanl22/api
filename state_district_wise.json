@@ -52,6 +52,10 @@
       "Wayanad": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -326,11 +330,11 @@
         "lastupdatedtime": ""
       },
       "Uttara Kannada": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Dakshina Kannada": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": ""
       },
       "Udupi": {
@@ -338,6 +342,14 @@
         "lastupdatedtime": ""
       },
       "Chitradurga": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Bangalore": {
+        "confirmed": 4,
+        "lastupdatedtime": ""
+      },
+      "Tumkur": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
@@ -659,14 +671,6 @@
       },
       "N&M Andaman": {
         "confirmed": 1,
-        "lastupdatedtime": ""
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "confirmed": 7,
         "lastupdatedtime": ""
       }
     }
