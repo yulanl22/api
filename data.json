@@ -525,7 +525,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "108",
+			"confirmeddelta": "116",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
 			"lastupdatedtime": "27/03/2020 18:07:24",
@@ -535,8 +535,8 @@
 	],
 	"statewise": [
 		{
-			"active": "751",
-			"confirmed": "843",
+			"active": "759",
+			"confirmed": "851",
 			"deaths": "19",
 			"delta": {
 				"active": 106,
@@ -563,8 +563,8 @@
 			"state": "Kerala"
 		},
 		{
-			"active": "124",
-			"confirmed": "147",
+			"active": "132",
+			"confirmed": "155",
 			"deaths": "4",
 			"delta": {
 				"active": 17,
