@@ -666,5 +666,13 @@
         "lastupdatedtime": ""
       }
     }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 25,
+        "lastupdatedtime": ""
+      }
+    }
   }
 }
