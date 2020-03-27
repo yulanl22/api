@@ -566,7 +566,7 @@
   "Gujarat": {
     "districtData": {
       "Rajkot": {
-        "confirmed": 4,
+        "confirmed": 7,
         "lastupdatedtime": ""
       },
       "Surat": {
@@ -590,7 +590,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 10,
+        "confirmed": 7,
         "lastupdatedtime": ""
       }
     }
@@ -630,7 +630,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": ""
       }
     }
