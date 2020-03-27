@@ -194,7 +194,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 2,
+        "confirmed": 6,
         "lastupdatedtime": ""
       },
       "Ghaziabad": {
@@ -390,7 +390,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 72,
+        "confirmed": 74,
         "lastupdatedtime": ""
       },
       "Ratnagiri": {
@@ -676,13 +676,17 @@
       "N&M Andaman": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 4,
+        "lastupdatedtime": ""
       }
     }
   },
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 53,
+        "confirmed": 43,
         "lastupdatedtime": ""
       }
     }

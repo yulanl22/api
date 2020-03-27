@@ -525,26 +525,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "116",
+			"confirmeddelta": "125",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
-			"lastupdatedtime": "27/03/2020 18:07:24",
+			"lastupdatedtime": "27/03/2020 18:42:24",
 			"recovereddelta": "23",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "759",
-			"confirmed": "851",
+			"active": "768",
+			"confirmed": "860",
 			"deaths": "19",
 			"delta": {
-				"active": 106,
-				"confirmed": 108,
+				"active": 123,
+				"confirmed": 125,
 				"deaths": 2,
 				"recovered": 0
 			},
-			"lastupdatedtime": "27/03/2020 18:07:24",
+			"lastupdatedtime": "27/03/2020 18:42:24",
 			"recovered": "73",
 			"state": "Total"
 		},
@@ -563,16 +563,16 @@
 			"state": "Kerala"
 		},
 		{
-			"active": "132",
-			"confirmed": "155",
+			"active": "133",
+			"confirmed": "156",
 			"deaths": "4",
 			"delta": {
-				"active": 17,
-				"confirmed": 17,
+				"active": 26,
+				"confirmed": 26,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "27/03/2020 16:02:24",
+			"lastupdatedtime": "27/03/2020 18:42:24",
 			"recovered": "19",
 			"state": "Maharashtra"
 		},
@@ -605,16 +605,16 @@
 			"state": "Telangana"
 		},
 		{
-			"active": "34",
-			"confirmed": "45",
+			"active": "38",
+			"confirmed": "49",
 			"deaths": "0",
 			"delta": {
-				"active": 3,
-				"confirmed": 3,
+				"active": 7,
+				"confirmed": 7,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "27/03/2020 15:47:25",
+			"lastupdatedtime": "27/03/2020 18:42:25",
 			"recovered": "11",
 			"state": "Uttar Pradesh"
 		},
@@ -871,16 +871,16 @@
 			"state": "Odisha"
 		},
 		{
-			"active": "2",
-			"confirmed": "2",
+			"active": "6",
+			"confirmed": "6",
 			"deaths": "0",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 5,
+				"confirmed": 5,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "27/03/2020 09:37:26",
+			"lastupdatedtime": "27/03/2020 18:42:27",
 			"recovered": "0",
 			"state": "Andaman and Nicobar Islands"
 		},
