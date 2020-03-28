@@ -605,16 +605,16 @@
 			"state": "Telangana"
 		},
 		{
-			"active": "39",
-			"confirmed": "50",
+			"active": "44",
+			"confirmed": "55",
 			"deaths": "0",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 6,
+				"confirmed": 6,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 12:17:24",
+			"lastupdatedtime": "28/03/2020 15:32:24",
 			"recovered": "11",
 			"state": "Uttar Pradesh"
 		},
@@ -647,16 +647,16 @@
 			"state": "Gujarat"
 		},
 		{
-			"active": "38",
-			"confirmed": "45",
+			"active": "33",
+			"confirmed": "40",
 			"deaths": "1",
 			"delta": {
-				"active": 5,
-				"confirmed": 5,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 15:07:24",
+			"lastupdatedtime": "28/03/2020 15:32:25",
 			"recovered": "6",
 			"state": "Delhi"
 		},

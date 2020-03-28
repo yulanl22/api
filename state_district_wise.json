@@ -96,10 +96,6 @@
       "Unknown": {
         "confirmed": 17,
         "lastupdatedtime": ""
-      },
-      "Gautam Buddha Nagar": {
-        "confirmed": 5,
-        "lastupdatedtime": ""
       }
     }
   },
@@ -214,7 +210,7 @@
         "lastupdatedtime": ""
       },
       "Gautam Buddha Nagar": {
-        "confirmed": 16,
+        "confirmed": 21,
         "lastupdatedtime": ""
       },
       "Moradabad": {
