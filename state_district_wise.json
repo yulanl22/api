@@ -582,7 +582,7 @@
         "lastupdatedtime": ""
       },
       "Vadodara": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": ""
       },
       "Gandhinagar": {
@@ -698,7 +698,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 7,
+        "confirmed": 6,
         "lastupdatedtime": ""
       }
     }
