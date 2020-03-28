@@ -506,11 +506,11 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": ""
       },
       "Pauri": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": ""
       }
     }
