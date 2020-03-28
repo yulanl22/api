@@ -234,7 +234,7 @@
         "lastupdatedtime": ""
       },
       "Meerut": {
-        "confirmed": 1,
+        "confirmed": 5,
         "lastupdatedtime": ""
       }
     }
@@ -346,7 +346,7 @@
         "lastupdatedtime": ""
       },
       "Mysuru": {
-        "confirmed": 3,
+        "confirmed": 8,
         "lastupdatedtime": ""
       },
       "Dharwad": {
@@ -394,7 +394,7 @@
         "lastupdatedtime": ""
       },
       "Mumbai": {
-        "confirmed": 68,
+        "confirmed": 67,
         "lastupdatedtime": ""
       },
       "Nagpur": {
@@ -738,7 +738,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 60,
+        "confirmed": 52,
         "lastupdatedtime": ""
       }
     }
