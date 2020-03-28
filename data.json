@@ -539,8 +539,8 @@
 			"confirmed": "1024",
 			"deaths": "24",
 			"delta": {
-				"active": 138,
-				"confirmed": 138,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -553,8 +553,8 @@
 			"confirmed": "182",
 			"deaths": "1",
 			"delta": {
-				"active": 6,
-				"confirmed": 6,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -567,8 +567,8 @@
 			"confirmed": "186",
 			"deaths": "6",
 			"delta": {
-				"active": 30,
-				"confirmed": 30,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -581,8 +581,8 @@
 			"confirmed": "81",
 			"deaths": "3",
 			"delta": {
-				"active": 17,
-				"confirmed": 17,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -595,8 +595,8 @@
 			"confirmed": "67",
 			"deaths": "1",
 			"delta": {
-				"active": 8,
-				"confirmed": 8,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -609,8 +609,8 @@
 			"confirmed": "65",
 			"deaths": "0",
 			"delta": {
-				"active": 16,
-				"confirmed": 16,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -623,8 +623,8 @@
 			"confirmed": "54",
 			"deaths": "0",
 			"delta": {
-				"active": 4,
-				"confirmed": 4,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -637,8 +637,8 @@
 			"confirmed": "55",
 			"deaths": "4",
 			"delta": {
-				"active": 8,
-				"confirmed": 8,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -651,8 +651,8 @@
 			"confirmed": "49",
 			"deaths": "1",
 			"delta": {
-				"active": 9,
-				"confirmed": 9,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -679,8 +679,8 @@
 			"confirmed": "42",
 			"deaths": "1",
 			"delta": {
-				"active": 4,
-				"confirmed": 4,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -693,8 +693,8 @@
 			"confirmed": "35",
 			"deaths": "0",
 			"delta": {
-				"active": 2,
-				"confirmed": 2,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -707,8 +707,8 @@
 			"confirmed": "34",
 			"deaths": "2",
 			"delta": {
-				"active": 5,
-				"confirmed": 5,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -721,8 +721,8 @@
 			"confirmed": "33",
 			"deaths": "1",
 			"delta": {
-				"active": 13,
-				"confirmed": 13,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -749,8 +749,8 @@
 			"confirmed": "19",
 			"deaths": "0",
 			"delta": {
-				"active": 6,
-				"confirmed": 6,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -763,8 +763,8 @@
 			"confirmed": "18",
 			"deaths": "1",
 			"delta": {
-				"active": 3,
-				"confirmed": 3,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -777,8 +777,8 @@
 			"confirmed": "11",
 			"deaths": "1",
 			"delta": {
-				"active": 2,
-				"confirmed": 2,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -805,8 +805,8 @@
 			"confirmed": "7",
 			"deaths": "0",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -819,8 +819,8 @@
 			"confirmed": "6",
 			"deaths": "0",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -875,8 +875,8 @@
 			"confirmed": "9",
 			"deaths": "0",
 			"delta": {
-				"active": 3,
-				"confirmed": 3,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
