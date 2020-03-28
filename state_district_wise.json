@@ -534,10 +534,14 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": ""
       },
       "North 24 Parganas": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Beleghata": {
         "confirmed": 1,
         "lastupdatedtime": ""
       },
@@ -550,11 +554,7 @@
   "Chandigarh": {
     "districtData": {
       "Chandigarh": {
-        "confirmed": 7,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
-        "confirmed": 1,
+        "confirmed": 8,
         "lastupdatedtime": ""
       }
     }
