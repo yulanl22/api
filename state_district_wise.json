@@ -530,18 +530,10 @@
   "West Bengal": {
     "districtData": {
       "Kolkata": {
-        "confirmed": 5,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
-        "confirmed": 3,
+        "confirmed": 9,
         "lastupdatedtime": ""
       },
       "North 24 Parganas": {
-        "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Beleghata": {
         "confirmed": 1,
         "lastupdatedtime": ""
       },
