@@ -122,7 +122,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 20,
+        "confirmed": 22,
         "lastupdatedtime": ""
       }
     }
@@ -486,7 +486,7 @@
         "lastupdatedtime": ""
       },
       "Prakasam": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": ""
       },
       "Visakhapatnam": {
@@ -498,7 +498,7 @@
         "lastupdatedtime": ""
       },
       "Krishna": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Chitoor": {
@@ -506,15 +506,11 @@
         "lastupdatedtime": ""
       },
       "Guntur": {
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Kurnool": {
         "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
-        "confirmed": 5,
         "lastupdatedtime": ""
       }
     }
@@ -738,7 +734,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 64,
+        "confirmed": 62,
         "lastupdatedtime": ""
       }
     }

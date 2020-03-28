@@ -525,7 +525,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "123",
+			"confirmeddelta": "125",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
 			"lastupdatedtime": "28/03/2020 22:12:23",
@@ -535,12 +535,12 @@
 	],
 	"statewise": [
 		{
-			"active": "903",
-			"confirmed": "1009",
+			"active": "905",
+			"confirmed": "1011",
 			"deaths": "22",
 			"delta": {
-				"active": 123,
-				"confirmed": 123,
+				"active": 125,
+				"confirmed": 125,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -591,12 +591,12 @@
 			"state": "Karnataka"
 		},
 		{
-			"active": "63",
-			"confirmed": "65",
+			"active": "65",
+			"confirmed": "67",
 			"deaths": "1",
 			"delta": {
-				"active": 6,
-				"confirmed": 6,
+				"active": 8,
+				"confirmed": 8,
 				"deaths": 0,
 				"recovered": 0
 			},
