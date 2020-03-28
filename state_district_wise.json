@@ -692,6 +692,10 @@
       "Nalanda": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 2,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -738,7 +742,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 51,
+        "confirmed": 49,
         "lastupdatedtime": ""
       }
     }
