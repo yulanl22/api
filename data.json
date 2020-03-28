@@ -528,7 +528,7 @@
 			"confirmeddelta": "20",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "1",
-			"lastupdatedtime": "28/03/2020 12:32:24",
+			"lastupdatedtime": "28/03/2020 12:37:24",
 			"recovereddelta": "8",
 			"statesdelta": "0"
 		}
@@ -544,7 +544,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 12:32:24",
+			"lastupdatedtime": "28/03/2020 12:37:24",
 			"recovered": "83",
 			"state": "Total"
 		},
@@ -558,7 +558,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 12:32:24",
+			"lastupdatedtime": "28/03/2020 12:37:24",
 			"recovered": "12",
 			"state": "Kerala"
 		},
