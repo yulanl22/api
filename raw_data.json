@@ -7584,9 +7584,9 @@
 			"agebracket": "61",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Deceased",
 			"dateannounced": "22/03/2020",
-			"detectedcity": "",
+			"detectedcity": "           ",
 			"detecteddistrict": "Ernakulam",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
@@ -7596,9 +7596,9 @@
 			"patientnumber": "380",
 			"source1": "https://english.manoramaonline.com/news/kerala/2020/03/22/15-more-covid-19-cases-in-kerala-on-sunday.html",
 			"source2": "https://www.facebook.com/233008147097016/posts/965041220560368/?d=n",
-			"source3": "",
+			"source3": "https://twitter.com/PTI_News/status/1243791509092061184?s=19",
 			"statepatientnumber": "",
-			"statuschangedate": "22/03/2020"
+			"statuschangedate": "28/03/2020"
 		},
 		{
 			"agebracket": "21",
