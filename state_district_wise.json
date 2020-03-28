@@ -306,7 +306,7 @@
         "lastupdatedtime": ""
       },
       "Srinagar": {
-        "confirmed": 9,
+        "confirmed": 16,
         "lastupdatedtime": ""
       },
       "Bandipore": {
@@ -502,7 +502,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": ""
       },
       "Pauri": {
@@ -703,6 +703,14 @@
       },
       "Unknown": {
         "confirmed": 4,
+        "lastupdatedtime": ""
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 2,
         "lastupdatedtime": ""
       }
     }
