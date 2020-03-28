@@ -194,7 +194,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 13,
+        "confirmed": 7,
         "lastupdatedtime": ""
       },
       "Ghaziabad": {
@@ -206,7 +206,7 @@
         "lastupdatedtime": ""
       },
       "Gautam Buddha Nagar": {
-        "confirmed": 21,
+        "confirmed": 25,
         "lastupdatedtime": ""
       },
       "Moradabad": {
@@ -214,7 +214,7 @@
         "lastupdatedtime": ""
       },
       "Varanasi": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": ""
       },
       "Kanpur": {
@@ -230,6 +230,10 @@
         "lastupdatedtime": ""
       },
       "Baghpat": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Meerut": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
@@ -302,11 +306,11 @@
         "lastupdatedtime": ""
       },
       "Jammu": {
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Srinagar": {
-        "confirmed": 11,
+        "confirmed": 13,
         "lastupdatedtime": ""
       },
       "Bandipore": {
@@ -722,7 +726,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 89,
+        "confirmed": 84,
         "lastupdatedtime": ""
       }
     }
