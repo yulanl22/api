@@ -544,6 +544,10 @@
       "Nadia": {
         "confirmed": 5,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 2,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -714,7 +718,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 114,
+        "confirmed": 112,
         "lastupdatedtime": ""
       }
     }
