@@ -184,6 +184,10 @@
       "Palwal": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Ambala": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -470,10 +474,6 @@
         "lastupdatedtime": ""
       },
       "Ludhiana": {
-        "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Ambala": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
