@@ -502,11 +502,7 @@
   "Uttarakhand": {
     "districtData": {
       "Dehradun": {
-        "confirmed": 3,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Pauri": {
@@ -702,15 +698,11 @@
   "Andaman and Nicobar Islands": {
     "districtData": {
       "South Andaman": {
-        "confirmed": 1,
+        "confirmed": 5,
         "lastupdatedtime": ""
       },
       "N&M Andaman": {
         "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
-        "confirmed": 4,
         "lastupdatedtime": ""
       }
     }
