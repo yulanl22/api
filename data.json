@@ -528,7 +528,7 @@
 			"confirmeddelta": "73",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "2",
-			"lastupdatedtime": "28/03/2020 19:37:23",
+			"lastupdatedtime": "28/03/2020 19:42:24",
 			"recovereddelta": "9",
 			"statesdelta": "0"
 		}
@@ -544,7 +544,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 19:37:23",
+			"lastupdatedtime": "28/03/2020 19:42:24",
 			"recovered": "84",
 			"state": "Total"
 		},
@@ -586,7 +586,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 19:37:24",
+			"lastupdatedtime": "28/03/2020 19:42:25",
 			"recovered": "5",
 			"state": "Karnataka"
 		},
@@ -726,7 +726,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 14:57:25",
+			"lastupdatedtime": "28/03/2020 19:42:26",
 			"recovered": "1",
 			"state": "Jammu and Kashmir"
 		},
@@ -880,7 +880,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 19:37:27",
+			"lastupdatedtime": "28/03/2020 19:42:27",
 			"recovered": "0",
 			"state": "Andaman and Nicobar Islands"
 		},
