@@ -466,7 +466,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Ludhiana": {
@@ -734,7 +734,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 49,
+        "confirmed": 48,
         "lastupdatedtime": ""
       }
     }

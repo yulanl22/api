@@ -525,7 +525,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "137",
+			"confirmeddelta": "138",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "5",
 			"lastupdatedtime": "29/03/2020 01:02:24",
@@ -535,8 +535,8 @@
 	],
 	"statewise": [
 		{
-			"active": "914",
-			"confirmed": "1023",
+			"active": "915",
+			"confirmed": "1024",
 			"deaths": "24",
 			"delta": {
 				"active": 0,
@@ -661,8 +661,8 @@
 			"state": "Delhi"
 		},
 		{
-			"active": "36",
-			"confirmed": "38",
+			"active": "37",
+			"confirmed": "39",
 			"deaths": "1",
 			"delta": {
 				"active": 0,
