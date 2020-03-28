@@ -525,26 +525,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "12",
+			"confirmeddelta": "16",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "28/03/2020 10:02:23",
+			"lastupdatedtime": "28/03/2020 10:17:24",
 			"recovereddelta": "8",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "796",
-			"confirmed": "898",
+			"active": "800",
+			"confirmed": "902",
 			"deaths": "19",
 			"delta": {
-				"active": 12,
-				"confirmed": 12,
+				"active": 14,
+				"confirmed": 14,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 10:02:23",
+			"lastupdatedtime": "28/03/2020 10:17:24",
 			"recovered": "83",
 			"state": "Total"
 		},
@@ -703,16 +703,16 @@
 			"state": "Haryana"
 		},
 		{
-			"active": "27",
-			"confirmed": "29",
+			"active": "31",
+			"confirmed": "33",
 			"deaths": "2",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 2,
+				"confirmed": 2,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 00:07:26",
+			"lastupdatedtime": "28/03/2020 10:17:24",
 			"recovered": "0",
 			"state": "Madhya Pradesh"
 		},

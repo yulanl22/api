@@ -606,7 +606,7 @@
   "Madhya Pradesh": {
     "districtData": {
       "Jabalpur": {
-        "confirmed": 6,
+        "confirmed": 8,
         "lastupdatedtime": ""
       },
       "Bhopal": {
@@ -630,7 +630,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": ""
       }
     }
@@ -691,14 +691,6 @@
       },
       "Unknown": {
         "confirmed": 4,
-        "lastupdatedtime": ""
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "confirmed": 2,
         "lastupdatedtime": ""
       }
     }
