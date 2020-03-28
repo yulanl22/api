@@ -509,8 +509,12 @@
         "confirmed": 2,
         "lastupdatedtime": ""
       },
-      "Unknown": {
+      "Kurnool": {
         "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 5,
         "lastupdatedtime": ""
       }
     }
@@ -734,7 +738,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 69,
+        "confirmed": 64,
         "lastupdatedtime": ""
       }
     }
