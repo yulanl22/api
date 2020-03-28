@@ -370,11 +370,11 @@
         "lastupdatedtime": ""
       },
       "Mumbai": {
-        "confirmed": 9,
+        "confirmed": 14,
         "lastupdatedtime": ""
       },
       "Nagpur": {
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": ""
       },
       "Thane": {
@@ -698,7 +698,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": ""
       }
     }

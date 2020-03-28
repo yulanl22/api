@@ -525,26 +525,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "0",
+			"confirmeddelta": "6",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "28/03/2020 00:07:25",
+			"lastupdatedtime": "28/03/2020 09:27:24",
 			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "791",
-			"confirmed": "886",
+			"active": "797",
+			"confirmed": "892",
 			"deaths": "19",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 6,
+				"confirmed": 6,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 00:07:25",
+			"lastupdatedtime": "28/03/2020 09:27:24",
 			"recovered": "76",
 			"state": "Total"
 		},
@@ -563,16 +563,16 @@
 			"state": "Kerala"
 		},
 		{
-			"active": "133",
-			"confirmed": "156",
+			"active": "139",
+			"confirmed": "162",
 			"deaths": "4",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 6,
+				"confirmed": 6,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "27/03/2020 18:42:24",
+			"lastupdatedtime": "28/03/2020 09:27:24",
 			"recovered": "19",
 			"state": "Maharashtra"
 		},
