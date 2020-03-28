@@ -18042,8 +18042,8 @@
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "28/03/2020",
-			"detectedcity": "",
-			"detecteddistrict": "Kumbakonam",
+			"detectedcity": "Thanjavur",
+			"detecteddistrict": "Thanjavur",
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
 			"gender": "M",
@@ -18052,7 +18052,7 @@
 			"source1": "https://twitter.com/Vijayabaskarofl/status/1243779585004597248",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "TN-P39",
 			"statuschangedate": "28/03/2020"
 		},
 		{
@@ -18072,7 +18072,7 @@
 			"source1": "https://twitter.com/Vijayabaskarofl/status/1243779585004597248",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "TN-P40",
 			"statuschangedate": "28/03/2020"
 		},
 		{
@@ -18881,7 +18881,7 @@
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "28/03/2020",
-			"detectedcity": "",
+			"detectedcity": "Rajapalayam",
 			"detecteddistrict": "Virudhunagar",
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
@@ -18891,7 +18891,7 @@
 			"source1": "https://twitter.com/NHM_TN/status/1243881744090136577",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "TN-P41",
 			"statuschangedate": "28/03/2020"
 		},
 		{
@@ -19041,7 +19041,7 @@
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "28/03/2020",
-			"detectedcity": "",
+			"detectedcity": "West Mambalam",
 			"detecteddistrict": "Chennai",
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
@@ -19051,7 +19051,7 @@
 			"source1": "https://twitter.com/NHM_TN/status/1243895166743777285",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "TN-P42",
 			"statuschangedate": "28/03/2020"
 		},
 		{
@@ -20071,7 +20071,7 @@
 			"source1": "https://twitter.com/ANI/status/1243919962701303808",
 			"source2": "https://timesofindia.indiatimes.com/city/vijayawada/tirupati-first-coronavirus-positive-case-reported-in-kurnool-district-aps-tally-rises-to-14/articleshow/74864401.cms",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "TS-P19",
 			"statuschangedate": "28/03/2020"
 		},
 		{
@@ -20089,9 +20089,9 @@
 			"nationality": "",
 			"patientnumber": "1005",
 			"source1": "https://twitter.com/PTI_News/status/1243938826680020993",
-			"source2": "",
+			"source2": "https://twitter.com/ArogyaAndhra/status/1243942706549686272",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "TS-P19",
 			"statuschangedate": "28/03/2020"
 		},
 		{
@@ -20109,9 +20109,9 @@
 			"nationality": "",
 			"patientnumber": "1006",
 			"source1": "https://twitter.com/PTI_News/status/1243938826680020993",
-			"source2": "",
+			"source2": "https://twitter.com/ArogyaAndhra/status/1243942706549686272",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "TS-P19",
 			"statuschangedate": "28/03/2020"
 		},
 		{
@@ -20129,7 +20129,7 @@
 			"nationality": "",
 			"patientnumber": "1007",
 			"source1": "https://twitter.com/PTI_News/status/1243938826680020993",
-			"source2": "",
+			"source2": "https://twitter.com/ArogyaAndhra/status/1243942706549686272",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020"
@@ -20149,7 +20149,7 @@
 			"nationality": "",
 			"patientnumber": "1008",
 			"source1": "https://twitter.com/PTI_News/status/1243938826680020993",
-			"source2": "",
+			"source2": "https://twitter.com/ArogyaAndhra/status/1243942706549686272",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020"
@@ -20169,7 +20169,7 @@
 			"nationality": "",
 			"patientnumber": "1009",
 			"source1": "https://twitter.com/PTI_News/status/1243938826680020993",
-			"source2": "",
+			"source2": "https://twitter.com/ArogyaAndhra/status/1243942706549686272",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020"
