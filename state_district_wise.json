@@ -610,7 +610,7 @@
         "lastupdatedtime": ""
       },
       "Bhopal": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": ""
       },
       "Indore": {
@@ -630,7 +630,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 3,
+        "confirmed": 2,
         "lastupdatedtime": ""
       }
     }
