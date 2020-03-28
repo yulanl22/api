@@ -17846,8 +17846,8 @@
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "28/03/2020",
-			"detectedcity": "",
-			"detecteddistrict": "",
+			"detectedcity": "Ahmedabad",
+			"detecteddistrict": "Ahmedabad",
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "",
@@ -17866,8 +17866,8 @@
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "28/03/2020",
-			"detectedcity": "",
-			"detecteddistrict": "",
+			"detectedcity": "Ahmedabad",
+			"detecteddistrict": "Ahmedabad",
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "",
@@ -17886,8 +17886,8 @@
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "28/03/2020",
-			"detectedcity": "",
-			"detecteddistrict": "",
+			"detectedcity": "Ahmedabad",
+			"detecteddistrict": "Ahmedabad",
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "",
@@ -17906,8 +17906,8 @@
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "28/03/2020",
-			"detectedcity": "",
-			"detecteddistrict": "",
+			"detectedcity": "Gandhinagar",
+			"detecteddistrict": "Gandhinagar",
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "",
@@ -17926,8 +17926,8 @@
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "28/03/2020",
-			"detectedcity": "",
-			"detecteddistrict": "",
+			"detectedcity": "Mehsana",
+			"detecteddistrict": "Mehsana",
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "",
@@ -18084,41 +18084,41 @@
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "28/03/2020",
 			"detectedcity": "",
 			"detecteddistrict": "",
-			"detectedstate": "",
+			"detectedstate": "Uttar Pradesh",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
 			"notes": "",
 			"patientnumber": "905",
-			"source1": "",
+			"source1": "https://twitter.com/PTI_News/status/1243579676976701440?s=19",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "28/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "66",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "28/03/2020",
-			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detectedcity": "Vadodara",
+			"detecteddistrict": "Vadodara",
+			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "",
+			"notes": "Details awaited",
 			"patientnumber": "906",
 			"source1": "",
-			"source2": "",
+			"source2": "https://www.gujaratsamachar.com/news/gujarat/corona-in-gujarat-vadodara-1-more-case-registered-positive",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "28/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -18138,7 +18138,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "28/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -18158,7 +18158,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "28/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -18178,7 +18178,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "28/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -18198,7 +18198,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "28/03/2020"
 		},
 		{
 			"agebracket": "",
@@ -18218,7 +18218,27 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "28/03/2020"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "",
+			"dateannounced": "",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "28/03/2020"
 		}
 	]
 }

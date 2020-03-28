@@ -194,7 +194,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": ""
       },
       "Ghaziabad": {
@@ -578,15 +578,15 @@
         "lastupdatedtime": ""
       },
       "Ahmedabad": {
-        "confirmed": 14,
+        "confirmed": 17,
         "lastupdatedtime": ""
       },
       "Vadodara": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": ""
       },
       "Gandhinagar": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": ""
       },
       "Kutch": {
@@ -594,7 +594,11 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 13,
+        "confirmed": 8,
+        "lastupdatedtime": ""
+      },
+      "Mehsana": {
+        "confirmed": 1,
         "lastupdatedtime": ""
       }
     }
@@ -698,7 +702,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 7,
+        "confirmed": 6,
         "lastupdatedtime": ""
       }
     }
