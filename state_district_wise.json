@@ -410,7 +410,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 21,
+        "confirmed": 26,
         "lastupdatedtime": ""
       },
       "Ratnagiri": {
@@ -538,11 +538,15 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 9,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "North 24 Parganas": {
         "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Nadia": {
+        "confirmed": 5,
         "lastupdatedtime": ""
       }
     }
@@ -714,7 +718,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 140,
+        "confirmed": 135,
         "lastupdatedtime": ""
       }
     }
