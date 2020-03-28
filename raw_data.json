@@ -18215,13 +18215,13 @@
 			"statuschangedate": "28/03/2020"
 		},
 		{
-			"_d180g": "Travel history to London, son of KA-P25",
+			"_d180g": "Travel history to London, son of KA-P25 arrived on 17.03.2020",
 			"agebracket": "25",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "P385",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "28/03/2020",
-			"detectedcity": "",
+			"detectedcity": "Bengaluru",
 			"detecteddistrict": "Bengaluru",
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
