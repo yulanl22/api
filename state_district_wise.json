@@ -650,11 +650,11 @@
         "lastupdatedtime": ""
       },
       "Indore": {
-        "confirmed": 16,
+        "confirmed": 20,
         "lastupdatedtime": ""
       },
       "Ujjain": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Gwalior": {
@@ -738,7 +738,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 48,
+        "confirmed": 43,
         "lastupdatedtime": ""
       }
     }
