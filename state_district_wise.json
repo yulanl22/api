@@ -508,6 +508,10 @@
       "Guntur": {
         "confirmed": 2,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -730,7 +734,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 70,
+        "confirmed": 69,
         "lastupdatedtime": ""
       }
     }
