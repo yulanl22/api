@@ -298,7 +298,7 @@
   "Jammu and Kashmir": {
     "districtData": {
       "Unknown": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Jammu": {
@@ -350,7 +350,7 @@
         "lastupdatedtime": ""
       },
       "Uttara Kannada": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": ""
       },
       "Dakshina Kannada": {
@@ -375,6 +375,10 @@
       },
       "Chikkaballapur": {
         "confirmed": 5,
+        "lastupdatedtime": ""
+      },
+      "Davangere": {
+        "confirmed": 1,
         "lastupdatedtime": ""
       }
     }
@@ -700,13 +704,17 @@
       "N&M Andaman": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 3,
+        "lastupdatedtime": ""
       }
     }
   },
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 120,
+        "confirmed": 114,
         "lastupdatedtime": ""
       }
     }
