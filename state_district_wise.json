@@ -390,7 +390,7 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 26,
+        "confirmed": 30,
         "lastupdatedtime": ""
       },
       "Mumbai": {
@@ -438,6 +438,10 @@
         "lastupdatedtime": ""
       },
       "Gondiya": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Jalgaon": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
@@ -726,7 +730,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 84,
+        "confirmed": 79,
         "lastupdatedtime": ""
       }
     }
