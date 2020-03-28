@@ -184,6 +184,10 @@
       "Palwal": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Ambala": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -342,7 +346,7 @@
         "lastupdatedtime": ""
       },
       "Chikkaballapura": {
-        "confirmed": 4,
+        "confirmed": 9,
         "lastupdatedtime": ""
       },
       "Mysuru": {
@@ -375,10 +379,6 @@
       },
       "Davanagere": {
         "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Chikkaballapur": {
-        "confirmed": 5,
         "lastupdatedtime": ""
       },
       "Davangere": {
@@ -738,7 +738,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 52,
+        "confirmed": 51,
         "lastupdatedtime": ""
       }
     }
