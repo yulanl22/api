@@ -288,6 +288,10 @@
       "Kumbakonam": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Virudhunagar": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -698,7 +702,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 129,
+        "confirmed": 128,
         "lastupdatedtime": ""
       }
     }
