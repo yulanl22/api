@@ -19215,23 +19215,24 @@
 			"statuschangedate": "28/03/2020"
 		},
 		{
+			"_d180g": "BSF officer",
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "28/03/2020",
 			"detectedcity": "",
 			"detecteddistrict": "",
-			"detectedstate": "",
+			"detectedstate": "Madhya Pradesh",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
 			"patientnumber": "962",
-			"source1": "",
+			"source1": "https://twitter.com/PTI_News/status/1243909631669235717",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "28/03/2020"
 		},
 		{
 			"agebracket": "",

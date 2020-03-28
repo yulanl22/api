@@ -652,6 +652,10 @@
       "Shivpuri": {
         "confirmed": 2,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -718,7 +722,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 112,
+        "confirmed": 111,
         "lastupdatedtime": ""
       }
     }
