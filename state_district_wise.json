@@ -10,7 +10,7 @@
         "lastupdatedtime": ""
       },
       "Kasaragod": {
-        "confirmed": 82,
+        "confirmed": 83,
         "lastupdatedtime": ""
       },
       "Pathanamthitta": {
@@ -30,7 +30,7 @@
         "lastupdatedtime": ""
       },
       "Thiruvananthapuram": {
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": ""
       },
       "Idukki": {
@@ -38,7 +38,7 @@
         "lastupdatedtime": ""
       },
       "Malappuram": {
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": ""
       },
       "Kozhikode": {
@@ -46,7 +46,7 @@
         "lastupdatedtime": ""
       },
       "Palakkad": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Wayanad": {
@@ -54,7 +54,7 @@
         "lastupdatedtime": ""
       },
       "Kollam": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": ""
       }
     }
@@ -170,7 +170,7 @@
         "lastupdatedtime": ""
       },
       "Panipat": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Panchkula": {
@@ -182,10 +182,6 @@
         "lastupdatedtime": ""
       },
       "Palwal": {
-        "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
@@ -702,7 +698,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 135,
+        "confirmed": 129,
         "lastupdatedtime": ""
       }
     }
