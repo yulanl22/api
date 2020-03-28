@@ -525,7 +525,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "49",
+			"confirmeddelta": "54",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "2",
 			"lastupdatedtime": "28/03/2020 15:17:24",
@@ -535,12 +535,12 @@
 	],
 	"statewise": [
 		{
-			"active": "830",
-			"confirmed": "935",
+			"active": "835",
+			"confirmed": "940",
 			"deaths": "21",
 			"delta": {
-				"active": 49,
-				"confirmed": 49,
+				"active": 54,
+				"confirmed": 54,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -563,12 +563,12 @@
 			"state": "Kerala"
 		},
 		{
-			"active": "135",
-			"confirmed": "164",
+			"active": "140",
+			"confirmed": "169",
 			"deaths": "4",
 			"delta": {
-				"active": 8,
-				"confirmed": 8,
+				"active": 13,
+				"confirmed": 13,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -1200,6 +1200,13 @@
 			"totalpositivecases": "691",
 			"totalsamplestested": "27688",
 			"updatetimestamp": "27/3/2020 09:00"
+		},
+		{
+			"source": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "",
+			"updatetimestamp": "28/3/2020 09:00"
 		}
 	]
 }
