@@ -250,7 +250,7 @@
   "Tamil Nadu": {
     "districtData": {
       "Chennai": {
-        "confirmed": 19,
+        "confirmed": 20,
         "lastupdatedtime": ""
       },
       "Erode": {
@@ -706,7 +706,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 121,
+        "confirmed": 120,
         "lastupdatedtime": ""
       }
     }
