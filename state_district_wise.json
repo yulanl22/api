@@ -278,10 +278,14 @@
         "lastupdatedtime": ""
       },
       "Vellore": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": ""
       },
       "Tiruchirappalli": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Kumbakonam": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
@@ -694,7 +698,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 9,
+        "confirmed": 7,
         "lastupdatedtime": ""
       }
     }
