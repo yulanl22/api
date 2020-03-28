@@ -322,7 +322,7 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 39,
+        "confirmed": 41,
         "lastupdatedtime": ""
       },
       "Kalaburagi": {
@@ -369,8 +369,8 @@
         "confirmed": 1,
         "lastupdatedtime": ""
       },
-      "Unknown": {
-        "confirmed": 5,
+      "Chikkaballapur": {
+        "confirmed": 4,
         "lastupdatedtime": ""
       }
     }
@@ -710,7 +710,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": ""
       }
     }
