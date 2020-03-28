@@ -528,7 +528,7 @@
 			"confirmeddelta": "98",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "2",
-			"lastupdatedtime": "28/03/2020 20:22:25",
+			"lastupdatedtime": "28/03/2020 20:27:23",
 			"recovereddelta": "9",
 			"statesdelta": "0"
 		}
@@ -544,7 +544,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 20:22:25",
+			"lastupdatedtime": "28/03/2020 20:27:23",
 			"recovered": "84",
 			"state": "Total"
 		},
@@ -572,7 +572,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 20:22:25",
+			"lastupdatedtime": "28/03/2020 20:27:24",
 			"recovered": "25",
 			"state": "Maharashtra"
 		},
@@ -614,7 +614,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 15:32:24",
+			"lastupdatedtime": "28/03/2020 20:27:25",
 			"recovered": "11",
 			"state": "Uttar Pradesh"
 		},
@@ -698,7 +698,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 20:22:26",
+			"lastupdatedtime": "28/03/2020 20:27:26",
 			"recovered": "11",
 			"state": "Haryana"
 		},
