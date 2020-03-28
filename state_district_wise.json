@@ -310,7 +310,7 @@
         "lastupdatedtime": ""
       },
       "Srinagar": {
-        "confirmed": 15,
+        "confirmed": 11,
         "lastupdatedtime": ""
       },
       "Bandipore": {
@@ -319,6 +319,10 @@
       },
       "Rajouri": {
         "confirmed": 3,
+        "lastupdatedtime": ""
+      },
+      "Bandipora": {
+        "confirmed": 4,
         "lastupdatedtime": ""
       }
     }
@@ -375,10 +379,6 @@
       },
       "Chikkaballapur": {
         "confirmed": 4,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
-        "confirmed": 11,
         "lastupdatedtime": ""
       }
     }
@@ -718,7 +718,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 4,
+        "confirmed": 15,
         "lastupdatedtime": ""
       }
     }
