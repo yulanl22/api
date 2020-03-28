@@ -410,19 +410,23 @@
         "lastupdatedtime": ""
       },
       "Yavatmal": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Aurangabad": {
         "confirmed": 1,
         "lastupdatedtime": ""
       },
-      "Unknown": {
-        "confirmed": 40,
+      "Pimpri-Chinchwad": {
+        "confirmed": 2,
         "lastupdatedtime": ""
       },
       "Ratnagiri": {
         "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 37,
         "lastupdatedtime": ""
       },
       "Sangli": {
