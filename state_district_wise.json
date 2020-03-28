@@ -390,11 +390,11 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 30,
+        "confirmed": 28,
         "lastupdatedtime": ""
       },
       "Mumbai": {
-        "confirmed": 67,
+        "confirmed": 68,
         "lastupdatedtime": ""
       },
       "Nagpur": {
@@ -418,7 +418,7 @@
         "lastupdatedtime": ""
       },
       "Pimpri-Chinchwad": {
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Ratnagiri": {
@@ -738,7 +738,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 62,
+        "confirmed": 61,
         "lastupdatedtime": ""
       }
     }
