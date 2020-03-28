@@ -386,7 +386,7 @@
         "lastupdatedtime": ""
       },
       "Mumbai": {
-        "confirmed": 74,
+        "confirmed": 67,
         "lastupdatedtime": ""
       },
       "Nagpur": {
@@ -714,7 +714,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 8,
+        "confirmed": 140,
         "lastupdatedtime": ""
       }
     }
