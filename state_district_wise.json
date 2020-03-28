@@ -166,7 +166,7 @@
         "lastupdatedtime": ""
       },
       "Faridabad": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": ""
       },
       "Panipat": {
@@ -194,7 +194,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 7,
+        "confirmed": 13,
         "lastupdatedtime": ""
       },
       "Ghaziabad": {
@@ -414,7 +414,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 26,
+        "confirmed": 40,
         "lastupdatedtime": ""
       },
       "Ratnagiri": {
@@ -722,7 +722,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 110,
+        "confirmed": 89,
         "lastupdatedtime": ""
       }
     }
