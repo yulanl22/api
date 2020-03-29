@@ -70,23 +70,23 @@
         "lastupdatedtime": ""
       },
       "West Delhi": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": ""
       },
-      "Delhi": {
-        "confirmed": 11,
+      "North Delhi": {
+        "confirmed": 3,
+        "lastupdatedtime": ""
+      },
+      "New Delhi": {
+        "confirmed": 3,
         "lastupdatedtime": ""
       },
       "South Delhi": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": ""
       },
       "North East Delhi": {
         "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "North Delhi": {
-        "confirmed": 2,
         "lastupdatedtime": ""
       },
       "North West Delhi": {
@@ -94,7 +94,11 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 49,
+        "confirmed": 48,
+        "lastupdatedtime": ""
+      },
+      "Delhi": {
+        "confirmed": 6,
         "lastupdatedtime": ""
       }
     }
@@ -313,12 +317,8 @@
   },
   "Jammu and Kashmir": {
     "districtData": {
-      "Unknown": {
-        "confirmed": 4,
-        "lastupdatedtime": ""
-      },
       "Jammu": {
-        "confirmed": 4,
+        "confirmed": 6,
         "lastupdatedtime": ""
       },
       "Srinagar": {
@@ -327,6 +327,10 @@
       },
       "Bandipore": {
         "confirmed": 9,
+        "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 2,
         "lastupdatedtime": ""
       },
       "Rajouri": {
@@ -429,8 +433,12 @@
         "confirmed": 1,
         "lastupdatedtime": ""
       },
+      "Mumbai Suburban": {
+        "confirmed": 2,
+        "lastupdatedtime": ""
+      },
       "Unknown": {
-        "confirmed": 47,
+        "confirmed": 45,
         "lastupdatedtime": ""
       },
       "Sangli": {
