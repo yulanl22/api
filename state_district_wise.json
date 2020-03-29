@@ -386,15 +386,15 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 28,
+        "confirmed": 29,
         "lastupdatedtime": ""
       },
       "Mumbai": {
-        "confirmed": 67,
+        "confirmed": 71,
         "lastupdatedtime": ""
       },
       "Nagpur": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": ""
       },
       "Thane": {
@@ -426,7 +426,7 @@
         "lastupdatedtime": ""
       },
       "Sangli": {
-        "confirmed": 24,
+        "confirmed": 25,
         "lastupdatedtime": ""
       },
       "Satara": {
@@ -738,7 +738,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 43,
+        "confirmed": 36,
         "lastupdatedtime": ""
       }
     }
