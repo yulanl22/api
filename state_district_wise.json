@@ -177,7 +177,7 @@
         "confirmed": 1,
         "lastupdatedtime": ""
       },
-      "Sonepat": {
+      "Sonipat": {
         "confirmed": 1,
         "lastupdatedtime": ""
       },
@@ -462,18 +462,18 @@
         "lastupdatedtime": ""
       },
       "Shahid Bhagat Singh Nagar": {
-        "confirmed": 1,
+        "confirmed": 19,
         "lastupdatedtime": ""
       },
-      "Sahibzada Ajit Singh Nagar": {
-        "confirmed": 6,
-        "lastupdatedtime": ""
-      },
-      "Shaheed Bhagat Singh Nagar": {
-        "confirmed": 18,
+      "S.A.S. Nagar": {
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Hoshiarpur": {
+        "confirmed": 2,
+        "lastupdatedtime": ""
+      },
+      "Sahibzada Ajit Singh Nagar": {
         "confirmed": 2,
         "lastupdatedtime": ""
       },
@@ -625,8 +625,8 @@
         "confirmed": 5,
         "lastupdatedtime": ""
       },
-      "Ahmedabad": {
-        "confirmed": 14,
+      "Ahmadabad": {
+        "confirmed": 20,
         "lastupdatedtime": ""
       },
       "Vadodara": {
@@ -637,16 +637,12 @@
         "confirmed": 7,
         "lastupdatedtime": ""
       },
-      "Kutch": {
+      "Kachchh": {
         "confirmed": 1,
         "lastupdatedtime": ""
       },
       "Unknown": {
         "confirmed": 13,
-        "lastupdatedtime": ""
-      },
-      "Ahmadabad": {
-        "confirmed": 6,
         "lastupdatedtime": ""
       },
       "Mehsana": {
