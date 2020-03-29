@@ -134,7 +134,7 @@
         "lastupdatedtime": ""
       },
       "Jhunjhunu": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": ""
       },
       "Bhilwara": {
@@ -754,7 +754,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 27,
+        "confirmed": 26,
         "lastupdatedtime": ""
       }
     }

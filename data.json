@@ -534,7 +534,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "16",
+			"confirmeddelta": "17",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
 			"lastupdatedtime": "29/03/2020 12:17:23",
@@ -544,12 +544,12 @@
 	],
 	"statewise": [
 		{
-			"active": "932",
-			"confirmed": "1045",
+			"active": "933",
+			"confirmed": "1046",
 			"deaths": "27",
 			"delta": {
-				"active": 16,
-				"confirmed": 16,
+				"active": 17,
+				"confirmed": 17,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -628,12 +628,12 @@
 			"state": "Uttar Pradesh"
 		},
 		{
-			"active": "52",
-			"confirmed": "55",
+			"active": "53",
+			"confirmed": "56",
 			"deaths": "0",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 2,
+				"confirmed": 2,
 				"deaths": 0,
 				"recovered": 0
 			},
