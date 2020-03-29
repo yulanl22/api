@@ -326,14 +326,10 @@
         "lastupdatedtime": ""
       },
       "Bandipore": {
-        "confirmed": 6,
+        "confirmed": 9,
         "lastupdatedtime": ""
       },
       "Rajouri": {
-        "confirmed": 3,
-        "lastupdatedtime": ""
-      },
-      "Bandipora": {
         "confirmed": 3,
         "lastupdatedtime": ""
       },
@@ -626,7 +622,7 @@
         "lastupdatedtime": ""
       },
       "Ahmedabad": {
-        "confirmed": 20,
+        "confirmed": 17,
         "lastupdatedtime": ""
       },
       "Vadodara": {
@@ -643,6 +639,10 @@
       },
       "Unknown": {
         "confirmed": 8,
+        "lastupdatedtime": ""
+      },
+      "Ahmadabad": {
+        "confirmed": 3,
         "lastupdatedtime": ""
       },
       "Mehsana": {
