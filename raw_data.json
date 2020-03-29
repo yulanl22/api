@@ -3904,7 +3904,7 @@
 			"agebracket": "65",
 			"backupnotes": "Returned from Saudi Arabia on 12 Mar",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "19/03/2020",
 			"detectedcity": "Visakapatnam",
 			"detecteddistrict": "Visakhapatnam",
@@ -3915,10 +3915,10 @@
 			"notes": "Travelled from Saudi Arabia on 12 Mar",
 			"patientnumber": "196",
 			"source1": "https://twitter.com/xpressandhra/status/1240697530796523520",
-			"source2": "",
+			"source2": "https://twitter.com/ArogyaAndhra/status/1244302798923022336?s=20",
 			"source3": "",
 			"statepatientnumber": "AP-P3",
-			"statuschangedate": "19/03/2020"
+			"statuschangedate": "29/03/2020"
 		},
 		{
 			"agebracket": "22",
@@ -20166,7 +20166,7 @@
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "28/03/2020",
-			"detectedcity": "",
+			"detectedcity": "Vijayawada",
 			"detecteddistrict": "Krishna",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
