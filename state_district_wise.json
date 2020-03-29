@@ -438,7 +438,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 37,
+        "confirmed": 40,
         "lastupdatedtime": ""
       },
       "Sangli": {
@@ -754,7 +754,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 22,
+        "confirmed": 19,
         "lastupdatedtime": ""
       }
     }
