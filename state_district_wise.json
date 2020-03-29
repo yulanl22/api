@@ -210,7 +210,7 @@
         "lastupdatedtime": ""
       },
       "Gautam Buddha Nagar": {
-        "confirmed": 25,
+        "confirmed": 29,
         "lastupdatedtime": ""
       },
       "Moradabad": {
@@ -754,7 +754,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 26,
+        "confirmed": 22,
         "lastupdatedtime": ""
       }
     }
