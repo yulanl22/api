@@ -594,7 +594,7 @@
   "Chhattisgarh": {
     "districtData": {
       "Raipur": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Rajnandgaon": {
@@ -606,10 +606,6 @@
         "lastupdatedtime": ""
       },
       "Durg": {
-        "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
