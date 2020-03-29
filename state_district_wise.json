@@ -606,7 +606,7 @@
         "lastupdatedtime": ""
       },
       "Ahmedabad": {
-        "confirmed": 17,
+        "confirmed": 20,
         "lastupdatedtime": ""
       },
       "Vadodara": {
@@ -738,7 +738,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 35,
+        "confirmed": 32,
         "lastupdatedtime": ""
       }
     }
