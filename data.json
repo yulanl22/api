@@ -523,18 +523,18 @@
 			"totalrecovered": "75"
 		},
 		{
-			"dailyconfirmed": "138",
+			"dailyconfirmed": "143",
 			"dailydeceased": "5",
 			"dailyrecovered": "10",
 			"date": "28 March ",
-			"totalconfirmed": "1024",
+			"totalconfirmed": "1029",
 			"totaldeceased": "24",
 			"totalrecovered": "85"
 		}
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "5",
+			"confirmeddelta": "0",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "29/03/2020 04:02:24",
@@ -548,8 +548,8 @@
 			"confirmed": "1029",
 			"deaths": "24",
 			"delta": {
-				"active": 5,
-				"confirmed": 5,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -716,8 +716,8 @@
 			"confirmed": "39",
 			"deaths": "2",
 			"delta": {
-				"active": 5,
-				"confirmed": 5,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
