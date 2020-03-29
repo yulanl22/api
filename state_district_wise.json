@@ -257,8 +257,12 @@
   },
   "Tamil Nadu": {
     "districtData": {
+      "Kancheepuram": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
       "Chennai": {
-        "confirmed": 20,
+        "confirmed": 19,
         "lastupdatedtime": ""
       },
       "Erode": {
@@ -314,7 +318,7 @@
         "lastupdatedtime": ""
       },
       "Srinagar": {
-        "confirmed": 13,
+        "confirmed": 15,
         "lastupdatedtime": ""
       },
       "Bandipore": {
@@ -327,6 +331,14 @@
       },
       "Bandipora": {
         "confirmed": 4,
+        "lastupdatedtime": ""
+      },
+      "Budgam": {
+        "confirmed": 2,
+        "lastupdatedtime": ""
+      },
+      "Baramulla": {
+        "confirmed": 1,
         "lastupdatedtime": ""
       }
     }
@@ -738,7 +750,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 32,
+        "confirmed": 27,
         "lastupdatedtime": ""
       }
     }
