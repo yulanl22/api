@@ -586,16 +586,16 @@
 			"state": "Maharashtra"
 		},
 		{
-			"active": "73",
-			"confirmed": "81",
+			"active": "75",
+			"confirmed": "83",
 			"deaths": "3",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 2,
+				"confirmed": 2,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 23:12:24",
+			"lastupdatedtime": "29/03/2020 18:52:24",
 			"recovered": "5",
 			"state": "Karnataka"
 		},
@@ -852,16 +852,16 @@
 			"state": "Himachal Pradesh"
 		},
 		{
-			"active": "7",
-			"confirmed": "7",
+			"active": "5",
+			"confirmed": "5",
 			"deaths": "0",
 			"delta": {
-				"active": 4,
-				"confirmed": 4,
+				"active": 2,
+				"confirmed": 2,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 07:19:29",
+			"lastupdatedtime": "29/03/2020 18:52:25",
 			"recovered": "0",
 			"state": "Goa"
 		},

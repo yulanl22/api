@@ -326,7 +326,7 @@
         "lastupdatedtime": ""
       },
       "Bandipore": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": ""
       },
       "Rajouri": {
@@ -334,7 +334,7 @@
         "lastupdatedtime": ""
       },
       "Bandipora": {
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": ""
       },
       "Budgam": {
@@ -394,6 +394,10 @@
         "lastupdatedtime": ""
       },
       "Davanagere": {
+        "confirmed": 2,
+        "lastupdatedtime": ""
+      },
+      "Unknown": {
         "confirmed": 2,
         "lastupdatedtime": ""
       }
@@ -573,7 +577,7 @@
         "confirmed": 5,
         "lastupdatedtime": ""
       },
-      "Paschim Medinipur": {
+      "Purba Medinipur": {
         "confirmed": 2,
         "lastupdatedtime": ""
       },
@@ -734,7 +738,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 4,
+        "confirmed": 2,
         "lastupdatedtime": ""
       }
     }
