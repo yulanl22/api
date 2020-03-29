@@ -573,8 +573,12 @@
         "confirmed": 5,
         "lastupdatedtime": ""
       },
-      "Unknown": {
-        "confirmed": 3,
+      "Paschim Medinipur": {
+        "confirmed": 2,
+        "lastupdatedtime": ""
+      },
+      "Kalimpong": {
+        "confirmed": 1,
         "lastupdatedtime": ""
       }
     }
