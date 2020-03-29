@@ -262,7 +262,7 @@
         "lastupdatedtime": ""
       },
       "Chennai": {
-        "confirmed": 19,
+        "confirmed": 18,
         "lastupdatedtime": ""
       },
       "Erode": {
@@ -294,6 +294,10 @@
         "lastupdatedtime": ""
       },
       "Tiruchirappalli": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Chengalpattu": {
         "confirmed": 1,
         "lastupdatedtime": ""
       },
