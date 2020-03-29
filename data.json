@@ -534,40 +534,40 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "26",
+			"confirmeddelta": "54",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
-			"lastupdatedtime": "29/03/2020 16:17:24",
+			"lastupdatedtime": "29/03/2020 18:17:23",
 			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "942",
-			"confirmed": "1055",
+			"active": "970",
+			"confirmed": "1083",
 			"deaths": "27",
 			"delta": {
-				"active": 26,
-				"confirmed": 26,
+				"active": 54,
+				"confirmed": 54,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "29/03/2020 16:17:24",
+			"lastupdatedtime": "29/03/2020 18:17:23",
 			"recovered": "86",
 			"state": "Total"
 		},
 		{
-			"active": "169",
-			"confirmed": "182",
+			"active": "189",
+			"confirmed": "202",
 			"deaths": "1",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 20,
+				"confirmed": 20,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 12:37:24",
+			"lastupdatedtime": "29/03/2020 18:17:24",
 			"recovered": "12",
 			"state": "Kerala"
 		},
@@ -684,16 +684,16 @@
 			"state": "Punjab"
 		},
 		{
-			"active": "39",
-			"confirmed": "42",
+			"active": "47",
+			"confirmed": "50",
 			"deaths": "1",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 8,
+				"confirmed": 8,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 19:12:24",
+			"lastupdatedtime": "29/03/2020 18:17:24",
 			"recovered": "2",
 			"state": "Tamil Nadu"
 		},
