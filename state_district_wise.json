@@ -266,11 +266,11 @@
         "lastupdatedtime": ""
       },
       "Erode": {
-        "confirmed": 5,
+        "confirmed": 9,
         "lastupdatedtime": ""
       },
       "Coimbatore": {
-        "confirmed": 1,
+        "confirmed": 5,
         "lastupdatedtime": ""
       },
       "Tiruneveli": {
@@ -307,10 +307,6 @@
       },
       "Virudhunagar": {
         "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
-        "confirmed": 8,
         "lastupdatedtime": ""
       }
     }
