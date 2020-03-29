@@ -528,6 +528,10 @@
       "Kurnool": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 2,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -766,7 +770,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 168,
+        "confirmed": 166,
         "lastupdatedtime": ""
       }
     }
