@@ -378,7 +378,7 @@
         "lastupdatedtime": ""
       },
       "Udupi": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": ""
       },
       "Chitradurga": {
@@ -390,10 +390,6 @@
         "lastupdatedtime": ""
       },
       "Davanagere": {
-        "confirmed": 2,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
         "confirmed": 2,
         "lastupdatedtime": ""
       }
