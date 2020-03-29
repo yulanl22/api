@@ -94,11 +94,11 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 48,
+        "confirmed": 53,
         "lastupdatedtime": ""
       },
       "Delhi": {
-        "confirmed": 6,
+        "confirmed": 1,
         "lastupdatedtime": ""
       }
     }
@@ -277,7 +277,7 @@
         "confirmed": 5,
         "lastupdatedtime": ""
       },
-      "Tiruneveli": {
+      "Tirunelveli": {
         "confirmed": 1,
         "lastupdatedtime": ""
       },
@@ -389,7 +389,7 @@
         "confirmed": 1,
         "lastupdatedtime": ""
       },
-      "Tumkur": {
+      "Tumakuru": {
         "confirmed": 1,
         "lastupdatedtime": ""
       },
@@ -402,11 +402,11 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 33,
+        "confirmed": 37,
         "lastupdatedtime": ""
       },
       "Mumbai": {
-        "confirmed": 71,
+        "confirmed": 72,
         "lastupdatedtime": ""
       },
       "Nagpur": {
@@ -414,11 +414,11 @@
         "lastupdatedtime": ""
       },
       "Thane": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": ""
       },
       "Ahmadnagar": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": ""
       },
       "Yavatmal": {
@@ -434,11 +434,11 @@
         "lastupdatedtime": ""
       },
       "Mumbai Suburban": {
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 45,
+        "confirmed": 36,
         "lastupdatedtime": ""
       },
       "Sangli": {
@@ -474,14 +474,10 @@
         "lastupdatedtime": ""
       },
       "S.A.S. Nagar": {
-        "confirmed": 4,
+        "confirmed": 6,
         "lastupdatedtime": ""
       },
       "Hoshiarpur": {
-        "confirmed": 2,
-        "lastupdatedtime": ""
-      },
-      "Sahibzada Ajit Singh Nagar": {
         "confirmed": 2,
         "lastupdatedtime": ""
       },
@@ -521,7 +517,7 @@
         "confirmed": 4,
         "lastupdatedtime": ""
       },
-      "Chitoor": {
+      "Chittoor": {
         "confirmed": 1,
         "lastupdatedtime": ""
       },
@@ -757,7 +753,7 @@
         "confirmed": 5,
         "lastupdatedtime": ""
       },
-      "N&M Andaman": {
+      "North and Middle Andaman": {
         "confirmed": 1,
         "lastupdatedtime": ""
       },
