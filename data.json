@@ -534,26 +534,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "64",
+			"confirmeddelta": "70",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
-			"lastupdatedtime": "29/03/2020 19:17:23",
+			"lastupdatedtime": "29/03/2020 19:27:23",
 			"recovereddelta": "5",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "976",
-			"confirmed": "1093",
+			"active": "982",
+			"confirmed": "1099",
 			"deaths": "27",
 			"delta": {
-				"active": 64,
-				"confirmed": 64,
+				"active": 70,
+				"confirmed": 70,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "29/03/2020 19:17:23",
+			"lastupdatedtime": "29/03/2020 19:27:23",
 			"recovered": "90",
 			"state": "Total"
 		},
@@ -642,16 +642,16 @@
 			"state": "Rajasthan"
 		},
 		{
-			"active": "52",
-			"confirmed": "58",
+			"active": "58",
+			"confirmed": "64",
 			"deaths": "5",
 			"delta": {
-				"active": 3,
-				"confirmed": 3,
+				"active": 9,
+				"confirmed": 9,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "29/03/2020 11:42:24",
+			"lastupdatedtime": "29/03/2020 19:27:24",
 			"recovered": "1",
 			"state": "Gujarat"
 		},

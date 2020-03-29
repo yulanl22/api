@@ -642,7 +642,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 8,
+        "confirmed": 14,
         "lastupdatedtime": ""
       },
       "Ahmadabad": {
@@ -766,7 +766,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 211,
+        "confirmed": 205,
         "lastupdatedtime": ""
       }
     }
