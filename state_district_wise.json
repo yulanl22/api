@@ -732,6 +732,10 @@
       "North Goa": {
         "confirmed": 3,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 2,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -754,7 +758,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 19,
+        "confirmed": 17,
         "lastupdatedtime": ""
       }
     }
