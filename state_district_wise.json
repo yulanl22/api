@@ -438,7 +438,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 40,
+        "confirmed": 47,
         "lastupdatedtime": ""
       },
       "Sangli": {
@@ -539,6 +539,10 @@
       },
       "Pauri": {
         "confirmed": 2,
+        "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 1,
         "lastupdatedtime": ""
       }
     }
@@ -762,7 +766,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 219,
+        "confirmed": 211,
         "lastupdatedtime": ""
       }
     }
