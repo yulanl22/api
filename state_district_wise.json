@@ -570,11 +570,11 @@
   "West Bengal": {
     "districtData": {
       "Kolkata": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": ""
       },
       "North 24 Parganas": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": ""
       },
       "Nadia": {
@@ -589,8 +589,8 @@
         "confirmed": 1,
         "lastupdatedtime": ""
       },
-      "Unknown": {
-        "confirmed": 2,
+      "Hooghly": {
+        "confirmed": 1,
         "lastupdatedtime": ""
       }
     }
@@ -770,7 +770,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 166,
+        "confirmed": 165,
         "lastupdatedtime": ""
       }
     }

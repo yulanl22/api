@@ -534,26 +534,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "109",
+			"confirmeddelta": "110",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
-			"lastupdatedtime": "29/03/2020 23:42:24",
+			"lastupdatedtime": "29/03/2020 23:57:24",
 			"recovereddelta": "5",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1021",
-			"confirmed": "1138",
+			"active": "1022",
+			"confirmed": "1139",
 			"deaths": "27",
 			"delta": {
-				"active": 109,
-				"confirmed": 109,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "29/03/2020 23:42:24",
+			"lastupdatedtime": "29/03/2020 23:57:24",
 			"recovered": "90",
 			"state": "Total"
 		},
@@ -562,8 +562,8 @@
 			"confirmed": "202",
 			"deaths": "1",
 			"delta": {
-				"active": 20,
-				"confirmed": 20,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -576,8 +576,8 @@
 			"confirmed": "203",
 			"deaths": "7",
 			"delta": {
-				"active": 17,
-				"confirmed": 17,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -590,8 +590,8 @@
 			"confirmed": "83",
 			"deaths": "3",
 			"delta": {
-				"active": 2,
-				"confirmed": 2,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -604,8 +604,8 @@
 			"confirmed": "70",
 			"deaths": "1",
 			"delta": {
-				"active": 3,
-				"confirmed": 3,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -618,8 +618,8 @@
 			"confirmed": "72",
 			"deaths": "0",
 			"delta": {
-				"active": 7,
-				"confirmed": 7,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -632,8 +632,8 @@
 			"confirmed": "59",
 			"deaths": "0",
 			"delta": {
-				"active": 5,
-				"confirmed": 5,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -646,8 +646,8 @@
 			"confirmed": "63",
 			"deaths": "5",
 			"delta": {
-				"active": 8,
-				"confirmed": 8,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -660,8 +660,8 @@
 			"confirmed": "72",
 			"deaths": "2",
 			"delta": {
-				"active": 23,
-				"confirmed": 23,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -688,8 +688,8 @@
 			"confirmed": "50",
 			"deaths": "1",
 			"delta": {
-				"active": 8,
-				"confirmed": 8,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -730,8 +730,8 @@
 			"confirmed": "38",
 			"deaths": "1",
 			"delta": {
-				"active": 5,
-				"confirmed": 5,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -758,8 +758,8 @@
 			"confirmed": "21",
 			"deaths": "0",
 			"delta": {
-				"active": 2,
-				"confirmed": 2,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -768,16 +768,16 @@
 			"state": "Andhra Pradesh"
 		},
 		{
-			"active": "19",
-			"confirmed": "20",
+			"active": "20",
+			"confirmed": "21",
 			"deaths": "1",
 			"delta": {
-				"active": 2,
-				"confirmed": 2,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "29/03/2020 20:12:25",
+			"lastupdatedtime": "29/03/2020 23:57:24",
 			"recovered": "0",
 			"state": "West Bengal"
 		},
@@ -786,8 +786,8 @@
 			"confirmed": "15",
 			"deaths": "1",
 			"delta": {
-				"active": 4,
-				"confirmed": 4,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -828,8 +828,8 @@
 			"confirmed": "7",
 			"deaths": "0",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -856,8 +856,8 @@
 			"confirmed": "5",
 			"deaths": "0",
 			"delta": {
-				"active": 2,
-				"confirmed": 2,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
