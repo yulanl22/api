@@ -94,7 +94,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 26,
+        "confirmed": 49,
         "lastupdatedtime": ""
       }
     }
@@ -398,7 +398,7 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 29,
+        "confirmed": 33,
         "lastupdatedtime": ""
       },
       "Mumbai": {
@@ -413,7 +413,7 @@
         "confirmed": 4,
         "lastupdatedtime": ""
       },
-      "Ahmednagar": {
+      "Ahmadnagar": {
         "confirmed": 2,
         "lastupdatedtime": ""
       },
@@ -423,10 +423,6 @@
       },
       "Aurangabad": {
         "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Pimpri-Chinchwad": {
-        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Ratnagiri": {
@@ -465,12 +461,16 @@
         "confirmed": 2,
         "lastupdatedtime": ""
       },
-      "Shaheed Bhagat Singh Nagar": {
-        "confirmed": 19,
+      "Shahid Bhagat Singh Nagar": {
+        "confirmed": 1,
         "lastupdatedtime": ""
       },
       "Sahibzada Ajit Singh Nagar": {
         "confirmed": 6,
+        "lastupdatedtime": ""
+      },
+      "Shaheed Bhagat Singh Nagar": {
+        "confirmed": 18,
         "lastupdatedtime": ""
       },
       "Hoshiarpur": {
@@ -766,7 +766,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 200,
+        "confirmed": 177,
         "lastupdatedtime": ""
       }
     }
