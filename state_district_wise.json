@@ -626,7 +626,7 @@
         "lastupdatedtime": ""
       },
       "Ahmedabad": {
-        "confirmed": 17,
+        "confirmed": 14,
         "lastupdatedtime": ""
       },
       "Vadodara": {
@@ -646,7 +646,7 @@
         "lastupdatedtime": ""
       },
       "Ahmadabad": {
-        "confirmed": 3,
+        "confirmed": 6,
         "lastupdatedtime": ""
       },
       "Mehsana": {
@@ -714,7 +714,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 2,
+        "confirmed": 6,
         "lastupdatedtime": ""
       }
     }
@@ -766,7 +766,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 205,
+        "confirmed": 201,
         "lastupdatedtime": ""
       }
     }

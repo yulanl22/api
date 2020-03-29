@@ -534,26 +534,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "70",
+			"confirmeddelta": "74",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
-			"lastupdatedtime": "29/03/2020 19:27:23",
+			"lastupdatedtime": "29/03/2020 19:37:24",
 			"recovereddelta": "5",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "982",
-			"confirmed": "1099",
+			"active": "986",
+			"confirmed": "1103",
 			"deaths": "27",
 			"delta": {
-				"active": 70,
-				"confirmed": 70,
+				"active": 74,
+				"confirmed": 74,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "29/03/2020 19:27:23",
+			"lastupdatedtime": "29/03/2020 19:37:24",
 			"recovered": "90",
 			"state": "Total"
 		},
@@ -782,16 +782,16 @@
 			"state": "West Bengal"
 		},
 		{
-			"active": "10",
-			"confirmed": "11",
+			"active": "14",
+			"confirmed": "15",
 			"deaths": "1",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 4,
+				"confirmed": 4,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 23:42:25",
+			"lastupdatedtime": "29/03/2020 19:37:25",
 			"recovered": "0",
 			"state": "Bihar"
 		},
