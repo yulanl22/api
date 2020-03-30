@@ -546,14 +546,14 @@
 			"confirmeddelta": "0",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "30/03/2020 07:22:24",
-			"recovereddelta": "0",
+			"lastupdatedtime": "30/03/2020 07:57:23",
+			"recovereddelta": "-1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1009",
+			"active": "1010",
 			"confirmed": "1139",
 			"deaths": "27",
 			"delta": {
@@ -562,8 +562,8 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "30/03/2020 07:22:24",
-			"recovered": "103",
+			"lastupdatedtime": "30/03/2020 07:57:23",
+			"recovered": "102",
 			"state": "Total"
 		},
 		{
@@ -875,7 +875,7 @@
 			"state": "Goa"
 		},
 		{
-			"active": "0",
+			"active": "1",
 			"confirmed": "3",
 			"deaths": "1",
 			"delta": {
@@ -884,8 +884,8 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 23:12:25",
-			"recovered": "2",
+			"lastupdatedtime": "30/03/2020 07:57:24",
+			"recovered": "1",
 			"state": "Himachal Pradesh"
 		},
 		{
