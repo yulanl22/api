@@ -22781,24 +22781,24 @@
 			"statuschangedate": "29/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "21",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
-			"detectedcity": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "30/03/2020",
+			"detectedcity": "Ramnagar Sainian",
 			"detecteddistrict": "",
-			"detectedstate": "",
+			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Detail Awaited",
 			"patientnumber": "1140",
-			"source1": "",
+			"source1": "https://twitter.com/ANI/status/1244464373587836928?s=19",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": ""
+			"statuschangedate": "30/03/2020"
 		},
 		{
 			"agebracket": "",
