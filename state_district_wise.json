@@ -16,10 +16,10 @@
         }
       },
       "Kasaragod": {
-        "confirmed": 90,
+        "confirmed": 107,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       "Pathanamthitta": {
@@ -97,6 +97,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 15,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 15
         }
       }
     }
@@ -330,10 +337,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 9,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       "Ghaziabad": {
@@ -1307,10 +1314,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 90,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 44
+          "confirmed": 0
         }
       }
     }
