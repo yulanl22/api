@@ -554,7 +554,7 @@
 		{
 			"confirmeddelta": "0",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "0",
+			"deceaseddelta": "#ERROR!",
 			"lastupdatedtime": "31/03/2020 00:22:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
@@ -562,9 +562,9 @@
 	],
 	"statewise": [
 		{
-			"active": "1167",
+			"active": "#ERROR!",
 			"confirmed": "1347",
-			"deaths": "43",
+			"deaths": "#ERROR!",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
@@ -660,9 +660,9 @@
 			"state": "Telangana"
 		},
 		{
-			"active": "61",
+			"active": "#ERROR!",
 			"confirmed": "70",
-			"deaths": "6",
+			"deaths": "#ERROR!",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
