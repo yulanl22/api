@@ -11926,7 +11926,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "75",
@@ -11947,7 +11947,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "57",
@@ -11968,7 +11968,7 @@
 			"source3": "",
 			"statepatientnumber": "TS-P38",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -11989,7 +11989,7 @@
 			"source3": "",
 			"statepatientnumber": "TS-P39",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -12052,7 +12052,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -12073,7 +12073,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -12304,7 +12304,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "50",
@@ -12325,7 +12325,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -12451,7 +12451,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "39",
@@ -12472,7 +12472,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "38",
@@ -12493,7 +12493,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -12514,7 +12514,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P19",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -12535,7 +12535,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P20",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -12556,7 +12556,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P21",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -12577,7 +12577,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P22",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "63",
@@ -12598,7 +12598,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P23",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "34",
@@ -12619,7 +12619,7 @@
 			"source3": "State Health Bulletin",
 			"statepatientnumber": "KA-P51",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "21",
@@ -12682,7 +12682,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -12703,7 +12703,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -12724,7 +12724,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -12745,7 +12745,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -12913,7 +12913,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -12934,7 +12934,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -12955,7 +12955,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -12976,7 +12976,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -12997,7 +12997,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -13018,7 +13018,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "22",
@@ -13039,7 +13039,7 @@
 			"source3": "https://prd.kerala.gov.in/ml/node/75872",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "23",
@@ -13060,7 +13060,7 @@
 			"source3": "https://prd.kerala.gov.in/ml/node/75872",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "37",
@@ -13081,7 +13081,7 @@
 			"source3": "https://prd.kerala.gov.in/ml/node/75872",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -13102,7 +13102,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -13207,7 +13207,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P42",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "63",
@@ -13228,7 +13228,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P43",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "59",
@@ -13249,7 +13249,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P44",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "26",
@@ -13270,7 +13270,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P45",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "26",
@@ -13291,7 +13291,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P46",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "63",
@@ -13312,7 +13312,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P47",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "69",
@@ -13333,7 +13333,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P48",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "9",
@@ -13354,7 +13354,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P49",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "7",
@@ -13375,7 +13375,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P50",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "55",
@@ -13417,7 +13417,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
@@ -13438,7 +13438,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "23",
@@ -13459,7 +13459,7 @@
 			"source3": "",
 			"statepatientnumber": "CH-P2",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "24",
@@ -13480,7 +13480,7 @@
 			"source3": "",
 			"statepatientnumber": "CH-P3",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -13564,7 +13564,7 @@
 			"source3": "",
 			"statepatientnumber": "TS-P40",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "3",
@@ -13585,7 +13585,7 @@
 			"source3": "",
 			"statepatientnumber": "TS-P41",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -13648,7 +13648,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P9",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "18",
@@ -13690,7 +13690,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P25",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "63",
@@ -13711,7 +13711,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P26",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "52",
@@ -13753,7 +13753,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "29",
@@ -13774,7 +13774,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "55",
@@ -13795,7 +13795,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "66",
@@ -14152,7 +14152,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "21",
@@ -14215,7 +14215,7 @@
 			"source3": "https://www.jagran.com/uttar-pradesh/noida-ncr-coronavirus-3-more-coronavirus-infected-cases-surfaced-in-noida-20141579.html",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "32",
@@ -14236,7 +14236,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "40",
@@ -14257,7 +14257,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "12",
@@ -14278,7 +14278,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -14362,7 +14362,7 @@
 			"source3": "",
 			"statepatientnumber": "TS-P44",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "45",
@@ -14488,7 +14488,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P53",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "64",
@@ -14501,7 +14501,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "France",
+			"nationality": "",
 			"notes": "Travelled from France, has been to Himachal Pradesh, Puttaparthi. Resident of Andhra Pradesh",
 			"patientnumber": "691",
 			"source1": "https://twitter.com/DHFWKA/status/1243104470545969152",
@@ -14530,7 +14530,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P55",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "42",
@@ -14614,7 +14614,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "1",
@@ -14635,7 +14635,7 @@
 			"source3": "https://twitter.com/kansalrohit69/status/1243146699159171072",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -14656,7 +14656,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -14677,7 +14677,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -14698,7 +14698,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -14719,7 +14719,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -14740,7 +14740,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -14761,7 +14761,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -14782,7 +14782,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -14803,7 +14803,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -14824,7 +14824,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "37",
@@ -14845,7 +14845,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "38",
@@ -14866,7 +14866,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "26",
@@ -14887,7 +14887,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "49",
@@ -14908,7 +14908,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "39",
@@ -14929,7 +14929,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "36",
@@ -14950,7 +14950,7 @@
 			"source3": "",
 			"statepatientnumber": "KL-TV-R6",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -14992,7 +14992,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "21",
@@ -15034,7 +15034,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "24",
@@ -15055,7 +15055,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P28",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "65",
@@ -15076,7 +15076,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P29",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "20",
@@ -15118,7 +15118,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P11",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "60",
@@ -15160,7 +15160,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "45",
@@ -15454,7 +15454,7 @@
 			"source3": "",
 			"statepatientnumber": "AN-P2",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -15517,7 +15517,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -15664,7 +15664,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P12",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
@@ -15706,7 +15706,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P34",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "44",
@@ -15727,7 +15727,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P35",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "42",
@@ -15748,7 +15748,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P31",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "46",
@@ -15769,7 +15769,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P32",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "23",
@@ -15790,7 +15790,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P33",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "25",
@@ -15853,7 +15853,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P57",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "25",
@@ -15874,7 +15874,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P58",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "35",
@@ -15895,7 +15895,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P59",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "60",
@@ -15937,7 +15937,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P61",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "22",
@@ -15958,7 +15958,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P62",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -16063,7 +16063,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -16084,7 +16084,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -16105,7 +16105,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -16126,7 +16126,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -16147,7 +16147,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -16168,7 +16168,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -16189,7 +16189,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -16210,7 +16210,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -16231,7 +16231,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -16252,7 +16252,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -16273,7 +16273,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "42",
@@ -16294,7 +16294,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "41",
@@ -16399,7 +16399,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -16420,7 +16420,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -16903,7 +16903,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -16924,7 +16924,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -16987,7 +16987,7 @@
 			"source3": "",
 			"statepatientnumber": "KL-KL-P1",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17008,7 +17008,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17029,7 +17029,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17050,7 +17050,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17071,7 +17071,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17092,7 +17092,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17113,7 +17113,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17134,7 +17134,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17155,7 +17155,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17176,7 +17176,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17197,7 +17197,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17218,7 +17218,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17239,7 +17239,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17260,7 +17260,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17281,7 +17281,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17302,7 +17302,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17323,7 +17323,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17344,7 +17344,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17365,7 +17365,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17386,7 +17386,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17407,7 +17407,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17428,7 +17428,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17449,7 +17449,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17470,7 +17470,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -17911,7 +17911,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "64",
@@ -17932,7 +17932,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -17953,7 +17953,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -17974,7 +17974,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -18079,7 +18079,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P63",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "21",
@@ -18100,7 +18100,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P64",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "11",
@@ -18394,7 +18394,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P13",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -18436,7 +18436,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "50",
@@ -18478,7 +18478,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -18499,7 +18499,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "37",
@@ -18583,7 +18583,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -18961,7 +18961,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P39",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "49",
@@ -18982,7 +18982,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P40",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -19087,7 +19087,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P65",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28",
@@ -19108,7 +19108,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P66",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "23",
@@ -19129,7 +19129,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P67",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "25",
@@ -19150,7 +19150,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P68",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "23",
@@ -19171,7 +19171,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P69",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "70",
@@ -19192,7 +19192,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P70",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "32",
@@ -19213,7 +19213,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P71",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "38",
@@ -19234,7 +19234,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P72",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "18",
@@ -19255,7 +19255,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P73",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "63",
@@ -19276,7 +19276,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P74",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -19339,7 +19339,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "45",
@@ -19381,7 +19381,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "56",
@@ -19402,7 +19402,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "28-35",
@@ -19423,7 +19423,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28-35",
@@ -19444,7 +19444,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28-35",
@@ -19465,7 +19465,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28-35",
@@ -19486,7 +19486,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -19759,7 +19759,7 @@
 			"source3": "",
 			"statepatientnumber": "KL-PL-4",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -19822,7 +19822,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "60",
@@ -19990,7 +19990,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "25",
@@ -20011,7 +20011,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P42",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "20",
@@ -20032,7 +20032,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P75",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
@@ -20053,7 +20053,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P76",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -20158,7 +20158,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "56",
@@ -20179,7 +20179,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -21103,7 +21103,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P14",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "21",
@@ -21124,7 +21124,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P15",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "60",
@@ -21166,7 +21166,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P17",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "65",
@@ -21187,7 +21187,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P18",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -21250,7 +21250,7 @@
 			"source3": "https://twitter.com/SreyashiDey/status/1244492448232964097",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "39",
@@ -21271,7 +21271,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P77",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "38",
@@ -21292,7 +21292,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P78",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "21",
@@ -21313,7 +21313,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P79",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "31",
@@ -21334,7 +21334,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P80",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "42",
@@ -21355,7 +21355,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P81",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -21376,7 +21376,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -21397,7 +21397,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -21418,7 +21418,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -21439,7 +21439,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -21964,7 +21964,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -22132,7 +22132,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -22174,7 +22174,7 @@
 			"source3": "https://www.facebook.com/CollectorKNR/posts/2847858138644355",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "45",
@@ -22195,7 +22195,7 @@
 			"source3": "https://www.facebook.com/CollectorKNR/posts/2847858138644355",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "52",
@@ -22216,7 +22216,7 @@
 			"source3": "https://www.facebook.com/CollectorKNR/posts/2847858138644355",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "45",
@@ -22237,7 +22237,7 @@
 			"source3": "https://www.facebook.com/CollectorKNR/posts/2847858138644355",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "40",
@@ -22258,7 +22258,7 @@
 			"source3": "https://www.facebook.com/CollectorKNR/posts/2847858138644355",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "48",
@@ -22279,7 +22279,7 @@
 			"source3": "https://www.facebook.com/CollectorKNR/posts/2847858138644355",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "35",
@@ -22300,7 +22300,7 @@
 			"source3": "https://www.facebook.com/CollectorKNR/posts/2847858138644355",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "40",
@@ -22321,7 +22321,7 @@
 			"source3": "https://www.facebook.com/CollectorKNR/posts/2847858138644355",
 			"statepatientnumber": "KL-KN-P35",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "30",
@@ -22342,7 +22342,7 @@
 			"source3": "https://www.facebook.com/CollectorKNR/posts/2847858138644355",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "25",
@@ -22363,7 +22363,7 @@
 			"source3": "https://www.facebook.com/CollectorKNR/posts/2847858138644355",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "41",
@@ -22384,7 +22384,7 @@
 			"source3": "https://www.facebook.com/CollectorKNR/posts/2847858138644355",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "50",
@@ -22405,7 +22405,7 @@
 			"source3": "https://www.facebook.com/CollectorKNR/posts/2847858138644355",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "43",
@@ -22426,7 +22426,7 @@
 			"source3": "https://www.facebook.com/CollectorKNR/posts/2847858138644355",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "28",
@@ -22447,7 +22447,7 @@
 			"source3": "https://www.facebook.com/CollectorKNR/posts/2847858138644355",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "39",
@@ -22468,7 +22468,7 @@
 			"source3": "https://www.facebook.com/CollectorKNR/posts/2847858138644355",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -22531,7 +22531,7 @@
 			"source3": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/566083847369350",
 			"statepatientnumber": "KL-PL-P5",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -22573,7 +22573,7 @@
 			"source3": "https://www.facebook.com/malappuramcollector/posts/3182931485085603",
 			"statepatientnumber": "KL-ML-P9",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "29",
@@ -22594,7 +22594,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P43",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "58",
@@ -22615,7 +22615,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P44",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "1",
@@ -22636,7 +22636,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P45",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "51",
@@ -22657,7 +22657,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P46",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "45",
@@ -22678,7 +22678,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P47",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "48",
@@ -22699,7 +22699,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P48",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "67",
@@ -22720,7 +22720,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P49",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "62",
@@ -22741,7 +22741,7 @@
 			"source3": "",
 			"statepatientnumber": "TN-P50",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "35",
@@ -22762,7 +22762,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P82",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "29",
@@ -22783,7 +22783,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P83",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "47",
@@ -22804,7 +22804,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -22825,7 +22825,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -22846,7 +22846,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -22867,7 +22867,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -22888,7 +22888,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -22909,7 +22909,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -22930,7 +22930,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -22951,7 +22951,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -22972,7 +22972,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -22993,7 +22993,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23014,7 +23014,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23035,7 +23035,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23056,7 +23056,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23077,7 +23077,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23098,7 +23098,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23119,7 +23119,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23140,7 +23140,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "52",
@@ -23161,7 +23161,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "66",
@@ -23182,7 +23182,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23203,7 +23203,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23224,7 +23224,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23245,7 +23245,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23266,7 +23266,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23287,7 +23287,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23308,7 +23308,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23329,7 +23329,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23350,7 +23350,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23371,7 +23371,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23392,7 +23392,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23413,7 +23413,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23434,7 +23434,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23455,7 +23455,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23476,7 +23476,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23497,7 +23497,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23518,7 +23518,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23539,7 +23539,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23560,7 +23560,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23581,7 +23581,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23602,7 +23602,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23623,7 +23623,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23644,7 +23644,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
@@ -23665,7 +23665,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "53",
@@ -23686,7 +23686,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "40",
@@ -23707,7 +23707,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "20",
@@ -23728,7 +23728,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -27619,64 +27619,64 @@
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "30/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detecteddistrict": "Ballari",
+			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Related to P1317 and P1318",
 			"patientnumber": "1316",
-			"source1": "",
+			"source1": "https://twitter.com/ANI/status/1244653460739338242",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "30/03/2020",
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "30/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detecteddistrict": "Ballari",
+			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Related to P1316 and P1318",
 			"patientnumber": "1317",
-			"source1": "",
+			"source1": "https://twitter.com/ANI/status/1244653460739338242",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "30/03/2020",
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "30/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detecteddistrict": "Ballari",
+			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Related to P1316 and P1317",
 			"patientnumber": "1318",
-			"source1": "",
+			"source1": "https://twitter.com/ANI/status/1244653460739338242",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "30/03/2020",
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "",

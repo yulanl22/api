@@ -673,6 +673,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Ballari": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
       }
     }
   },
@@ -1307,7 +1314,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 284,
+        "confirmed": 281,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
