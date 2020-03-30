@@ -160,7 +160,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 54,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -330,10 +330,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 25,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 16
+          "confirmed": 24
         }
       },
       "Ghaziabad": {
@@ -1300,17 +1300,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "confirmed": 32,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
         }
       }
     }
