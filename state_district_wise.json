@@ -94,11 +94,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 53,
-        "lastupdatedtime": ""
-      },
-      "Delhi": {
-        "confirmed": 1,
+        "confirmed": 54,
         "lastupdatedtime": ""
       }
     }
@@ -225,7 +221,7 @@
         "confirmed": 2,
         "lastupdatedtime": ""
       },
-      "Kanpur": {
+      "Kanpur Nagar": {
         "confirmed": 1,
         "lastupdatedtime": ""
       },
@@ -337,11 +333,11 @@
         "confirmed": 3,
         "lastupdatedtime": ""
       },
-      "Budgam": {
+      "Badgam": {
         "confirmed": 2,
         "lastupdatedtime": ""
       },
-      "Baramullab": {
+      "Baramula": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
@@ -549,7 +545,7 @@
         "confirmed": 4,
         "lastupdatedtime": ""
       },
-      "Pauri": {
+      "Pauri Garhwal": {
         "confirmed": 2,
         "lastupdatedtime": ""
       },
@@ -661,7 +657,7 @@
         "confirmed": 9,
         "lastupdatedtime": ""
       },
-      "Mehsana": {
+      "Mahesana": {
         "confirmed": 1,
         "lastupdatedtime": ""
       },
