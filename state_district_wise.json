@@ -538,10 +538,10 @@
         }
       },
       "Srinagar": {
-        "confirmed": 15,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Bandipore": {
@@ -577,6 +577,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Shopian": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     }
@@ -1307,7 +1314,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 113,
+        "confirmed": 109,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
