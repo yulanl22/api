@@ -318,7 +318,7 @@
   "Jammu and Kashmir": {
     "districtData": {
       "Jammu": {
-        "confirmed": 7,
+        "confirmed": 9,
         "lastupdatedtime": ""
       },
       "Srinagar": {
@@ -330,7 +330,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 4,
+        "confirmed": 2,
         "lastupdatedtime": ""
       },
       "Rajouri": {
@@ -686,11 +686,11 @@
         "lastupdatedtime": ""
       },
       "Indore": {
-        "confirmed": 20,
+        "confirmed": 27,
         "lastupdatedtime": ""
       },
       "Ujjain": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": ""
       },
       "Gwalior": {
@@ -702,7 +702,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 9,
+        "confirmed": 1,
         "lastupdatedtime": ""
       }
     }
@@ -770,7 +770,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": ""
       }
     }
@@ -778,7 +778,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 135,
+        "confirmed": 134,
         "lastupdatedtime": ""
       }
     }

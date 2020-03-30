@@ -543,10 +543,10 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "31",
+			"confirmeddelta": "32",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "1",
-			"lastupdatedtime": "30/03/2020 11:17:31",
+			"deceaseddelta": "2",
+			"lastupdatedtime": "30/03/2020 11:22:25",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
@@ -554,15 +554,15 @@
 	"statewise": [
 		{
 			"active": "1040",
-			"confirmed": "1170",
-			"deaths": "28",
+			"confirmed": "1171",
+			"deaths": "29",
 			"delta": {
-				"active": 28,
-				"confirmed": 28,
+				"active": 32,
+				"confirmed": 32,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "30/03/2020 11:17:31",
+			"lastupdatedtime": "30/03/2020 11:22:25",
 			"recovered": "102",
 			"state": "Total"
 		},
@@ -651,16 +651,16 @@
 			"state": "Telangana"
 		},
 		{
-			"active": "63",
+			"active": "62",
 			"confirmed": "69",
-			"deaths": "5",
+			"deaths": "6",
 			"delta": {
 				"active": 6,
 				"confirmed": 6,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "30/03/2020 11:17:34",
+			"lastupdatedtime": "30/03/2020 11:27:24",
 			"recovered": "1",
 			"state": "Gujarat"
 		},
@@ -711,8 +711,8 @@
 			"confirmed": "41",
 			"deaths": "1",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 3,
+				"confirmed": 3,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -805,16 +805,16 @@
 			"state": "Ladakh"
 		},
 		{
-			"active": "9",
-			"confirmed": "9",
+			"active": "10",
+			"confirmed": "10",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "28/03/2020 19:42:27",
+			"lastupdatedtime": "30/03/2020 11:27:27",
 			"recovered": "0",
 			"state": "Andaman and Nicobar Islands"
 		},
