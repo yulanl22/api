@@ -1144,7 +1144,7 @@
 			"agebracket": "",
 			"backupnotes": "Daughter of P36 & P37",
 			"contractedfromwhichpatientsuspected": "P36, P37, P38",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "10/03/2020",
 			"detectedcity": "Chengalam",
 			"detecteddistrict": "Kottayam",
@@ -1158,13 +1158,13 @@
 			"source2": "https://economictimes.indiatimes.com/news/politics-and-nation/five-more-people-from-kerala-test-positive-for-coronavirus/articleshow/74534888.cms?from=mdr",
 			"source3": "https://english.manoramaonline.com/news/kerala/2020/03/10/coronavirus-holiday-for-upto-class-7-kerala.html",
 			"statepatientnumber": "KL-KT-R1",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "28/03/2020"
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "Son in law of P36 & P37",
 			"contractedfromwhichpatientsuspected": "P36, P37, P38",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "10/03/2020",
 			"detectedcity": "Chengalam",
 			"detecteddistrict": "Kottayam",
@@ -1178,7 +1178,7 @@
 			"source2": "https://economictimes.indiatimes.com/news/politics-and-nation/five-more-people-from-kerala-test-positive-for-coronavirus/articleshow/74534888.cms?from=mdr",
 			"source3": "https://english.manoramaonline.com/news/kerala/2020/03/10/coronavirus-holiday-for-upto-class-7-kerala.html",
 			"statepatientnumber": "KL-KT-R2",
-			"statuschangedate": "10/03/2020"
+			"statuschangedate": "28/03/2020"
 		},
 		{
 			"agebracket": "3",
@@ -1704,7 +1704,7 @@
 			"agebracket": "",
 			"backupnotes": "Returned from Dubai, has visited Italy",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "13/03/2020",
 			"detectedcity": "Nedumangad",
 			"detecteddistrict": "Thiruvananthapuram",
@@ -1716,7 +1716,7 @@
 			"patientnumber": "86",
 			"source1": "https://english.manoramaonline.com/news/kerala/2020/03/13/coronavirus-covid19-cases-kerala-pinarayi-vijayan-italian-kollam.html",
 			"source2": "https://www.thehindu.com/news/national/kerala/coronavirus-thiruvananthapuram-officials-release-travel-history-of-two-who-tested-positive/article31068119.ece",
-			"source3": "",
+			"source3": "http://dhs.kerala.gov.in/wp-content/uploads/2020/03/Daily-Bulletin-HFWD-English-28th-March.pdf",
 			"statepatientnumber": "KL-TV-R1",
 			"statuschangedate": "13/03/2020"
 		},
@@ -2144,7 +2144,7 @@
 			"agebracket": "",
 			"backupnotes": "British citizen who had resided in Munnar resort",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "15/03/2020",
 			"detectedcity": "Munnar",
 			"detecteddistrict": "Idukki",
