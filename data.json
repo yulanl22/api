@@ -543,40 +543,40 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "60",
+			"confirmeddelta": "70",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "2",
-			"lastupdatedtime": "30/03/2020 15:07:25",
+			"deceaseddelta": "3",
+			"lastupdatedtime": "30/03/2020 17:37:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1068",
-			"confirmed": "1199",
-			"deaths": "29",
+			"active": "1077",
+			"confirmed": "1209",
+			"deaths": "30",
 			"delta": {
-				"active": 60,
-				"confirmed": 60,
+				"active": 70,
+				"confirmed": 70,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "30/03/2020 15:07:25",
+			"lastupdatedtime": "30/03/2020 17:37:24",
 			"recovered": "102",
 			"state": "Total"
 		},
 		{
-			"active": "183",
+			"active": "182",
 			"confirmed": "215",
-			"deaths": "7",
+			"deaths": "8",
 			"delta": {
 				"active": 12,
 				"confirmed": 12,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "30/03/2020 10:02:25",
+			"lastupdatedtime": "30/03/2020 17:37:26",
 			"recovered": "25",
 			"state": "Maharashtra"
 		},
@@ -665,16 +665,16 @@
 			"state": "Gujarat"
 		},
 		{
-			"active": "60",
-			"confirmed": "63",
+			"active": "66",
+			"confirmed": "69",
 			"deaths": "0",
 			"delta": {
-				"active": 4,
-				"confirmed": 4,
+				"active": 10,
+				"confirmed": 10,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "30/03/2020 10:22:25",
+			"lastupdatedtime": "30/03/2020 17:37:28",
 			"recovered": "3",
 			"state": "Rajasthan"
 		},
@@ -819,16 +819,16 @@
 			"state": "Andaman and Nicobar Islands"
 		},
 		{
-			"active": "9",
-			"confirmed": "9",
+			"active": "13",
+			"confirmed": "13",
 			"deaths": "0",
 			"delta": {
-				"active": 1,
-				"confirmed": 1,
+				"active": 5,
+				"confirmed": 5,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "30/03/2020 13:22:26",
+			"lastupdatedtime": "30/03/2020 17:37:29",
 			"recovered": "0",
 			"state": "Chandigarh"
 		},

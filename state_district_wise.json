@@ -238,10 +238,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 5,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 7
         }
       },
       "Unknown": {
@@ -1008,10 +1008,10 @@
   "Chandigarh": {
     "districtData": {
       "Chandigarh": {
-        "confirmed": 9,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 5
         }
       }
     }
@@ -1314,7 +1314,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 106,
+        "confirmed": 96,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
