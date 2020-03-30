@@ -1058,10 +1058,10 @@
         }
       },
       "Ahmadabad": {
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Vadodara": {
@@ -1086,10 +1086,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 9,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       "Mahesana": {

@@ -18777,7 +18777,7 @@
 			"source1": "https://twitter.com/ANI/status/1243881127485423617",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "KL-TN-R7",
 			"statuschangedate": "28/03/2020"
 		},
 		{
@@ -18797,7 +18797,7 @@
 			"source1": "https://twitter.com/ANI/status/1243881127485423617",
 			"source2": "",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "KL-TN-R8",
 			"statuschangedate": "28/03/2020"
 		},
 		{
@@ -21457,7 +21457,7 @@
 			"source1": "https://twitter.com/ANI/status/1244242532134838273",
 			"source2": "https://t.me/COVID19_Kerala/280",
 			"source3": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/566083847369350",
-			"statepatientnumber": "",
+			"statepatientnumber": "KL-PL-P5",
 			"statuschangedate": "29/03/2020"
 		},
 		{
@@ -21477,7 +21477,7 @@
 			"source1": "https://twitter.com/ANI/status/1244242532134838273",
 			"source2": "https://t.me/COVID19_Kerala/280",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "KL-TN-R9",
 			"statuschangedate": "29/03/2020"
 		},
 		{
@@ -21492,12 +21492,12 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Travelled from Dubai Spice Jet SG 054",
 			"patientnumber": "1075",
 			"source1": "https://twitter.com/ANI/status/1244242532134838273",
 			"source2": "https://t.me/COVID19_Kerala/280",
-			"source3": "",
-			"statepatientnumber": "",
+			"source3": "https://www.facebook.com/malappuramcollector/posts/3182931485085603",
+			"statepatientnumber": "KL-ML-P9",
 			"statuschangedate": "29/03/2020"
 		},
 		{
@@ -23221,7 +23221,7 @@
 			"statuschangedate": "30/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "38",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -23230,9 +23230,9 @@
 			"detecteddistrict": "Bhavnagar",
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Local Transmission",
 			"patientnumber": "1162",
 			"source1": "https://twitter.com/PTI_News/status/1244500743505113089?s=20",
 			"source2": "",
@@ -23241,7 +23241,7 @@
 			"statuschangedate": "30/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "50",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -23250,9 +23250,9 @@
 			"detecteddistrict": "Bhavnagar",
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Local Transmission",
 			"patientnumber": "1163",
 			"source1": "https://twitter.com/PTI_News/status/1244500743505113089?s=20",
 			"source2": "",
@@ -23261,7 +23261,7 @@
 			"statuschangedate": "30/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "92",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -23270,9 +23270,9 @@
 			"detecteddistrict": "Bhavnagar",
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Local Transmission",
 			"patientnumber": "1164",
 			"source1": "https://twitter.com/PTI_News/status/1244500743505113089?s=20",
 			"source2": "",
@@ -23281,7 +23281,7 @@
 			"statuschangedate": "30/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "55",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -23290,9 +23290,9 @@
 			"detecteddistrict": "Bhavnagar",
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Local Transmission",
 			"patientnumber": "1165",
 			"source1": "https://twitter.com/PTI_News/status/1244500743505113089?s=20",
 			"source2": "",
@@ -23301,7 +23301,7 @@
 			"statuschangedate": "30/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "45",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -23310,9 +23310,9 @@
 			"detecteddistrict": "Bhavnagar",
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Local Transmission",
 			"patientnumber": "1166",
 			"source1": "https://twitter.com/PTI_News/status/1244500743505113089?s=20",
 			"source2": "",
@@ -23321,18 +23321,18 @@
 			"statuschangedate": "30/03/2020"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "65",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "30/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
+			"detecteddistrict": "Ahmadabad",
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Travelled from USA",
 			"patientnumber": "1167",
 			"source1": "https://twitter.com/PTI_News/status/1244500743505113089?s=20",
 			"source2": "",
