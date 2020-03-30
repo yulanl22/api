@@ -514,7 +514,7 @@
         "lastupdatedtime": ""
       },
       "Visakhapatnam": {
-        "confirmed": 4,
+        "confirmed": 6,
         "lastupdatedtime": ""
       },
       "East Godavari": {
@@ -535,10 +535,6 @@
       },
       "Kurnool": {
         "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
-        "confirmed": 2,
         "lastupdatedtime": ""
       }
     }
@@ -738,7 +734,11 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 6,
+        "confirmed": 2,
+        "lastupdatedtime": ""
+      },
+      "Bhagalpur": {
+        "confirmed": 4,
         "lastupdatedtime": ""
       }
     }
