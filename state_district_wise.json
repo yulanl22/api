@@ -486,10 +486,14 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": ""
       },
       "Ludhiana": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Patiala": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
