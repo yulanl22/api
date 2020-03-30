@@ -217,7 +217,7 @@
   "Rajasthan": {
     "districtData": {
       "Jaipur": {
-        "confirmed": 11,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -231,7 +231,7 @@
         }
       },
       "Bhilwara": {
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1314,7 +1314,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 109,
+        "confirmed": 106,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
