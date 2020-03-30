@@ -578,7 +578,7 @@
   "West Bengal": {
     "districtData": {
       "Kolkata": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": ""
       },
       "North 24 Parganas": {
@@ -598,10 +598,6 @@
         "lastupdatedtime": ""
       },
       "Hooghly": {
-        "confirmed": 1,
-        "lastupdatedtime": ""
-      },
-      "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
