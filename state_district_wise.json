@@ -308,6 +308,10 @@
       "Virudhunagar": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 17,
+        "lastupdatedtime": ""
       }
     }
   },
@@ -786,7 +790,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 132,
+        "confirmed": 115,
         "lastupdatedtime": ""
       }
     }
