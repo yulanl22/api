@@ -460,7 +460,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "04/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -481,7 +481,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "04/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -502,7 +502,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "04/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -523,7 +523,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "04/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -544,7 +544,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "04/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -565,7 +565,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "04/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -586,7 +586,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "04/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "27",
@@ -607,7 +607,7 @@
 			"source3": "",
 			"statepatientnumber": "DL-P2",
 			"statuschangedate": "05/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "59",
@@ -628,7 +628,7 @@
 			"source3": "https://timesofindia.indiatimes.com/city/mumbai/coronavirus-in-india-live-updates-march-18-2020/liveblog/74683100.cms",
 			"statepatientnumber": "",
 			"statuschangedate": "05/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -649,7 +649,7 @@
 			"source3": "http://health.delhigovt.nic.in/wps/wcm/connect/d9bd65804d9102c6a3baf7982ee7a5c7/HB15.pdf?MOD=AJPERES&lmod=-506630906&CACHEID=d9bd65804d9102c6a3baf7982ee7a5c7",
 			"statepatientnumber": "DL-P3",
 			"statuschangedate": "15/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "65",
@@ -670,7 +670,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "07/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "75",
@@ -691,7 +691,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "07/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Unknown"
 		},
 		{
 			"agebracket": "45",
@@ -712,7 +712,7 @@
 			"source3": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"statepatientnumber": "TN-P1",
 			"statuschangedate": "07/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "24",
@@ -733,7 +733,7 @@
 			"source3": "http://dhs.kerala.gov.in/wp-content/uploads/2020/03/Daily-Bulletin-English-29th-March.pdf",
 			"statepatientnumber": "KL-PT-P1",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "54",
@@ -754,7 +754,7 @@
 			"source3": "http://dhs.kerala.gov.in/wp-content/uploads/2020/03/Daily-Bulletin-English-29th-March.pdf",
 			"statepatientnumber": "KL-PT-P1",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "53",
@@ -775,7 +775,7 @@
 			"source3": "http://dhs.kerala.gov.in/wp-content/uploads/2020/03/Daily-Bulletin-English-29th-March.pdf",
 			"statepatientnumber": "KL-P1-P1",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "65",
@@ -796,7 +796,7 @@
 			"source3": "http://dhs.kerala.gov.in/wp-content/uploads/2020/03/Daily-Bulletin-English-29th-March.pdf",
 			"statepatientnumber": "KL-PT-P2",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "61",
@@ -817,7 +817,7 @@
 			"source3": "http://dhs.kerala.gov.in/wp-content/uploads/2020/03/Daily-Bulletin-English-29th-March.pdf",
 			"statepatientnumber": "KL-PT-P2",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "25",
@@ -838,7 +838,7 @@
 			"source3": "https://www.hindustantimes.com/cities/two-more-delhi-residents-test-positive-for-covid-19-total-now-10/story-eZf1cfA2jqI6n7owy6xPXJ.html",
 			"statepatientnumber": "DL-P4",
 			"statuschangedate": "09/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "63",
@@ -859,7 +859,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "09/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -880,7 +880,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P1",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "3",
@@ -901,7 +901,7 @@
 			"source3": "",
 			"statepatientnumber": "KL-KN-1",
 			"statuschangedate": "09/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -922,7 +922,7 @@
 			"source3": "https://www.thehindu.com/news/national/coronavirus-live-updates-march-9-2020/article31020875.ece",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -943,7 +943,7 @@
 			"source3": "https://www.thehindu.com/news/national/coronavirus-live-updates-march-9-2020/article31020875.ece",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -964,7 +964,7 @@
 			"source3": "",
 			"statepatientnumber": "PJ-P1",
 			"statuschangedate": "09/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "48",
@@ -985,7 +985,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "09/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -1006,7 +1006,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "09/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -1027,7 +1027,7 @@
 			"source3": "https://www.thehindu.com/news/national/kerala/coronavirus-five-more-people-from-kerala-test-positive-for-covid-19/article31014406.ece",
 			"statepatientnumber": "KL-PT-P3",
 			"statuschangedate": "10/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -1048,7 +1048,7 @@
 			"source3": "https://www.thehindu.com/news/national/kerala/coronavirus-five-more-people-from-kerala-test-positive-for-covid-19/article31014406.ece",
 			"statepatientnumber": "KL-PT-P4",
 			"statuschangedate": "10/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "40",
@@ -1069,7 +1069,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P2",
 			"statuschangedate": "24/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -1090,7 +1090,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P3",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "13",
@@ -1111,7 +1111,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P4",
 			"statuschangedate": "24/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -1132,7 +1132,7 @@
 			"source3": "https://www.facebook.com/kkshailaja/posts/2892388584182437",
 			"statepatientnumber": "KL-EL-P1",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -1153,7 +1153,7 @@
 			"source3": "https://www.facebook.com/kkshailaja/posts/2892388584182437",
 			"statepatientnumber": "KL-EL-P2",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "96",
@@ -1174,7 +1174,7 @@
 			"source3": "https://english.manoramaonline.com/news/kerala/2020/03/13/covid-19-coronavirus-chengalam-kottayam-neighbour-dies.html",
 			"statepatientnumber": "KL-PT-P5",
 			"statuschangedate": "10/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "89",
@@ -1195,7 +1195,7 @@
 			"source3": "https://english.manoramaonline.com/news/kerala/2020/03/13/covid-19-coronavirus-chengalam-kottayam-neighbour-dies.html",
 			"statepatientnumber": "KL-PT-P6",
 			"statuschangedate": "10/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -23926,7 +23926,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "30/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "Mohali",
+			"detecteddistrict": "",
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
 			"gender": "",
@@ -23934,7 +23934,7 @@
 			"notes": "Details awaited",
 			"patientnumber": "1140",
 			"source1": "https://twitter.com/PTI_News/status/1244472639428558848?s=19",
-			"source2": "",
+			"source2": "https://twitter.com/ANI/status/1244526906147364864",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "30/03/2020",
@@ -25285,7 +25285,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "32",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -25294,9 +25294,9 @@
 			"detecteddistrict": "Chandigarh",
 			"detectedstate": "Chandigarh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "Travelled from Canada",
+			"notes": "Travelled from Canada - NRI Couple",
 			"patientnumber": "1205",
 			"source1": "https://twitter.com/ANI/status/1244596720098394117",
 			"source2": "https://twitter.com/kbssidhu1961/status/1244598296015859712",
@@ -25306,7 +25306,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "32",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -25315,9 +25315,9 @@
 			"detecteddistrict": "Chandigarh",
 			"detectedstate": "Chandigarh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
-			"notes": "Travelled from Canada",
+			"notes": "Travelled from Canada - NRI Couple",
 			"patientnumber": "1206",
 			"source1": "https://twitter.com/ANI/status/1244596720098394117",
 			"source2": "https://twitter.com/kbssidhu1961/status/1244598296015859712",
@@ -25327,7 +25327,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "23",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -25336,9 +25336,9 @@
 			"detecteddistrict": "Chandigarh",
 			"detectedstate": "Chandigarh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Primary contact of 8th COVID-19 Positive case of Chandigarh",
 			"patientnumber": "1207",
 			"source1": "https://twitter.com/ANI/status/1244596720098394117",
 			"source2": "https://twitter.com/kbssidhu1961/status/1244598296015859712",
@@ -25348,7 +25348,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "23",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -25357,9 +25357,9 @@
 			"detecteddistrict": "Chandigarh",
 			"detectedstate": "Chandigarh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Primary contact of 8th COVID-19 Positive case of Chandigarh",
 			"patientnumber": "1208",
 			"source1": "https://twitter.com/ANI/status/1244596720098394117",
 			"source2": "https://twitter.com/kbssidhu1961/status/1244598296015859712",
@@ -25369,18 +25369,18 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "40",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
-			"dateannounced": "",
+			"dateannounced": "30/03/2020",
 			"detectedcity": "",
 			"detecteddistrict": "Chandigarh",
 			"detectedstate": "Chandigarh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Primary contact (Mother)of 8th COVID-19 Positive case of Chandigarh",
 			"patientnumber": "1209",
 			"source1": "https://twitter.com/ANI/status/1244596720098394117",
 			"source2": "https://twitter.com/kbssidhu1961/status/1244598296015859712",

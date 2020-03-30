@@ -830,10 +830,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ludhiana": {
@@ -841,13 +841,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Mohali": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
         }
       }
     }
@@ -1011,7 +1004,7 @@
         "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 5
         }
       }
     }
