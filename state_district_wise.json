@@ -406,11 +406,11 @@
         "lastupdatedtime": ""
       },
       "Mumbai": {
-        "confirmed": 74,
+        "confirmed": 75,
         "lastupdatedtime": ""
       },
       "Nagpur": {
-        "confirmed": 10,
+        "confirmed": 12,
         "lastupdatedtime": ""
       },
       "Thane": {
@@ -450,7 +450,7 @@
         "lastupdatedtime": ""
       },
       "Kolhapur": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": ""
       },
       "Gondiya": {
@@ -458,6 +458,10 @@
         "lastupdatedtime": ""
       },
       "Jalgaon": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Nashik": {
         "confirmed": 1,
         "lastupdatedtime": ""
       }
@@ -774,7 +778,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 158,
+        "confirmed": 153,
         "lastupdatedtime": ""
       }
     }
