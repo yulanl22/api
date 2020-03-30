@@ -742,10 +742,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 37,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 5
         }
       },
       "Sangli": {
@@ -1307,7 +1307,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 36,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
