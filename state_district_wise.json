@@ -634,15 +634,15 @@
   "Gujarat": {
     "districtData": {
       "Rajkot": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": ""
       },
       "Surat": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": ""
       },
       "Ahmadabad": {
-        "confirmed": 20,
+        "confirmed": 21,
         "lastupdatedtime": ""
       },
       "Vadodara": {
@@ -658,11 +658,23 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 19,
+        "confirmed": 9,
         "lastupdatedtime": ""
       },
       "Mehsana": {
         "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Porbandar": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Gir Somnath": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
+      },
+      "Bhavnagar": {
+        "confirmed": 5,
         "lastupdatedtime": ""
       }
     }
