@@ -318,7 +318,7 @@
   "Jammu and Kashmir": {
     "districtData": {
       "Jammu": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": ""
       },
       "Srinagar": {
@@ -330,7 +330,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": ""
       },
       "Rajouri": {
@@ -658,7 +658,7 @@
         "lastupdatedtime": ""
       },
       "Unknown": {
-        "confirmed": 13,
+        "confirmed": 19,
         "lastupdatedtime": ""
       },
       "Mehsana": {
@@ -771,6 +771,14 @@
       },
       "Unknown": {
         "confirmed": 3,
+        "lastupdatedtime": ""
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 135,
         "lastupdatedtime": ""
       }
     }
