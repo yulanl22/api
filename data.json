@@ -554,24 +554,24 @@
 		{
 			"confirmeddelta": "0",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "#ERROR!",
-			"lastupdatedtime": "31/03/2020 00:22:24",
+			"deceaseddelta": "0",
+			"lastupdatedtime": "31/03/2020 05:02:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "#ERROR!",
+			"active": "1167",
 			"confirmed": "1347",
-			"deaths": "#ERROR!",
+			"deaths": "43",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 00:22:24",
+			"lastupdatedtime": "31/03/2020 05:02:24",
 			"recovered": "137",
 			"state": "Total"
 		},
@@ -660,16 +660,16 @@
 			"state": "Telangana"
 		},
 		{
-			"active": "#ERROR!",
+			"active": "61",
 			"confirmed": "70",
-			"deaths": "#ERROR!",
+			"deaths": "6",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "30/03/2020 19:12:25",
+			"lastupdatedtime": "31/03/2020 05:02:24",
 			"recovered": "3",
 			"state": "Gujarat"
 		},
