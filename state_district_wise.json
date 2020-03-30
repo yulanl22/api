@@ -262,11 +262,11 @@
         "lastupdatedtime": ""
       },
       "Chennai": {
-        "confirmed": 18,
+        "confirmed": 22,
         "lastupdatedtime": ""
       },
       "Erode": {
-        "confirmed": 9,
+        "confirmed": 19,
         "lastupdatedtime": ""
       },
       "Coimbatore": {
@@ -282,7 +282,7 @@
         "lastupdatedtime": ""
       },
       "Madurai": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": ""
       },
       "Salem": {
@@ -309,8 +309,8 @@
         "confirmed": 1,
         "lastupdatedtime": ""
       },
-      "Unknown": {
-        "confirmed": 17,
+      "Thiruvarur": {
+        "confirmed": 1,
         "lastupdatedtime": ""
       }
     }
