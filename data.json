@@ -543,7 +543,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "70",
+			"confirmeddelta": "71",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "5",
 			"lastupdatedtime": "30/03/2020 17:47:23",
@@ -553,8 +553,8 @@
 	],
 	"statewise": [
 		{
-			"active": "1075",
-			"confirmed": "1209",
+			"active": "1076",
+			"confirmed": "1210",
 			"deaths": "32",
 			"delta": {
 				"active": 70,
@@ -735,8 +735,8 @@
 			"state": "Punjab"
 		},
 		{
-			"active": "18",
-			"confirmed": "35",
+			"active": "19",
+			"confirmed": "36",
 			"deaths": "0",
 			"delta": {
 				"active": 0,
