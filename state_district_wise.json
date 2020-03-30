@@ -30,10 +30,10 @@
         }
       },
       "Kannur": {
-        "confirmed": 33,
+        "confirmed": 44,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       "Ernakulam": {
@@ -58,10 +58,10 @@
         }
       },
       "Idukki": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Malappuram": {
@@ -86,10 +86,10 @@
         }
       },
       "Wayanad": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kollam": {
@@ -97,13 +97,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 15,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 15
         }
       }
     }
