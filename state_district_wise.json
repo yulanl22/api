@@ -600,13 +600,17 @@
       "Hooghly": {
         "confirmed": 1,
         "lastupdatedtime": ""
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": ""
       }
     }
   },
   "Chandigarh": {
     "districtData": {
       "Chandigarh": {
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": ""
       }
     }
@@ -790,7 +794,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 115,
+        "confirmed": 113,
         "lastupdatedtime": ""
       }
     }
