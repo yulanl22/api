@@ -543,7 +543,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "179",
+			"confirmeddelta": "189",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "7",
 			"lastupdatedtime": "30/03/2020 21:52:24",
@@ -553,12 +553,12 @@
 	],
 	"statewise": [
 		{
-			"active": "1147",
-			"confirmed": "1318",
+			"active": "1157",
+			"confirmed": "1328",
 			"deaths": "34",
 			"delta": {
-				"active": 179,
-				"confirmed": 179,
+				"active": 189,
+				"confirmed": 189,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -665,12 +665,12 @@
 			"state": "Gujarat"
 		},
 		{
-			"active": "66",
-			"confirmed": "69",
+			"active": "76",
+			"confirmed": "79",
 			"deaths": "0",
 			"delta": {
-				"active": 10,
-				"confirmed": 10,
+				"active": 20,
+				"confirmed": 20,
 				"deaths": 0,
 				"recovered": 0
 			},

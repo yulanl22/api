@@ -245,10 +245,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 10,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       "Pratapgarh": {
@@ -1314,10 +1314,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 281,
+        "confirmed": 271,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
