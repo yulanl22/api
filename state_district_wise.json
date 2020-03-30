@@ -146,7 +146,7 @@
         "lastupdatedtime": ""
       },
       "Jodhpur": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": ""
       },
       "Unknown": {
@@ -778,7 +778,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 153,
+        "confirmed": 152,
         "lastupdatedtime": ""
       }
     }
