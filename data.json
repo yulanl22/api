@@ -554,7 +554,7 @@
 		{
 			"confirmeddelta": "93",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "4",
+			"deceaseddelta": "5",
 			"lastupdatedtime": "31/03/2020 14:12:24",
 			"recovereddelta": "3",
 			"statesdelta": "0"
@@ -562,9 +562,9 @@
 	],
 	"statewise": [
 		{
-			"active": "1253",
+			"active": "1252",
 			"confirmed": "1440",
-			"deaths": "47",
+			"deaths": "48",
 			"delta": {
 				"active": 92,
 				"confirmed": 93,
@@ -730,9 +730,9 @@
 			"state": "Madhya Pradesh"
 		},
 		{
-			"active": "37",
+			"active": "36",
 			"confirmed": "41",
-			"deaths": "3",
+			"deaths": "4",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
