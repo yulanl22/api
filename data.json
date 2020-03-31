@@ -552,26 +552,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "93",
+			"confirmeddelta": "95",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
-			"lastupdatedtime": "31/03/2020 14:12:24",
+			"lastupdatedtime": "31/03/2020 17:52:24",
 			"recovereddelta": "3",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1253",
-			"confirmed": "1440",
+			"active": "1255",
+			"confirmed": "1442",
 			"deaths": "47",
 			"delta": {
-				"active": 92,
-				"confirmed": 93,
+				"active": 94,
+				"confirmed": 95,
 				"deaths": 1,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 14:12:24",
+			"lastupdatedtime": "31/03/2020 17:52:24",
 			"recovered": "140",
 			"state": "Total"
 		},
@@ -772,16 +772,16 @@
 			"state": "Andhra Pradesh"
 		},
 		{
-			"active": "23",
-			"confirmed": "26",
+			"active": "24",
+			"confirmed": "27",
 			"deaths": "3",
 			"delta": {
-				"active": 3,
-				"confirmed": 4,
+				"active": 4,
+				"confirmed": 5,
 				"deaths": 1,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 11:42:50",
+			"lastupdatedtime": "31/03/2020 17:52:26",
 			"recovered": "0",
 			"state": "West Bengal"
 		},
@@ -1010,16 +1010,16 @@
 			"state": "Daman and Diu"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "26/03/2020 07:19:29",
+			"lastupdatedtime": "31/03/2020 17:52:27",
 			"recovered": "0",
 			"state": "Jharkhand"
 		},
