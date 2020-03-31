@@ -139,7 +139,7 @@
         }
       },
       "South Delhi": {
-        "confirmed": 2,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -160,7 +160,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 79,
+        "confirmed": 61,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
