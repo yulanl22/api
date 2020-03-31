@@ -946,10 +946,10 @@
         }
       },
       "Visakhapatnam": {
-        "confirmed": 6,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "East Godavari": {
@@ -993,13 +993,6 @@
         "delta": {
           "confirmed": 2
         }
-      },
-      "Unknown": {
-        "confirmed": 4,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 4
-        }
       }
     }
   },
@@ -1035,6 +1028,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Bhadrak": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1476,7 +1476,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 24,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
