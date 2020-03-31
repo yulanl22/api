@@ -358,7 +358,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 32,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -379,7 +379,7 @@
         }
       },
       "Gautam Buddha Nagar": {
-        "confirmed": 30,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
