@@ -555,14 +555,14 @@
 			"confirmeddelta": "269",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
-			"lastupdatedtime": "31/03/2020 22:57:25",
-			"recovereddelta": "11",
+			"lastupdatedtime": "31/03/2020 23:07:25",
+			"recovereddelta": "13",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1421",
+			"active": "1419",
 			"confirmed": "1616",
 			"deaths": "47",
 			"delta": {
@@ -571,8 +571,8 @@
 				"deaths": 1,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 22:57:25",
-			"recovered": "148",
+			"lastupdatedtime": "31/03/2020 23:07:25",
+			"recovered": "150",
 			"state": "Total"
 		},
 		{
@@ -842,7 +842,7 @@
 			"state": "Andaman and Nicobar Islands"
 		},
 		{
-			"active": "9",
+			"active": "7",
 			"confirmed": "9",
 			"deaths": "0",
 			"delta": {
@@ -851,8 +851,8 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 22:02:29",
-			"recovered": "0",
+			"lastupdatedtime": "31/03/2020 23:07:28",
+			"recovered": "2",
 			"state": "Chhattisgarh"
 		},
 		{
