@@ -1254,6 +1254,14 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "38442",
 			"updatetimestamp": "30/3/2020"
+		},
+		{
+			"source": "MoH Press conference with Dr. Raman G",
+			"testsconductedbyprivatelabs": "1733",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "42788",
+			"updatetimestamp": "31/3/2020"
 		}
 	]
 }
