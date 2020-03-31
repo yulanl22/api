@@ -505,8 +505,8 @@
           "confirmed": 0
         }
       },
-      "Vellore": {
-        "confirmed": 2,
+      "Vellorer": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -527,6 +527,13 @@
         }
       },
       "Thanjavur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Vellore": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -626,10 +633,10 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 40,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kalaburagi": {
@@ -647,17 +654,17 @@
         }
       },
       "Chikkaballapura": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Mysuru": {
-        "confirmed": 12,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Dharwad": {
@@ -714,6 +721,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     }
@@ -1391,7 +1405,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 182,
+        "confirmed": 175,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
