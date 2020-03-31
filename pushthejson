@@ -27,6 +27,7 @@ node sheet-to-json_travel_history.js
 node raw_data-to-state_district_wise_data.js
 node sheet-to-json_faq.js
 node sheet-to-json_websitedata.js
+node sheet-to-json_datewisedelta.js
 node generate_activity_log.js
 
 git add updatelog/ state_wise_raw.json data.json travel_history.json raw_data.json state_district_wise.json faq.json website_data.json website_data.json
