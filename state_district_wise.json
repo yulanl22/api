@@ -1032,10 +1032,10 @@
         }
       },
       "North 24 Parganas": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       "Nadia": {
@@ -1073,11 +1073,18 @@
           "confirmed": 1
         }
       },
-      "Unknown": {
-        "confirmed": 3,
+      "South 24 Parganas": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 1
+        }
+      },
+      "Medinipur East": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }

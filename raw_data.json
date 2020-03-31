@@ -29065,7 +29065,7 @@
 			"typeoftransmission": "TBD"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "48",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Deceased",
@@ -29086,13 +29086,13 @@
 			"typeoftransmission": "TBD"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "51",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "31/03/2020",
-			"detectedcity": "",
-			"detecteddistrict": "",
+			"detectedcity": "Salt Lake",
+			"detecteddistrict": "North 24 Parganas",
 			"detectedstate": "West Bengal",
 			"estimatedonsetdate": "",
 			"gender": "",
@@ -29107,13 +29107,13 @@
 			"typeoftransmission": "TBD"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "52",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "31/03/2020",
-			"detectedcity": "",
-			"detecteddistrict": "",
+			"detectedcity": "Tollygugne",
+			"detecteddistrict": "South 24 Parganas",
 			"detectedstate": "West Bengal",
 			"estimatedonsetdate": "",
 			"gender": "",
@@ -29134,7 +29134,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "31/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
+			"detecteddistrict": "Medinipur East",
 			"detectedstate": "West Bengal",
 			"estimatedonsetdate": "",
 			"gender": "",
