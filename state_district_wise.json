@@ -1192,10 +1192,10 @@
         }
       },
       "Indore": {
-        "confirmed": 27,
+        "confirmed": 44,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       "Ujjain": {
@@ -1220,10 +1220,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       }
     }
@@ -1356,7 +1356,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 234,
+        "confirmed": 215,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
