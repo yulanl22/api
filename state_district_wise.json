@@ -331,6 +331,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Sirsa": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
       }
     }
   },
@@ -1409,7 +1416,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 157,
+        "confirmed": 154,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
