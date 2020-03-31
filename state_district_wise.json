@@ -1364,10 +1364,10 @@
         }
       },
       "Gopalganj": {
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 1
         }
       },
       "Gaya": {
@@ -1469,7 +1469,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
