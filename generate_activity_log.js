@@ -31,17 +31,17 @@ data_prev.statewise.forEach(element => {
     recov_text = null;
     death_text = null;
     text = null;
-    if(element.confirmed < statewise_new[element.state].confirmed){
+    if(parseInt(element.confirmed) < parseInt(statewise_new[element.state].confirmed)){
         confirmed_diff = statewise_new[element.state].confirmed - element.confirmed;
         conf_text = confirmed_diff + " new case"+(confirmed_diff==1?"":"s");
         isChanged=true;
     }
-    if(element.recovered < statewise_new[element.state].recovered){
+    if(parseInt(element.recovered) < parseInt(statewise_new[element.state].recovered)){
         recovered_diff = statewise_new[element.state].recovered - element.recovered;
         recov_text = recovered_diff + " recover"+(recovered_diff==1?"y":"ies");
         isChanged=true;
     }
-    if(element.deaths < statewise_new[element.state].deaths){
+    if(parseInt(element.deaths) < parseInt(statewise_new[element.state].deaths)){
         death_diff = statewise_new[element.state].deaths - element.deaths;
         death_text = death_diff + " death"+(death_diff==1?"":"s");
         isChanged=true;
