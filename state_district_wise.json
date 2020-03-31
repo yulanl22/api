@@ -492,10 +492,10 @@
         }
       },
       "Tirunelveli": {
-        "confirmed": 1,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 22
         }
       },
       "Tiruppur": {
@@ -582,11 +582,32 @@
           "confirmed": 3
         }
       },
-      "Unknown": {
-        "confirmed": 50,
+      "Namakkal": {
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 50
+          "confirmed": 18
+        }
+      },
+      "Kanniyakumari": {
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
+        }
+      },
+      "tut": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 5
         }
       }
     }

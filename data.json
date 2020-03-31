@@ -604,6 +604,20 @@
 			"state": "Kerala"
 		},
 		{
+			"active": "117",
+			"confirmed": "124",
+			"deaths": "1",
+			"delta": {
+				"active": 57,
+				"confirmed": 57,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "31/03/2020 19:52:32",
+			"recovered": "6",
+			"state": "Tamil Nadu"
+		},
+		{
 			"active": "84",
 			"confirmed": "101",
 			"deaths": "0",
@@ -688,20 +702,6 @@
 			"state": "Gujarat"
 		},
 		{
-			"active": "117",
-			"confirmed": "124",
-			"deaths": "1",
-			"delta": {
-				"active": 57,
-				"confirmed": 57,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "31/03/2020 19:52:32",
-			"recovered": "6",
-			"state": "Tamil Nadu"
-		},
-		{
 			"active": "62",
 			"confirmed": "66",
 			"deaths": "4",
@@ -730,6 +730,20 @@
 			"state": "Jammu and Kashmir"
 		},
 		{
+			"active": "26",
+			"confirmed": "43",
+			"deaths": "0",
+			"delta": {
+				"active": 7,
+				"confirmed": 7,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "31/03/2020 19:52:36",
+			"recovered": "17",
+			"state": "Haryana"
+		},
+		{
 			"active": "36",
 			"confirmed": "41",
 			"deaths": "4",
@@ -756,20 +770,6 @@
 			"lastupdatedtime": "31/03/2020 12:07:28",
 			"recovered": "1",
 			"state": "Andhra Pradesh"
-		},
-		{
-			"active": "26",
-			"confirmed": "43",
-			"deaths": "0",
-			"delta": {
-				"active": 7,
-				"confirmed": 7,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "31/03/2020 19:52:36",
-			"recovered": "17",
-			"state": "Haryana"
 		},
 		{
 			"active": "24",
