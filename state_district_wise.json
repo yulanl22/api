@@ -160,10 +160,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 55,
+        "confirmed": 78,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 23
         }
       }
     }
@@ -993,6 +993,13 @@
         "delta": {
           "confirmed": 2
         }
+      },
+      "Unknown": {
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
+        }
       }
     }
   },
@@ -1156,6 +1163,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1462,7 +1476,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 14,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
