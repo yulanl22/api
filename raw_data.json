@@ -29419,7 +29419,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P24",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "34",
@@ -29440,7 +29440,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P25",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "31",
@@ -29461,7 +29461,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P26",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "32",
@@ -29482,7 +29482,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P27",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28",
@@ -29503,7 +29503,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P28",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28",
@@ -29524,7 +29524,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P29",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "39",
@@ -29545,7 +29545,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P30",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "65",
@@ -29566,7 +29566,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P31",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "42",
@@ -29587,7 +29587,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P32",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "39",
@@ -29608,7 +29608,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P33",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "32",
@@ -29629,7 +29629,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P34",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "59",
@@ -29650,7 +29650,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P35",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "44",
@@ -29671,7 +29671,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P36",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28",
@@ -29692,7 +29692,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P37",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "46",
@@ -29713,7 +29713,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P38",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
@@ -29734,7 +29734,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P39",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "65",
@@ -29755,7 +29755,7 @@
 			"source3": "",
 			"statepatientnumber": "AP-P40",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "40",
@@ -29818,7 +29818,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P94",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "35",
@@ -29923,7 +29923,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -29944,7 +29944,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -29965,7 +29965,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -29986,7 +29986,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -30007,7 +30007,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -30028,7 +30028,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -30349,147 +30349,147 @@
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "31/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detecteddistrict": "Kasaragod",
+			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Details awaited",
 			"patientnumber": "1446",
 			"source1": "",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
+			"statuschangedate": "31/03/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "31/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detecteddistrict": "Kasaragod",
+			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Details awaited",
 			"patientnumber": "1447",
 			"source1": "",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
+			"statuschangedate": "31/03/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "31/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detecteddistrict": "Thiruvananthapuram",
+			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Details awaited",
 			"patientnumber": "1448",
 			"source1": "",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
+			"statuschangedate": "31/03/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "31/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detecteddistrict": "Thiruvananthapuram",
+			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Details awaited",
 			"patientnumber": "1449",
 			"source1": "",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
+			"statuschangedate": "31/03/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "31/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detecteddistrict": "Kollam",
+			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Details awaited",
 			"patientnumber": "1450",
 			"source1": "",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
+			"statuschangedate": "31/03/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "31/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detecteddistrict": "Thrissur",
+			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Details awaited",
 			"patientnumber": "1451",
 			"source1": "",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
+			"statuschangedate": "31/03/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "31/03/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detecteddistrict": "Kannur",
+			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Details awaited",
 			"patientnumber": "1452",
 			"source1": "",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
+			"statuschangedate": "31/03/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -30497,7 +30497,7 @@
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "",
-			"dateannounced": "",
+			"dateannounced": "31/03/2020",
 			"detectedcity": "",
 			"detecteddistrict": "",
 			"detectedstate": "",
