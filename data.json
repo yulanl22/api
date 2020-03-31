@@ -552,26 +552,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "269",
+			"confirmeddelta": "272",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
-			"lastupdatedtime": "31/03/2020 23:07:25",
+			"lastupdatedtime": "31/03/2020 23:32:27",
 			"recovereddelta": "13",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1419",
-			"confirmed": "1616",
+			"active": "1422",
+			"confirmed": "1619",
 			"deaths": "47",
 			"delta": {
-				"active": 268,
-				"confirmed": 269,
+				"active": 271,
+				"confirmed": 272,
 				"deaths": 1,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 23:07:25",
+			"lastupdatedtime": "31/03/2020 23:32:27",
 			"recovered": "150",
 			"state": "Total"
 		},
@@ -618,16 +618,16 @@
 			"state": "Tamil Nadu"
 		},
 		{
-			"active": "84",
-			"confirmed": "101",
+			"active": "87",
+			"confirmed": "104",
 			"deaths": "0",
 			"delta": {
-				"active": 5,
-				"confirmed": 5,
+				"active": 8,
+				"confirmed": 8,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 10:37:25",
+			"lastupdatedtime": "31/03/2020 23:32:28",
 			"recovered": "17",
 			"state": "Uttar Pradesh"
 		},
