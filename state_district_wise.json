@@ -594,10 +594,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 6,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Rajouri": {
@@ -1398,7 +1398,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 175,
+        "confirmed": 169,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
