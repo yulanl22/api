@@ -65,7 +65,7 @@ data_prev.statewise.forEach(element => {
         full_text = full_text + text + "\n"
         
         total = statewise_new["Total"];
-        tg_full_text = full_text + "\n" + "``` Total cases: "+total.active
+        tg_full_text = full_text + "\n" + "``` Total cases: "+total.confirmed
         + "\n" + " Recovered  :  "+total.recovered
         + "\n" + " Deaths     :  "+total.deaths+"```";
     }   
