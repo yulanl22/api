@@ -640,17 +640,17 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 42,
+        "confirmed": 43,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       "Kalaburagi": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kodagu": {
@@ -1434,10 +1434,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 145,
+        "confirmed": 143,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       }
     }
