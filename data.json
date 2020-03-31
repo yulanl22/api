@@ -566,8 +566,8 @@
 			"confirmed": "1440",
 			"deaths": "47",
 			"delta": {
-				"active": 82,
-				"confirmed": 83,
+				"active": 92,
+				"confirmed": 93,
 				"deaths": 1,
 				"recovered": 0
 			},
@@ -650,8 +650,8 @@
 			"confirmed": "93",
 			"deaths": "0",
 			"delta": {
-				"active": 4,
-				"confirmed": 4,
+				"active": 14,
+				"confirmed": 14,
 				"deaths": 0,
 				"recovered": 0
 			},
