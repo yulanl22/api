@@ -457,10 +457,10 @@
         }
       },
       "Chennai": {
-        "confirmed": 23,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Erode": {
@@ -492,10 +492,10 @@
         }
       },
       "Madurai": {
-        "confirmed": 4,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Salem": {
@@ -545,6 +545,20 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Tiruvannamalai": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Viluppuram": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
         }
       }
     }
@@ -707,17 +721,17 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 44,
+        "confirmed": 45,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       "Mumbai": {
-        "confirmed": 76,
+        "confirmed": 80,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 5
         }
       },
       "Nagpur": {
@@ -1029,6 +1043,20 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Howrah": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
         }
       }
     }
@@ -1356,7 +1384,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 215,
+        "confirmed": 199,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
