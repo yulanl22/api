@@ -24,6 +24,7 @@ jobs:
            echo "the job completed"
         env:
             GITHUB_TOKEN: ${{ secrets.github_token }}
+            BOT_TOKEN: ${{ secrets.bot_token }}
 
 
 #trigger the action
