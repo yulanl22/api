@@ -519,8 +519,8 @@
           "confirmed": 0
         }
       },
-      "Vellorer": {
-        "confirmed": 1,
+      "Vellore": {
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -541,13 +541,6 @@
         }
       },
       "Thanjavur": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Vellore": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
