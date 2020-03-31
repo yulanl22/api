@@ -1413,10 +1413,21 @@
       }
     }
   },
+  "Assam": {
+    "districtData": {
+      "Cachar": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    }
+  },
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 147,
+        "confirmed": 146,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
