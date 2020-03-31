@@ -67,19 +67,24 @@ data_prev.statewise.forEach(element => {
     
 });
 
-console.log(full_text);
+if (full_text!=""){
+    console.log(full_text);
 
-const now = Date.now();
-console.log( now );
+    const now = Date.now();
+    console.log( now );
+    
+    entry = {};
+    entry.update = full_text;
+    entry.timestamp = now;
+    
+    
+    update_log.push(entry);
+    
+    
+    update_log = update_log.slice(-50)
+    
+    fs.writeFileSync(update_log_file, JSON.stringify(update_log, null, 2));
+}else{
+    console.log("No updates this time!");
+}
 
-entry = {};
-entry.update = full_text;
-entry.timestamp = now;
-
-
-update_log.push(entry);
-
-
-update_log = update_log.slice(-50)
-
-fs.writeFileSync(update_log_file, JSON.stringify(update_log, null, 2));
