@@ -552,26 +552,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "164",
+			"confirmeddelta": "218",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
-			"lastupdatedtime": "31/03/2020 19:42:23",
+			"lastupdatedtime": "31/03/2020 19:52:25",
 			"recovereddelta": "7",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1320",
-			"confirmed": "1511",
+			"active": "1374",
+			"confirmed": "1565",
 			"deaths": "47",
 			"delta": {
-				"active": 163,
-				"confirmed": 164,
+				"active": 217,
+				"confirmed": 218,
 				"deaths": 1,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 19:42:23",
+			"lastupdatedtime": "31/03/2020 19:52:25",
 			"recovered": "144",
 			"state": "Total"
 		},
@@ -585,7 +585,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 11:42:36",
+			"lastupdatedtime": "31/03/2020 19:47:32",
 			"recovered": "39",
 			"state": "Maharashtra"
 		},
@@ -627,7 +627,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 19:42:24",
+			"lastupdatedtime": "31/03/2020 19:47:37",
 			"recovered": "8",
 			"state": "Karnataka"
 		},
@@ -688,16 +688,16 @@
 			"state": "Gujarat"
 		},
 		{
-			"active": "67",
-			"confirmed": "74",
+			"active": "117",
+			"confirmed": "124",
 			"deaths": "1",
 			"delta": {
-				"active": 7,
-				"confirmed": 7,
+				"active": 57,
+				"confirmed": 57,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 18:17:26",
+			"lastupdatedtime": "31/03/2020 19:52:32",
 			"recovered": "6",
 			"state": "Tamil Nadu"
 		},
@@ -758,16 +758,16 @@
 			"state": "Andhra Pradesh"
 		},
 		{
-			"active": "22",
-			"confirmed": "39",
+			"active": "26",
+			"confirmed": "43",
 			"deaths": "0",
 			"delta": {
-				"active": 3,
-				"confirmed": 3,
+				"active": 7,
+				"confirmed": 7,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 18:37:25",
+			"lastupdatedtime": "31/03/2020 19:52:36",
 			"recovered": "17",
 			"state": "Haryana"
 		},
