@@ -1329,10 +1329,10 @@
         }
       },
       "Siwan": {
-        "confirmed": 1,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Nalanda": {
@@ -1343,10 +1343,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 7,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 0
         }
       },
       "Lakhisarai": {
@@ -1364,6 +1364,13 @@
         }
       },
       "Gopalganj": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      "Gaya": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
