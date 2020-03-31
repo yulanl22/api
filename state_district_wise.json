@@ -1184,10 +1184,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       "Mahesana": {
@@ -1434,10 +1434,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 146,
+        "confirmed": 145,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     }
