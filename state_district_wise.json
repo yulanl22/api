@@ -1343,10 +1343,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 1,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Lakhisarai": {
@@ -1462,7 +1462,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 19,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
