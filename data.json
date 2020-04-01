@@ -550,11 +550,11 @@
 			"totalrecovered": "137"
 		},
 		{
-			"dailyconfirmed": "272",
+			"dailyconfirmed": "277",
 			"dailydeceased": "6",
 			"dailyrecovered": "13",
 			"date": "31 March ",
-			"totalconfirmed": "1619",
+			"totalconfirmed": "1624",
 			"totaldeceased": "49",
 			"totalrecovered": "150"
 		}
@@ -563,24 +563,24 @@
 		{
 			"confirmeddelta": "126",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "5",
-			"lastupdatedtime": "01/04/2020 15:57:31",
+			"deceaseddelta": "4",
+			"lastupdatedtime": "01/04/2020 16:12:25",
 			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1540",
-			"confirmed": "1745",
-			"deaths": "54",
+			"active": "1546",
+			"confirmed": "1750",
+			"deaths": "53",
 			"delta": {
 				"active": 126,
 				"confirmed": 126,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 15:57:31",
+			"lastupdatedtime": "01/04/2020 16:12:25",
 			"recovered": "151",
 			"state": "Total"
 		},
@@ -683,8 +683,8 @@
 			"state": "Rajasthan"
 		},
 		{
-			"active": "72",
-			"confirmed": "92",
+			"active": "77",
+			"confirmed": "97",
 			"deaths": "6",
 			"delta": {
 				"active": 0,
@@ -692,7 +692,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 15:57:36",
+			"lastupdatedtime": "01/04/2020 16:12:28",
 			"recovered": "14",
 			"state": "Telangana"
 		},
@@ -711,16 +711,16 @@
 			"state": "Gujarat"
 		},
 		{
-			"active": "79",
+			"active": "80",
 			"confirmed": "86",
-			"deaths": "7",
+			"deaths": "6",
 			"delta": {
 				"active": 20,
 				"confirmed": 20,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 11:32:30",
+			"lastupdatedtime": "01/04/2020 16:12:31",
 			"recovered": "0",
 			"state": "Madhya Pradesh"
 		},
