@@ -627,34 +627,6 @@
 			"state": "Tamil Nadu"
 		},
 		{
-			"active": "86",
-			"confirmed": "104",
-			"deaths": "1",
-			"delta": {
-				"active": 0,
-				"confirmed": 0,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "01/04/2020 13:37:25",
-			"recovered": "17",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"active": "93",
-			"confirmed": "105",
-			"deaths": "3",
-			"delta": {
-				"active": 4,
-				"confirmed": 4,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "01/04/2020 13:57:24",
-			"recovered": "9",
-			"state": "Karnataka"
-		},
-		{
 			"active": "115",
 			"confirmed": "123",
 			"deaths": "2",
@@ -683,6 +655,34 @@
 			"state": "Rajasthan"
 		},
 		{
+			"active": "93",
+			"confirmed": "105",
+			"deaths": "3",
+			"delta": {
+				"active": 4,
+				"confirmed": 4,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "01/04/2020 13:57:24",
+			"recovered": "9",
+			"state": "Karnataka"
+		},
+		{
+			"active": "86",
+			"confirmed": "104",
+			"deaths": "1",
+			"delta": {
+				"active": 0,
+				"confirmed": 0,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "01/04/2020 13:37:25",
+			"recovered": "17",
+			"state": "Uttar Pradesh"
+		},
+		{
 			"active": "77",
 			"confirmed": "97",
 			"deaths": "6",
@@ -697,18 +697,18 @@
 			"state": "Telangana"
 		},
 		{
-			"active": "71",
-			"confirmed": "82",
-			"deaths": "6",
+			"active": "85",
+			"confirmed": "87",
+			"deaths": "0",
 			"delta": {
-				"active": 8,
-				"confirmed": 8,
+				"active": 43,
+				"confirmed": 43,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 11:12:26",
-			"recovered": "5",
-			"state": "Gujarat"
+			"lastupdatedtime": "01/04/2020 16:32:25",
+			"recovered": "2",
+			"state": "Andhra Pradesh"
 		},
 		{
 			"active": "80",
@@ -725,6 +725,20 @@
 			"state": "Madhya Pradesh"
 		},
 		{
+			"active": "71",
+			"confirmed": "82",
+			"deaths": "6",
+			"delta": {
+				"active": 8,
+				"confirmed": 8,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "31/03/2020 11:12:26",
+			"recovered": "5",
+			"state": "Gujarat"
+		},
+		{
 			"active": "52",
 			"confirmed": "55",
 			"deaths": "2",
@@ -737,20 +751,6 @@
 			"lastupdatedtime": "31/03/2020 14:12:26",
 			"recovered": "1",
 			"state": "Jammu and Kashmir"
-		},
-		{
-			"active": "26",
-			"confirmed": "43",
-			"deaths": "0",
-			"delta": {
-				"active": 0,
-				"confirmed": 0,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "31/03/2020 19:52:36",
-			"recovered": "17",
-			"state": "Haryana"
 		},
 		{
 			"active": "40",
@@ -767,18 +767,18 @@
 			"state": "Punjab"
 		},
 		{
-			"active": "85",
-			"confirmed": "87",
+			"active": "26",
+			"confirmed": "43",
 			"deaths": "0",
 			"delta": {
-				"active": 43,
-				"confirmed": 43,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 16:32:25",
-			"recovered": "2",
-			"state": "Andhra Pradesh"
+			"lastupdatedtime": "31/03/2020 19:52:36",
+			"recovered": "17",
+			"state": "Haryana"
 		},
 		{
 			"active": "21",
@@ -809,20 +809,6 @@
 			"state": "Bihar"
 		},
 		{
-			"active": "10",
-			"confirmed": "13",
-			"deaths": "0",
-			"delta": {
-				"active": 0,
-				"confirmed": 0,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "27/03/2020 11:52:25",
-			"recovered": "3",
-			"state": "Ladakh"
-		},
-		{
 			"active": "15",
 			"confirmed": "15",
 			"deaths": "0",
@@ -835,6 +821,20 @@
 			"lastupdatedtime": "31/03/2020 22:57:26",
 			"recovered": "0",
 			"state": "Chandigarh"
+		},
+		{
+			"active": "10",
+			"confirmed": "13",
+			"deaths": "0",
+			"delta": {
+				"active": 0,
+				"confirmed": 0,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "27/03/2020 11:52:25",
+			"recovered": "3",
+			"state": "Ladakh"
 		},
 		{
 			"active": "10",
@@ -893,18 +893,18 @@
 			"state": "Goa"
 		},
 		{
-			"active": "1",
-			"confirmed": "3",
-			"deaths": "1",
+			"active": "5",
+			"confirmed": "5",
+			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 4,
+				"confirmed": 4,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "30/03/2020 19:00:43",
-			"recovered": "1",
-			"state": "Himachal Pradesh"
+			"lastupdatedtime": "01/04/2020 14:47:28",
+			"recovered": "0",
+			"state": "Assam"
 		},
 		{
 			"active": "4",
@@ -919,6 +919,34 @@
 			"lastupdatedtime": "31/03/2020 22:32:27",
 			"recovered": "0",
 			"state": "Odisha"
+		},
+		{
+			"active": "1",
+			"confirmed": "3",
+			"deaths": "1",
+			"delta": {
+				"active": 0,
+				"confirmed": 0,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "30/03/2020 19:00:43",
+			"recovered": "1",
+			"state": "Himachal Pradesh"
+		},
+		{
+			"active": "3",
+			"confirmed": "3",
+			"deaths": "0",
+			"delta": {
+				"active": 2,
+				"confirmed": 2,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "01/04/2020 11:02:31",
+			"recovered": "0",
+			"state": "Puducherry"
 		},
 		{
 			"active": "1",
@@ -947,34 +975,6 @@
 			"lastupdatedtime": "26/03/2020 07:19:29",
 			"recovered": "0",
 			"state": "Mizoram"
-		},
-		{
-			"active": "3",
-			"confirmed": "3",
-			"deaths": "0",
-			"delta": {
-				"active": 2,
-				"confirmed": 2,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "01/04/2020 11:02:31",
-			"recovered": "0",
-			"state": "Puducherry"
-		},
-		{
-			"active": "5",
-			"confirmed": "5",
-			"deaths": "0",
-			"delta": {
-				"active": 4,
-				"confirmed": 4,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "01/04/2020 14:47:28",
-			"recovered": "0",
-			"state": "Assam"
 		},
 		{
 			"active": "1",
@@ -1271,6 +1271,14 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "42788",
 			"updatetimestamp": "31/3/2020"
+		},
+		{
+			"source": "https://twitter.com/PTI_News/status/1245308976440340482",
+			"testsconductedbyprivatelabs": "4562",
+			"totalindividualstested": "",
+			"totalpositivecases": "1637",
+			"totalsamplestested": "47951",
+			"updatetimestamp": "1/4/2020"
 		}
 	]
 }

@@ -1094,8 +1094,8 @@
           "confirmed": 0
         }
       },
-      "Purba Medinipur": {
-        "confirmed": 2,
+      "Medinipur East": {
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1123,13 +1123,6 @@
         }
       },
       "South 24 Parganas": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Medinipur East": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
