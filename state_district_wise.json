@@ -291,7 +291,7 @@
         }
       },
       "Faridabad": {
-        "confirmed": 4,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -305,7 +305,7 @@
         }
       },
       "Panchkula": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -339,8 +339,8 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 4,
+      "Hisar": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
