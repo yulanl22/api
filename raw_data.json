@@ -1474,7 +1474,7 @@
 			"agebracket": "27",
 			"backupnotes": "Arrived from Italy on March 6th",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/03/2020",
 			"detectedcity": "Nellore",
 			"detecteddistrict": "S.P.S. Nellore",
@@ -1486,9 +1486,9 @@
 			"patientnumber": "71",
 			"source1": "https://www.indiatoday.in/amp/india/story/first-coronavirus-case-in-andhra-pradesh-as-man-who-returned-from-italy-tests-positive-1654837-2020-03-12",
 			"source2": "https://twitter.com/xpressandhra/status/1242088017197559808?s=20",
-			"source3": "",
+			"source3": "https://twitter.com/ArogyaAndhra/status/1245225191178768386?s=20",
 			"statepatientnumber": "AP-P1",
-			"statuschangedate": "12/03/2020",
+			"statuschangedate": "01/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
