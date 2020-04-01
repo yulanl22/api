@@ -756,17 +756,17 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 45,
+        "confirmed": 47,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Mumbai": {
-        "confirmed": 80,
+        "confirmed": 96,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       "Nagpur": {
@@ -1466,17 +1466,6 @@
     "districtData": {
       "Cachar": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
