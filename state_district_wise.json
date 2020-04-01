@@ -953,10 +953,10 @@
         }
       },
       "East Godavari": {
-        "confirmed": 4,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Krishna": {
@@ -967,10 +967,10 @@
         }
       },
       "Chittoor": {
-        "confirmed": 1,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Guntur": {
@@ -992,6 +992,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 36,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 36
         }
       }
     }
