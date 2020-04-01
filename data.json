@@ -561,7 +561,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "281",
+			"confirmeddelta": "310",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
 			"lastupdatedtime": "01/04/2020 19:27:24",
@@ -571,8 +571,8 @@
 	],
 	"statewise": [
 		{
-			"active": "1697",
-			"confirmed": "1917",
+			"active": "1726",
+			"confirmed": "1946",
 			"deaths": "53",
 			"delta": {
 				"active": 281,
@@ -711,8 +711,8 @@
 			"state": "Daman and Diu"
 		},
 		{
-			"active": "115",
-			"confirmed": "123",
+			"active": "144",
+			"confirmed": "152",
 			"deaths": "2",
 			"delta": {
 				"active": 3,
