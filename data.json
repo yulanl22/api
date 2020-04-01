@@ -563,24 +563,24 @@
 		{
 			"confirmeddelta": "107",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "4",
-			"lastupdatedtime": "01/04/2020 14:07:25",
+			"deceaseddelta": "2",
+			"lastupdatedtime": "01/04/2020 14:17:24",
 			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1522",
+			"active": "1524",
 			"confirmed": "1726",
-			"deaths": "53",
+			"deaths": "51",
 			"delta": {
 				"active": 107,
 				"confirmed": 107,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 14:07:25",
+			"lastupdatedtime": "01/04/2020 14:17:24",
 			"recovered": "151",
 			"state": "Total"
 		},
@@ -683,16 +683,16 @@
 			"state": "Rajasthan"
 		},
 		{
-			"active": "70",
+			"active": "72",
 			"confirmed": "92",
-			"deaths": "8",
+			"deaths": "6",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 20:27:26",
+			"lastupdatedtime": "01/04/2020 14:17:30",
 			"recovered": "14",
 			"state": "Telangana"
 		},
