@@ -562,10 +562,10 @@
         }
       },
       "Tiruvannamalai": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Viluppuram": {
@@ -625,10 +625,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 17,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 17
+          "confirmed": 16
         }
       }
     }
