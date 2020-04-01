@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Punjab\n",
-    "timestamp": 1585649965499
-  },
-  {
     "update": "-1 deaths in West Bengal\n",
     "timestamp": 1585656927331
   },
@@ -198,5 +194,9 @@
   {
     "update": "8 new cases in Assam\n",
     "timestamp": 1585755848
+  },
+  {
+    "update": "12 new cases in Rajasthan\n24 new cases in Andhra Pradesh\n",
+    "timestamp": 1585760078
   }
 ]
