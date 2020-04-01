@@ -2,7 +2,7 @@
   "Kerala": {
     "districtData": {
       "Thrissur": {
-        "confirmed": 8,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -16,10 +16,10 @@
         }
       },
       "Kasaragod": {
-        "confirmed": 109,
+        "confirmed": 121,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       "Pathanamthitta": {
@@ -30,14 +30,14 @@
         }
       },
       "Kannur": {
-        "confirmed": 45,
+        "confirmed": 47,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Ernakulam": {
-        "confirmed": 20,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -51,7 +51,7 @@
         }
       },
       "Thiruvananthapuram": {
-        "confirmed": 10,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -65,7 +65,7 @@
         }
       },
       "Malappuram": {
-        "confirmed": 10,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -94,6 +94,13 @@
       },
       "Kollam": {
         "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -245,10 +252,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 20,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Pratapgarh": {
@@ -358,10 +365,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 31,
+        "confirmed": 43,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       "Ghaziabad": {
@@ -594,6 +601,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 110,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 110
         }
       }
     }
@@ -1504,7 +1518,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 247,
+        "confirmed": 99,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
