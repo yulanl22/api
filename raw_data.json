@@ -36139,7 +36139,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P103",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "27",
@@ -36160,7 +36160,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P104",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "33",
@@ -36181,7 +36181,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P105",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -36249,7 +36249,7 @@
 		{
 			"agebracket": "",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "E0",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "01/04/2020",
 			"detectedcity": "",
@@ -36270,7 +36270,7 @@
 		{
 			"agebracket": "",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "E0",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "01/04/2020",
 			"detectedcity": "",
@@ -36291,7 +36291,7 @@
 		{
 			"agebracket": "",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "E0",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "01/04/2020",
 			"detectedcity": "",
@@ -36312,7 +36312,7 @@
 		{
 			"agebracket": "",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "E0",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "01/04/2020",
 			"detectedcity": "",
@@ -36348,8 +36348,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -36369,8 +36369,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -36390,8 +36390,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -36411,8 +36411,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -36432,8 +36432,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -36453,8 +36453,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -36474,8 +36474,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -36495,8 +36495,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -36516,8 +36516,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -36537,8 +36537,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -36558,8 +36558,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -36579,8 +36579,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -36600,8 +36600,8 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -36613,16 +36613,16 @@
 			"detecteddistrict": "New Delhi",
 			"detectedstate": "Delhi",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "Safdarjung Hospital Doctor",
+			"notes": "Safdarjung Hospital Doctor posted in COVID19 Unit",
 			"patientnumber": "1744",
 			"source1": "https://twitter.com/PTI_News/status/1245287416153264129",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -36634,16 +36634,16 @@
 			"detecteddistrict": "New Delhi",
 			"detectedstate": "Delhi",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
-			"notes": "Safdarjung Hospital Doctor",
+			"notes": "Safdarjung Hospital Doctor (PG Student); Foreign travel history",
 			"patientnumber": "1745",
 			"source1": "https://twitter.com/PTI_News/status/1245287416153264129",
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "",
-			"statuschangedate": "",
-			"typeoftransmission": ""
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		}
 	]
 }
