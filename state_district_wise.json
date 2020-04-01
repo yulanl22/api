@@ -160,10 +160,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 78,
+        "confirmed": 79,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
@@ -784,10 +784,10 @@
         }
       },
       "Ahmadnagar": {
-        "confirmed": 3,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Yavatmal": {
