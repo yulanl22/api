@@ -550,11 +550,11 @@
 			"totalrecovered": "137"
 		},
 		{
-			"dailyconfirmed": "277",
+			"dailyconfirmed": "278",
 			"dailydeceased": "6",
 			"dailyrecovered": "13",
 			"date": "31 March ",
-			"totalconfirmed": "1624",
+			"totalconfirmed": "1625",
 			"totaldeceased": "49",
 			"totalrecovered": "150"
 		}
@@ -571,8 +571,8 @@
 	],
 	"statewise": [
 		{
-			"active": "1542",
-			"confirmed": "1750",
+			"active": "1543",
+			"confirmed": "1751",
 			"deaths": "53",
 			"delta": {
 				"active": 126,
@@ -977,8 +977,8 @@
 			"state": "Puducherry"
 		},
 		{
-			"active": "40",
-			"confirmed": "45",
+			"active": "41",
+			"confirmed": "46",
 			"deaths": "4",
 			"delta": {
 				"active": 4,
