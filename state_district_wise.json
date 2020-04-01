@@ -1304,10 +1304,10 @@
         }
       },
       "Indore": {
-        "confirmed": 44,
+        "confirmed": 63,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 19
         }
       },
       "Ujjain": {
@@ -1332,10 +1332,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 23,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 20
+          "confirmed": 1
         }
       }
     }
@@ -1364,17 +1364,17 @@
         }
       },
       "Nalanda": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 3,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       },
       "Lakhisarai": {
@@ -1403,6 +1403,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Begusarai": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
