@@ -14467,7 +14467,7 @@
 			"source3": "",
 			"statepatientnumber": "KA-P52",
 			"statuschangedate": "26/03/2020",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "70",
@@ -27634,7 +27634,7 @@
 			"source3": "https://twitter.com/DHFWKA/status/1245005351436652552",
 			"statepatientnumber": "KA-P89",
 			"statuschangedate": "30/03/2020",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "48",
@@ -27655,7 +27655,7 @@
 			"source3": "https://twitter.com/DHFWKA/status/1245005351436652552",
 			"statepatientnumber": "KA-P90",
 			"statuschangedate": "30/03/2020",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "26",
@@ -27676,7 +27676,7 @@
 			"source3": "https://twitter.com/DHFWKA/status/1245005351436652552",
 			"statepatientnumber": "KA-P91",
 			"statuschangedate": "30/03/2020",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -33892,7 +33892,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "31",
@@ -33913,7 +33913,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "40",
@@ -33934,7 +33934,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -33955,7 +33955,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -33976,7 +33976,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "81",
@@ -34921,7 +34921,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -36077,6 +36077,27 @@
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": "TBD"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "01/04/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Ludhiana",
+			"detectedstate": "Punjab",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "Contact of a positive case of Ludhiana",
+			"patientnumber": "1719",
+			"source1": "https://twitter.com/kbssidhu1961/status/1245178482092429313",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": ""
 		}
 	]
 }
