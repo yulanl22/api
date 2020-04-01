@@ -932,24 +932,24 @@
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Prakasam": {
-        "confirmed": 11,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Visakhapatnam": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "East Godavari": {
@@ -960,10 +960,10 @@
         }
       },
       "Krishna": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Chittoor": {
@@ -994,11 +994,18 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 36,
+      "West Godavari": {
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 36
+          "confirmed": 13
+        }
+      },
+      "Kadapa": {
+        "confirmed": 15,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 15
         }
       }
     }
