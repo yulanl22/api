@@ -564,14 +564,14 @@
 			"confirmeddelta": "104",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
-			"lastupdatedtime": "01/04/2020 11:52:24",
-			"recovereddelta": "0",
+			"lastupdatedtime": "01/04/2020 13:57:24",
+			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1520",
+			"active": "1519",
 			"confirmed": "1723",
 			"deaths": "53",
 			"delta": {
@@ -580,8 +580,8 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 11:52:24",
-			"recovered": "150",
+			"lastupdatedtime": "01/04/2020 13:57:24",
+			"recovered": "151",
 			"state": "Total"
 		},
 		{
@@ -641,7 +641,7 @@
 			"state": "Uttar Pradesh"
 		},
 		{
-			"active": "94",
+			"active": "93",
 			"confirmed": "105",
 			"deaths": "3",
 			"delta": {
@@ -650,8 +650,8 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 19:47:37",
-			"recovered": "8",
+			"lastupdatedtime": "01/04/2020 13:57:24",
+			"recovered": "9",
 			"state": "Karnataka"
 		},
 		{
