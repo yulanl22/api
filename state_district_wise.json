@@ -610,11 +610,18 @@
           "confirmed": 17
         }
       },
-      "Sivaganga": {
-        "confirmed": 5,
+      "SivagangaI": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 1
+        }
+      },
+      "Sivaganga": {
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
         }
       },
       "Tirupathur": {
