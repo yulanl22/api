@@ -36035,6 +36035,48 @@
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": "TBD"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "01/04/2020",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "Bihar",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "Details Awaited",
+			"patientnumber": "1717",
+			"source1": "https://twitter.com/ANI/status/1245233224483135488",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "01/04/2020",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "Bihar",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "Details Awaited",
+			"patientnumber": "1718",
+			"source1": "https://twitter.com/ANI/status/1245233224483135488",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "01/04/2020",
+			"typeoftransmission": "TBD"
 		}
 	]
 }
