@@ -66,8 +66,8 @@ data_prev.statewise.forEach(element => {
         
         total = statewise_new["Total"];
         tg_full_text = full_text + "\n" + "``` Total cases: "+total.confirmed
-        + "\n" + " Recovered  :  "+total.recovered
-        + "\n" + " Deaths     :  "+total.deaths+"```";
+        + "\n" + " Recovered  : "+total.recovered
+        + "\n" + " Deaths     : "+total.deaths+"```";
     }   
 });
 
@@ -91,7 +91,7 @@ if (full_text!=""){
     url = "https://api.telegram.org/bot"+BOT_TOKEN+"/sendmessage?parse_mode=Markdown&chat_id=-1001449683810&text=_"
         +formated_time+"_\n\n"
         +tg_full_text
-        +"\n*www.covid19india.org*";
+        +"\n\n*www.covid19india.org*";
     // console.log(url);
     let settings = { method: "Get" };
     fetch(url, settings).then(res => res.json())
