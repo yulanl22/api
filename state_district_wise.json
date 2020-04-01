@@ -777,7 +777,7 @@
         }
       },
       "Thane": {
-        "confirmed": 18,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -819,7 +819,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 59,
+        "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1497,6 +1497,17 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
+        }
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 247,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       }
     }
