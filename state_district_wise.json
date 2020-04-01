@@ -464,17 +464,17 @@
   "Tamil Nadu": {
     "districtData": {
       "Kancheepuram": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Chennai": {
-        "confirmed": 28,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Erode": {
@@ -534,10 +534,10 @@
         }
       },
       "Chengalpattu": {
-        "confirmed": 1,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Thanjavur": {
@@ -555,17 +555,17 @@
         }
       },
       "Karur": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Tiruvannamalai": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Viluppuram": {
@@ -590,10 +590,10 @@
         }
       },
       "Thoothukkudi": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Theni": {
@@ -610,11 +610,25 @@
           "confirmed": 17
         }
       },
-      "Unknown": {
-        "confirmed": 28,
+      "Sivaganga": {
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 28
+          "confirmed": 5
+        }
+      },
+      "Tirupathur": {
+        "confirmed": 7,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 7
+        }
+      },
+      "Thiruvarur": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     }
@@ -1149,6 +1163,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     }
   },
@@ -1525,7 +1546,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 92,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
