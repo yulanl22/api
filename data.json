@@ -573,14 +573,14 @@
 			"confirmeddelta": "477",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "16",
-			"lastupdatedtime": "02/04/2020 22:52:54",
-			"recovereddelta": "20",
+			"lastupdatedtime": "03/04/2020 00:32:24",
+			"recovereddelta": "22",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2275",
+			"active": "2273",
 			"confirmed": "2536",
 			"deaths": "72",
 			"delta": {
@@ -589,8 +589,8 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 22:52:54",
-			"recovered": "189",
+			"lastupdatedtime": "03/04/2020 00:32:24",
+			"recovered": "191",
 			"state": "Total"
 		},
 		{
@@ -636,7 +636,7 @@
 			"state": "Tamil Nadu"
 		},
 		{
-			"active": "283",
+			"active": "281",
 			"confirmed": "293",
 			"deaths": "4",
 			"delta": {
@@ -645,8 +645,8 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 20:37:25",
-			"recovered": "6",
+			"lastupdatedtime": "03/04/2020 00:32:24",
+			"recovered": "8",
 			"state": "Delhi"
 		},
 		{
