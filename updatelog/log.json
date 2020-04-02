@@ -1,9 +1,5 @@
 [
   {
-    "update": "18 new cases and 1 death in Maharashtra\n",
-    "timestamp": 1585712040
-  },
-  {
     "update": "20 new cases in Madhya Pradesh\n",
     "timestamp": 1585713076
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 deaths in Delhi\n",
     "timestamp": 1585829369
+  },
+  {
+    "update": "67 new cases in Delhi\n4 new cases in Uttar Pradesh\n8 new cases in Jammu and Kashmir\n",
+    "timestamp": 1585830439
   }
 ]
