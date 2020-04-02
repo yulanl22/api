@@ -865,10 +865,10 @@
       },
       {
         "district": "Kalaburagi",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -889,10 +889,10 @@
       },
       {
         "district": "Mysuru",
-        "confirmed": 19,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -961,10 +961,18 @@
       },
       {
         "district": "Bidar",
-        "confirmed": 11,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 10
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -1645,10 +1653,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 16,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {

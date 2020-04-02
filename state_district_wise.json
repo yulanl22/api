@@ -752,10 +752,10 @@
         }
       },
       "Kalaburagi": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kodagu": {
@@ -773,10 +773,10 @@
         }
       },
       "Mysuru": {
-        "confirmed": 19,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Dharwad": {
@@ -836,10 +836,17 @@
         }
       },
       "Bidar": {
-        "confirmed": 11,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 10
+        }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1430,10 +1437,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 16,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Morena": {
