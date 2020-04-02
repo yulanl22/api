@@ -39289,7 +39289,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "52",
@@ -39310,7 +39310,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "52",
@@ -39331,7 +39331,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "72",
@@ -39352,7 +39352,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "32",
@@ -39373,7 +39373,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "11",
@@ -39394,7 +39394,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "15",
@@ -39415,7 +39415,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -39436,7 +39436,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -39457,7 +39457,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -39478,7 +39478,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -39499,7 +39499,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -39520,7 +39520,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "32",
@@ -39534,14 +39534,14 @@
 			"estimatedonsetdate": "",
 			"gender": "F",
 			"nationality": "",
-			"notes": "Close relative of P",
+			"notes": "Close relative of P380",
 			"patientnumber": "1883",
 			"source1": "https://twitter.com/PTI_News/status/1245330284574150656",
 			"source2": "https://www.facebook.com/dioekm/videos/516568518930301",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "17",
@@ -39555,14 +39555,14 @@
 			"estimatedonsetdate": "",
 			"gender": "M",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Close relative of P380",
 			"patientnumber": "1884",
 			"source1": "https://twitter.com/PTI_News/status/1245330284574150656",
 			"source2": "https://www.facebook.com/dioekm/videos/516568518930301",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "47",
@@ -39583,7 +39583,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -46191,14 +46191,14 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Travelled from Dubai",
 			"patientnumber": "2200",
 			"source1": "https://twitter.com/ANI/status/1245692712986214400",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -46212,14 +46212,14 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Travelled from Dubai",
 			"patientnumber": "2201",
 			"source1": "https://twitter.com/ANI/status/1245692712986214400",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -46233,14 +46233,14 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Travelled from Dubai",
 			"patientnumber": "2202",
 			"source1": "https://twitter.com/ANI/status/1245692712986214400",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -46254,14 +46254,14 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Travelled from Dubai",
 			"patientnumber": "2203",
 			"source1": "https://twitter.com/ANI/status/1245692712986214400",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -46275,14 +46275,14 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Contact transmission",
 			"patientnumber": "2204",
 			"source1": "https://twitter.com/ANI/status/1245692712986214400",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -46296,14 +46296,14 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Contact transmission",
 			"patientnumber": "2205",
 			"source1": "https://twitter.com/ANI/status/1245692712986214400",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -46317,14 +46317,14 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Contact transmission",
 			"patientnumber": "2206",
 			"source1": "https://twitter.com/ANI/status/1245692712986214400",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -46338,14 +46338,14 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Contact transmission",
 			"patientnumber": "2207",
 			"source1": "https://twitter.com/ANI/status/1245692712986214400",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
