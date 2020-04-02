@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 recoveries in West Bengal\n",
-    "timestamp": 1585732140
-  },
-  {
     "update": "4 new cases in Assam\n",
     "timestamp": 1585732679
   },
@@ -198,5 +194,9 @@
   {
     "update": "74 new cases in Delhi\n",
     "timestamp": 1585840014
+  },
+  {
+    "update": "1 death in Punjab\n",
+    "timestamp": 1585841635
   }
 ]
