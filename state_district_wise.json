@@ -1497,17 +1497,17 @@
         }
       },
       "Gopalganj": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Gaya": {
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Begusarai": {
@@ -1515,6 +1515,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Saran": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1655,7 +1662,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 500,
+        "confirmed": 495,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
