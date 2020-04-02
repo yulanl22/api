@@ -1,9 +1,5 @@
 [
   {
-    "update": "24 new cases in Kerala\n2 new cases in Rajasthan\n110 new cases in Tamil Nadu\n12 new cases in Uttar Pradesh\n",
-    "timestamp": 1585745414
-  },
-  {
     "update": "7 new cases in Jammu and Kashmir\n",
     "timestamp": 1585745936
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 new cases in Himachal Pradesh\n",
     "timestamp": 1585847650
+  },
+  {
+    "update": "3 new cases in Maharashtra\n3 new cases in Uttarakhand\n",
+    "timestamp": 1585848205
   }
 ]

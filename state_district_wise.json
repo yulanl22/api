@@ -910,10 +910,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 70,
+        "confirmed": 73,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Sangli": {
@@ -1126,6 +1126,13 @@
       },
       "Pauri Garhwal": {
         "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1676,7 +1683,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 482,
+        "confirmed": 478,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
