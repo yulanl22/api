@@ -160,10 +160,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 175,
+        "confirmed": 249,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 67
+          "confirmed": 141
         }
       }
     }
@@ -611,10 +611,10 @@
         }
       },
       "Thoothukkudi": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Theni": {
@@ -659,11 +659,25 @@
           "confirmed": 3
         }
       },
-      "Unknown": {
-        "confirmed": 9,
+      "Ranipet": {
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 9
+          "confirmed": 4
+        }
+      },
+      "Ramanathapuram": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      "Thiruvallur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1634,17 +1648,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "confirmed": 27,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
         }
       }
     }
