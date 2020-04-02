@@ -52730,6 +52730,27 @@
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "02/04/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Bhavnagar",
+			"detectedstate": "Gujarat",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "Details awaited - State Bulletin",
+			"patientnumber": "",
+			"source1": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief0204022020095035573.pdf",
+			"source2": "",
+			"source3": "",
+			"statepatientnumber": "",
+			"statuschangedate": "02/04/2020",
+			"typeoftransmission": ""
 		}
 	]
 }
