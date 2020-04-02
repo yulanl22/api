@@ -238,10 +238,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 82,
+        "confirmed": 109,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 27
         }
       }
     ]
@@ -953,10 +953,10 @@
       },
       {
         "district": "Ballari",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -965,14 +965,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 10
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
         }
       }
     ]

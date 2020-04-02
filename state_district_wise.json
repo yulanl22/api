@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 82,
+        "confirmed": 109,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 27
         }
       }
     }
@@ -829,10 +829,10 @@
         }
       },
       "Ballari": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bidar": {
@@ -840,13 +840,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 10
-        }
-      },
-      "Unknown": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
         }
       }
     }
