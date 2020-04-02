@@ -1,9 +1,5 @@
 [
   {
-    "update": "4 new cases in Haryana\n",
-    "timestamp": 1585664773
-  },
-  {
     "update": "15 new cases in Telangana\n",
     "timestamp": 1585666847
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 new cases in Maharashtra\n9 new cases in Rajasthan\n12 new cases in Madhya Pradesh\n",
     "timestamp": 1585803064
+  },
+  {
+    "update": "21 new cases in Andhra Pradesh\n1 death in Gujarat\n",
+    "timestamp": 1585805221
   }
 ]
